@@ -88,8 +88,7 @@ export default function SettingsPanel({ open, onClose, settings, onChange, onGoH
         {onGoHome && (
           <div className="settings-row">
             <button
-              className="landing-btn secondary"
-              style={{ width: '100%', justifyContent: 'center' }}
+              className="landing-btn secondary full-width"
               onClick={() => { onClose(); onGoHome() }}
             >
               {t('settings.home')}

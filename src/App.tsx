@@ -99,10 +99,10 @@ export default function App() {
 
   if (!book) {
     return (
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100dvh' }}>
-        <div style={{ textAlign: 'center', color: 'var(--text-muted)' }}>
-          <div style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>☩</div>
-          <div style={{ fontFamily: 'system-ui, sans-serif', fontSize: '0.85rem' }}>{t('app.loading')}</div>
+      <div className="app-loading">
+        <div className="app-loading-inner">
+          <div className="app-loading-icon" aria-hidden>☩</div>
+          <div className="app-loading-text">{t('app.loading')}</div>
         </div>
       </div>
     )

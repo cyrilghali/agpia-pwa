@@ -1,8 +1,11 @@
-// ---- Data types ----
+// ---- Data types (schéma canonique book.json) ----
+// Pour toute langue/traduction : même structure et mêmes ids (TOC + chapters) ;
+// seuls title et contenu des blocks sont traduits. Voir schemas/agpia-book.schema.json et schemas/README.md.
 
+/** Entrée de la table des matières. id et arborescence (children) identiques dans toutes les langues ; seul title est traduit. */
 export interface TocEntry {
-  title: string
   id: string
+  title: string
   children?: TocEntry[]
 }
 
@@ -15,6 +18,7 @@ export interface ContentBlock {
   children?: ContentBlock[]
 }
 
+/** Chapitre. id et hourId identiques dans toutes les langues ; title et blocks sont traduits. */
 export interface Chapter {
   id: string
   title: string
@@ -22,6 +26,7 @@ export interface Chapter {
   blocks: ContentBlock[]
 }
 
+/** Livre (book.json). toc et chapters ont la même structure et les mêmes ids pour toutes les langues. */
 export interface AgpiaBook {
   metadata: { title: string; language: string }
   toc: TocEntry[]

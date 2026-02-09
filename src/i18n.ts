@@ -1,12 +1,20 @@
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
 import LanguageDetector from 'i18next-browser-languagedetector'
+import type { Translations } from './locales/schema'
 
-import fr from './locales/fr.json'
-import ar from './locales/ar.json'
-import de from './locales/de.json'
-import it from './locales/it.json'
-import cop from './locales/cop.json'
+import frJson from './locales/fr.json'
+import arJson from './locales/ar.json'
+import deJson from './locales/de.json'
+import itJson from './locales/it.json'
+import copJson from './locales/cop.json'
+
+// Vérification à la compilation : chaque locale doit respecter le schéma commun
+const fr: Translations = frJson
+const ar: Translations = arJson
+const de: Translations = deJson
+const it: Translations = itJson
+const cop: Translations = copJson
 
 export const SUPPORTED_LOCALES = ['fr', 'ar', 'de', 'it', 'cop'] as const
 

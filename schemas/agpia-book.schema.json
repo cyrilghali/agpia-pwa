@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://agpia.example.com/schemas/agpia-book.schema.json",
+  "title": "AGPIA Book",
+  "description": "Schéma canonique du livre (book.json). Toutes les langues/traductions doivent respecter exactement cette structure : mêmes ids et même arborescence dans le TOC, mêmes ids et ordre des chapitres. Seuls les champs title et le contenu des blocks sont traduits.",
+  "type": "object",
+  "required": ["metadata", "toc", "chapters"],
+  "additionalProperties": false,
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["title", "language"],
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string", "description": "Titre du livre (traduit)" },
+        "language": { "type": "string", "description": "Code langue (fr, en, ar, de, it, cop, etc.)" }
+      }
+    },
+    "toc": {
+      "type": "array",
+      "description": "Table des matières. Structure et ids identiques dans toutes les langues ; seul title est traduit.",
+      "items": { "$ref": "#/$defs/TocEntry" }
+    },
+    "chapters": {
+      "type": "array",
+      "description": "Liste des chapitres. Même ordre et mêmes ids dans toutes les langues ; title et blocks sont traduits.",
+      "items": { "$ref": "#/$defs/Chapter" }
+    }
+  },
+  "$defs": {
+    "TocEntry": {
+      "type": "object",
+      "required": ["id", "title"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Identifiant stable (identique dans toutes les langues). Ex: part003, part003-intro, part004"
+        },
+        "title": {
+          "type": "string",
+          "description": "Titre affiché (traduit)"
+        },
+        "children": {
+          "type": "array",
+          "description": "Sous-entrées (même structure, mêmes ids que les autres langues)",
+          "items": { "$ref": "#/$defs/TocEntry" }
+        }
+      }
+    },
+    "Chapter": {
+      "type": "object",
+      "required": ["id", "title", "hourId", "blocks"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Identifiant stable (identique dans toutes les langues), doit correspondre à une entrée du TOC"
+        },
+        "title": { "type": "string", "description": "Titre du chapitre (traduit)" },
+        "hourId": {
+          "type": ["string", "null"],
+          "description": "Id de l'heure de prière (part003, part036, etc.) ou null"
+        },
+        "blocks": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/ContentBlock" }
+        }
+      }
+    },
+    "ContentBlock": {
+      "type": "object",
+      "required": ["type"],
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["heading", "paragraph", "verse", "instruction", "doxology", "doxology_block", "image", "figure", "separator", "blank"],
+          "description": "Type de bloc (identique dans toutes les langues)"
+        },
+        "level": { "type": "number" },
+        "text": { "type": "string" },
+        "src": { "type": "string" },
+        "caption": { "type": "string" },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/ContentBlock" }
+        }
+      }
+    }
+  }
+}
