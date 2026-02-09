@@ -88,17 +88,24 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
 
       {/* Action buttons */}
       <div className="landing-actions">
-        {lastChapter && (
-          <button className="landing-btn primary" onClick={() => onNavigate(lastChapter.id)}>
+        {currentHour && (
+          <button className="landing-btn primary" onClick={() => onNavigate(currentHour.id)}>
+            {currentHour.icon} Prier — {currentHour.label}
+          </button>
+        )}
+        {lastChapter && lastChapter.hourId !== currentHour?.id && (
+          <button className="landing-btn secondary" onClick={() => onNavigate(lastChapter.id)}>
             Continuer la lecture
             <span className="continue-detail">
               — {lastChapter.title}{lastHourLabel ? ` (${lastHourLabel})` : ''}
             </span>
           </button>
         )}
-        <button className="landing-btn" onClick={() => onNavigate(book.chapters[0]?.id ?? 'part001')}>
-          {lastChapter ? 'Lire depuis le début' : 'Commencer la lecture'}
-        </button>
+        {!currentHour && !lastChapter && (
+          <button className="landing-btn" onClick={() => onNavigate(book.chapters[0]?.id ?? 'part001')}>
+            Commencer la lecture
+          </button>
+        )}
       </div>
 
       {/* Bottom links */}
