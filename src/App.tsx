@@ -10,7 +10,11 @@ const BOOK_URL = (locale: string) => `/agpia/${locale}/book.json`
 function loadSettings(): ReaderSettings {
   try {
     const raw = localStorage.getItem(SETTINGS_KEY)
-    if (raw) return { ...DEFAULT_SETTINGS, ...JSON.parse(raw) }
+    if (raw) {
+      const parsed = { ...DEFAULT_SETTINGS, ...JSON.parse(raw) }
+      const validLocale = LOCALES.some((l) => l.code === parsed.locale) ? parsed.locale : DEFAULT_SETTINGS.locale
+      return { ...parsed, locale: validLocale }
+    }
   } catch { /* ignore */ }
   return DEFAULT_SETTINGS
 }
@@ -31,8 +35,7 @@ export default function App() {
       .then((r) => {
         if (r.ok) return r.json()
         // Fallback to another locale if this book is not found
-        const fallback = locale === 'en' ? 'fr' : 'en'
-        return fetch(BOOK_URL(fallback)).then(r2 => r2.ok ? r2.json() : Promise.reject(new Error(t('app.bookNotFound'))))
+        return fetch(BOOK_URL('fr')).then(r2 => r2.ok ? r2.json() : Promise.reject(new Error(t('app.bookNotFound'))))
       })
       .then((data: AgpiaBook) => setBook((data)))
       .catch((e) => setError(e.message))

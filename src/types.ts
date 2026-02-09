@@ -30,7 +30,7 @@ export interface AgpiaBook {
 
 // ---- Locale types ----
 
-export type SupportedLocale = 'en' | 'fr' | 'ar' | 'de' | 'it' | 'cop'
+export type SupportedLocale = 'fr' | 'ar' | 'de' | 'it' | 'cop'
 
 export interface LocaleConfig {
   code: SupportedLocale
@@ -40,7 +40,6 @@ export interface LocaleConfig {
 }
 
 export const LOCALES: LocaleConfig[] = [
-  { code: 'en', name: 'English', dir: 'ltr' },
   { code: 'fr', name: 'Français', dir: 'ltr' },
   { code: 'ar', name: 'العربية', dir: 'rtl' },
   { code: 'de', name: 'Deutsch', dir: 'ltr' },
@@ -69,7 +68,7 @@ export interface ReaderSettings {
 export const DEFAULT_SETTINGS: ReaderSettings = {
   fontSize: 1,
   theme: 'sepia',
-  locale: 'en',
+  locale: 'fr',
 }
 
 // ---- Hours ----
