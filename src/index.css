@@ -448,16 +448,19 @@ h4.block-heading, h5.block-heading, h6.block-heading {
 /* --- Heading 1 (chapter titles: Psaume 1, Priere de l'aube, etc.) --- */
 .block-heading {
   color: var(--text-heading);
-  line-height: 1.3;
+  line-height: 1.25;
 }
 .block-heading-1 {
-  font-size: 1.5em;
-  font-weight: 600;
+  font-size: 1.75em;
+  font-weight: 700;
   text-align: center;
-  margin: 1.8em 0 0.5em;
-  letter-spacing: 0.02em;
+  margin: 2em 0 0.6em;
+  letter-spacing: 0.04em;
   position: relative;
-  padding-bottom: 0.6em;
+  padding-bottom: 0.7em;
+  color: var(--accent);
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  -webkit-text-stroke: 0.3px currentColor;
 }
 .block-heading-1::after {
   content: '·  ·  ·';
@@ -466,30 +469,33 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 0.6em;
+  font-size: 0.55em;
   color: var(--heading-ornament);
-  letter-spacing: 0.3em;
-  opacity: 0.5;
+  letter-spacing: 0.35em;
+  opacity: 0.6;
 }
 .block-heading-1:first-child { margin-top: 0.5em; }
 
 /* --- Heading 2 (sub-sections: Oraisons, etc.) --- */
 .block-heading-2 {
-  font-size: 0.82em;
-  font-weight: 500;
+  font-size: 0.88em;
+  font-weight: 600;
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin: 2em 0 0.6em;
+  letter-spacing: 0.12em;
+  margin: 2.2em 0 0.7em;
   color: var(--accent);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 0.5em 0;
 }
 
 /* --- Heading 3 (doxology labels, etc.) --- */
 .block-heading-3 {
-  font-size: 1.05em;
-  font-weight: 500;
+  font-size: 1.15em;
+  font-weight: 600;
   text-align: center;
-  margin: 1em 0 0.4em;
+  margin: 1.4em 0 0.5em;
   color: var(--text-heading);
 }
 
@@ -560,6 +566,8 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   font-weight: 400;
   font-style: italic;
   margin: 0.1em 0;
+  border: none;
+  padding: 0;
 }
 /* French translation in doxology: smaller, heading color */
 .block-doxology-wrap .block-heading-3 {
@@ -594,6 +602,11 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   max-height: 40vh;
   height: auto;
   border-radius: 6px;
+}
+[data-theme="dark"] .block-image img,
+[data-theme="dark"] .block-figure img,
+[data-theme="dark"] .block-separator-hero .sep-image img {
+  filter: invert(0.85) hue-rotate(180deg);
 }
 
 /* --- Figure --- */
@@ -666,8 +679,11 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   gap: 0.75rem;
   padding: 2rem 0 1rem;
   color: var(--heading-ornament);
-  opacity: 0.35;
+  opacity: 0.4;
   font-size: 0.9rem;
+}
+[data-theme="dark"] .chapter-divider {
+  opacity: 0.7;
 }
 .chapter-divider::before, .chapter-divider::after {
   content: '';
