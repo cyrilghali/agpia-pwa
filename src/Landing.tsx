@@ -104,7 +104,7 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
           </button>
         )}
         {!currentHour && !lastChapter && (
-          <button className="landing-btn" onClick={() => onNavigate(book.chapters[0]?.id ?? 'part001')}>
+          <button className="landing-btn" onClick={() => onNavigate(book.chapters[0]?.id ?? '')}>
             {t('landing.start')}
           </button>
         )}

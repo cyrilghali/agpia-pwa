@@ -34,7 +34,7 @@ export default function App() {
         const fallback = locale === 'en' ? 'fr' : 'en'
         return fetch(BOOK_URL(fallback)).then(r2 => r2.ok ? r2.json() : Promise.reject(new Error(t('app.bookNotFound'))))
       })
-      .then(setBook)
+      .then((data: AgpiaBook) => setBook((data)))
       .catch((e) => setError(e.message))
   }, [settings.locale, t])
 

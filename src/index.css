@@ -482,18 +482,36 @@ h4.block-heading, h5.block-heading, h6.block-heading {
 }
 .block-heading-1:first-child { margin-top: 0.5em; }
 
+/* English: heading 1 same color as text, no accent highlight */
+[lang="en"] .block-heading-1 {
+  color: var(--text-heading);
+  text-transform: none;
+  -webkit-text-stroke: 0;
+}
+
 /* --- Heading 2 (sub-sections: Oraisons, etc.) --- */
 .block-heading-2 {
   font-size: 0.88em;
   font-weight: 600;
   text-align: center;
-  text-transform: uppercase;
   letter-spacing: 0.12em;
   margin: 2.2em 0 0.7em;
   color: var(--accent);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   padding: 0.5em 0;
+}
+/* English: avoid forced all-caps for headings and TOC */
+[lang="en"] .block-heading-2 {
+  text-transform: none;
+  color: var(--text-heading);
+}
+[lang="en"] .toc-section-header,
+[lang="en"] .toc-child-btn {
+  text-transform: none;
+}
+[lang="en"] .reader-bar-hour {
+  text-transform: none;
 }
 
 /* --- Heading 3 (doxology labels, etc.) --- */
