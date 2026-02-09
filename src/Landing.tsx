@@ -14,7 +14,6 @@ interface LandingProps {
 
 export default function Landing({ book, onNavigate, settings, onSettingsChange }: LandingProps) {
   const [settingsOpen, setSettingsOpen] = useState(false)
-  const [offlineStatus, setOfflineStatus] = useState<'idle' | 'loading' | 'done'>('idle')
 
   const currentHour = useMemo(() => getCurrentHour(), [])
   const greeting = useMemo(() => getGreeting(), [])
@@ -28,22 +27,6 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
 
   const lastChapter = lastId ? book.chapters.find(c => c.id === lastId) : null
   const lastHourLabel = lastChapter ? getHourLabel(lastChapter.hourId) : null
-
-  async function prefetchAll() {
-    setOfflineStatus('loading')
-    try {
-      const assetUrls = new Set<string>()
-      for (const ch of book.chapters) {
-        for (const b of ch.blocks) {
-          if ((b.type === 'image' || b.type === 'figure') && b.src) assetUrls.add(b.src)
-        }
-      }
-      await Promise.all([...assetUrls].map((u) => fetch(u).catch(() => null)))
-      setOfflineStatus('done')
-    } catch {
-      setOfflineStatus('done')
-    }
-  }
 
   return (
     <div className="landing">
@@ -100,13 +83,6 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
         )}
         <button className="landing-btn" onClick={() => onNavigate(book.chapters[0]?.id ?? 'part001')}>
           {lastChapter ? 'Lire depuis le début' : 'Commencer la lecture'}
-        </button>
-        <button
-          className="landing-btn secondary"
-          onClick={prefetchAll}
-          disabled={offlineStatus !== 'idle'}
-        >
-          {offlineStatus === 'loading' ? 'Téléchargement…' : offlineStatus === 'done' ? 'Disponible hors ligne' : 'Rendre disponible hors ligne'}
         </button>
       </div>
 
