@@ -1,6 +1,7 @@
 import { useState, useRef, useCallback, useEffect, useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import type { AgpiaBook } from './types'
-import { getHourLabel } from './types'
+import { getHourLabelKey } from './types'
 import { useFocusTrap } from './hooks'
 
 interface SearchPanelProps {
@@ -18,6 +19,7 @@ interface SearchResult {
 }
 
 export default function SearchPanel({ open, onClose, book, onSelect }: SearchPanelProps) {
+  const { t } = useTranslation()
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<SearchResult[]>([])
   const panelRef = useRef<HTMLDivElement>(null)
@@ -79,12 +81,13 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
       const rawText = entry.fullText.replace(/\*\*/g, '').replace(/_/g, '').replace(/⟨\d+⟩/g, '')
       const start = Math.max(0, idx - 40)
       const end = Math.min(rawText.length, idx + q.length + 40)
-      let snippet = (start > 0 ? '…' : '') + rawText.slice(start, end).trim() + (end < rawText.length ? '…' : '')
+      const snippet = (start > 0 ? '…' : '') + rawText.slice(start, end).trim() + (end < rawText.length ? '…' : '')
 
+      const hourKey = getHourLabelKey(entry.hourId)
       found.push({
         chapterId: entry.id,
         chapterTitle: entry.title,
-        hourLabel: getHourLabel(entry.hourId),
+        hourLabel: hourKey ? t(hourKey) : null,
         snippet,
       })
 
@@ -92,7 +95,7 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
     }
 
     setResults(found)
-  }, [searchIndex])
+  }, [searchIndex, t])
 
   const handleInput = useCallback((value: string) => {
     setQuery(value)
@@ -121,7 +124,7 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
             ref={inputRef}
             type="text"
             className="search-input"
-            placeholder="Rechercher une prière, un psaume…"
+            placeholder={t('search.placeholder')}
             value={query}
             onChange={(e) => handleInput(e.target.value)}
             autoComplete="off"
@@ -129,7 +132,7 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
             spellCheck={false}
           />
           {query && (
-            <button className="search-clear" onClick={() => { setQuery(''); setResults([]); inputRef.current?.focus() }} aria-label="Effacer">
+            <button className="search-clear" onClick={() => { setQuery(''); setResults([]); inputRef.current?.focus() }} aria-label={t('search.clear')}>
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <path d="M18 6L6 18M6 6l12 12" />
               </svg>
@@ -139,7 +142,7 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
 
         <div className="search-results">
           {query.length >= 2 && results.length === 0 && (
-            <div className="search-empty">Aucun résultat pour « {query} »</div>
+            <div className="search-empty">{t('search.noResults', { query })}</div>
           )}
           {results.map((r, i) => (
             <button key={`${r.chapterId}-${i}`} className="search-result" onClick={() => handleSelect(r.chapterId)}>

@@ -1,10 +1,11 @@
 import { useEffect, useState, useCallback } from 'react'
+import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings } from './types'
-import { DEFAULT_SETTINGS, LAST_CHAPTER_KEY, SETTINGS_KEY } from './types'
+import { DEFAULT_SETTINGS, LAST_CHAPTER_KEY, SETTINGS_KEY, getLocaleConfig, LOCALE_KEY, LOCALES } from './types'
 import Landing from './Landing'
 import Reader from './Reader'
 
-const BOOK_URL = '/agpia/book.json'
+const BOOK_URL = (locale: string) => `/agpia/${locale}/book.json`
 
 function loadSettings(): ReaderSettings {
   try {
@@ -15,24 +16,44 @@ function loadSettings(): ReaderSettings {
 }
 
 export default function App() {
+  const { t, i18n } = useTranslation()
   const [book, setBook] = useState<AgpiaBook | null>(null)
   const [error, setError] = useState<string | null>(null)
   const [currentChapterId, setCurrentChapterId] = useState<string | null>(null)
   const [settings, setSettings] = useState<ReaderSettings>(loadSettings)
 
-  // Load book
+  // Load book based on current locale
   useEffect(() => {
-    fetch(BOOK_URL)
-      .then((r) => r.ok ? r.json() : Promise.reject(new Error('Livre introuvable')))
+    setBook(null)
+    setError(null)
+    const locale = settings.locale
+    fetch(BOOK_URL(locale))
+      .then((r) => {
+        if (r.ok) return r.json()
+        // Fallback to another locale if this book is not found
+        const fallback = locale === 'en' ? 'fr' : 'en'
+        return fetch(BOOK_URL(fallback)).then(r2 => r2.ok ? r2.json() : Promise.reject(new Error(t('app.bookNotFound'))))
+      })
       .then(setBook)
       .catch((e) => setError(e.message))
-  }, [])
+  }, [settings.locale, t])
 
-  // Apply theme
+  // Apply theme + locale direction
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', settings.theme)
+    const localeConfig = getLocaleConfig(settings.locale)
+    document.documentElement.setAttribute('dir', localeConfig.dir)
+    document.documentElement.setAttribute('lang', settings.locale)
     localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings))
   }, [settings])
+
+  // Sync i18n language with settings
+  useEffect(() => {
+    if (i18n.language !== settings.locale) {
+      i18n.changeLanguage(settings.locale)
+      localStorage.setItem(LOCALE_KEY, settings.locale)
+    }
+  }, [settings.locale, i18n])
 
   const updateSettings = useCallback((partial: Partial<ReaderSettings>) => {
     setSettings((s) => ({ ...s, ...partial }))
@@ -49,11 +70,26 @@ export default function App() {
 
   if (error) {
     return (
-      <div style={{ padding: '2rem', textAlign: 'center', fontFamily: 'system-ui, sans-serif' }}>
-        <p style={{ marginBottom: '0.5rem' }}>Chargement impossible.</p>
-        <p style={{ color: '#888', fontSize: '0.85rem' }}>
-          Exécutez <code>npm run build:data</code> puis relancez.
-        </p>
+      <div className="load-error-screen">
+        <p className="load-error-title">{t('app.loadError')}</p>
+        <p className="load-error-hint" dangerouslySetInnerHTML={{ __html: t('app.loadErrorHint') }} />
+        <div className="load-error-languages">
+          <span className="load-error-languages-label">{t('settings.language')}</span>
+          <div className="language-options">
+            {LOCALES.map((loc) => (
+              <button
+                key={loc.code}
+                type="button"
+                className={`language-btn ${settings.locale === loc.code ? 'language-btn--active' : ''}`}
+                onClick={() => updateSettings({ locale: loc.code })}
+                dir={loc.dir}
+                style={loc.fontFamily ? { fontFamily: loc.fontFamily } : undefined}
+              >
+                {loc.name}
+              </button>
+            ))}
+          </div>
+        </div>
       </div>
     )
   }
@@ -63,7 +99,7 @@ export default function App() {
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100dvh' }}>
         <div style={{ textAlign: 'center', color: 'var(--text-muted)' }}>
           <div style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>☩</div>
-          <div style={{ fontFamily: 'system-ui, sans-serif', fontSize: '0.85rem' }}>Chargement…</div>
+          <div style={{ fontFamily: 'system-ui, sans-serif', fontSize: '0.85rem' }}>{t('app.loading')}</div>
         </div>
       </div>
     )

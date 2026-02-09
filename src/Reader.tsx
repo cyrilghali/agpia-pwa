@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings, Chapter } from './types'
-import { getHourLabel } from './types'
+import { getHourLabelKey } from './types'
 import ContentBlock, { SeparatorHero } from './ContentBlock'
 import TocDrawer from './TocDrawer'
 import SettingsPanel from './SettingsPanel'
@@ -16,6 +17,7 @@ interface ReaderProps {
 }
 
 export default function Reader({ book, currentChapterId, onNavigate, settings, onSettingsChange }: ReaderProps) {
+  const { t } = useTranslation()
   const [tocOpen, setTocOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
@@ -32,7 +34,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
 
   const currentIndex = chapterIndex.get(currentChapterId) ?? 0
   const currentChapter = book.chapters[currentIndex]
-  const hourLabel = getHourLabel(currentChapter?.hourId)
+  const hourLabelKey = getHourLabelKey(currentChapter?.hourId)
 
   const prevChapter = currentIndex > 0 ? book.chapters[currentIndex - 1] : null
   const nextChapter = currentIndex < book.chapters.length - 1 ? book.chapters[currentIndex + 1] : null
@@ -131,17 +133,17 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
 
       {/* Top bar */}
       <header className="reader-bar">
-        <button className="reader-menu-btn" onClick={() => setTocOpen(true)} aria-label="Table des matières">
+        <button className="reader-menu-btn" onClick={() => setTocOpen(true)} aria-label={t('reader.toc')}>
           <MenuIcon />
         </button>
         <div className="reader-bar-center">
-          {hourLabel && <span className="reader-bar-hour">{hourLabel}</span>}
-          <span className="reader-bar-title">{currentChapter?.title ?? 'AGPIA'}</span>
+          {hourLabelKey && <span className="reader-bar-hour">{t(hourLabelKey)}</span>}
+          <span className="reader-bar-title">{currentChapter?.title ?? t('reader.fallbackTitle')}</span>
         </div>
-        <button className="reader-menu-btn" onClick={() => setSearchOpen(true)} aria-label="Rechercher">
+        <button className="reader-menu-btn" onClick={() => setSearchOpen(true)} aria-label={t('reader.search')}>
           <SearchIcon />
         </button>
-        <button className="reader-settings-btn" onClick={() => setSettingsOpen(true)} aria-label="Options">
+        <button className="reader-settings-btn" onClick={() => setSettingsOpen(true)} aria-label={t('reader.options')}>
           <TextIcon />
         </button>
       </header>
@@ -159,24 +161,24 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
       </div>
 
       {/* Bottom nav */}
-      <nav className="reader-nav" aria-label="Navigation">
+      <nav className="reader-nav" aria-label={t('reader.nav')}>
         <button
           className="nav-btn"
           disabled={!prevChapter}
           onClick={() => prevChapter && navigateTo(prevChapter.id)}
-          aria-label="Précédent"
+          aria-label={t('reader.prevFull')}
         >
           <ChevronLeft />
-          <span className="nav-label">Préc.</span>
+          <span className="nav-label">{t('reader.prev')}</span>
         </button>
         <span className="nav-position">{Math.round(progress * 100)}%</span>
         <button
           className="nav-btn"
           disabled={!nextChapter}
           onClick={() => nextChapter && navigateTo(nextChapter.id)}
-          aria-label="Suivant"
+          aria-label={t('reader.nextFull')}
         >
-          <span className="nav-label">Suiv.</span>
+          <span className="nav-label">{t('reader.next')}</span>
           <ChevronRight />
         </button>
       </nav>

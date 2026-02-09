@@ -1,5 +1,7 @@
 import { useRef } from 'react'
+import { useTranslation } from 'react-i18next'
 import type { ReaderSettings } from './types'
+import { LOCALES } from './types'
 import { useFocusTrap } from './hooks'
 
 interface SettingsPanelProps {
@@ -11,6 +13,7 @@ interface SettingsPanelProps {
 }
 
 export default function SettingsPanel({ open, onClose, settings, onChange, onGoHome }: SettingsPanelProps) {
+  const { t } = useTranslation()
   const panelRef = useRef<HTMLDivElement>(null)
 
   // Focus trap + body scroll lock
@@ -31,34 +34,52 @@ export default function SettingsPanel({ open, onClose, settings, onChange, onGoH
       <div ref={panelRef} className={`settings-panel ${open ? 'settings-panel--open' : ''}`}>
         <div className="settings-handle" />
 
+        {/* Language */}
+        <div className="settings-row">
+          <span className="settings-label">{t('settings.language')}</span>
+          <div className="language-options">
+            {LOCALES.map((loc) => (
+              <button
+                key={loc.code}
+                className={`language-btn ${settings.locale === loc.code ? 'language-btn--active' : ''}`}
+                onClick={() => onChange({ locale: loc.code })}
+                dir={loc.dir}
+                style={loc.fontFamily ? { fontFamily: loc.fontFamily } : undefined}
+              >
+                {loc.name}
+              </button>
+            ))}
+          </div>
+        </div>
+
         {/* Font size */}
         <div className="settings-row">
-          <span className="settings-label">Taille du texte</span>
+          <span className="settings-label">{t('settings.fontSize')}</span>
           <div className="font-size-controls">
-            <button className="font-btn" onClick={() => setFontSize(-0.05)} aria-label="Réduire">A-</button>
+            <button className="font-btn" onClick={() => setFontSize(-0.05)} aria-label={t('settings.reduce')}>A-</button>
             <span className="font-size-value">{Math.round(settings.fontSize * 100)}%</span>
-            <button className="font-btn" onClick={() => setFontSize(0.05)} aria-label="Agrandir">A+</button>
+            <button className="font-btn" onClick={() => setFontSize(0.05)} aria-label={t('settings.enlarge')}>A+</button>
           </div>
         </div>
 
         {/* Theme */}
         <div className="settings-row">
-          <span className="settings-label">Thème</span>
+          <span className="settings-label">{t('settings.theme')}</span>
           <div className="theme-options">
             <button
               className={`theme-btn theme-btn-light ${settings.theme === 'light' ? 'theme-btn--active' : ''}`}
               onClick={() => onChange({ theme: 'light' })}
-              aria-label="Clair"
+              aria-label={t('settings.light')}
             />
             <button
               className={`theme-btn theme-btn-sepia ${settings.theme === 'sepia' ? 'theme-btn--active' : ''}`}
               onClick={() => onChange({ theme: 'sepia' })}
-              aria-label="Sépia"
+              aria-label={t('settings.sepia')}
             />
             <button
               className={`theme-btn theme-btn-dark ${settings.theme === 'dark' ? 'theme-btn--active' : ''}`}
               onClick={() => onChange({ theme: 'dark' })}
-              aria-label="Sombre"
+              aria-label={t('settings.dark')}
             />
           </div>
         </div>
@@ -71,7 +92,7 @@ export default function SettingsPanel({ open, onClose, settings, onChange, onGoH
               style={{ width: '100%', justifyContent: 'center' }}
               onClick={() => { onClose(); onGoHome() }}
             >
-              Retour à l'accueil
+              {t('settings.home')}
             </button>
           </div>
         )}

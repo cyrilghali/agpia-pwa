@@ -1,0 +1,67 @@
+{
+  "app": {
+    "loading": "Caricamento\u2026",
+    "loadError": "Caricamento impossibile.",
+    "loadErrorHint": "Assicurati che <code>public/agpia/{locale}/book.json</code> esista, poi ricarica.",
+    "bookNotFound": "Libro non trovato"
+  },
+  "landing": {
+    "subtitle": "Le preghiere delle ore",
+    "hoursSection": "Ore di preghiera",
+    "nowBadge": "ora",
+    "pray": "Pregare — {{hour}}",
+    "continue": "Continua la lettura",
+    "start": "Inizia la lettura",
+    "search": "Cerca",
+    "options": "Opzioni"
+  },
+  "greeting": {
+    "morning": "Buongiorno",
+    "afternoon": "Buon pomeriggio",
+    "evening": "Buonasera"
+  },
+  "reader": {
+    "toc": "Indice",
+    "search": "Cerca",
+    "options": "Opzioni",
+    "nav": "Navigazione",
+    "prev": "Prec.",
+    "next": "Succ.",
+    "prevFull": "Precedente",
+    "nextFull": "Successivo",
+    "fallbackTitle": "AGPIA"
+  },
+  "settings": {
+    "fontSize": "Dimensione del testo",
+    "reduce": "Riduci",
+    "enlarge": "Ingrandisci",
+    "theme": "Tema",
+    "light": "Chiaro",
+    "sepia": "Seppia",
+    "dark": "Scuro",
+    "home": "Torna alla home",
+    "language": "Lingua"
+  },
+  "search": {
+    "placeholder": "Cerca una preghiera, un salmo\u2026",
+    "clear": "Cancella",
+    "noResults": "Nessun risultato per \u00ab {{query}} \u00bb"
+  },
+  "toc": {
+    "title": "Indice",
+    "close": "Chiudi"
+  },
+  "hours": {
+    "dawn": "Alba",
+    "3rd": "Terza",
+    "6th": "Sesta",
+    "9th": "Nona",
+    "11th": "Undicesima",
+    "12th": "Dodicesima",
+    "veil": "Velo",
+    "midnight": "Mezzanotte",
+    "intro": "Introduzione",
+    "absolutions": "Assoluzioni",
+    "prayers": "Preghiere"
+  }
+}

@@ -7,21 +7,20 @@ Mobile-first prayer book reader with offline support, beautiful typography, and 
 ```bash
 cd webapp
 npm install
-npm run build:data   # Extract content from EPUB, generate book.json (required once)
 npm run dev          # Development server
 ```
 
 ## Production build
 
 ```bash
-npm run build        # Runs build:data then Vite build
+npm run build        # Vite build
 npm run preview      # Serve dist/ locally
 ```
 
 ## Architecture
 
-- **Build script** (`scripts/build-agpia-data.js`): Parses every XHTML chapter from `../AGPIA2009-final-extracted/OEBPS`, extracts structured content blocks (headings, paragraphs, verses, doxologies, instructions, images), and writes `public/agpia/book.json`. Images are copied to `public/agpia/assets/`.
-- **React app** (`src/`): Renders content natively (no iframe) with Georgia/serif typography, three themes (light/sepia/dark), adjustable font size, swipe navigation, and scroll memory.
+- **Data**: The app uses JSON as the source of truth. Book content lives in `public/agpia/{locale}/book.json` (one file per locale).
+- **React app** (`src/`): Renders content natively from the JSON with Georgia/serif typography, three themes (light/sepia/dark), adjustable font size, swipe navigation, and scroll memory.
 - **PWA** (vite-plugin-pwa): Service worker caches everything (CacheFirst for `/agpia/**`); installable as standalone app.
 
 ## Features

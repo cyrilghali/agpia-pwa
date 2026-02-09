@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
+import { useTranslation } from 'react-i18next'
 import type { TocEntry } from './types'
 import { getHourIcon } from './types'
 import { useFocusTrap } from './hooks'
@@ -12,6 +13,7 @@ interface TocDrawerProps {
 }
 
 export default function TocDrawer({ open, onClose, toc, currentChapterId, onSelect }: TocDrawerProps) {
+  const { t } = useTranslation()
   const bodyRef = useRef<HTMLDivElement>(null)
   const drawerRef = useRef<HTMLElement>(null)
 
@@ -41,12 +43,12 @@ export default function TocDrawer({ open, onClose, toc, currentChapterId, onSele
       <aside
         ref={drawerRef}
         className={`toc-drawer ${open ? 'toc-drawer--open' : ''}`}
-        aria-label="Table des matières"
+        aria-label={t('toc.title')}
         aria-hidden={!open}
       >
         <div className="toc-header">
-          <h2 className="toc-title">Table des matières</h2>
-          <button className="toc-close" onClick={onClose} aria-label="Fermer">
+          <h2 className="toc-title">{t('toc.title')}</h2>
+          <button className="toc-close" onClick={onClose} aria-label={t('toc.close')}>
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M18 6L6 18M6 6l12 12" />
             </svg>
@@ -146,14 +148,14 @@ function TocChild({ entry, currentChapterId, onSelect }: {
         className={`toc-child-btn ${isActive ? 'toc-child-btn--active' : ''}`}
         onClick={() => setExpanded(!expanded)}
       >
-        <span style={{ marginRight: '0.3rem', fontSize: '0.7em' }}>{expanded ? '▾' : '▸'}</span>
+        <span style={{ marginInlineEnd: '0.3rem', fontSize: '0.7em' }}>{expanded ? '▾' : '▸'}</span>
         {entry.title}
       </button>
       {expanded && entry.children!.map((sub) => (
         <button
           key={sub.id}
           className={`toc-child-btn ${sub.id === currentChapterId ? 'toc-child-btn--active' : ''}`}
-          style={{ paddingLeft: '3.5rem' }}
+          style={{ paddingInlineStart: '3.5rem' }}
           onClick={() => onSelect(sub.id)}
         >
           {sub.title}

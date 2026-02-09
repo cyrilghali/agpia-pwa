@@ -1,0 +1,67 @@
+{
+  "app": {
+    "loading": "Laden\u2026",
+    "loadError": "Laden fehlgeschlagen.",
+    "loadErrorHint": "Stellen Sie sicher, dass <code>public/agpia/{locale}/book.json</code> existiert, und laden Sie neu.",
+    "bookNotFound": "Buch nicht gefunden"
+  },
+  "landing": {
+    "subtitle": "Die Stundengebete",
+    "hoursSection": "Gebetszeiten",
+    "nowBadge": "jetzt",
+    "pray": "Beten — {{hour}}",
+    "continue": "Weiterlesen",
+    "start": "Lekt\u00fcre beginnen",
+    "search": "Suchen",
+    "options": "Optionen"
+  },
+  "greeting": {
+    "morning": "Guten Morgen",
+    "afternoon": "Guten Tag",
+    "evening": "Guten Abend"
+  },
+  "reader": {
+    "toc": "Inhaltsverzeichnis",
+    "search": "Suchen",
+    "options": "Optionen",
+    "nav": "Navigation",
+    "prev": "Zur\u00fcck",
+    "next": "Weiter",
+    "prevFull": "Zur\u00fcck",
+    "nextFull": "Weiter",
+    "fallbackTitle": "AGPIA"
+  },
+  "settings": {
+    "fontSize": "Schriftgr\u00f6\u00dfe",
+    "reduce": "Verkleinern",
+    "enlarge": "Vergr\u00f6\u00dfern",
+    "theme": "Design",
+    "light": "Hell",
+    "sepia": "Sepia",
+    "dark": "Dunkel",
+    "home": "Zur Startseite",
+    "language": "Sprache"
+  },
+  "search": {
+    "placeholder": "Gebet, Psalm suchen\u2026",
+    "clear": "L\u00f6schen",
+    "noResults": "Keine Ergebnisse f\u00fcr \u00ab {{query}} \u00bb"
+  },
+  "toc": {
+    "title": "Inhaltsverzeichnis",
+    "close": "Schlie\u00dfen"
+  },
+  "hours": {
+    "dawn": "Morgengebet",
+    "3rd": "3. Stunde",
+    "6th": "6. Stunde",
+    "9th": "9. Stunde",
+    "11th": "11. Stunde",
+    "12th": "12. Stunde",
+    "veil": "Schleier",
+    "midnight": "Mitternacht",
+    "intro": "Einleitung",
+    "absolutions": "Absolutionen",
+    "prayers": "Gebete"
+  }
+}

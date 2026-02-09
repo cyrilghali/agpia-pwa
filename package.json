@@ -5,19 +5,22 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run build:data && vite build",
-    "build:data": "node scripts/build-agpia-data.js",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "i18next": "^25.8.4",
+    "i18next-browser-languagedetector": "^8.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-i18next": "^16.5.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
     "@vitejs/plugin-react": "^4.2.1",
     "fast-xml-parser": "^4.3.2",
+    "typescript": "^5.9.3",
     "vite": "^5.1.0",
     "vite-plugin-pwa": "^0.19.0"
   }

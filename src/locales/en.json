@@ -1,0 +1,67 @@
+{
+  "app": {
+    "loading": "Loading…",
+    "loadError": "Unable to load.",
+    "loadErrorHint": "Ensure <code>public/agpia/{locale}/book.json</code> exists, then reload.",
+    "bookNotFound": "Book not found"
+  },
+  "landing": {
+    "subtitle": "The prayers of the hours",
+    "hoursSection": "Prayer hours",
+    "nowBadge": "now",
+    "pray": "Pray — {{hour}}",
+    "continue": "Continue reading",
+    "start": "Start reading",
+    "search": "Search",
+    "options": "Options"
+  },
+  "greeting": {
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening"
+  },
+  "reader": {
+    "toc": "Table of contents",
+    "search": "Search",
+    "options": "Options",
+    "nav": "Navigation",
+    "prev": "Prev",
+    "next": "Next",
+    "prevFull": "Previous",
+    "nextFull": "Next",
+    "fallbackTitle": "Agpeya"
+  },
+  "settings": {
+    "fontSize": "Text size",
+    "reduce": "Reduce",
+    "enlarge": "Enlarge",
+    "theme": "Theme",
+    "light": "Light",
+    "sepia": "Sepia",
+    "dark": "Dark",
+    "home": "Back to home",
+    "language": "Language"
+  },
+  "search": {
+    "placeholder": "Search a prayer, psalm…",
+    "clear": "Clear",
+    "noResults": "No results for « {{query}} »"
+  },
+  "toc": {
+    "title": "Table of contents",
+    "close": "Close"
+  },
+  "hours": {
+    "dawn": "Dawn",
+    "3rd": "3rd hour",
+    "6th": "6th hour",
+    "9th": "9th hour",
+    "11th": "11th hour",
+    "12th": "12th hour",
+    "veil": "Veil",
+    "midnight": "Midnight",
+    "intro": "Introduction",
+    "absolutions": "Absolutions",
+    "prayers": "Prayers"
+  }
+}

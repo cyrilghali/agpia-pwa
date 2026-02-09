@@ -1,0 +1,67 @@
+{
+  "app": {
+    "loading": "Chargement\u2026",
+    "loadError": "Chargement impossible.",
+    "loadErrorHint": "Vérifiez que <code>public/agpia/{locale}/book.json</code> existe, puis relancez.",
+    "bookNotFound": "Livre introuvable"
+  },
+  "landing": {
+    "subtitle": "Les prières des heures",
+    "hoursSection": "Heures de prière",
+    "nowBadge": "now",
+    "pray": "Prier — {{hour}}",
+    "continue": "Continuer la lecture",
+    "start": "Commencer la lecture",
+    "search": "Rechercher",
+    "options": "Options"
+  },
+  "greeting": {
+    "morning": "Bonjour",
+    "afternoon": "Bon après-midi",
+    "evening": "Bonsoir"
+  },
+  "reader": {
+    "toc": "Table des matières",
+    "search": "Rechercher",
+    "options": "Options",
+    "nav": "Navigation",
+    "prev": "Préc.",
+    "next": "Suiv.",
+    "prevFull": "Précédent",
+    "nextFull": "Suivant",
+    "fallbackTitle": "AGPIA"
+  },
+  "settings": {
+    "fontSize": "Taille du texte",
+    "reduce": "Réduire",
+    "enlarge": "Agrandir",
+    "theme": "Thème",
+    "light": "Clair",
+    "sepia": "Sépia",
+    "dark": "Sombre",
+    "home": "Retour à l'accueil",
+    "language": "Langue"
+  },
+  "search": {
+    "placeholder": "Rechercher une prière, un psaume\u2026",
+    "clear": "Effacer",
+    "noResults": "Aucun résultat pour « {{query}} »"
+  },
+  "toc": {
+    "title": "Table des matières",
+    "close": "Fermer"
+  },
+  "hours": {
+    "dawn": "Aube",
+    "3rd": "3e heure",
+    "6th": "6e heure",
+    "9th": "9e heure",
+    "11th": "11e heure",
+    "12th": "12e heure",
+    "veil": "Voile",
+    "midnight": "Minuit",
+    "intro": "Introduction",
+    "absolutions": "Absolutions",
+    "prayers": "Prières"
+  }
+}

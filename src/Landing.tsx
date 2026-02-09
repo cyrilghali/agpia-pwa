@@ -1,6 +1,7 @@
 import { useState, useMemo, useEffect, useCallback } from 'react'
+import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings } from './types'
-import { HOURS, EXTRA_SECTIONS, getCurrentHour, getGreeting, getHourLabel, LAST_CHAPTER_KEY } from './types'
+import { HOURS, EXTRA_SECTIONS, getCurrentHour, getGreetingKey, getHourLabelKey, LAST_CHAPTER_KEY } from './types'
 import SettingsPanel from './SettingsPanel'
 import SearchPanel from './SearchPanel'
 
@@ -13,16 +14,17 @@ interface LandingProps {
 }
 
 export default function Landing({ book, onNavigate, settings, onSettingsChange }: LandingProps) {
+  const { t } = useTranslation()
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
 
   const [currentHour, setCurrentHour] = useState(() => getCurrentHour())
-  const [greeting, setGreeting] = useState(() => getGreeting())
+  const [greetingKey, setGreetingKey] = useState(() => getGreetingKey())
 
   // Re-compute greeting & current hour when the user returns to the app
   const refreshTimeState = useCallback(() => {
     setCurrentHour(getCurrentHour())
-    setGreeting(getGreeting())
+    setGreetingKey(getGreetingKey())
   }, [])
 
   useEffect(() => {
@@ -41,7 +43,7 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
   }, [book.chapters])
 
   const lastChapter = lastId ? book.chapters.find(c => c.id === lastId) : null
-  const lastHourLabel = lastChapter ? getHourLabel(lastChapter.hourId) : null
+  const lastHourLabelKey = lastChapter ? getHourLabelKey(lastChapter.hourId) : null
 
   return (
     <div className="landing">
@@ -50,14 +52,14 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
       </div>
 
       <h1 className="landing-title">{book.metadata.title}</h1>
-      <p className="landing-subtitle">Les prières des heures</p>
+      <p className="landing-subtitle">{t('landing.subtitle')}</p>
       <p className="landing-greeting">
-        {greeting}
-        {currentHour && <> — {currentHour.label}</>}
+        {t(greetingKey)}
+        {currentHour && <> — {t(currentHour.labelKey)}</>}
       </p>
 
       {/* Main prayer hours — 4 columns */}
-      <div className="hours-section-label">Heures de prière</div>
+      <div className="hours-section-label">{t('landing.hoursSection')}</div>
       <div className="hours-grid">
         {HOURS.map((h) => (
           <button
@@ -65,9 +67,9 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
             className={`hour-card ${currentHour?.id === h.id ? 'hour-card--current' : ''}`}
             onClick={() => onNavigate(h.id)}
           >
-            {currentHour?.id === h.id && <span className="hour-card-badge">now</span>}
+            {currentHour?.id === h.id && <span className="hour-card-badge">{t('landing.nowBadge')}</span>}
             <span className="hour-icon">{h.icon}</span>
-            <span className="hour-label">{h.label}</span>
+            <span className="hour-label">{t(h.labelKey)}</span>
           </button>
         ))}
       </div>
@@ -81,7 +83,7 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
             onClick={() => onNavigate(h.id)}
           >
             <span className="hour-icon">{h.icon}</span>
-            <span className="hour-label">{h.label}</span>
+            <span className="hour-label">{t(h.labelKey)}</span>
           </button>
         ))}
       </div>
@@ -90,20 +92,20 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
       <div className="landing-actions">
         {currentHour && (
           <button className="landing-btn primary" onClick={() => onNavigate(currentHour.id)}>
-            {currentHour.icon} Prier — {currentHour.label}
+            {currentHour.icon} {t('landing.pray', { hour: t(currentHour.labelKey) })}
           </button>
         )}
         {lastChapter && lastChapter.hourId !== currentHour?.id && (
           <button className="landing-btn secondary" onClick={() => onNavigate(lastChapter.id)}>
-            Continuer la lecture
+            {t('landing.continue')}
             <span className="continue-detail">
-              — {lastChapter.title}{lastHourLabel ? ` (${lastHourLabel})` : ''}
+              — {lastChapter.title}{lastHourLabelKey ? ` (${t(lastHourLabelKey)})` : ''}
             </span>
           </button>
         )}
         {!currentHour && !lastChapter && (
           <button className="landing-btn" onClick={() => onNavigate(book.chapters[0]?.id ?? 'part001')}>
-            Commencer la lecture
+            {t('landing.start')}
           </button>
         )}
       </div>
@@ -111,10 +113,10 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
       {/* Bottom links */}
       <div className="landing-settings-row">
         <button className="landing-settings-btn" onClick={() => setSearchOpen(true)}>
-          <LandingSearchIcon /> Rechercher
+          <LandingSearchIcon /> {t('landing.search')}
         </button>
         <button className="landing-settings-btn" onClick={() => setSettingsOpen(true)}>
-          <SettingsIcon /> Options
+          <SettingsIcon /> {t('landing.options')}
         </button>
       </div>
 

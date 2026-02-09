@@ -223,7 +223,7 @@ button {
 .hour-card-badge {
   position: absolute;
   top: -6px;
-  right: -4px;
+  inset-inline-end: -4px;
   font-size: 0.55rem;
   font-family: system-ui, -apple-system, sans-serif;
   font-weight: 600;
@@ -281,7 +281,7 @@ button {
 .landing-btn .continue-detail {
   font-size: 0.78rem;
   opacity: 0.7;
-  margin-left: 0.4rem;
+  margin-inline-start: 0.4rem;
 }
 .landing-btn.secondary {
   font-size: 0.82rem;
@@ -322,12 +322,15 @@ button {
 .reader-progress {
   position: fixed;
   top: 0;
-  left: 0;
+  inset-inline-start: 0;
   height: 2px;
   background: var(--progress-bar);
   z-index: 60;
   transition: width 0.3s ease-out;
-  border-radius: 0 1px 1px 0;
+  border-start-start-radius: 0;
+  border-start-end-radius: 1px;
+  border-end-end-radius: 1px;
+  border-end-start-radius: 0;
 }
 
 /* Top bar */
@@ -526,19 +529,23 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   font-size: 0.7em;
   color: var(--verse-num);
   vertical-align: super;
-  margin: 0 0.1em 0 0.2em;
+  margin-block: 0;
+  margin-inline: 0.2em 0.1em;
   font-family: system-ui, -apple-system, sans-serif;
   line-height: 0;
 }
-.verse-num:first-child { margin-left: 0; }
+.verse-num:first-child { margin-inline-start: 0; }
 
 /* --- Instruction (liturgical rubric) --- */
 .block-instruction {
   margin: 1.2em 0;
   padding: 0.65em 0.9em;
   background: var(--instruction-bg);
-  border-left: 3px solid var(--instruction-border);
-  border-radius: 0 8px 8px 0;
+  border-inline-start: 3px solid var(--instruction-border);
+  border-start-start-radius: 0;
+  border-start-end-radius: 8px;
+  border-end-end-radius: 8px;
+  border-end-start-radius: 0;
   font-style: italic;
   font-size: 0.88em;
   line-height: 1.6;
@@ -713,7 +720,8 @@ h4.block-heading, h5.block-heading, h6.block-heading {
 
 .toc-drawer {
   position: fixed;
-  top: 0; bottom: 0; left: 0;
+  top: 0; bottom: 0;
+  inset-inline-start: 0;
   width: min(340px, 88vw);
   background: var(--bg);
   z-index: 201;
@@ -723,7 +731,12 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   display: flex;
   flex-direction: column;
 }
+[dir="rtl"] .toc-drawer {
+  box-shadow: -4px 0 24px rgba(0,0,0,0.15);
+  transform: translateX(105%);
+}
 .toc-drawer--open { transform: translateX(0); }
+[dir="rtl"] .toc-drawer--open { transform: translateX(0); }
 
 .toc-header {
   flex: 0 0 auto;
@@ -766,16 +779,16 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   font-size: 0.88rem;
   font-weight: 500;
   color: var(--text-heading);
-  text-align: left;
+  text-align: start;
   font-family: system-ui, -apple-system, sans-serif;
   border-radius: 0;
   min-height: auto;
   gap: 0.4rem;
-  border-left: 3px solid transparent;
+  border-inline-start: 3px solid transparent;
 }
 .toc-section-header:active { background: var(--accent-soft); }
 .toc-section-header--active {
-  border-left-color: var(--accent-vivid);
+  border-inline-start-color: var(--accent-vivid);
   background: var(--accent-soft);
 }
 .toc-section-icon {
@@ -788,34 +801,35 @@ h4.block-heading, h5.block-heading, h6.block-heading {
 .toc-section-chevron {
   font-size: 0.7rem;
   color: var(--text-muted);
-  margin-left: auto;
+  margin-inline-start: auto;
   transition: transform 0.2s;
 }
 .toc-section-chevron--open { transform: rotate(90deg); }
 
 .toc-children {
-  padding-left: 0.25rem;
+  padding-inline-start: 0.25rem;
   overflow: hidden;
 }
 .toc-child-btn {
   display: flex;
   align-items: center;
   width: 100%;
-  padding: 0.4rem 1rem 0.4rem 2.8rem;
+  padding-block: 0.4rem;
+  padding-inline: 2.8rem 1rem;
   font-size: 0.82rem;
-  text-align: left;
+  text-align: start;
   color: var(--text);
   font-family: system-ui, -apple-system, sans-serif;
   border-radius: 0;
   min-height: auto;
   line-height: 1.35;
-  border-left: 3px solid transparent;
+  border-inline-start: 3px solid transparent;
 }
 .toc-child-btn:active { background: var(--accent-soft); }
 .toc-child-btn--active {
   color: var(--accent-vivid);
   font-weight: 500;
-  border-left-color: var(--accent-vivid);
+  border-inline-start-color: var(--accent-vivid);
   background: var(--accent-soft);
 }
 
@@ -911,6 +925,57 @@ h4.block-heading, h5.block-heading, h6.block-heading {
 .theme-btn-sepia { background: #f8f3eb; }
 .theme-btn-dark { background: #1a1712; }
 
+/* Language selector */
+/* Load error screen (e.g. missing book data) — includes language switcher */
+.load-error-screen {
+  padding: 2rem;
+  text-align: center;
+  font-family: system-ui, sans-serif;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.load-error-title { margin: 0; font-size: 1.1rem; color: var(--text); }
+.load-error-hint { margin: 0; color: var(--text-muted); font-size: 0.85rem; }
+.load-error-languages {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.load-error-languages-label {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.language-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  justify-content: center;
+}
+.language-btn {
+  padding: 0.3rem 0.65rem;
+  border-radius: 8px;
+  font-size: 0.78rem;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  color: var(--text);
+  transition: border-color 0.15s, background 0.15s;
+  white-space: nowrap;
+}
+.language-btn:active { background: var(--accent-soft); }
+.language-btn--active {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 600;
+}
+
 /* =========================================================
    SEARCH PANEL
    ========================================================= */
@@ -1000,7 +1065,7 @@ h4.block-heading, h5.block-heading, h6.block-heading {
 .search-result {
   display: block;
   width: 100%;
-  text-align: left;
+  text-align: start;
   padding: 0.6rem 0.5rem;
   border-bottom: 1px solid var(--border);
   border-radius: 0;
@@ -1070,6 +1135,14 @@ h4.block-heading, h5.block-heading, h6.block-heading {
 .slide-in-right { animation: slideInRight 0.25s ease-out; }
 .slide-in-left { animation: slideInLeft 0.25s ease-out; }
 
+/* RTL: swap slide directions */
+[dir="rtl"] .slide-in-right { animation: slideInLeft 0.25s ease-out; }
+[dir="rtl"] .slide-in-left { animation: slideInRight 0.25s ease-out; }
+
+/* RTL: flip TOC chevron */
+[dir="rtl"] .toc-section-chevron { transform: scaleX(-1); }
+[dir="rtl"] .toc-section-chevron--open { transform: scaleX(-1) rotate(90deg); }
+
 /* =========================================================
    SCROLL BAR
    ========================================================= */
@@ -1085,3 +1158,46 @@ h4.block-heading, h5.block-heading, h6.block-heading {
    ========================================================= */
 .text-em { font-style: italic; }
 .text-strong { font-weight: 600; }
+
+/* =========================================================
+   LOCALE-SPECIFIC FONT STACKS
+   ========================================================= */
+/* Arabic */
+[lang="ar"] {
+  font-family: 'Noto Naskh Arabic', 'Geeza Pro', 'Traditional Arabic', serif;
+}
+[lang="ar"] .landing-greeting,
+[lang="ar"] .hours-section-label,
+[lang="ar"] .hour-label,
+[lang="ar"] .landing-btn,
+[lang="ar"] .landing-settings-btn,
+[lang="ar"] .reader-bar,
+[lang="ar"] .reader-nav,
+[lang="ar"] .nav-btn,
+[lang="ar"] .settings-panel,
+[lang="ar"] .search-panel,
+[lang="ar"] .toc-title,
+[lang="ar"] .toc-section-header,
+[lang="ar"] .toc-child-btn {
+  font-family: 'Noto Naskh Arabic', 'Geeza Pro', system-ui, sans-serif;
+}
+
+/* Coptic */
+[lang="cop"] {
+  font-family: 'Noto Sans Coptic', 'Antinoou', serif;
+}
+[lang="cop"] .landing-greeting,
+[lang="cop"] .hours-section-label,
+[lang="cop"] .hour-label,
+[lang="cop"] .landing-btn,
+[lang="cop"] .landing-settings-btn,
+[lang="cop"] .reader-bar,
+[lang="cop"] .reader-nav,
+[lang="cop"] .nav-btn,
+[lang="cop"] .settings-panel,
+[lang="cop"] .search-panel,
+[lang="cop"] .toc-title,
+[lang="cop"] .toc-section-header,
+[lang="cop"] .toc-child-btn {
+  font-family: 'Noto Sans Coptic', 'Antinoou', system-ui, sans-serif;
+}
