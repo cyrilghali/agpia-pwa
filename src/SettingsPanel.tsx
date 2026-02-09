@@ -1,4 +1,6 @@
+import { useRef } from 'react'
 import type { ReaderSettings } from './types'
+import { useFocusTrap } from './hooks'
 
 interface SettingsPanelProps {
   open: boolean
@@ -9,6 +11,11 @@ interface SettingsPanelProps {
 }
 
 export default function SettingsPanel({ open, onClose, settings, onChange, onGoHome }: SettingsPanelProps) {
+  const panelRef = useRef<HTMLDivElement>(null)
+
+  // Focus trap + body scroll lock
+  useFocusTrap(open, panelRef)
+
   const setFontSize = (delta: number) => {
     const next = Math.round((settings.fontSize + delta) * 100) / 100
     if (next >= 0.8 && next <= 1.5) onChange({ fontSize: next })
@@ -21,7 +28,7 @@ export default function SettingsPanel({ open, onClose, settings, onChange, onGoH
         onClick={onClose}
         aria-hidden={!open}
       />
-      <div className={`settings-panel ${open ? 'settings-panel--open' : ''}`}>
+      <div ref={panelRef} className={`settings-panel ${open ? 'settings-panel--open' : ''}`}>
         <div className="settings-handle" />
 
         {/* Font size */}

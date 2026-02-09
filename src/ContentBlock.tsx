@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useMemo, createElement } from 'react'
 import type { ContentBlock as BlockType } from './types'
 
 interface ContentBlockProps {
@@ -10,17 +10,14 @@ export default function ContentBlock({ block, fontSize }: ContentBlockProps) {
   const style = useMemo(() => ({ fontSize: `${fontSize}em` }), [fontSize])
 
   switch (block.type) {
-    case 'heading':
-      return (
-        <div
-          className={`block-heading block-heading-${block.level ?? 1}`}
-          style={style}
-          role="heading"
-          aria-level={block.level}
-        >
-          {block.text}
-        </div>
-      )
+    case 'heading': {
+      const level = Math.min(Math.max(block.level ?? 1, 1), 6)
+      const tag = `h${level}` as keyof JSX.IntrinsicElements
+      return createElement(tag, {
+        className: `block-heading block-heading-${level}`,
+        style,
+      }, block.text)
+    }
 
     case 'paragraph':
       return (

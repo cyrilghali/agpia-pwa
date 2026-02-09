@@ -1,9 +1,9 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect, useCallback } from 'react'
 import type { AgpiaBook, ReaderSettings } from './types'
-import { HOURS, EXTRA_SECTIONS, getCurrentHour, getGreeting, getHourLabel } from './types'
+import { HOURS, EXTRA_SECTIONS, getCurrentHour, getGreeting, getHourLabel, LAST_CHAPTER_KEY } from './types'
 import SettingsPanel from './SettingsPanel'
+import SearchPanel from './SearchPanel'
 
-const LAST_KEY = 'agpia-last-chapter'
 
 interface LandingProps {
   book: AgpiaBook
@@ -14,13 +14,28 @@ interface LandingProps {
 
 export default function Landing({ book, onNavigate, settings, onSettingsChange }: LandingProps) {
   const [settingsOpen, setSettingsOpen] = useState(false)
+  const [searchOpen, setSearchOpen] = useState(false)
 
-  const currentHour = useMemo(() => getCurrentHour(), [])
-  const greeting = useMemo(() => getGreeting(), [])
+  const [currentHour, setCurrentHour] = useState(() => getCurrentHour())
+  const [greeting, setGreeting] = useState(() => getGreeting())
+
+  // Re-compute greeting & current hour when the user returns to the app
+  const refreshTimeState = useCallback(() => {
+    setCurrentHour(getCurrentHour())
+    setGreeting(getGreeting())
+  }, [])
+
+  useEffect(() => {
+    const handler = () => {
+      if (document.visibilityState === 'visible') refreshTimeState()
+    }
+    document.addEventListener('visibilitychange', handler)
+    return () => document.removeEventListener('visibilitychange', handler)
+  }, [refreshTimeState])
 
   const lastId = useMemo(() => {
     try {
-      const id = localStorage.getItem(LAST_KEY)
+      const id = localStorage.getItem(LAST_CHAPTER_KEY)
       return id && book.chapters.some((c) => c.id === id) ? id : null
     } catch { return null }
   }, [book.chapters])
@@ -86,15 +101,28 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
         </button>
       </div>
 
-      {/* Settings link */}
+      {/* Bottom links */}
       <div className="landing-settings-row">
+        <button className="landing-settings-btn" onClick={() => setSearchOpen(true)}>
+          <LandingSearchIcon /> Rechercher
+        </button>
         <button className="landing-settings-btn" onClick={() => setSettingsOpen(true)}>
           <SettingsIcon /> Options
         </button>
       </div>
 
       <SettingsPanel open={settingsOpen} onClose={() => setSettingsOpen(false)} settings={settings} onChange={onSettingsChange} />
+      <SearchPanel open={searchOpen} onClose={() => setSearchOpen(false)} book={book} onSelect={(id) => { onNavigate(id); setSearchOpen(false) }} />
     </div>
+  )
+}
+
+function LandingSearchIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+      <circle cx="11" cy="11" r="8" />
+      <path d="M21 21l-4.35-4.35" />
+    </svg>
   )
 }
 

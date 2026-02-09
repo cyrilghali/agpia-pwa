@@ -1,12 +1,10 @@
 import { useEffect, useState, useCallback } from 'react'
 import type { AgpiaBook, ReaderSettings } from './types'
-import { DEFAULT_SETTINGS } from './types'
+import { DEFAULT_SETTINGS, LAST_CHAPTER_KEY, SETTINGS_KEY } from './types'
 import Landing from './Landing'
 import Reader from './Reader'
 
 const BOOK_URL = '/agpia/book.json'
-const SETTINGS_KEY = 'agpia-settings'
-const LAST_KEY = 'agpia-last-chapter'
 
 function loadSettings(): ReaderSettings {
   try {
@@ -46,7 +44,7 @@ export default function App() {
       return
     }
     setCurrentChapterId(id)
-    try { localStorage.setItem(LAST_KEY, id) } catch { /* ignore */ }
+    try { localStorage.setItem(LAST_CHAPTER_KEY, id) } catch { /* ignore */ }
   }, [])
 
   if (error) {

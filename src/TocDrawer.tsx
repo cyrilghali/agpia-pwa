@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react'
 import type { TocEntry } from './types'
 import { getHourIcon } from './types'
+import { useFocusTrap } from './hooks'
 
 interface TocDrawerProps {
   open: boolean
@@ -12,6 +13,10 @@ interface TocDrawerProps {
 
 export default function TocDrawer({ open, onClose, toc, currentChapterId, onSelect }: TocDrawerProps) {
   const bodyRef = useRef<HTMLDivElement>(null)
+  const drawerRef = useRef<HTMLElement>(null)
+
+  // Focus trap + body scroll lock
+  useFocusTrap(open, drawerRef)
 
   // Find which section contains the current chapter
   const currentSectionId = findSectionForChapter(toc, currentChapterId)
@@ -34,6 +39,7 @@ export default function TocDrawer({ open, onClose, toc, currentChapterId, onSele
         aria-hidden={!open}
       />
       <aside
+        ref={drawerRef}
         className={`toc-drawer ${open ? 'toc-drawer--open' : ''}`}
         aria-label="Table des matières"
         aria-hidden={!open}

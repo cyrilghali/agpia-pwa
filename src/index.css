@@ -439,6 +439,12 @@ button {
    CONTENT BLOCKS — Typography & Visual Hierarchy
    ========================================================= */
 
+/* --- Heading reset (semantic h1-h6 used for accessibility) --- */
+h1.block-heading, h2.block-heading, h3.block-heading,
+h4.block-heading, h5.block-heading, h6.block-heading {
+  font: inherit;
+}
+
 /* --- Heading 1 (chapter titles: Psaume 1, Priere de l'aube, etc.) --- */
 .block-heading {
   color: var(--text-heading);
@@ -885,6 +891,143 @@ button {
 .theme-btn-light { background: #fff; }
 .theme-btn-sepia { background: #f8f3eb; }
 .theme-btn-dark { background: #1a1712; }
+
+/* =========================================================
+   SEARCH PANEL
+   ========================================================= */
+.search-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  background: rgba(0,0,0,0.4);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s, visibility 0.2s;
+}
+.search-backdrop--open { opacity: 1; visibility: visible; }
+
+.search-panel {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 301;
+  background: var(--bg-elevated);
+  border-top: 1px solid var(--border);
+  border-radius: 16px 16px 0 0;
+  padding: 1rem 1.25rem calc(1rem + var(--safe-bottom));
+  transform: translateY(100%);
+  transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+  font-family: system-ui, -apple-system, sans-serif;
+  display: flex;
+  flex-direction: column;
+  max-height: 75dvh;
+}
+.search-panel--open { transform: translateY(0); }
+
+.search-handle {
+  width: 36px;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  margin: 0 auto 0.75rem;
+}
+
+.search-input-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  margin-bottom: 0.75rem;
+  color: var(--text-muted);
+}
+.search-input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 0.92rem;
+  font-family: inherit;
+  color: var(--text);
+  outline: none;
+  min-width: 0;
+}
+.search-input::placeholder { color: var(--text-muted); }
+.search-clear {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: var(--text-muted);
+}
+.search-clear:active { background: var(--accent-soft); }
+
+.search-results {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.search-empty {
+  text-align: center;
+  padding: 1.5rem 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.search-result {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 0.6rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+}
+.search-result:last-child { border-bottom: none; }
+.search-result:active { background: var(--accent-soft); }
+
+.search-result-title {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-heading);
+  margin-bottom: 0.15rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.search-result-hour {
+  font-size: 0.68rem;
+  font-weight: 400;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.search-result-snippet {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.search-highlight {
+  background: rgba(184, 148, 76, 0.25);
+  color: var(--text);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+[data-theme="light"] .search-highlight {
+  background: rgba(90, 122, 156, 0.2);
+}
+[data-theme="dark"] .search-highlight {
+  background: rgba(196, 160, 106, 0.2);
+}
 
 /* =========================================================
    ANIMATIONS

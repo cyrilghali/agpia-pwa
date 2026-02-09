@@ -28,6 +28,11 @@ export interface AgpiaBook {
   chapters: Chapter[]
 }
 
+// ---- Storage keys ----
+
+export const LAST_CHAPTER_KEY = 'agpia-last-chapter'
+export const SETTINGS_KEY = 'agpia-settings'
+
 // ---- Settings ----
 
 export interface ReaderSettings {
