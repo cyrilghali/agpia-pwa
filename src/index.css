@@ -1,0 +1,925 @@
+/* =========================================================
+   AGPIA PWA — Mobile-first Prayer Reader
+   ========================================================= */
+
+/* --- Reset & Base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --touch-min: 48px;
+
+  /* Theme: sepia (default) */
+  --bg: #f8f3eb;
+  --bg-card: #fff8f0;
+  --bg-elevated: #fff;
+  --text: #3a3020;
+  --text-muted: #8c7a64;
+  --text-heading: #2a1e0e;
+  --accent: #9c7a4a;
+  --accent-soft: rgba(156, 122, 74, 0.12);
+  --accent-vivid: #b8944c;
+  --border: rgba(156, 122, 74, 0.15);
+  --bar-bg: #2c2416;
+  --bar-text: #f8f3eb;
+  --shadow: 0 1px 8px rgba(44, 36, 22, 0.08);
+  --doxology-bg: rgba(156, 122, 74, 0.06);
+  --doxology-coptic: #9c7a4a;
+  --instruction-bg: rgba(74, 120, 74, 0.07);
+  --instruction-border: rgba(74, 120, 74, 0.3);
+  --verse-num: #9c7a4a;
+  --separator-bg: linear-gradient(180deg, rgba(156,122,74,0.06) 0%, transparent 100%);
+  --heading-ornament: #c4a06a;
+  --progress-bar: #b8944c;
+  --current-hour-bg: rgba(156, 122, 74, 0.15);
+  --current-hour-border: #b8944c;
+}
+
+[data-theme="light"] {
+  --bg: #ffffff;
+  --bg-card: #f9f9f9;
+  --bg-elevated: #fff;
+  --text: #222;
+  --text-muted: #888;
+  --text-heading: #111;
+  --accent: #5a7a9c;
+  --accent-soft: rgba(90, 122, 156, 0.1);
+  --accent-vivid: #4a6a8c;
+  --border: rgba(0,0,0,0.08);
+  --bar-bg: #1a1a1a;
+  --bar-text: #f5f5f5;
+  --shadow: 0 1px 8px rgba(0,0,0,0.06);
+  --doxology-bg: rgba(90, 122, 156, 0.05);
+  --doxology-coptic: #5a7a9c;
+  --instruction-bg: rgba(74, 140, 74, 0.05);
+  --instruction-border: rgba(74, 140, 74, 0.25);
+  --verse-num: #5a7a9c;
+  --separator-bg: linear-gradient(180deg, rgba(90,122,156,0.04) 0%, transparent 100%);
+  --heading-ornament: #5a7a9c;
+  --progress-bar: #5a7a9c;
+  --current-hour-bg: rgba(90, 122, 156, 0.1);
+  --current-hour-border: #5a7a9c;
+}
+
+[data-theme="dark"] {
+  --bg: #1a1712;
+  --bg-card: #242018;
+  --bg-elevated: #2a2520;
+  --text: #d4c8b0;
+  --text-muted: #7a6e5a;
+  --text-heading: #e8dcc8;
+  --accent: #c4a06a;
+  --accent-soft: rgba(196, 160, 106, 0.12);
+  --accent-vivid: #d4b47a;
+  --border: rgba(196, 160, 106, 0.12);
+  --bar-bg: #0e0c08;
+  --bar-text: #d4c8b0;
+  --shadow: 0 1px 8px rgba(0,0,0,0.3);
+  --doxology-bg: rgba(196, 160, 106, 0.06);
+  --doxology-coptic: #c4a06a;
+  --instruction-bg: rgba(106, 160, 106, 0.05);
+  --instruction-border: rgba(106, 160, 106, 0.2);
+  --verse-num: #c4a06a;
+  --separator-bg: linear-gradient(180deg, rgba(196,160,106,0.04) 0%, transparent 100%);
+  --heading-ornament: #c4a06a;
+  --progress-bar: #c4a06a;
+  --current-hour-bg: rgba(196, 160, 106, 0.12);
+  --current-hour-border: #c4a06a;
+}
+
+html, body, #root {
+  height: 100%;
+  font-family: 'Georgia', 'Times New Roman', 'Noto Serif', serif;
+  background: var(--bg);
+  color: var(--text);
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  padding-top: var(--safe-top);
+  padding-bottom: var(--safe-bottom);
+}
+
+button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: inherit;
+  font: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* =========================================================
+   LANDING PAGE
+   ========================================================= */
+.landing {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1.25rem 3rem;
+}
+
+.landing-cover {
+  width: 160px;
+  margin-bottom: 1.25rem;
+  animation: fadeInUp 0.6s ease-out;
+}
+.landing-cover img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12), 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.landing-title {
+  font-size: 1.2rem;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: var(--text-heading);
+  text-align: center;
+  margin-bottom: 0.15rem;
+  animation: fadeInUp 0.6s ease-out 0.1s both;
+}
+.landing-subtitle {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-bottom: 0.15rem;
+  font-style: italic;
+  animation: fadeInUp 0.6s ease-out 0.15s both;
+}
+.landing-greeting {
+  font-size: 0.78rem;
+  color: var(--accent);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-weight: 500;
+  animation: fadeInUp 0.6s ease-out 0.2s both;
+}
+
+/* Hours grid — main hours 4 cols, extras separate */
+.hours-section-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  font-family: system-ui, -apple-system, sans-serif;
+  margin-bottom: 0.4rem;
+  width: 100%;
+  max-width: 360px;
+  animation: fadeInUp 0.5s ease-out 0.25s both;
+}
+.hours-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.45rem;
+  width: 100%;
+  max-width: 360px;
+  margin-bottom: 0.75rem;
+  animation: fadeInUp 0.5s ease-out 0.25s both;
+}
+.hours-grid-extras {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.45rem;
+  width: 100%;
+  max-width: 270px;
+  margin-bottom: 1.25rem;
+  animation: fadeInUp 0.5s ease-out 0.3s both;
+}
+.hour-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 0.2rem;
+  border-radius: 10px;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  text-decoration: none;
+  color: var(--text);
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+  min-height: var(--touch-min);
+}
+.hour-card:active {
+  transform: scale(0.96);
+  box-shadow: var(--shadow);
+}
+.hour-card--current {
+  border-color: var(--current-hour-border);
+  background: var(--current-hour-bg);
+  box-shadow: 0 0 0 1px var(--current-hour-border);
+}
+.hour-card-badge {
+  position: absolute;
+  top: -6px;
+  right: -4px;
+  font-size: 0.55rem;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--bar-text);
+  background: var(--accent-vivid);
+  padding: 1px 5px;
+  border-radius: 6px;
+  line-height: 1.4;
+}
+.hour-icon {
+  font-size: 1.2rem;
+  margin-bottom: 0.15rem;
+  color: var(--accent);
+}
+.hour-label {
+  font-size: 0.68rem;
+  text-align: center;
+  line-height: 1.2;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Action buttons */
+.landing-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 100%;
+  max-width: 320px;
+  animation: fadeInUp 0.5s ease-out 0.35s both;
+}
+.landing-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--touch-min);
+  padding: 0 1.25rem;
+  border-radius: 10px;
+  font-size: 0.92rem;
+  font-family: system-ui, -apple-system, sans-serif;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  transition: transform 0.15s, background 0.15s;
+}
+.landing-btn:active { transform: scale(0.98); }
+.landing-btn.primary {
+  background: var(--bar-bg);
+  color: var(--bar-text);
+  border-color: var(--bar-bg);
+  font-weight: 500;
+}
+.landing-btn .continue-detail {
+  font-size: 0.78rem;
+  color: var(--bar-text);
+  opacity: 0.7;
+  margin-left: 0.4rem;
+}
+.landing-btn.secondary {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.landing-btn:disabled { opacity: 0.65; cursor: default; }
+
+.landing-settings-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5rem;
+  animation: fadeInUp 0.5s ease-out 0.4s both;
+}
+.landing-settings-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-family: system-ui, -apple-system, sans-serif;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+}
+.landing-settings-btn:active { background: var(--accent-soft); }
+
+/* =========================================================
+   READER LAYOUT
+   ========================================================= */
+.reader {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+  position: relative;
+}
+
+/* Progress bar */
+.reader-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  background: var(--progress-bar);
+  z-index: 60;
+  transition: width 0.3s ease-out;
+  border-radius: 0 1px 1px 0;
+}
+
+/* Top bar */
+.reader-bar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0 0.25rem;
+  height: 52px;
+  background: var(--bar-bg);
+  color: var(--bar-text);
+  font-family: system-ui, -apple-system, sans-serif;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.reader-menu-btn, .reader-settings-btn {
+  flex: 0 0 auto;
+  width: var(--touch-min);
+  height: var(--touch-min);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+  border-radius: 8px;
+}
+.reader-menu-btn:active, .reader-settings-btn:active {
+  background: rgba(255,255,255,0.1);
+}
+.reader-bar-center {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+.reader-bar-hour {
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.6;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.reader-bar-title {
+  font-size: 0.9rem;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+  line-height: 1.3;
+}
+
+/* Content area */
+.reader-content {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
+.chapter-container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 3rem;
+}
+
+@media (min-width: 768px) {
+  .chapter-container { padding: 2.5rem 2.5rem 4rem; }
+}
+
+/* Bottom navigation */
+.reader-nav {
+  position: sticky;
+  bottom: 0;
+  z-index: 50;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.25rem 0.5rem calc(0.25rem + var(--safe-bottom));
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+.nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  min-height: var(--touch-min);
+  min-width: var(--touch-min);
+  padding: 0 0.5rem;
+  color: var(--accent);
+  border-radius: 8px;
+  font-size: 0.82rem;
+}
+.nav-btn:active { background: var(--accent-soft); }
+.nav-btn:disabled { opacity: 0.25; cursor: default; }
+.nav-btn:disabled:active { background: transparent; }
+.nav-label { }
+.nav-position {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* =========================================================
+   CONTENT BLOCKS — Typography & Visual Hierarchy
+   ========================================================= */
+
+/* --- Heading 1 (chapter titles: Psaume 1, Priere de l'aube, etc.) --- */
+.block-heading {
+  color: var(--text-heading);
+  line-height: 1.3;
+}
+.block-heading-1 {
+  font-size: 1.5em;
+  font-weight: 600;
+  text-align: center;
+  margin: 1.8em 0 0.5em;
+  letter-spacing: 0.02em;
+  position: relative;
+  padding-bottom: 0.6em;
+}
+.block-heading-1::after {
+  content: '·  ·  ·';
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.6em;
+  color: var(--heading-ornament);
+  letter-spacing: 0.3em;
+  opacity: 0.5;
+}
+.block-heading-1:first-child { margin-top: 0.5em; }
+
+/* --- Heading 2 (sub-sections: Oraisons, etc.) --- */
+.block-heading-2 {
+  font-size: 0.82em;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2em 0 0.6em;
+  color: var(--accent);
+}
+
+/* --- Heading 3 (doxology labels, etc.) --- */
+.block-heading-3 {
+  font-size: 1.05em;
+  font-weight: 500;
+  text-align: center;
+  margin: 1em 0 0.4em;
+  color: var(--text-heading);
+}
+
+/* --- Body text --- */
+.block-paragraph {
+  margin: 0.75em 0;
+  line-height: 1.85;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+/* First paragraph after heading: slight indent */
+.block-heading + .block-paragraph {
+  text-indent: 1.5em;
+}
+
+/* --- Verse (with numbers) --- */
+.block-verse {
+  margin: 0.75em 0;
+  line-height: 1.85;
+  text-align: justify;
+}
+.verse-num {
+  font-weight: 700;
+  font-size: 0.7em;
+  color: var(--verse-num);
+  vertical-align: super;
+  margin: 0 0.1em 0 0.2em;
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 0;
+}
+.verse-num:first-child { margin-left: 0; }
+
+/* --- Instruction (liturgical rubric) --- */
+.block-instruction {
+  margin: 1.2em 0;
+  padding: 0.65em 0.9em;
+  background: var(--instruction-bg);
+  border-left: 3px solid var(--instruction-border);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  font-size: 0.88em;
+  line-height: 1.6;
+  color: var(--text-muted);
+}
+
+/* --- Doxology block (Coptic + French) --- */
+.block-doxology-wrap {
+  margin: 1.5em 0;
+  padding: 1em 1.2em;
+  background: var(--doxology-bg);
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid var(--border);
+}
+.block-doxology-wrap .block-heading {
+  margin: 0.15em 0;
+  padding-bottom: 0;
+}
+.block-doxology-wrap .block-heading::after { display: none; }
+
+/* Coptic text inside doxology: accent colored, slightly larger */
+.block-doxology-wrap .block-heading-2 {
+  font-size: 1em;
+  text-transform: none;
+  letter-spacing: 0.02em;
+  color: var(--doxology-coptic);
+  font-weight: 400;
+  font-style: italic;
+  margin: 0.1em 0;
+}
+/* French translation in doxology: smaller, heading color */
+.block-doxology-wrap .block-heading-3 {
+  font-size: 0.88em;
+  color: var(--text-heading);
+  font-weight: 400;
+  margin: 0.1em 0;
+}
+.block-doxology-wrap .block-paragraph {
+  text-align: center;
+  margin: 0.2em 0;
+  font-style: italic;
+  color: var(--doxology-coptic);
+}
+
+/* Standalone doxology */
+.block-doxology {
+  text-align: center;
+  margin: 1em 0;
+  color: var(--text-heading);
+  font-style: italic;
+}
+
+/* --- Images --- */
+.block-image {
+  display: flex;
+  justify-content: center;
+  margin: 1.5em 0;
+}
+.block-image img {
+  max-width: 100%;
+  max-height: 40vh;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* --- Figure --- */
+.block-figure {
+  margin: 1.5em 0;
+  text-align: center;
+}
+.block-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+.block-figure-caption {
+  margin-top: 0.5em;
+  font-size: 0.82em;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* --- Separator page (hour intro hero) --- */
+.block-separator-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 35vh;
+  padding: 2.5rem 1.5rem 1.5rem;
+  margin: -1.5rem -1.25rem 1rem;
+  background: var(--separator-bg);
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .block-separator-hero { margin: -2.5rem -2.5rem 1.5rem; }
+}
+.block-separator-hero .sep-title {
+  font-size: 1.8em;
+  font-weight: 600;
+  color: var(--text-heading);
+  letter-spacing: 0.03em;
+  margin-bottom: 0.3em;
+  line-height: 1.2;
+}
+.block-separator-hero .sep-ornament {
+  font-size: 0.7rem;
+  color: var(--heading-ornament);
+  letter-spacing: 0.5em;
+  opacity: 0.5;
+  margin-bottom: 1em;
+}
+.block-separator-hero .sep-image img {
+  max-width: 70%;
+  max-height: 25vh;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 0.75em;
+}
+.block-separator-hero .sep-desc {
+  font-size: 0.88em;
+  color: var(--text-muted);
+  font-style: italic;
+  line-height: 1.6;
+  max-width: 420px;
+}
+
+/* --- Cross divider at end of chapter --- */
+.chapter-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 2rem 0 1rem;
+  color: var(--heading-ornament);
+  opacity: 0.35;
+  font-size: 0.9rem;
+}
+.chapter-divider::before, .chapter-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: currentColor;
+}
+
+/* =========================================================
+   TOC DRAWER
+   ========================================================= */
+.toc-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 200;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s, visibility 0.25s;
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
+.toc-backdrop--open { opacity: 1; visibility: visible; }
+
+.toc-drawer {
+  position: fixed;
+  top: 0; bottom: 0; left: 0;
+  width: min(340px, 88vw);
+  background: var(--bg);
+  z-index: 201;
+  box-shadow: 4px 0 24px rgba(0,0,0,0.15);
+  transform: translateX(-105%);
+  transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+  display: flex;
+  flex-direction: column;
+}
+.toc-drawer--open { transform: translateX(0); }
+
+.toc-header {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border);
+}
+.toc-title {
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+.toc-close {
+  width: var(--touch-min);
+  height: var(--touch-min);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+.toc-close:active { background: var(--accent-soft); }
+
+.toc-body {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.25rem 0 1rem;
+}
+
+.toc-section {
+  margin-bottom: 0.15rem;
+}
+.toc-section-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0.6rem 1rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--text-heading);
+  text-align: left;
+  font-family: system-ui, -apple-system, sans-serif;
+  border-radius: 0;
+  min-height: auto;
+  gap: 0.4rem;
+  border-left: 3px solid transparent;
+}
+.toc-section-header:active { background: var(--accent-soft); }
+.toc-section-header--active {
+  border-left-color: var(--accent-vivid);
+  background: var(--accent-soft);
+}
+.toc-section-icon {
+  font-size: 0.9rem;
+  color: var(--accent);
+  width: 1.4em;
+  text-align: center;
+  flex-shrink: 0;
+}
+.toc-section-chevron {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-left: auto;
+  transition: transform 0.2s;
+}
+.toc-section-chevron--open { transform: rotate(90deg); }
+
+.toc-children {
+  padding-left: 0.25rem;
+  overflow: hidden;
+}
+.toc-child-btn {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0.4rem 1rem 0.4rem 2.8rem;
+  font-size: 0.82rem;
+  text-align: left;
+  color: var(--text);
+  font-family: system-ui, -apple-system, sans-serif;
+  border-radius: 0;
+  min-height: auto;
+  line-height: 1.35;
+  border-left: 3px solid transparent;
+}
+.toc-child-btn:active { background: var(--accent-soft); }
+.toc-child-btn--active {
+  color: var(--accent-vivid);
+  font-weight: 500;
+  border-left-color: var(--accent-vivid);
+  background: var(--accent-soft);
+}
+
+/* =========================================================
+   SETTINGS PANEL
+   ========================================================= */
+.settings-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  background: rgba(0,0,0,0.4);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s, visibility 0.2s;
+}
+.settings-backdrop--open { opacity: 1; visibility: visible; }
+
+.settings-panel {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 301;
+  background: var(--bg-elevated);
+  border-top: 1px solid var(--border);
+  border-radius: 16px 16px 0 0;
+  padding: 1rem 1.25rem calc(1.5rem + var(--safe-bottom));
+  transform: translateY(100%);
+  transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+.settings-panel--open { transform: translateY(0); }
+
+.settings-handle {
+  width: 36px;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  margin: 0 auto 1rem;
+}
+
+.settings-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.settings-label {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.font-size-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.font-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 1.1rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.font-btn:active { background: var(--accent); color: var(--bar-text); }
+.font-size-value {
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  min-width: 3ch;
+  text-align: center;
+}
+
+.theme-options {
+  display: flex;
+  gap: 0.5rem;
+}
+.theme-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.15s, transform 0.15s;
+}
+.theme-btn:active { transform: scale(0.95); }
+.theme-btn--active { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
+.theme-btn-light { background: #fff; }
+.theme-btn-sepia { background: #f8f3eb; }
+.theme-btn-dark { background: #1a1712; }
+
+/* =========================================================
+   ANIMATIONS
+   ========================================================= */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(30px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-30px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.fade-in { animation: fadeInUp 0.3s ease-out; }
+.slide-in-right { animation: slideInRight 0.25s ease-out; }
+.slide-in-left { animation: slideInLeft 0.25s ease-out; }
+
+/* =========================================================
+   SCROLL BAR
+   ========================================================= */
+.reader-content::-webkit-scrollbar { width: 3px; }
+.reader-content::-webkit-scrollbar-track { background: transparent; }
+.reader-content::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 2px;
+}
+
+/* =========================================================
+   INLINE TEXT FORMATTING
+   ========================================================= */
+.text-em { font-style: italic; }
+.text-strong { font-weight: 600; }

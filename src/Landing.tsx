@@ -1,0 +1,132 @@
+import { useState, useMemo } from 'react'
+import type { AgpiaBook, ReaderSettings } from './types'
+import { HOURS, EXTRA_SECTIONS, getCurrentHour, getGreeting, getHourLabel } from './types'
+import SettingsPanel from './SettingsPanel'
+
+const LAST_KEY = 'agpia-last-chapter'
+
+interface LandingProps {
+  book: AgpiaBook
+  onNavigate: (id: string) => void
+  settings: ReaderSettings
+  onSettingsChange: (s: Partial<ReaderSettings>) => void
+}
+
+export default function Landing({ book, onNavigate, settings, onSettingsChange }: LandingProps) {
+  const [settingsOpen, setSettingsOpen] = useState(false)
+  const [offlineStatus, setOfflineStatus] = useState<'idle' | 'loading' | 'done'>('idle')
+
+  const currentHour = useMemo(() => getCurrentHour(), [])
+  const greeting = useMemo(() => getGreeting(), [])
+
+  const lastId = useMemo(() => {
+    try {
+      const id = localStorage.getItem(LAST_KEY)
+      return id && book.chapters.some((c) => c.id === id) ? id : null
+    } catch { return null }
+  }, [book.chapters])
+
+  const lastChapter = lastId ? book.chapters.find(c => c.id === lastId) : null
+  const lastHourLabel = lastChapter ? getHourLabel(lastChapter.hourId) : null
+
+  async function prefetchAll() {
+    setOfflineStatus('loading')
+    try {
+      const assetUrls = new Set<string>()
+      for (const ch of book.chapters) {
+        for (const b of ch.blocks) {
+          if ((b.type === 'image' || b.type === 'figure') && b.src) assetUrls.add(b.src)
+        }
+      }
+      await Promise.all([...assetUrls].map((u) => fetch(u).catch(() => null)))
+      setOfflineStatus('done')
+    } catch {
+      setOfflineStatus('done')
+    }
+  }
+
+  return (
+    <div className="landing">
+      <div className="landing-cover">
+        <img src="/agpia/assets/cover.png" alt={book.metadata.title} />
+      </div>
+
+      <h1 className="landing-title">{book.metadata.title}</h1>
+      <p className="landing-subtitle">Les prières des heures</p>
+      <p className="landing-greeting">
+        {greeting}
+        {currentHour && <> — {currentHour.label}</>}
+      </p>
+
+      {/* Main prayer hours — 4 columns */}
+      <div className="hours-section-label">Heures de prière</div>
+      <div className="hours-grid">
+        {HOURS.map((h) => (
+          <button
+            key={h.id}
+            className={`hour-card ${currentHour?.id === h.id ? 'hour-card--current' : ''}`}
+            onClick={() => onNavigate(h.id)}
+          >
+            {currentHour?.id === h.id && <span className="hour-card-badge">now</span>}
+            <span className="hour-icon">{h.icon}</span>
+            <span className="hour-label">{h.label}</span>
+          </button>
+        ))}
+      </div>
+
+      {/* Extra sections — 3 columns */}
+      <div className="hours-grid-extras">
+        {EXTRA_SECTIONS.map((h) => (
+          <button
+            key={h.id}
+            className="hour-card"
+            onClick={() => onNavigate(h.id)}
+          >
+            <span className="hour-icon">{h.icon}</span>
+            <span className="hour-label">{h.label}</span>
+          </button>
+        ))}
+      </div>
+
+      {/* Action buttons */}
+      <div className="landing-actions">
+        {lastChapter && (
+          <button className="landing-btn primary" onClick={() => onNavigate(lastChapter.id)}>
+            Continuer la lecture
+            <span className="continue-detail">
+              — {lastChapter.title}{lastHourLabel ? ` (${lastHourLabel})` : ''}
+            </span>
+          </button>
+        )}
+        <button className="landing-btn" onClick={() => onNavigate(book.chapters[0]?.id ?? 'part001')}>
+          {lastChapter ? 'Lire depuis le début' : 'Commencer la lecture'}
+        </button>
+        <button
+          className="landing-btn secondary"
+          onClick={prefetchAll}
+          disabled={offlineStatus !== 'idle'}
+        >
+          {offlineStatus === 'loading' ? 'Téléchargement…' : offlineStatus === 'done' ? 'Disponible hors ligne' : 'Rendre disponible hors ligne'}
+        </button>
+      </div>
+
+      {/* Settings link */}
+      <div className="landing-settings-row">
+        <button className="landing-settings-btn" onClick={() => setSettingsOpen(true)}>
+          <SettingsIcon /> Options
+        </button>
+      </div>
+
+      <SettingsPanel open={settingsOpen} onClose={() => setSettingsOpen(false)} settings={settings} onChange={onSettingsChange} />
+    </div>
+  )
+}
+
+function SettingsIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+      <circle cx="12" cy="12" r="3" />
+      <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" />
+    </svg>
+  )
+}
