@@ -170,3 +170,208 @@ function fillBlocks(blocks, prefix, strings) {
     }
   }
 }
+
+// ---------------------------------------------------------------------------
+// Markdown: book.json → Markdown string
+// ---------------------------------------------------------------------------
+
+/** Convert a single ContentBlock to Markdown lines.
+ *  @param {object} block  ContentBlock
+ *  @returns {string} Markdown fragment (may contain multiple lines) */
+function blockToMarkdown(block) {
+  switch (block.type) {
+    case 'heading': {
+      const level = Math.min(Math.max(block.level ?? 1, 1), 6)
+      const hashes = '#'.repeat(level)
+      return `${hashes} ${block.text ?? ''}`
+    }
+
+    case 'paragraph':
+    case 'verse': {
+      // Text may contain \n\n to separate multiple paragraphs/verses
+      const text = block.text ?? ''
+      return text
+    }
+
+    case 'instruction':
+      return `> *${block.text ?? ''}*`
+
+    case 'doxology':
+      return `> ${block.text ?? ''}`
+
+    case 'doxology_block': {
+      if (!block.children) return ''
+      return block.children.map(blockToMarkdown).join('\n\n')
+    }
+
+    case 'image':
+      return `![](${block.src ?? ''})`
+
+    case 'figure': {
+      const img = `![${block.caption ?? ''}](${block.src ?? ''})`
+      if (block.caption) return `${img}\n\n*${block.caption}*`
+      return img
+    }
+
+    case 'separator':
+      return '---'
+
+    case 'blank':
+      return ''
+
+    default:
+      return ''
+  }
+}
+
+/** Convert blocks array to Markdown, joining with blank lines.
+ *  @param {object[]} blocks
+ *  @returns {string} */
+function blocksToMarkdown(blocks) {
+  return blocks.map(blockToMarkdown).filter(Boolean).join('\n\n')
+}
+
+/** Build a Markdown Table of Contents from the TOC tree.
+ *  Filters out repeated introduction / conclusion entries.
+ *  @param {object[]} entries  TocEntry[]
+ *  @param {number} depth  Current indentation depth
+ *  @param {object} opts  { skipIntros, skipConclusions }
+ *  @returns {string} */
+function tocToMarkdown(entries, depth = 0, opts = {}) {
+  const lines = []
+  for (const entry of entries) {
+    // Skip repeated intro / conclusion entries from per-hour TOC
+    if (opts.skipIntros && entry.id.endsWith('-intro')) continue
+    if (opts.skipConclusions && (entry.id.startsWith('conclusion_') || entry.id === 's033')) continue
+
+    const indent = '  '.repeat(depth)
+    lines.push(`${indent}- [${entry.title}](#${entry.id})`)
+    if (entry.children) {
+      lines.push(tocToMarkdown(entry.children, depth + 1, opts))
+    }
+  }
+  return lines.join('\n')
+}
+
+/** Look up a chapter's title from the TOC tree (recursive search).
+ *  @param {object[]} toc
+ *  @param {string} id
+ *  @returns {string|null} */
+function findTocTitle(toc, id) {
+  for (const entry of toc) {
+    if (entry.id === id) return entry.title
+    if (entry.children) {
+      const found = findTocTitle(entry.children, id)
+      if (found) return found
+    }
+  }
+  return null
+}
+
+const PART_RE = /^part\d+$/
+
+/** Render a single chapter to Markdown lines, skipping the first heading if it duplicates the title.
+ *  @param {object} ch  Chapter
+ *  @param {string} title  Resolved title to display
+ *  @returns {string} */
+function chapterToMarkdown(ch, title) {
+  const header = `<a id="${ch.id}"></a>\n\n## ${title}`
+
+  // Skip the first block if it's a heading that duplicates the chapter title
+  let blocks = ch.blocks
+  if (blocks.length > 0 && blocks[0].type === 'heading' &&
+      (blocks[0].text === ch.title || blocks[0].text === title)) {
+    blocks = blocks.slice(1)
+  }
+  const body = blocksToMarkdown(blocks)
+  return body ? `${header}\n\n${body}` : header
+}
+
+/** Convert a full AgpiaBook object to a Markdown string.
+ *  - Introduction and Conclusion de chaque heure are output once, then referenced.
+ *  - Chapters with generic "partXXX" titles use the TOC title and merge consecutive partXXX continuations.
+ *  @param {object} book  Full AgpiaBook
+ *  @returns {string} Complete Markdown document */
+export function bookToMarkdown(book) {
+  const parts = []
+
+  // ---- Document title ----
+  parts.push(`# ${book.metadata.title}`)
+
+  // ---- Table of contents (skip repeated intro/conclusion entries) ----
+  // Add shared Introduction / Conclusion as top-level TOC entries
+  const tocLines = []
+  const firstIntroId = book.chapters.find(ch => ch.id.endsWith('-intro'))?.id
+  const firstConclusionId = book.chapters.find(ch => ch.id.startsWith('conclusion_') || ch.id === 's033')?.id
+  if (firstIntroId) tocLines.push(`- [Introduction de chaque heure](#${firstIntroId})`)
+  if (firstConclusionId) tocLines.push(`- [Conclusion de chaque heure](#${firstConclusionId})`)
+  tocLines.push(tocToMarkdown(book.toc, 0, { skipIntros: true, skipConclusions: true }))
+  parts.push('## Table des matières\n')
+  parts.push(tocLines.join('\n'))
+
+  // ---- Find the first Introduction and Conclusion chapters ----
+  const firstIntro = book.chapters.find(ch => ch.id.endsWith('-intro'))
+  const firstConclusion = book.chapters.find(ch => ch.id.startsWith('conclusion_') || ch.id === 's033')
+
+  // Output them once as shared sections
+  if (firstIntro) {
+    parts.push('---')
+    parts.push(chapterToMarkdown(firstIntro, 'Introduction de chaque heure'))
+  }
+  if (firstConclusion) {
+    parts.push('---')
+    parts.push(chapterToMarkdown(firstConclusion, 'Conclusion de chaque heure'))
+  }
+
+  // ---- Build set of IDs to skip (repeated intros / conclusions) ----
+  const skipIds = new Set()
+  for (const ch of book.chapters) {
+    if (ch.id.endsWith('-intro')) skipIds.add(ch.id)
+    if (ch.id.startsWith('conclusion_') || ch.id === 's033') skipIds.add(ch.id)
+  }
+
+  // ---- Build set of all chapter IDs that appear in the TOC ----
+  const tocIds = new Set()
+  function collectTocIds(entries) {
+    for (const entry of entries) {
+      tocIds.add(entry.id)
+      if (entry.children) collectTocIds(entry.children)
+    }
+  }
+  collectTocIds(book.toc)
+
+  // ---- Chapters ----
+  const chapters = book.chapters
+  let i = 0
+  while (i < chapters.length) {
+    const ch = chapters[i]
+
+    // Skip intro / conclusion (already output above)
+    if (skipIds.has(ch.id)) { i++; continue }
+
+    // Resolve title: use TOC title for generic "partXXX" chapters
+    let title = ch.title
+    if (PART_RE.test(title)) {
+      title = findTocTitle(book.toc, ch.id) ?? title
+    }
+
+    // Absorb following chapters whose title is "partXXX" and that are NOT in the TOC
+    // (they are continuations that belong to the current section)
+    const mergedBlocks = [...ch.blocks]
+    while (i + 1 < chapters.length
+        && PART_RE.test(chapters[i + 1].title)
+        && !tocIds.has(chapters[i + 1].id)
+        && !skipIds.has(chapters[i + 1].id)) {
+      i++
+      mergedBlocks.push(...chapters[i].blocks)
+    }
+
+    parts.push('---')
+    const merged = { ...ch, blocks: mergedBlocks }
+    parts.push(chapterToMarkdown(merged, title))
+
+    i++
+  }
+
+  return parts.join('\n\n') + '\n'
+}

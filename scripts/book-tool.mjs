@@ -5,11 +5,12 @@
 //   node scripts/book-tool.mjs extract  <book.json> [strings.json]
 //   node scripts/book-tool.mjs merge    <skeleton.json> <strings.json> [book.json]
 //   node scripts/book-tool.mjs build    (builds all locales from skeleton + strings)
+//   node scripts/book-tool.mjs markdown [book.json] [output.md]
 
 import { readFile, writeFile, readdir, stat } from 'node:fs/promises'
 import { resolve, dirname, basename } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { collapseBook, extractStrings, generateSkeleton, mergeBook } from './book-lib.mjs'
+import { collapseBook, extractStrings, generateSkeleton, mergeBook, bookToMarkdown } from './book-lib.mjs'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
@@ -106,6 +107,17 @@ async function cmdBuild() {
   console.log(`built ${count} locale(s)`)
 }
 
+/** Export a book.json as a Markdown file. */
+async function cmdMarkdown(args) {
+  const bookPath = args[0] ?? resolve(AGPIA_DIR, 'fr/book.json')
+  const abs = resolve(bookPath)
+  const book = await readJSON(abs)
+  const md = bookToMarkdown(book)
+  const dest = args[1] ? resolve(args[1]) : abs.replace(/\.json$/, '.md')
+  await writeFile(dest, md, 'utf-8')
+  console.log(`  wrote ${dest}`)
+}
+
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
@@ -117,9 +129,10 @@ switch (cmd) {
   case 'extract':  await cmdExtract(rest);  break
   case 'merge':    await cmdMerge(rest);    break
   case 'build':    await cmdBuild();        break
+  case 'markdown': await cmdMarkdown(rest); break
   case 'migrate-collapse': await cmdMigrateCollapse(rest); break
   default:
     console.error(`Unknown command: ${cmd ?? '(none)'}`)
-    console.error('Commands: skeleton, extract, merge, build, migrate-collapse')
+    console.error('Commands: skeleton, extract, merge, build, markdown, migrate-collapse')
     process.exit(1)
 }
