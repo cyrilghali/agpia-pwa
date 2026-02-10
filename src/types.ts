@@ -100,20 +100,20 @@ export interface HourDef {
 }
 
 export const HOURS: HourDef[] = [
-  { id: 'part003', labelKey: 'hours.dawn',     icon: 'Ⲁ',  startHour: 6,  endHour: 9 },
-  { id: 'part036', labelKey: 'hours.3rd',      icon: 'Ⲃ',  startHour: 9,  endHour: 12 },
-  { id: 'part053', labelKey: 'hours.6th',      icon: 'Ⲅ',  startHour: 12, endHour: 15 },
-  { id: 'part072', labelKey: 'hours.9th',      icon: 'Ⲉ',  startHour: 15, endHour: 18 },
-  { id: 'part089', labelKey: 'hours.11th',     icon: 'Ⲏ',  startHour: 18, endHour: 20 },
-  { id: 'part106', labelKey: 'hours.12th',     icon: 'Ⲑ',  startHour: 20, endHour: 22 },
-  { id: 'part124', labelKey: 'hours.veil',     icon: 'Ⲓ',  startHour: 20, endHour: 22 },
-  { id: 'part127', labelKey: 'hours.midnight', icon: 'Ⲱ',  startHour: 22, endHour: 6 },
+  { id: 'dawn',           labelKey: 'hours.dawn',     icon: 'Ⲁ',  startHour: 6,  endHour: 9 },
+  { id: 'third-hour',     labelKey: 'hours.3rd',      icon: 'Ⲃ',  startHour: 9,  endHour: 12 },
+  { id: 'sixth-hour',     labelKey: 'hours.6th',      icon: 'Ⲅ',  startHour: 12, endHour: 15 },
+  { id: 'ninth-hour',     labelKey: 'hours.9th',      icon: 'Ⲉ',  startHour: 15, endHour: 18 },
+  { id: 'eleventh-hour',  labelKey: 'hours.11th',     icon: 'Ⲏ',  startHour: 18, endHour: 20 },
+  { id: 'twelfth-hour',   labelKey: 'hours.12th',     icon: 'Ⲑ',  startHour: 20, endHour: 22 },
+  { id: 'veil',           labelKey: 'hours.veil',     icon: 'Ⲓ',  startHour: 20, endHour: 22 },
+  { id: 'midnight',       labelKey: 'hours.midnight', icon: 'Ⲱ',  startHour: 22, endHour: 6 },
 ]
 
 export const EXTRA_SECTIONS: HourDef[] = [
-  { id: 'part001', labelKey: 'hours.intro',       icon: '✦', startHour: 0, endHour: 0, isExtra: true },
-  { id: 'part142', labelKey: 'hours.absolutions', icon: '☩', startHour: 0, endHour: 0, isExtra: true },
-  { id: 'part144', labelKey: 'hours.prayers',     icon: '♱', startHour: 0, endHour: 0, isExtra: true },
+  { id: 'intro',       labelKey: 'hours.intro',       icon: '✦', startHour: 0, endHour: 0, isExtra: true },
+  { id: 'absolutions', labelKey: 'hours.absolutions', icon: '☩', startHour: 0, endHour: 0, isExtra: true },
+  { id: 'prayers',     labelKey: 'hours.prayers',     icon: '♱', startHour: 0, endHour: 0, isExtra: true },
 ]
 
 /** Get the current prayer hour based on time of day */

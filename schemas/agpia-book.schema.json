@@ -35,7 +35,7 @@
       "properties": {
         "id": {
           "type": "string",
-          "description": "Identifiant stable (identique dans toutes les langues). Ex: part003, part003-intro, part004"
+          "description": "Identifiant stable (identique dans toutes les langues). Ex: dawn, dawn-intro, psalm1, dawn-psalm62, s004"
         },
         "title": {
           "type": "string",
@@ -60,7 +60,7 @@
         "title": { "type": "string", "description": "Titre du chapitre (traduit)" },
         "hourId": {
           "type": ["string", "null"],
-          "description": "Id de l'heure de prière (part003, part036, etc.) ou null"
+          "description": "Id de l'heure de prière (dawn, third-hour, sixth-hour, etc.) ou null"
         },
         "blocks": {
           "type": "array",
@@ -79,7 +79,7 @@
           "description": "Type de bloc (identique dans toutes les langues)"
         },
         "level": { "type": "number" },
-        "text": { "type": "string" },
+        "text": { "type": "string", "description": "For paragraph and verse blocks, use \\n\\n (double newline) to separate multiple paragraphs or verses." },
         "src": { "type": "string" },
         "caption": { "type": "string" },
         "children": {

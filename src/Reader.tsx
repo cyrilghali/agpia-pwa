@@ -36,7 +36,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
   const currentChapter = book.chapters[currentIndex]
   const hourLabelKey = getHourLabelKey(currentChapter?.hourId)
 
-  // When chapter title is a raw part id (e.g. "part085"), use TOC title or "Oraisons"
+  // When chapter title is a raw section id (e.g. "s085"), use TOC title or "Oraisons"
   const readerBarTitle = useMemo(() => {
     const title = currentChapter?.title ?? ''
     if (/^part\d+$/i.test(title)) {
@@ -154,7 +154,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
         </button>
         <div className="reader-bar-center">
           {hourLabelKey && <span className="reader-bar-hour">{t(hourLabelKey)}</span>}
-          <span className="reader-bar-title">{readerBarTitle ?? (currentChapter && /^part\d+$/i.test(currentChapter.title ?? '') ? t('hours.oraisons') : currentChapter?.title) ?? t('reader.fallbackTitle')}</span>
+          <span className="reader-bar-title">{readerBarTitle ?? (currentChapter && /^s\d+$/i.test(currentChapter.title ?? '') ? t('hours.oraisons') : currentChapter?.title) ?? t('reader.fallbackTitle')}</span>
         </div>
         <button className="reader-menu-btn" onClick={() => setSearchOpen(true)} aria-label={t('reader.search')}>
           <SearchIcon />

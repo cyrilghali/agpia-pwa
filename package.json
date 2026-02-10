@@ -6,7 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "book:extract": "node scripts/book-tool.mjs extract",
+    "book:skeleton": "node scripts/book-tool.mjs skeleton",
+    "book:merge": "node scripts/book-tool.mjs merge",
+    "book:build": "node scripts/book-tool.mjs build"
   },
   "dependencies": {
     "i18next": "^25.8.4",

@@ -19,19 +19,33 @@ export default function ContentBlock({ block, fontSize }: ContentBlockProps) {
       }, block.text ?? '')
     }
 
-    case 'paragraph':
+    case 'paragraph': {
+      const paraText = block.text ?? ''
+      const segments = paraText.split(/\n\n/)
       return (
-        <p className="block-paragraph" style={style}>
-          <FormattedText text={block.text ?? ''} />
-        </p>
+        <>
+          {segments.map((segment, i) => (
+            <p key={i} className="block-paragraph" style={style}>
+              <FormattedText text={segment} />
+            </p>
+          ))}
+        </>
       )
+    }
 
-    case 'verse':
+    case 'verse': {
+      const verseText = block.text ?? ''
+      const segments = verseText.split(/\n\n/)
       return (
-        <p className="block-verse" style={style}>
-          <VerseText text={block.text ?? ''} />
-        </p>
+        <>
+          {segments.map((segment, i) => (
+            <p key={i} className="block-verse" style={style}>
+              <VerseText text={segment} />
+            </p>
+          ))}
+        </>
       )
+    }
 
     case 'instruction':
       return (
@@ -89,6 +103,8 @@ export function SeparatorHero({ blocks, fontSize }: { blocks: BlockType[]; fontS
   const title = blocks.find(b => b.type === 'heading')?.text ?? ''
   const image = blocks.find(b => b.type === 'image')
   const desc = blocks.find(b => b.type === 'paragraph')
+  const descText = desc?.text ?? ''
+  const firstPara = descText.includes('\n\n') ? descText.split(/\n\n/)[0]! : descText
 
   return (
     <div className="block-separator-hero" style={{ fontSize: `${fontSize}em` }}>
@@ -101,7 +117,7 @@ export function SeparatorHero({ blocks, fontSize }: { blocks: BlockType[]; fontS
       )}
       {desc && (
         <p className="sep-desc">
-          <FormattedText text={desc.text ?? ''} />
+          <FormattedText text={firstPara} />
         </p>
       )}
     </div>
