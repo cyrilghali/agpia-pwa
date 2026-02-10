@@ -25,6 +25,8 @@ Chaque entrée de la table des matières :
 
 Les entrées de premier niveau correspondent aux heures de prière (ou sections). Les `children` sont les chapitres/sous-parties de cette section.
 
+**Introduction par heure** : il n'y a pas d'introduction globale (`part001`). Chaque heure possède son propre chapitre d'introduction dont l'id est `{hourId}-intro` (ex. `part003-intro`, `part036-intro`). Ce chapitre doit apparaître comme premier `children` de l'heure dans le TOC et comme premier chapitre de l'heure dans `chapters`. Les nouvelles langues et les pipelines de génération (epub → json) doivent produire directement cette structure.
+
 ## Structure des chapitres
 
 Chaque élément de `chapters` :
