@@ -1,11 +1,6 @@
 import { useMemo, createElement } from 'react'
 import type { ContentBlock as BlockType } from './types'
 
-/** Title case for English (e.g. "PSALM 86" → "Psalm 86") */
-function toTitleCase(s: string): string {
-  return s.toLowerCase().replace(/\b\w/g, (c) => c.toUpperCase())
-}
-
 interface ContentBlockProps {
   block: BlockType
   fontSize: number
@@ -13,18 +8,15 @@ interface ContentBlockProps {
 
 export default function ContentBlock({ block, fontSize }: ContentBlockProps) {
   const style = useMemo(() => ({ fontSize: `${fontSize}em` }), [fontSize])
-  const isEn = typeof document !== 'undefined' && document.documentElement.getAttribute('lang') === 'en'
 
   switch (block.type) {
     case 'heading': {
       const level = Math.min(Math.max(block.level ?? 1, 1), 6)
       const tag = `h${level}` as keyof JSX.IntrinsicElements
-      const text = block.text ?? ''
-      const displayText = isEn ? toTitleCase(text) : text
       return createElement(tag, {
         className: `block-heading block-heading-${level}`,
         style,
-      }, displayText)
+      }, block.text ?? '')
     }
 
     case 'paragraph':

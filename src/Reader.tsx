@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings, Chapter } from './types'
-import { getHourLabelKey } from './types'
+import { getHourLabelKey, getTocTitle } from './types'
 import ContentBlock, { SeparatorHero } from './ContentBlock'
 import TocDrawer from './TocDrawer'
 import SettingsPanel from './SettingsPanel'
@@ -36,17 +36,37 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
   const currentChapter = book.chapters[currentIndex]
   const hourLabelKey = getHourLabelKey(currentChapter?.hourId)
 
+  // When chapter title is a raw part id (e.g. "part085"), use TOC title or "Oraisons"
+  const readerBarTitle = useMemo(() => {
+    const title = currentChapter?.title ?? ''
+    if (/^part\d+$/i.test(title)) {
+      const tocTitle = getTocTitle(book.toc, currentChapter!.id)
+      return tocTitle || null // null => will use t('hours.oraisons') in JSX
+    }
+    return title || null
+  }, [book.toc, currentChapter?.id, currentChapter?.title])
+
   const prevChapter = currentIndex > 0 ? book.chapters[currentIndex - 1] : null
   const nextChapter = currentIndex < book.chapters.length - 1 ? book.chapters[currentIndex + 1] : null
 
   const [scrollFraction, setScrollFraction] = useState(0)
 
-  // Blended progress: chapter index + scroll within chapter
-  const progress = book.chapters.length > 1
-    ? (currentIndex + scrollFraction) / book.chapters.length
-    : 0
+  // Progress relative to current hour only (chapters with same hourId)
+  const hourChapters = useMemo(() => {
+    const hourId = currentChapter?.hourId ?? null
+    if (!hourId) return [currentChapter].filter(Boolean) as Chapter[]
+    return book.chapters.filter((ch) => ch.hourId === hourId)
+  }, [book.chapters, currentChapter])
 
-  // Scroll to top on chapter change (fix: clear saved scroll so restore doesn't fight)
+  const indexWithinHour = hourChapters.findIndex((ch) => ch.id === currentChapterId)
+  const progress =
+    hourChapters.length > 1 && indexWithinHour >= 0
+      ? (indexWithinHour + scrollFraction) / hourChapters.length
+      : indexWithinHour === 0 && hourChapters.length === 1
+        ? scrollFraction
+        : 0
+
+  // Scroll to top on chapter change
   useEffect(() => {
     const el = contentRef.current
     if (!el) return
@@ -62,16 +82,12 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
     // Always scroll to top on chapter change
     el.scrollTo({ top: 0, behavior: 'instant' as ScrollBehavior })
     setScrollFraction(0)
-    // Clear any saved scroll for this chapter so it doesn't restore
-    sessionStorage.removeItem(`agpia-scroll-${currentChapterId}`)
   }, [currentChapterId, chapterIndex, currentIndex])
 
-  // Throttled scroll handler: persist position + update scroll fraction
+  // Throttled scroll handler: update scroll fraction for progress bar
   const handleContentScroll = useThrottledCallback(() => {
     const el = contentRef.current
     if (!el) return
-    const key = `agpia-scroll-${currentChapterId}`
-    sessionStorage.setItem(key, String(el.scrollTop))
     const maxScroll = el.scrollHeight - el.clientHeight
     setScrollFraction(maxScroll > 0 ? el.scrollTop / maxScroll : 0)
   }, 200, [currentChapterId])
@@ -138,7 +154,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
         </button>
         <div className="reader-bar-center">
           {hourLabelKey && <span className="reader-bar-hour">{t(hourLabelKey)}</span>}
-          <span className="reader-bar-title">{currentChapter?.title ?? t('reader.fallbackTitle')}</span>
+          <span className="reader-bar-title">{readerBarTitle ?? (currentChapter && /^part\d+$/i.test(currentChapter.title ?? '') ? t('hours.oraisons') : currentChapter?.title) ?? t('reader.fallbackTitle')}</span>
         </div>
         <button className="reader-menu-btn" onClick={() => setSearchOpen(true)} aria-label={t('reader.search')}>
           <SearchIcon />

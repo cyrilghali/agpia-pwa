@@ -165,10 +165,11 @@ function HighlightText({ text, query }: { text: string; query: string }) {
   if (!query) return <>{text}</>
   const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi')
   const parts = text.split(regex)
+  const lower = query.toLowerCase()
   return (
     <>
       {parts.map((part, i) =>
-        regex.test(part)
+        part.toLowerCase() === lower
           ? <mark key={i} className="search-highlight">{part}</mark>
           : <span key={i}>{part}</span>
       )}

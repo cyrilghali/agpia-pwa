@@ -68,5 +68,6 @@ export interface Translations {
     intro: string
     absolutions: string
     prayers: string
+    oraisons: string
   }
 }

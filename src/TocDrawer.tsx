@@ -4,11 +4,6 @@ import type { TocEntry } from './types'
 import { getHourIcon } from './types'
 import { useFocusTrap } from './hooks'
 
-/** Title case for English TOC (e.g. "THE LORD'S PRAYER" → "The Lord's Prayer") */
-function toTitleCase(s: string): string {
-  return s.toLowerCase().replace(/\b\w/g, (c) => c.toUpperCase())
-}
-
 interface TocDrawerProps {
   open: boolean
   onClose: () => void
@@ -18,10 +13,9 @@ interface TocDrawerProps {
 }
 
 export default function TocDrawer({ open, onClose, toc, currentChapterId, onSelect }: TocDrawerProps) {
-  const { t, i18n } = useTranslation()
+  const { t } = useTranslation()
   const bodyRef = useRef<HTMLDivElement>(null)
   const drawerRef = useRef<HTMLElement>(null)
-  const titleForToc = (title: string) => (i18n.language === 'en' ? toTitleCase(title) : title)
 
   // Focus trap + body scroll lock
   useFocusTrap(open, drawerRef)
@@ -68,7 +62,6 @@ export default function TocDrawer({ open, onClose, toc, currentChapterId, onSele
               currentChapterId={currentChapterId}
               currentSectionId={currentSectionId}
               onSelect={onSelect}
-              titleForToc={titleForToc}
             />
           ))}
         </div>
@@ -77,12 +70,11 @@ export default function TocDrawer({ open, onClose, toc, currentChapterId, onSele
   )
 }
 
-function TocSection({ entry, currentChapterId, currentSectionId, onSelect, titleForToc }: {
+function TocSection({ entry, currentChapterId, currentSectionId, onSelect }: {
   entry: TocEntry
   currentChapterId: string
   currentSectionId: string | null
   onSelect: (id: string) => void
-  titleForToc: (title: string) => string
 }) {
   const isCurrentSection = entry.id === currentSectionId
   const isDirectlyActive = entry.id === currentChapterId
@@ -108,7 +100,7 @@ function TocSection({ entry, currentChapterId, currentSectionId, onSelect, title
         }}
       >
         <span className="toc-section-icon">{hourIcon ?? '·'}</span>
-        <span>{titleForToc(entry.title)}</span>
+        <span>{entry.title}</span>
         {hasChildren && (
           <span className={`toc-section-chevron ${expanded ? 'toc-section-chevron--open' : ''}`}>▸</span>
         )}
@@ -122,7 +114,6 @@ function TocSection({ entry, currentChapterId, currentSectionId, onSelect, title
               entry={child}
               currentChapterId={currentChapterId}
               onSelect={onSelect}
-              titleForToc={titleForToc}
             />
           ))}
         </div>
@@ -131,11 +122,10 @@ function TocSection({ entry, currentChapterId, currentSectionId, onSelect, title
   )
 }
 
-function TocChild({ entry, currentChapterId, onSelect, titleForToc }: {
+function TocChild({ entry, currentChapterId, onSelect }: {
   entry: TocEntry
   currentChapterId: string
   onSelect: (id: string) => void
-  titleForToc: (title: string) => string
 }) {
   const isActive = entry.id === currentChapterId
   const [expanded, setExpanded] = useState(false)
@@ -147,7 +137,7 @@ function TocChild({ entry, currentChapterId, onSelect, titleForToc }: {
         className={`toc-child-btn ${isActive ? 'toc-child-btn--active' : ''}`}
         onClick={() => onSelect(entry.id)}
       >
-        {titleForToc(entry.title)}
+        {entry.title}
       </button>
     )
   }
@@ -159,7 +149,7 @@ function TocChild({ entry, currentChapterId, onSelect, titleForToc }: {
         onClick={() => setExpanded(!expanded)}
       >
         <span style={{ marginInlineEnd: '0.3rem', fontSize: '0.7em' }}>{expanded ? '▾' : '▸'}</span>
-        {titleForToc(entry.title)}
+        {entry.title}
       </button>
       {expanded && entry.children!.map((sub) => (
         <button
@@ -168,7 +158,7 @@ function TocChild({ entry, currentChapterId, onSelect, titleForToc }: {
           style={{ paddingInlineStart: '3.5rem' }}
           onClick={() => onSelect(sub.id)}
         >
-          {titleForToc(sub.title)}
+          {sub.title}
         </button>
       ))}
     </>
