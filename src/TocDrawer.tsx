@@ -11,10 +11,12 @@ interface TocDrawerProps {
   currentChapterId: string
   /** Pre-computed top-level section id for the current chapter (from BookIndex) */
   currentSectionId: string | null
+  /** Maps section id → hero chapter id (sections with a separator hero page) */
+  heroIds: Map<string, string>
   onSelect: (id: string) => void
 }
 
-export default function TocDrawer({ open, onClose, toc, currentChapterId, currentSectionId, onSelect }: TocDrawerProps) {
+export default function TocDrawer({ open, onClose, toc, currentChapterId, currentSectionId, heroIds, onSelect }: TocDrawerProps) {
   const { t } = useTranslation()
   const bodyRef = useRef<HTMLDivElement>(null)
   const drawerRef = useRef<HTMLElement>(null)
@@ -60,6 +62,7 @@ export default function TocDrawer({ open, onClose, toc, currentChapterId, curren
               entry={entry}
               currentChapterId={currentChapterId}
               currentSectionId={currentSectionId}
+              heroIds={heroIds}
               onSelect={onSelect}
             />
           ))}
@@ -69,10 +72,11 @@ export default function TocDrawer({ open, onClose, toc, currentChapterId, curren
   )
 }
 
-function TocSection({ entry, currentChapterId, currentSectionId, onSelect }: {
+function TocSection({ entry, currentChapterId, currentSectionId, heroIds, onSelect }: {
   entry: TocEntry
   currentChapterId: string
   currentSectionId: string | null
+  heroIds: Map<string, string>
   onSelect: (id: string) => void
 }) {
   const isCurrentSection = entry.id === currentSectionId
@@ -88,12 +92,13 @@ function TocSection({ entry, currentChapterId, currentSectionId, onSelect }: {
   }, [isCurrentSection])
 
   const hourIcon = getHourIcon(entry.id)
-  const firstChildId = hasChildren ? entry.children![0].id : entry.id
+  const heroId = heroIds.get(entry.id)
+  const targetId = heroId ?? (hasChildren ? entry.children![0].id : entry.id)
 
   return (
     <div className="toc-section">
       <div className={`toc-section-header ${isDirectlyActive || isCurrentSection ? 'toc-section-header--active' : ''}`}>
-        <button className="toc-section-nav" onClick={() => onSelect(firstChildId)}>
+        <button className="toc-section-nav" onClick={() => onSelect(targetId)}>
           <span className="toc-section-icon">{hourIcon ?? '·'}</span>
           <span>{entry.title}</span>
         </button>

@@ -2709,21 +2709,9 @@
         {
           "type": "paragraph",
           "text": ""
-        }
-      ],
-      "hourId": "twelfth-hour"
-    },
-    {
-      "id": "twelfth-hour-prayer",
-      "title": "",
-      "blocks": [
-        {
-          "type": "heading",
-          "level": 1,
-          "text": ""
         },
         {
-          "type": "paragraph",
+          "type": "instruction",
           "text": ""
         }
       ],
@@ -3081,23 +3069,7 @@
           "text": ""
         },
         {
-          "type": "image",
-          "src": "/agpia/assets/coptic_cross.svg"
-        }
-      ],
-      "hourId": "veil"
-    },
-    {
-      "id": "veil-prayer",
-      "title": "",
-      "blocks": [
-        {
-          "type": "heading",
-          "level": 1,
-          "text": ""
-        },
-        {
-          "type": "paragraph",
+          "type": "instruction",
           "text": ""
         }
       ],
@@ -3300,6 +3272,33 @@
           "text": ""
         }
       ]
+    },
+    {
+      "id": "midnight-prayer",
+      "title": "",
+      "blocks": [
+        {
+          "type": "separator"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": ""
+        },
+        {
+          "type": "image",
+          "src": "/agpia/assets/midnight.jpg"
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "instruction",
+          "text": ""
+        }
+      ],
+      "hourId": "midnight"
     },
     {
       "id": "midnight",
@@ -3528,10 +3527,6 @@
         {
           "type": "paragraph",
           "text": ""
-        },
-        {
-          "type": "image",
-          "src": "/agpia/assets/midnight.jpg"
         }
       ],
       "hourId": "midnight"
@@ -3911,10 +3906,6 @@
         {
           "type": "image",
           "src": "/agpia/assets/absolutions.jpg"
-        },
-        {
-          "type": "paragraph",
-          "text": ""
         }
       ],
       "hourId": "absolutions"

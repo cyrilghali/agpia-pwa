@@ -200,6 +200,7 @@ export default function Reader({ book, bookIndex, currentChapterId, onNavigate, 
         toc={book.toc}
         currentChapterId={currentChapterId}
         currentSectionId={bookIndex.sectionIdByChapterId.get(currentChapterId) ?? null}
+        heroIds={bookIndex.heroChapterIdBySectionId}
         onSelect={(id) => { navigateTo(id); setTocOpen(false) }}
       />
       <SettingsPanel

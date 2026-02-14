@@ -12,6 +12,8 @@ export interface BookIndex {
   sectionIdByChapterId: Map<string, string>
   /** O(1) chapters grouped by hourId */
   chaptersByHour: Map<string, Chapter[]>
+  /** O(1) hero chapter id lookup by TOC section id (sections with a separator hero page) */
+  heroChapterIdBySectionId: Map<string, string>
 }
 
 /**
@@ -62,11 +64,20 @@ export function buildBookIndex(book: AgpiaBook): BookIndex {
     if (section.children) walkSections(section.children, section.id)
   }
 
+  // --- hero chapter map: sectionId → hero chapter id (first block is separator) ---
+  const heroChapterIdBySectionId = new Map<string, string>()
+  for (const ch of book.chapters) {
+    if (ch.hourId && ch.blocks[0]?.type === 'separator') {
+      heroChapterIdBySectionId.set(ch.hourId, ch.id)
+    }
+  }
+
   return {
     chapterById,
     chapterIndexById,
     tocTitleById,
     sectionIdByChapterId,
     chaptersByHour,
+    heroChapterIdBySectionId,
   }
 }

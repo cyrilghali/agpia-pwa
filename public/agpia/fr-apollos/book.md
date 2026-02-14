@@ -736,15 +736,15 @@ _La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est 
 
 Ô Lumière véritable qui illumines tout homme venu en ce monde, Tu es venu dans le monde par Ton amour pour les hommes et toute la création s'est réjouie de Ton avènement. Tu as sauvé notre père Adam de l'illusion. Tu as libéré notre mère Eve des douleurs de la mort. Tu nous as donné l'esprit de filiation. Nous Te louons et nous Te bénissons avec les anges en disant :
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Alors qu'arrive sur nous l'heure du matin, ô Christ notre Dieu, la Lumière véritable, que brillent en nous les pensées de la Lumière, et que l'obscurité des passions ne nous recouvre pas. Ainsi, nous Te louons en toute intelligence avec David en clamant vers Toi et disant : Mes yeux devancent l'heure du matin pour méditer sur toutes Tes paroles. Selon Ta grande Miséricorde, écoute nos voix, Sauve-nous ô Seigneur notre Dieu selon Ta compassion.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Tu es honorée ô Mère de la Lumière. Du levant du soleil jusqu'à son couchant des doxologies te sont amenées ô Toi qui enfantes le Divin, toi le second ciel, car tu es la Fleur pure et immuable, la Mère qui se maintient toujours vierge. Le Père t'a choisie, et le Saint Esprit t'a prise sous son ombre et le Fils est venu, par toi il a pris chair. Implore-le de donner le Salut au monde qu'Il a créé, et de le délivrer de la tentation. Louons-le par une louange nouvelle et bénissons-le, maintenant et toujours et pour tous les siècles des siècles. Amen !
 
@@ -1261,15 +1261,15 @@ Ton Esprit-Saint, Seigneur, que tu as envoyé sur tes saints Disciples et Apôtr
 
 Ô Dieu, crée en moi un cœur pur, renouvelle en moi un esprit droit. Ne me rejette pas loin de Ta Face et ne me retire pas Ton Esprit-Saint.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint-Esprit.
+**Gloire au Père, au Fils et au Saint-Esprit.**
 
 Ô Seigneur, qui as envoyé Ton Esprit-Saint sur tes saints Disciples et Apôtres honorés à la troisième heure, ne nous l'enlève pas, ô Toi qui est Bon, mais nous t'implorons de le renouveler à l'intérieur de nous, ô notre Seigneur Jésus-Christ, Fils de Dieu, le Logos : un Esprit droit et vivifiant, un Esprit prophétique et vénérable, un Esprit de sainteté, de justice et de force directrice, Ô Toi qui as pouvoir sur tout, car Tu es celui qui illumine nos âmes. Ô Toi qui illumines tout homme venant au monde, aie pitié de nous !
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Mère de Dieu, tu es la vraie vigne portant la grappe de la Vie, nous te supplions, ô toi qui es pleine de grâce, avec les Apôtres, pour la Délivrance de nos âmes.
 
@@ -1277,19 +1277,19 @@ Béni soit le Seigneur notre Dieu. Béni soit le Seigneur jour après jour. Et I
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 
@@ -1669,33 +1669,33 @@ J'ai invoqué Dieu et le Seigneur m'a écouté. Ô Dieu entends ma prière et ne
 
 Tourne-toi vers moi et écoute-moi le soir, le matin ou à midi. Je dirai, je parlerai et Il entendra ma voix, et Il sauvera mon âme en paix.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Ô Jésus-Christ notre Dieu qui a été cloué sur la Croix à la sixième heure, Tu as détruit le péché par la Croix, et par Ta mort Tu as redonné vie à celui qui était mort, l'homme créé de tes mains, et qui est mort par le péché, Détruis nos passions par Tes souffrances salvatrices et vivifiantes, et par les clous transperçant Ton Corps. Délivre notre Intelligence des dommages causés par les choses matérielles, afin que nous fassions mémoire de Tes jugements célestes selon Ta miséricorde.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 N'ayant aucune circonstance atténuante pour nos nombreux péchés, c'est par toi, ô Théotokos, que nous nous adressons hardiment à Celui que tu as enfanté. Car tes intercessions sont nombreuses et agréées par Notre Sauveur. Ô Mère pure, ne refuse pas aux pécheurs tes intercessions auprès de Celui que tu as enfanté, parce qu'Il est miséricordieux et peut nous sauver. En effet il a souffert pour nous afin de nous sauver. Que tes compassion nous devancent vite car nous sommes dans une grande misère. Aide-nous ô Dieu notre Sauveur à cause de Ton Nom. Ô Seigneur tu nous sauveras, tu nous remettras nos péchés à cause de Ton Saint Nom.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Tu as opéré le Salut au milieu de la terre, ô Christ notre Dieu quand Tu as tendu Tes mains saintes sur la Croix. C'est pourquoi toutes les nations s'écrient : « Gloire à Toi Seigneur ».
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Nous nous prosternons devant Ta Forme incorruptible, ô Toi qui es bon, en demandant la rémission de nos péchés, ô Christ notre Dieu, parce qu'il t'a plu de monter sur la Croix pour sauver de l'esclavage de l'ennemi ceux que Tu as créés. Nous crions vers Toi et nous Te rendons grâce car Tu as rempli de joie le Tout, ô Sauveur, quand Tu es venu pour aider le monde. Ô Seigneur, gloire à Toi.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Tu es Celle qui est pleine de grâce, ô la Vierge Theotokos. Nous t'exaltons car c'est par la Croix de Ton Fils qu'Hadès a été anéanti, la mort vaincue.
 
@@ -2063,35 +2063,35 @@ _La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est 
 
 Ô Toi qui à la neuvième heure a pour nous goûté la mort dans la chair, fais mourir nos pensées corporelles, ô Christ notre Dieu, et sauve-nous !
 
-> Que ma supplication s'approche devant Toi, Seigneur. Donne-moi l'intelligence, selon Ta Parole. Que ma requête entre auprès de Toi. Vivifie-moi selon Ta Parole.
+Que ma supplication s'approche devant Toi, Seigneur. Donne-moi l'intelligence, selon Ta Parole. Que ma requête entre auprès de Toi. Vivifie-moi selon Ta Parole.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Ô Toi qui as rendu l'Esprit dans les mains du Père quand Tu as été crucifié à la neuvième heure, et qui as conduit le larron crucifié avec Toi au Paradis, ne me méprise pas ô Toi qui es Bon, et ne m'abomine pas, mais purifie mon âme, illumine mon intelligence, et tu me feras participant aux grâces de Tes Mystères immortels. Afin qu'ayant goûté à Ta Bonté, je t'adresse une louange incessante, désirant Ta Splendeur plus que toute chose, ô Christ notre Dieu : sauve-nous !
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Toi qui es né pour nous de la Vierge et as supporté la Croix, ô Toi qui es Bon, Tu as tué la Mort par Ta mort, et tu nous as manifesté la Résurrection. N'abandonne pas, ô Dieu, ceux que tu as créés de Tes mains. Manifeste Ton amour du genre humain, Ô Toi qui est Bon, et reçois les suppliques de Ta Mère en notre faveur. Sauve, ô Sauveur, un peuple humilié. Ne nous abandonne pas pour toujours, et ne nous livre pas à jamais ; ne romps pas Ton Alliance, ne nous enlève pas ta miséricorde, aux noms d'Abraham, Ton bien-aimé, d'Isaac, Ton serviteur, et de Jacob, Ton saint.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Quand le larron a vu le Maître de la Vie sur la Croix, il a dit : « Si Celui qui est crucifié avec nous n'était pas un Dieu incarné, le soleil n'aurait pas caché ses rayons, et la terre n'aurait pas chancelé et tremblé, mais ô Toi qui as pouvoir en tout, et qui supportes tout, souviens-Toi de moi, Seigneur, quand Tu viendras dans ta Royauté ! »
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 O Toi qui as reçu la profession de foi du larron sur la Croix, reçois-nous ô Toi qui es Bon, nous qui méritons la sentence de mort à cause de nos péchés. Nous confessons nos péchés avec le larron et professons Ta Divinité, en clamant vers Toi en chœur avec lui : « Souviens-Toi de nous, Seigneur, quand Tu viendras dans ta Royauté ! »
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Quand la Mère a vu l'Agneau, le Pasteur, le Sauveur du monde accroché sur la Croix, elle a dit en pleurant : « Le monde certes se réjouit car il a reçu le Salut, mais mes entrailles brûlent en voyant Ta Crucifixion que Tu endures avec patience pour le Tout, mon Fils et mon Dieu ! »
 
@@ -2427,17 +2427,17 @@ Si le juste n'est sauvé qu'à grand peine, comment paraîtrais-je, moi, le péc
 
 Je n'ai pas pu supporter le poids du jour et sa chaleur à cause de la faiblesse de mon humanité. Mais Toi, Dieu miséricordieux, compte-moi parmi ceux de la onzième heure, car moi, c'est dans l'illégalité que j'ai été conçu, dans le péché ma mère m'a enfanté. C'est pourquoi je ne peux pas lever les yeux vers le ciel mais je me confierai en l'abondance de Ta Miséricorde et de Ton amour du genre humain en clamant et en disant : « Ô Dieu pardonne-moi car je suis pécheur et fais-moi miséricorde ! »
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩⲓⲱ ⲕⲉ ⲁⲅⲓⲱ Ⲡⲛⲉⲩⲙⲁⲧⲓ.
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩⲓⲱ ⲕⲉ ⲁⲅⲓⲱ Ⲡⲛⲉⲩⲙⲁⲧⲓ.
 
-### Gloire au Père, au Fils et au Saint Esprit !
+**Gloire au Père, au Fils et au Saint Esprit !**
 
 Hâte-Toi, ô Sauveur, de m'accueillir dans ton sein paternel car j'ai fini ma vie dans la prodigalité et les désirs, le jour est passé pour moi et s'envole. Maintenant je me confie en l'abondance de Ta compassion infinie. Ne Te détourne pas d'un cœur humble qui requiert Ta Miséricorde. Voici que je crie vers Toi, ô Seigneur, avec crainte en disant :
 
 « Père, j'ai péché contre le ciel et envers Toi, et je suis indigne d'être appelé Ton fils, mais fais de moi comme l'un de Tes ouvriers. »
 
-## Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁⲓ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉⲱⲛⲁⲥ ⲧⲱⲛ ⲉⲱⲛⲱⲛ. Ⲁⲙⲏⲛ.
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁⲓ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉⲱⲛⲁⲥ ⲧⲱⲛ ⲉⲱⲛⲱⲛ. Ⲁⲙⲏⲛ.
 
-### Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Et maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Car j'ai péché résolument et avec diligence, et je me suis trouvé à pécher avec désir et énergie, et j'ai mérité le châtiment et le jugement.
 
@@ -2787,9 +2787,9 @@ Mais fais ta métanoia, ô mon âme, tant que tu demeures sur terre, car le tas 
 
 Alors réveille-toi du sommeil de la paresse et implore le Sauveur dans une métanoia, en disant : Ô Dieu fais-moi miséricorde et sauve-moi !
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit !
+**Gloire au Père, au Fils et au Saint Esprit !**
 
 Si l'existence était perpétuelle et si ce monde n'avait pas de fin, il y aurait longtemps qu'une excuse évidente se serait manifestée.
 
@@ -2803,7 +2803,7 @@ Cependant, comme le publicain, je me frappe la poitrine et je dis : Ô Dieu pard
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Vierge immaculée envoie ton ombre, mon secours, vite à ton serviteur (viens-moi en aide, à moi qui suis ton serviteur !)
 
@@ -2899,9 +2899,9 @@ Illumine mes yeux à la grandeur de Tes paroles.
 
 Fais-moi tenir debout en tout temps pour Te glorifier, car Toi seul es bon et Ami du genre humain.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit !
+**Gloire au Père, au Fils et au Saint Esprit !**
 
 Seigneur, Ton Tribunal est redoutable.
 
@@ -2911,7 +2911,7 @@ Quel sera le jugement pour moi au jugement, moi qui suis enchaîné dans le péc
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Mère de Dieu, nous sommes remplis de courage face à toi. Nous ne serons pas couverts de honte, mais sauvés. Et ayant acquis ton aide et ta médiation, ô Sainte, Pure et Parfaite, nous n'aurons aucune crainte, mais nous pourchasserons nos ennemis et nous les disperserons. Car nous recevons la protection de ta puissante aide en toute chose comme d'un bouclier. Nous t'implorons et nous te supplions, ô Théotokos, en élevant vers toi notre clameur afin que tu nous sauves par tes supplications.
 
@@ -3403,15 +3403,15 @@ Voici qu'arrive l'Époux au milieu de la nuit. Heureux le serviteur qu'il trouve
 
 Prends garde, ô mon âme, que tu ne dormes d'un lourd sommeil, et que tu ne sois laissée hors du Royaume. Mais veille et proclame en clamant : Saint, Saint, Saint es-Tu ô Dieu. À cause de la Mère de Dieu, aie pitié de nous !
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Aie l'intelligence, ô mon âme, que ce jour sera terrifiant. Sois vigilant et allume ta lampe avec l'huile de la joie, car tu ne sais pas quand t'arrivera la voix qui dit : « Voici l'Époux ! »
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Prends garde ô mon âme de ne pas t'assoupir pour ne pas te retrouver dehors à frapper à la porte comme les cinq jeunes filles sottes, mais veille en implorant afin que tu puisses rencontrer le Christ le Seigneur, avec de l'huile grasse, et qu'Il te fasse grâce du véritable Mariage de Sa Divinité.
 
@@ -3421,19 +3421,19 @@ Convertis le chagrin de tes serviteurs en joie. Protège notre cité. Combats po
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 
@@ -3473,9 +3473,9 @@ Rends-moi digne de mouiller Tes pieds qui m'ont libéré du chemin de l'égareme
 
 Ainsi je t'offrirai un parfum précieux et je pourrai bénéficier d'une vie purifiée par la metanoia, afin que je puisse entendre la voix pleine de joie me dire : « Ta foi t'a sauvé ».
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Quand je me rends compte de toutes mes œuvres mauvaises et que survient en mon cœur la pensée ce jugement redoutable, je suis pris de tremblement.
 
@@ -3485,7 +3485,7 @@ Je t'en supplie, Toi qui seul es sans péchés, fais la grâce à mon âme misé
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Les cieux te louent, ô pleine de grâce, l'épouse non mariée.
 
@@ -3495,19 +3495,19 @@ Nous aussi, nous glorifions ton enfantement ineffable.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes.
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 
@@ -3543,33 +3543,33 @@ _La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est 
 
 Avec un œil miséricordieux Seigneur, regarde ma faiblesse, car sous peu ma vie mourra et dans mes œuvres je n'ai aucun Salut. C'est pourquoi je supplie : Seigneur, avec un œil miséricordieux regarde ma misère et sauve moi !
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit !
+**Gloire au Père, au Fils et au Saint Esprit !**
 
 Comme si le juge était présent, sois soucieuse ô mon âme, éveille-toi et aie l'intelligence de cette heure redoutable, car il n'y a pas de miséricorde dans le jugement pour ceux qui n'ont pas été miséricordieux. C'est pourquoi sois compatissant envers moi, ô Sauveur, car Toi seul es Ami du genre humain !
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Tu es la Porte de la Vie intellective, honorée Mère de Dieu, sauve des nécessités ceux qui se sont réfugiés auprès de toi avec foi, afin que nous glorifiions ton saint enfantement en toute chose pour le salut de nos âmes !
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
 
-## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
 
-### Gloire au Père, au Fils et au Saint Esprit.
+**Gloire au Père, au Fils et au Saint Esprit.**
 
 Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes !
 
 ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
 
-> Et maintenant et toujours et pour les siècles des siècles. Amen !
+**Maintenant et toujours et pour les siècles des siècles. Amen !**
 
 Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 

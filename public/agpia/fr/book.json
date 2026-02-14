@@ -2709,22 +2709,10 @@
         {
           "type": "paragraph",
           "text": "Cette prière commémore la mise du Corps de notre Seigneur au tombeau. La journée se termine et on considère que la nuit à venir est une petite mort."
-        }
-      ],
-      "hourId": "twelfth-hour"
-    },
-    {
-      "id": "twelfth-hour-prayer",
-      "title": "Prière de la douzième heure",
-      "blocks": [
-        {
-          "type": "heading",
-          "level": 1,
-          "text": "Prière de la douzième heure"
         },
         {
-          "type": "paragraph",
-          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50 (page 9)\n\nLouange de la douzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés."
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\nLouange de la douzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés."
         }
       ],
       "hourId": "twelfth-hour"
@@ -3078,26 +3066,10 @@
         },
         {
           "type": "paragraph",
-          "text": "Spécifique pour les moines et les moniales\n\n- 148 -"
+          "text": "Spécifique pour les moines et les moniales"
         },
         {
-          "type": "image",
-          "src": "/agpia/assets/coptic_cross.svg"
-        }
-      ],
-      "hourId": "veil"
-    },
-    {
-      "id": "veil-prayer",
-      "title": "Prière de la fermeture du voile",
-      "blocks": [
-        {
-          "type": "heading",
-          "level": 1,
-          "text": "Prière de la fermeture du voile"
-        },
-        {
-          "type": "paragraph",
+          "type": "instruction",
           "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\nLouange de la fermeture du voile, je l'offre au Christ, mon Roi et mon Dieu, et je Le supplie de me remettre mes péchés.\n\nPuis on récite les psaumes suivants :"
         }
       ],
@@ -3300,6 +3272,33 @@
           "text": "Pitié pour moi, mon Dieu, en Ton amour, selon Ta grande miséricorde, efface mon péché, Lave-moi tout entier de ma faute et purifies-moi de mon offense.\n\nOui, je connais mon péché, ma faute est toujours devant moi contre Toi, Toi seul, j'ai péché, ce qui est mal à Tes yeux, je l'ai fait,\n\nAinsi Tu peux parler et montrer Ta justice être juge et montrer Ta victoire. Moi je suis né dans la faute, j'étais pécheur dès le sein de ma mère.\n\nMais Tu veux au fond de moi la vérité ; dans le secret Tu m'apprends la sagesse. Purifies-moi avec l'hysope et je serai pur ; lave-moi et je serai blanc, plus que la neige.\n\nFais que j'entende les chants et la fête : ils danseront les os que Tu broyais. Détourne Ta Face de mes fautes, enlève tous mes péchés.\n\nCrée en moi un cœur pur ô mon Dieu, renouvelle et raffermis au fond de moi mon esprit. Ne me chasse pas loin de Ta Face, ne me reprends pas Ton Esprit Saint.\n\nRends-moi la joie d'être sauvé ; que l'esprit généreux me soutienne. Aux pécheurs j'enseignerai Tes chemins ; vers Toi, reviendront les égarés.\n\nLibère-moi du sang versé, Dieu, mon Dieu sauveur, et ma langue acclamera Ta justice ! Seigneur, ouvre mes lèvres, et ma bouche proclamera Ta louange.\n\nSi j'offre un sacrifice, tu n'en veux pas, Tu n'acceptes pas d'holocauste. Le sacrifice qui plaît à Dieu, c'est un esprit brisé ; Tu ne repousses pas, ô mon Dieu, un cœur brisé et broyé.\n\nAccorde à Sion le bonheur, relève les murs de Jérusalem. Alors Tu accepteras de justes sacrifices, oblations et holocaustes ;\n\nalors on offrira des taureaux sur Ton autel.\n\n_Alléluia !_"
         }
       ]
+    },
+    {
+      "id": "midnight-prayer",
+      "title": "Prière de minuit",
+      "blocks": [
+        {
+          "type": "separator"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Prière de minuit"
+        },
+        {
+          "type": "image",
+          "src": "/agpia/assets/midnight.jpg"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 services"
+        },
+        {
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50"
+        }
+      ],
+      "hourId": "midnight"
     },
     {
       "id": "midnight",
@@ -3528,10 +3527,6 @@
         {
           "type": "paragraph",
           "text": "_Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ_ (41 fois) Saint, saint, saint .... Notre Père ..."
-        },
-        {
-          "type": "image",
-          "src": "/agpia/assets/midnight.jpg"
         }
       ],
       "hourId": "midnight"
@@ -3911,10 +3906,6 @@
         {
           "type": "image",
           "src": "/agpia/assets/absolutions.jpg"
-        },
-        {
-          "type": "paragraph",
-          "text": "- 192 -"
         }
       ],
       "hourId": "absolutions"
