@@ -655,6 +655,33 @@
   ],
   "chapters": [
     {
+      "id": "dawn-prayer",
+      "title": "Prière de l'aube",
+      "blocks": [
+        {
+          "type": "separator"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Prière de l'aube"
+        },
+        {
+          "type": "image",
+          "src": "/agpia/assets/dawn.jpg"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cette prière a été établie à l'heure ou notre Seigneur est ressuscité d'entre les morts. Elle est faite au réveil pour rendre grâce à Dieu pour ce nouveau jour qui naît et le glorifier pour Sa Sainte résurrection."
+        },
+        {
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la prière de l'aube du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
+        }
+      ],
+      "hourId": "dawn"
+    },
+    {
       "id": "dawn-intro",
       "title": "Introduction",
       "hourId": "dawn",
@@ -1269,7 +1296,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/210b3293bb62fd9eaac22b7e7692f56cd3c51e499725f0d0b083fe45c42eb751.png"
+          "src": "/agpia/assets/third-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -1618,7 +1645,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/coptic_cross.svg"
+          "src": "/agpia/assets/sixth-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -1987,7 +2014,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/7f97508aaaa4df27f4c0cffff0c33950d5cd652b983fdd960dd1d40e9f120167.jpg"
+          "src": "/agpia/assets/ninth-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -2336,7 +2363,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/coptic_cross.svg"
+          "src": "/agpia/assets/eleventh-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -2677,7 +2704,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/3e6adc322354433cbc9fe4e7aa47d01cef2ec8c88738a155a731da74d2acad3a.jpg"
+          "src": "/agpia/assets/twelfth-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -3047,7 +3074,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/d3c9248ef4e0a5283fd14f927e23164fd07773a4732508c62e470ca3587734f2.jpg"
+          "src": "/agpia/assets/veil.jpg"
         },
         {
           "type": "paragraph",
@@ -3504,7 +3531,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/b879f445a4519eee521d744599cfdea3dcca02444feca205adc8e4cb1f8ccffe.png"
+          "src": "/agpia/assets/midnight.jpg"
         }
       ],
       "hourId": "midnight"
@@ -3883,7 +3910,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/8525359704d9bf9f35e7656fa9d9023c3d815a2c0d7ca4db5d6f0475ef74cefc.png"
+          "src": "/agpia/assets/absolutions.jpg"
         },
         {
           "type": "paragraph",
@@ -3923,7 +3950,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/c41a9d09b977ea36d810d2d262f54203729798a7a29bfaf5edbac8aee7799cfb.png"
+          "src": "/agpia/assets/prayers.jpg"
         }
       ],
       "hourId": "prayers"
