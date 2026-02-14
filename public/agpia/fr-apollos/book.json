@@ -113,7 +113,7 @@
           "id": "dawn-trisagion"
         },
         {
-          "title": "",
+          "title": "Introduction de l'Acte de Foi",
           "id": "dawn-creed-intro"
         },
         {
@@ -731,7 +731,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Un est Dieu le Père de tous. Un est aussi Son Fils Jésus-Christ le Logos qui s'est incarné, qui est mort et qui est ressuscité d'entre les morts le troisième jour. Il nous a ressuscités avec Lui. Un est le Saint Esprit le Paraclet, unique dans son hypostase. Il procède du Père. Il purifie toute la création et nous a enseigné à adorer la Sainte Trinité : Une seule Divinité et une seule Nature. Nous Le louons et nous Le bénissons pour toujours. Amen !\n\nHymne de l'aube du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\n_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._"
+          "text": "Un est Dieu le Père de tous. Un est aussi Son Fils Jésus-Christ le Logos qui s'est incarné, qui est mort et qui est ressuscité d'entre les morts le troisième jour. Il nous a ressuscités avec Lui. Un est le Saint Esprit le Paraclet, unique dans son hypostase. Il procède du Père. Il purifie toute la création et nous a enseigné à adorer la Sainte Trinité : Une seule Divinité et une seule Nature. Nous Le louons et nous Le bénissons pour toujours. Amen !\n\nHymne de l'aube du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés."
         }
       ],
       "hourId": "dawn"
@@ -747,7 +747,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Bienheureux l'homme qui n'est point allé dans le conseil des impies, qui ne s'est pas tenu dans la voie des pécheurs, et ne s'est point assis sur le siège des hommes de peste, Mais dont la volonté est dans la Loi du Seigneur, et qui méditera dans sa Loi, jour et nuit.\n\nIl sera comme l'arbre planté au croisement des cours d'eaux, et qui donnera son fruit en son temps propice, et ses feuilles ne tomberont pas, et dans tout ce qu'il fait, il réussira.\n\nIls ne sont pas ainsi les impies, ils ne sont pas ainsi, mais ils sont comme la poussière que le vent balaie sur la face de la terre.\n\nC'est pourquoi les impies ne se relèveront pas au Jugement, ni les pécheurs dans le conseil des justes.\n\nCar le Seigneur connaît la voie des justes, mais la voie des impies est en perdition."
+          "text": "_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._\n\nBienheureux l'homme qui n'est point allé dans le conseil des impies, qui ne s'est pas tenu dans la voie des pécheurs, et ne s'est point assis sur le siège des hommes de peste, Mais dont la volonté est dans la Loi du Seigneur, et qui méditera dans sa Loi, jour et nuit.\n\nIl sera comme l'arbre planté au croisement des cours d'eaux, et qui donnera son fruit en son temps propice, et ses feuilles ne tomberont pas, et dans tout ce qu'il fait, il réussira.\n\nIls ne sont pas ainsi les impies, ils ne sont pas ainsi, mais ils sont comme la poussière que le vent balaie sur la face de la terre.\n\nC'est pourquoi les impies ne se relèveront pas au Jugement, ni les pécheurs dans le conseil des justes.\n\nCar le Seigneur connaît la voie des justes, mais la voie des impies est en perdition."
         }
       ],
       "hourId": "dawn"
@@ -1154,27 +1154,27 @@
         {
           "type": "heading",
           "level": 2,
-          "text": "Introduction au Credo"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Nous t'exaltons ô Mère de la vraie Lumière, et nous te glorifions ô sainte Mère de Dieu, car tu as enfanté pour nous le Sauveur du monde entier. Il est venu et a sauvé nos âmes.\n\nGloire à Toi ô notre Maître et notre Roi, le Christ : fierté des apôtres, couronne des martyrs, allégresse des justes, affermissement des Églises et rémission des péchés.\n\nNous proclamons la Trinité sainte qui est en une Divinité unique, nous l'adorons et nous la glorifions.\n\nSeigneur fais miséricorde ! Seigneur fais miséricorde ! Seigneur bénis ! Amen !"
+          "text": ""
         }
       ],
       "hourId": "dawn"
     },
     {
       "id": "dawn-creed-intro",
-      "title": "",
+      "title": "Introduction de l'Acte de Foi",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de l'Acte de Foi"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Nous t'exaltons ô Mère de la vraie Lumière, et nous te glorifions ô sainte Mère de Dieu, car tu as enfanté pour nous le Sauveur du monde entier. Il est venu et a sauvé nos âmes.\n\nGloire à Toi ô notre Maître et notre Roi, le Christ : fierté des apôtres, couronne des martyrs, allégresse des justes, affermissement des Églises et rémission des péchés.\n\nNous proclamons la Trinité sainte qui est en une Divinité unique, nous l'adorons et nous la glorifions.\n\nSeigneur fais miséricorde ! Seigneur fais miséricorde ! Seigneur bénis ! Amen !"
         }
       ],
       "hourId": "dawn"

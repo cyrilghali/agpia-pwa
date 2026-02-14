@@ -29,6 +29,7 @@
   - [Tropaires de l'aube](#dawn-oraisons)
   - [Louange des anges](#dawn-angels-praise)
   - [Le Trisagion](#dawn-trisagion)
+  - [Introduction de l'Acte de Foi](#dawn-creed-intro)
   - [Acte de Foi](#dawn-creed)
   - [Première absolution de l'aube](#dawn-absolution)
   - [Seconde absolution de l'aube](#dawn-absolution-2)
@@ -144,13 +145,13 @@ Un est Dieu le Père de tous. Un est aussi Son Fils Jésus-Christ le Logos qui s
 
 Hymne de l'aube du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
 
-_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
-
 ---
 
 <a id="psalm1"></a>
 
 ## Psaume 1
+
+_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
 
 Bienheureux l'homme qui n'est point allé dans le conseil des impies, qui ne s'est pas tenu dans la voie des pécheurs, et ne s'est point assis sur le siège des hommes de peste, Mais dont la volonté est dans la Loi du Seigneur, et qui méditera dans sa Loi, jour et nuit.
 
@@ -690,7 +691,11 @@ Salut à toi, qui as enfanté pour nous la Lumière véritable, le Christ, notre
 
 Salut à toi, ô Vierge, Reine véritable. Salut à toi, fierté de notre race ! Tu as enfanté pour nous Emmanuel. Nous te supplions, souviens-toi de nous, ô Médiatrice fidèle, devant notre Seigneur Jésus Christ, afin qu'Il nous pardonne nos péchés.
 
-## Introduction au Credo
+---
+
+<a id="dawn-creed-intro"></a>
+
+## Introduction de l'Acte de Foi
 
 Nous t'exaltons ô Mère de la vraie Lumière, et nous te glorifions ô sainte Mère de Dieu, car tu as enfanté pour nous le Sauveur du monde entier. Il est venu et a sauvé nos âmes.
 
