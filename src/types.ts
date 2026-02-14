@@ -47,25 +47,41 @@ export interface AgpiaBook {
 
 // ---- Locale types ----
 
-export type SupportedLocale = 'fr' | 'ar' | 'de' | 'it' | 'cop'
+export type SupportedLocale = 'fr' | 'fr-apollos' | 'ar' | 'cop'
+
+export interface LocaleVariant {
+  code: SupportedLocale
+  name: string
+}
 
 export interface LocaleConfig {
   code: SupportedLocale
   name: string           // name in its own language
   dir: 'ltr' | 'rtl'
   fontFamily?: string    // specific font for this locale
+  variants?: LocaleVariant[]  // sub-choices shown when this locale is active
 }
 
 export const LOCALES: LocaleConfig[] = [
-  { code: 'fr', name: 'Français', dir: 'ltr' },
+  { code: 'fr', name: 'Français', dir: 'ltr', variants: [
+    { code: 'fr', name: 'Français' },
+    { code: 'fr-apollos', name: 'Traduit du copte' },
+  ]},
   { code: 'ar', name: 'العربية', dir: 'rtl' },
-  { code: 'de', name: 'Deutsch', dir: 'ltr' },
-  { code: 'it', name: 'Italiano', dir: 'ltr' },
   { code: 'cop', name: 'Ⲙⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ', dir: 'ltr', fontFamily: 'Noto Sans Coptic' },
 ]
 
+/** Check if a locale code is valid (top-level or variant). */
+export function isValidLocale(code: string): boolean {
+  return LOCALES.some(l => l.code === code || l.variants?.some(v => v.code === code))
+}
+
+/** Get the locale config for a code (returns parent config for variant codes). */
 export function getLocaleConfig(code: string): LocaleConfig {
-  return LOCALES.find(l => l.code === code) ?? LOCALES[0]
+  const direct = LOCALES.find(l => l.code === code)
+  if (direct) return direct
+  const parent = LOCALES.find(l => l.variants?.some(v => v.code === code))
+  return parent ?? LOCALES[0]
 }
 
 // ---- Storage keys ----

@@ -1,7 +1,7 @@
 import { useEffect, useState, useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings } from './types'
-import { DEFAULT_SETTINGS, LAST_CHAPTER_KEY, SETTINGS_KEY, getLocaleConfig, LOCALE_KEY, LOCALES } from './types'
+import { DEFAULT_SETTINGS, LAST_CHAPTER_KEY, SETTINGS_KEY, getLocaleConfig, LOCALE_KEY, LOCALES, isValidLocale } from './types'
 import { buildBookIndex } from './bookIndex'
 import Landing from './Landing'
 import Reader from './Reader'
@@ -13,7 +13,7 @@ function loadSettings(): ReaderSettings {
     const raw = localStorage.getItem(SETTINGS_KEY)
     if (raw) {
       const parsed = { ...DEFAULT_SETTINGS, ...JSON.parse(raw) }
-      const validLocale = LOCALES.some((l) => l.code === parsed.locale) ? parsed.locale : DEFAULT_SETTINGS.locale
+      const validLocale = isValidLocale(parsed.locale) ? parsed.locale : DEFAULT_SETTINGS.locale
       return { ...parsed, locale: validLocale }
     }
   } catch { /* ignore */ }
@@ -47,7 +47,7 @@ export default function App() {
     document.documentElement.setAttribute('data-theme', settings.theme)
     const localeConfig = getLocaleConfig(settings.locale)
     document.documentElement.setAttribute('dir', localeConfig.dir)
-    document.documentElement.setAttribute('lang', settings.locale)
+    document.documentElement.setAttribute('lang', localeConfig.code)
     localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings))
   }, [settings])
 
@@ -80,20 +80,46 @@ export default function App() {
         <div className="load-error-languages">
           <span className="load-error-languages-label">{t('settings.language')}</span>
           <div className="language-options">
-            {LOCALES.map((loc) => (
-              <button
-                key={loc.code}
-                type="button"
-                className={`language-btn ${settings.locale === loc.code ? 'language-btn--active' : ''}`}
-                onClick={() => updateSettings({ locale: loc.code })}
-                dir={loc.dir}
-                style={loc.fontFamily ? { fontFamily: loc.fontFamily } : undefined}
-              >
-                {loc.name}
-              </button>
-            ))}
+            {LOCALES.map((loc) => {
+              const isGroupActive = loc.variants
+                ? loc.variants.some(v => v.code === settings.locale)
+                : settings.locale === loc.code
+              return (
+                <button
+                  key={loc.code}
+                  type="button"
+                  className={`language-btn ${isGroupActive ? 'language-btn--active' : ''}`}
+                  onClick={() => updateSettings({ locale: loc.code })}
+                  dir={loc.dir}
+                  style={loc.fontFamily ? { fontFamily: loc.fontFamily } : undefined}
+                >
+                  {loc.name}
+                </button>
+              )
+            })}
           </div>
         </div>
+        {(() => {
+          const group = LOCALES.find(l => l.variants?.some(v => v.code === settings.locale))
+          if (!group?.variants) return null
+          return (
+            <div className="load-error-languages">
+              <span className="load-error-languages-label">{t('settings.variant')}</span>
+              <div className="language-options">
+                {group.variants.map(v => (
+                  <button
+                    key={v.code}
+                    type="button"
+                    className={`language-btn language-btn--sm ${settings.locale === v.code ? 'language-btn--active' : ''}`}
+                    onClick={() => updateSettings({ locale: v.code })}
+                  >
+                    {v.name}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )
+        })()}
       </div>
     )
   }

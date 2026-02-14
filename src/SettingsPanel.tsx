@@ -38,19 +38,46 @@ export default function SettingsPanel({ open, onClose, settings, onChange, onGoH
         <div className="settings-row">
           <span className="settings-label">{t('settings.language')}</span>
           <div className="language-options">
-            {LOCALES.map((loc) => (
-              <button
-                key={loc.code}
-                className={`language-btn ${settings.locale === loc.code ? 'language-btn--active' : ''}`}
-                onClick={() => onChange({ locale: loc.code })}
-                dir={loc.dir}
-                style={loc.fontFamily ? { fontFamily: loc.fontFamily } : undefined}
-              >
-                {loc.name}
-              </button>
-            ))}
+            {LOCALES.map((loc) => {
+              const isGroupActive = loc.variants
+                ? loc.variants.some(v => v.code === settings.locale)
+                : settings.locale === loc.code
+              return (
+                <button
+                  key={loc.code}
+                  className={`language-btn ${isGroupActive ? 'language-btn--active' : ''}`}
+                  onClick={() => onChange({ locale: loc.code })}
+                  dir={loc.dir}
+                  style={loc.fontFamily ? { fontFamily: loc.fontFamily } : undefined}
+                >
+                  {loc.name}
+                </button>
+              )
+            })}
           </div>
         </div>
+
+        {/* Language variant (shown only when active locale has variants) */}
+        {(() => {
+          const group = LOCALES.find(l => l.variants?.some(v => v.code === settings.locale))
+          if (!group?.variants) return null
+          return (
+            <div className="settings-row settings-row--sub">
+              <span className="settings-label">{t('settings.variant')}</span>
+              <div className="language-options">
+                {group.variants.map(v => (
+                  <button
+                    key={v.code}
+                    className={`language-btn language-btn--sm ${settings.locale === v.code ? 'language-btn--active' : ''}`}
+                    onClick={() => onChange({ locale: v.code })}
+                  >
+                    {v.name}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )
+        })()}
 
         {/* Font size */}
         <div className="settings-row">

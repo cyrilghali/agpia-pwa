@@ -30,7 +30,6 @@
   - [dawn-oraisons](#dawn-oraisons)
   - [dawn-angels-praise](#dawn-angels-praise)
   - [dawn-trisagion](#dawn-trisagion)
-  - [dawn-creed-intro](#dawn-creed-intro)
   - [dawn-creed](#dawn-creed)
   - [dawn-absolution](#dawn-absolution)
   - [dawn-absolution-2](#dawn-absolution-2)
@@ -374,14 +373,6 @@
 
 ---
 
-<a id="dawn-creed-intro"></a>
-
-## dawn-creed-intro
-
-<!-- fr: Introduction de l'Acte de Foi -->
-
----
-
 <a id="dawn-creed"></a>
 
 ## dawn-creed
@@ -420,7 +411,7 @@
 
 ## third-hour
 
-<!-- fr: Prière de la troisième heure -->
+<!-- fr: Psaume 19 -->
 
 ---
 
@@ -552,7 +543,7 @@
 
 ## sixth-hour
 
-<!-- fr: Prière de la sixième heure -->
+<!-- fr: Psaume 53 -->
 
 ---
 
@@ -692,7 +683,7 @@
 
 ## ninth-hour
 
-<!-- fr: Prière de la neuvième heure -->
+<!-- fr: Psaume 95 -->
 
 ---
 
@@ -824,7 +815,7 @@
 
 ## eleventh-hour
 
-<!-- fr: Prière de la onzième heure -->
+<!-- fr: Psaume 116 -->
 
 ---
 
@@ -964,7 +955,7 @@
 
 ## twelfth-hour
 
-<!-- fr: Prière de la douzième heure -->
+<!-- fr: Psaume 129 -->
 
 ---
 
@@ -1114,7 +1105,7 @@
 
 ## veil
 
-<!-- fr: Prière de la fermeture du voile -->
+<!-- fr: Évangile selon saint Jean (6 : 15 - 23) -->
 
 ---
 

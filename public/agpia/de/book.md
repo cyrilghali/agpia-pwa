@@ -1,4 +1,4 @@
-# ⲀⲄⲠⲒⲀ – ⲚⲒⲠⲢⲞⲤⲈⲨⲬⲎ ⲚⲦⲈⲚⲒⲞⲨⲚⲞⲨ
+# AGPIA – Die Stundengebete
 
 <!-- TOC: replace each [id] with the translated title -->
 

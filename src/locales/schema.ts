@@ -46,6 +46,7 @@ export interface Translations {
     dark: string
     home: string
     language: string
+    variant: string
   }
   search: {
     placeholder: string

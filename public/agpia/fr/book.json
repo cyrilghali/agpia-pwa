@@ -1274,6 +1274,10 @@
         {
           "type": "paragraph",
           "text": "Cette prière a été établie à l’heure ou notre Seigneur a été jugé par Ponce Pilate. Cette heure est aussi celle où le Saint Esprit descendit sur les saints apôtres."
+        },
+        {
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la troisième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "third-hour"
@@ -1314,20 +1318,11 @@
     },
     {
       "id": "third-hour",
-      "title": "Prière de la troisième heure",
+      "title": "Psaume 19",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Prière de la troisième heure"
-        },
-        {
-          "type": "paragraph",
-          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la troisième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
-        },
-        {
-          "type": "heading",
-          "level": 2,
           "text": "Psaume 19"
         },
         {
@@ -1628,6 +1623,10 @@
         {
           "type": "paragraph",
           "text": "Cette prière commémore l’heure où notre Seigneur a été crucifié sur la Croix. Au sixième jour, à la sixième heure, le Christ a été cloué sur le bois pour notre salut."
+        },
+        {
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la sixième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "sixth-hour"
@@ -1668,20 +1667,11 @@
     },
     {
       "id": "sixth-hour",
-      "title": "Prière de la sixième heure",
+      "title": "Psaume 53",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Prière de la sixième heure"
-        },
-        {
-          "type": "paragraph",
-          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la sixième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
-        },
-        {
-          "type": "heading",
-          "level": 2,
           "text": "Psaume 53"
         },
         {
@@ -2002,6 +1992,10 @@
         {
           "type": "paragraph",
           "text": "A la neuvième heure, le soleil s’obscurcit, le voile du sanctuaire se déchira par le milieu. Alors, Jésus jeta un grand cri et dit : “Père, en tes mains, je remets mon esprit.” Ayant dit cela, il expira."
+        },
+        {
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la neuvième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "ninth-hour"
@@ -2042,20 +2036,11 @@
     },
     {
       "id": "ninth-hour",
-      "title": "Prière de la neuvième heure",
+      "title": "Psaume 95",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Prière de la neuvième heure"
-        },
-        {
-          "type": "paragraph",
-          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la neuvième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
-        },
-        {
-          "type": "heading",
-          "level": 2,
           "text": "Psaume 95"
         },
         {
@@ -2356,6 +2341,10 @@
         {
           "type": "paragraph",
           "text": "Cette prière évoque la parabole des ouvriers de la onzième heure : la miséricorde de Dieu accordée à tout moment à ceux qui se repentent et viennent à Lui."
+        },
+        {
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la onzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "eleventh-hour"
@@ -2396,20 +2385,11 @@
     },
     {
       "id": "eleventh-hour",
-      "title": "Prière de la onzième heure",
+      "title": "Psaume 116",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Prière de la onzième heure"
-        },
-        {
-          "type": "paragraph",
-          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la onzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
-        },
-        {
-          "type": "heading",
-          "level": 2,
           "text": "Psaume 116"
         },
         {
@@ -2758,20 +2738,11 @@
     },
     {
       "id": "twelfth-hour",
-      "title": "Prière de la douzième heure",
+      "title": "Psaume 129",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Prière de la douzième heure"
-        },
-        {
-          "type": "paragraph",
-          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la douzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
-        },
-        {
-          "type": "heading",
-          "level": 2,
           "text": "Psaume 129"
         },
         {
@@ -3141,20 +3112,11 @@
     },
     {
       "id": "veil",
-      "title": "Prière de la fermeture du voile",
+      "title": "Évangile selon saint Jean (6 : 15 - 23)",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Prière de la fermeture du voile"
-        },
-        {
-          "type": "paragraph",
-          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la fermeture du voile, je l'offre au Christ, mon Roi et mon Dieu, et je Le supplie de me remettre mes péchés._"
-        },
-        {
-          "type": "heading",
-          "level": 2,
           "text": "Évangile selon saint Jean (6 : 15 - 23)"
         },
         {

@@ -19,11 +19,12 @@ i18n
   .init({
     resources: {
       fr: { translation: fr },
+      'fr-apollos': { translation: fr },  // same UI strings as fr
       ar: { translation: ar },
       cop: { translation: cop },
     },
     fallbackLng: 'fr',
-    supportedLngs: LOCALES.map(l => l.code),
+    supportedLngs: LOCALES.flatMap(l => [l.code, ...(l.variants?.map(v => v.code) ?? [])]),
     interpolation: {
       escapeValue: false, // React already escapes
     },

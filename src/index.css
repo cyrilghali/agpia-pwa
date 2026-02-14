@@ -774,6 +774,14 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   line-height: 1.6;
   max-width: 420px;
 }
+.block-separator-hero .sep-instruction {
+  font-size: 0.82em;
+  color: var(--text-muted);
+  line-height: 1.6;
+  max-width: 420px;
+  margin-top: 1.2em;
+  text-align: center;
+}
 
 /* --- Cross divider at end of chapter --- */
 .chapter-divider {
@@ -1069,6 +1077,15 @@ h4.block-heading, h5.block-heading, h6.block-heading {
   background: var(--accent-soft);
   color: var(--accent);
   font-weight: 600;
+}
+
+.settings-row--sub {
+  margin-top: -0.2rem;
+  padding-top: 0;
+}
+.language-btn--sm {
+  font-size: var(--ds-text-xs);
+  padding: 0.2rem 0.55rem;
 }
 
 /* =========================================================

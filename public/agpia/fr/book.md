@@ -31,7 +31,6 @@
   - [Oraisons](#dawn-oraisons)
   - [Louange des anges](#dawn-angels-praise)
   - [Le Trisagion](#dawn-trisagion)
-  - [Introduction de l'Acte de Foi](#dawn-creed-intro)
   - [Acte de Foi](#dawn-creed)
   - [Prière d'absolution](#dawn-absolution)
   - [Seconde prière d'absolution](#dawn-absolution-2)
@@ -762,18 +761,6 @@ Nous te supplions, souviens-toi de nous, ô médiatrice fidèle, devant notre Se
 
 ---
 
-<a id="dawn-creed-intro"></a>
-
-## Introduction de l'Acte de Foi
-
-Nous t'exaltons ô Mère de la vraie Lumière, et nous te glorifions ô sainte Mère de Dieu, car tu as enfanté pour nous le Sauveur du monde. Il est venu et a sauvé nos âmes.
-
-Gloire à Toi ô notre Seigneur et notre Roi, le Christ : fierté des apôtres, couronne des martyrs, allégresse des justes, affermissement des Eglises et rémission des péchés.
-
-Nous proclamons la Trinité sainte : Une seule Divinité ; nous l'adorons et nous la glorifions. Pitié Seigneur, Pitié Seigneur, Seigneur bénis-nous. Amen !
-
----
-
 <a id="dawn-creed"></a>
 
 ## Acte de Foi
@@ -834,15 +821,13 @@ Toi, maintenant et toujours et dans les siècles des siècles. Amen !
 
 Cette prière a été établie à l’heure ou notre Seigneur a été jugé par Ponce Pilate. Cette heure est aussi celle où le Saint Esprit descendit sur les saints apôtres.
 
+> *On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
+
+_Louange de la troisième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._*
+
 ---
 
 <a id="third-hour"></a>
-
-## Prière de la troisième heure
-
-On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
-
-_Louange de la troisième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._
 
 ## Psaume 19
 
@@ -1189,15 +1174,13 @@ Car à toi sont dues la gloire, l'honneur et la magnificence avec Ton Père trè
 
 Cette prière commémore l’heure où notre Seigneur a été crucifié sur la Croix. Au sixième jour, à la sixième heure, le Christ a été cloué sur le bois pour notre salut.
 
+> *On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
+
+_Louange de la sixième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._*
+
 ---
 
 <a id="sixth-hour"></a>
-
-## Prière de la sixième heure
-
-On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
-
-_Louange de la sixième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._
 
 ## Psaume 53
 
@@ -1552,15 +1535,13 @@ as vaincu toute la puissance de l'ennemi. Accordé- nous des moments lumineux, u
 
 A la neuvième heure, le soleil s’obscurcit, le voile du sanctuaire se déchira par le milieu. Alors, Jésus jeta un grand cri et dit : “Père, en tes mains, je remets mon esprit.” Ayant dit cela, il expira.
 
+> *On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
+
+_Louange de la neuvième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._*
+
 ---
 
 <a id="ninth-hour"></a>
-
-## Prière de la neuvième heure
-
-On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
-
-_Louange de la neuvième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._
 
 ## Psaume 95
 
@@ -1881,15 +1862,13 @@ Christ comme Tu as reçu le larron crucifié à Ta droite alors que tu étais su
 
 Cette prière évoque la parabole des ouvriers de la onzième heure : la miséricorde de Dieu accordée à tout moment à ceux qui se repentent et viennent à Lui.
 
+> *On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
+
+_Louange de la onzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._*
+
 ---
 
 <a id="eleventh-hour"></a>
-
-## Prière de la onzième heure
-
-On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
-
-_Louange de la onzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._
 
 ## Psaume 116
 
@@ -2180,12 +2159,6 @@ Louange de la douzième heure du jour béni, je l'offre au Christ, mon Roi et mo
 ---
 
 <a id="twelfth-hour"></a>
-
-## Prière de la douzième heure
-
-On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
-
-_Louange de la douzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._
 
 ## Psaume 129
 
@@ -2526,12 +2499,6 @@ Puis on récite les psaumes suivants :
 ---
 
 <a id="veil"></a>
-
-## Prière de la fermeture du voile
-
-On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50
-
-_Louange de la fermeture du voile, je l'offre au Christ, mon Roi et mon Dieu, et je Le supplie de me remettre mes péchés._
 
 ## Évangile selon saint Jean (6 : 15 - 23)
 

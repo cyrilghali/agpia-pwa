@@ -98,11 +98,13 @@ export default function ContentBlock({ block, fontSize }: ContentBlockProps) {
 }
 
 /** Render a separator page as a hero card.
- * Takes the full chapter blocks and renders title + image + description nicely. */
+ * Takes the full chapter blocks and renders title + image + description nicely.
+ * Additional instruction blocks (e.g. hour intro texts) are rendered below. */
 export function SeparatorHero({ blocks, fontSize }: { blocks: BlockType[]; fontSize: number }) {
   const title = blocks.find(b => b.type === 'heading')?.text ?? ''
   const image = blocks.find(b => b.type === 'image')
   const desc = blocks.find(b => b.type === 'paragraph')
+  const extras = blocks.filter(b => b.type === 'instruction')
   const descText = desc?.text ?? ''
   const firstPara = descText.includes('\n\n') ? descText.split(/\n\n/)[0]! : descText
 
@@ -120,6 +122,11 @@ export function SeparatorHero({ blocks, fontSize }: { blocks: BlockType[]; fontS
           <FormattedText text={firstPara} />
         </p>
       )}
+      {extras.map((para, i) => (
+        <p key={i} className="sep-instruction">
+          <FormattedText text={para.text ?? ''} />
+        </p>
+      ))}
     </div>
   )
 }

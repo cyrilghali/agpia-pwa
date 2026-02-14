@@ -40,7 +40,8 @@
     "sepia": "Sépia",
     "dark": "Sombre",
     "home": "Retour à l'accueil",
-    "language": "Langue"
+    "language": "Langue",
+    "variant": "Variante"
   },
   "search": {
     "placeholder": "Rechercher une prière, un psaume\u2026",
