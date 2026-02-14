@@ -129,77 +129,77 @@
           "id": "dawn-absolution-2"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion"
         }
       ]
     },
     {
-      "title": "",
+      "title": "Prière de la troisième heure",
       "id": "third-hour",
       "children": [
         {
           "id": "third-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
-          "title": "",
+          "title": "Prière de la troisième heure",
           "id": "third-hour"
         },
         {
-          "title": "",
+          "title": "Psaume 22",
           "id": "psalm22"
         },
         {
-          "title": "",
+          "title": "Psaume 23",
           "id": "psalm23"
         },
         {
-          "title": "",
+          "title": "Psaume 25",
           "id": "psalm25"
         },
         {
-          "title": "",
+          "title": "Psaume 28",
           "id": "psalm28"
         },
         {
-          "title": "",
+          "title": "Psaume 29",
           "id": "psalm29"
         },
         {
-          "title": "",
+          "title": "Psaume 33",
           "id": "psalm33"
         },
         {
-          "title": "",
+          "title": "Psaume 40",
           "id": "psalm40"
         },
         {
-          "title": "",
+          "title": "Psaume 42",
           "id": "psalm42"
         },
         {
-          "title": "",
+          "title": "Psaume 44",
           "id": "psalm44"
         },
         {
-          "title": "",
+          "title": "Psaume 45",
           "id": "psalm45"
         },
         {
-          "title": "",
+          "title": "Psaume 46",
           "id": "psalm46"
         },
         {
-          "title": "",
+          "title": "Évangile de la troisième heure",
           "id": "third-hour-gospel"
         },
         {
-          "title": "",
+          "title": "Tropaires de la troisième heure",
           "id": "third-hour-oraisons"
         },
         {
-          "title": "",
+          "title": "Absolution de la troisième heure",
           "id": "third-hour-absolution"
         },
         {
@@ -209,71 +209,71 @@
       ]
     },
     {
-      "title": "",
+      "title": "Prière de la sixième heure",
       "id": "sixth-hour",
       "children": [
         {
           "id": "sixth-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
-          "title": "",
+          "title": "Prière de la sixième heure",
           "id": "sixth-hour"
         },
         {
-          "title": "",
+          "title": "Psaume 56",
           "id": "psalm56"
         },
         {
-          "title": "",
+          "title": "Psaume 60",
           "id": "psalm60"
         },
         {
-          "title": "",
+          "title": "Psaume 62",
           "id": "sixth-hour-psalm62"
         },
         {
-          "title": "",
+          "title": "Psaume 66",
           "id": "sixth-hour-psalm66"
         },
         {
-          "title": "",
+          "title": "Psaume 69",
           "id": "sixth-hour-psalm69"
         },
         {
-          "title": "",
+          "title": "Psaume 83",
           "id": "psalm83"
         },
         {
-          "title": "",
+          "title": "Psaume 84",
           "id": "psalm84"
         },
         {
-          "title": "",
+          "title": "Psaume 85",
           "id": "psalm85"
         },
         {
-          "title": "",
+          "title": "Psaume 86",
           "id": "psalm86"
         },
         {
-          "title": "",
+          "title": "Psaume 90",
           "id": "psalm90"
         },
         {
-          "title": "",
+          "title": "Psaume 92",
           "id": "psalm92"
         },
         {
-          "title": "",
+          "title": "Évangile de la sixième heure",
           "id": "sixth-hour-gospel"
         },
         {
-          "title": "",
+          "title": "Tropaires de la sixième heure",
           "id": "sixth-hour-oraisons"
         },
         {
-          "title": "",
+          "title": "Absolution de la sixième heure",
           "id": "sixth-hour-absolution"
         },
         {
@@ -283,71 +283,71 @@
       ]
     },
     {
-      "title": "",
+      "title": "Prière de la neuvième heure",
       "id": "ninth-hour",
       "children": [
         {
           "id": "ninth-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
-          "title": "",
+          "title": "Prière de la neuvième heure",
           "id": "ninth-hour"
         },
         {
-          "title": "",
+          "title": "Psaume 96",
           "id": "psalm96"
         },
         {
-          "title": "",
+          "title": "Psaume 97",
           "id": "psalm97"
         },
         {
-          "title": "",
+          "title": "Psaume 98",
           "id": "psalm98"
         },
         {
-          "title": "",
+          "title": "Psaume 99",
           "id": "psalm99"
         },
         {
-          "title": "",
+          "title": "Psaume 100",
           "id": "psalm100"
         },
         {
-          "title": "",
+          "title": "Psaume 109",
           "id": "psalm109"
         },
         {
-          "title": "",
+          "title": "Psaume 110",
           "id": "psalm110"
         },
         {
-          "title": "",
+          "title": "Psaume 111",
           "id": "psalm111"
         },
         {
-          "title": "",
+          "title": "Psaume 112",
           "id": "ninth-hour-psalm112"
         },
         {
-          "title": "",
+          "title": "Psaume 114",
           "id": "psalm114"
         },
         {
-          "title": "",
+          "title": "Psaume 115",
           "id": "psalm115"
         },
         {
-          "title": "",
+          "title": "Évangile de la neuvième heure",
           "id": "ninth-hour-gospel"
         },
         {
-          "title": "",
+          "title": "Tropaires de la neuvième heure",
           "id": "ninth-hour-oraisons"
         },
         {
-          "title": "",
+          "title": "Absolution de la neuvième heure",
           "id": "ninth-hour-absolution"
         },
         {
@@ -357,71 +357,71 @@
       ]
     },
     {
-      "title": "",
+      "title": "Prière de la onzième heure",
       "id": "eleventh-hour",
       "children": [
         {
           "id": "eleventh-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
-          "title": "",
+          "title": "Prière de la onzième heure",
           "id": "eleventh-hour"
         },
         {
-          "title": "",
+          "title": "Psaume 117",
           "id": "psalm117"
         },
         {
-          "title": "",
+          "title": "Psaume 119",
           "id": "psalm119"
         },
         {
-          "title": "",
+          "title": "Psaume 120",
           "id": "psalm120"
         },
         {
-          "title": "",
+          "title": "Psaume 121",
           "id": "psalm121"
         },
         {
-          "title": "",
+          "title": "Psaume 122",
           "id": "psalm122"
         },
         {
-          "title": "",
+          "title": "Psaume 123",
           "id": "psalm123"
         },
         {
-          "title": "",
+          "title": "Psaume 124",
           "id": "psalm124"
         },
         {
-          "title": "",
+          "title": "Psaume 125",
           "id": "psalm125"
         },
         {
-          "title": "",
+          "title": "Psaume 126",
           "id": "psalm126"
         },
         {
-          "title": "",
+          "title": "Psaume 127",
           "id": "psalm127"
         },
         {
-          "title": "",
+          "title": "Psaume 128",
           "id": "psalm128"
         },
         {
-          "title": "",
+          "title": "Évangile de la onzième heure",
           "id": "eleventh-hour-gospel"
         },
         {
-          "title": "",
+          "title": "Tropaires de la onzième heure",
           "id": "eleventh-hour-oraisons"
         },
         {
-          "title": "",
+          "title": "Absolution de la onzième heure",
           "id": "eleventh-hour-absolution"
         },
         {
@@ -431,71 +431,71 @@
       ]
     },
     {
-      "title": "",
+      "title": "Prière de la douzième heure",
       "id": "twelfth-hour",
       "children": [
         {
           "id": "twelfth-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
-          "title": "",
+          "title": "Prière de la douzième heure",
           "id": "twelfth-hour"
         },
         {
-          "title": "",
+          "title": "Psaume 130",
           "id": "psalm130"
         },
         {
-          "title": "",
+          "title": "Psaume 131",
           "id": "psalm131"
         },
         {
-          "title": "",
+          "title": "Psaume 132",
           "id": "psalm132"
         },
         {
-          "title": "",
+          "title": "Psaume 133",
           "id": "twelfth-hour-psalm133"
         },
         {
-          "title": "",
+          "title": "Psaume 136",
           "id": "psalm136"
         },
         {
-          "title": "",
+          "title": "Psaume 137",
           "id": "psalm137"
         },
         {
-          "title": "",
+          "title": "Psaume 140",
           "id": "psalm140"
         },
         {
-          "title": "",
+          "title": "Psaume 141",
           "id": "psalm141"
         },
         {
-          "title": "",
+          "title": "Psaume 145",
           "id": "psalm145"
         },
         {
-          "title": "",
+          "title": "Psaume 146",
           "id": "psalm146"
         },
         {
-          "title": "",
+          "title": "Psaume 147",
           "id": "psalm147"
         },
         {
-          "title": "",
+          "title": "Évangile de la douzième heure",
           "id": "twelfth-hour-gospel"
         },
         {
-          "title": "",
+          "title": "Tropaires de la douzième heure",
           "id": "twelfth-hour-oraisons"
         },
         {
-          "title": "",
+          "title": "Absolution de la douzième heure",
           "id": "twelfth-hour-absolution"
         },
         {
@@ -505,23 +505,23 @@
       ]
     },
     {
-      "title": "",
+      "title": "Prière de la fermeture du voile",
       "id": "veil",
       "children": [
         {
           "id": "veil-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
-          "title": "",
+          "title": "Prière de la fermeture du voile",
           "id": "veil"
         },
         {
-          "title": "",
+          "title": "Tropaires du voile",
           "id": "veil-oraisons"
         },
         {
-          "title": "",
+          "title": "Absolution du voile",
           "id": "veil-absolution"
         },
         {
@@ -531,69 +531,69 @@
       ]
     },
     {
-      "title": "",
+      "title": "Prière de minuit",
       "id": "midnight",
       "children": [
         {
           "id": "midnight-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
-          "title": "",
+          "title": "Premier service",
           "id": "midnight-first-service",
           "children": [
             {
-              "title": "",
+              "title": "Psaume 133",
               "id": "midnight-psalm133"
             },
             {
-              "title": "",
+              "title": "Psaume 118",
               "id": "psalm118"
             },
             {
-              "title": "",
+              "title": "Évangile du premier service",
               "id": "midnight-first-gospel"
             },
             {
-              "title": "",
+              "title": "Tropaires du premier service",
               "id": "midnight-first-oraisons"
             }
           ]
         },
         {
-          "title": "",
+          "title": "Second service",
           "id": "midnight-second-service",
           "children": [
             {
-              "title": "",
+              "title": "Évangile du second service",
               "id": "midnight-second-gospel"
             },
             {
-              "title": "",
+              "title": "Tropaires du second service",
               "id": "midnight-second-oraisons"
             }
           ]
         },
         {
-          "title": "",
+          "title": "Troisième service",
           "id": "midnight-third-service",
           "children": [
             {
-              "title": "",
+              "title": "Évangile du troisième service",
               "id": "midnight-third-gospel"
             },
             {
-              "title": "",
+              "title": "Tropaires du troisième service",
               "id": "midnight-third-oraisons"
             },
             {
-              "title": "",
+              "title": "Cantique de Siméon",
               "id": "midnight-canticle-simeon"
             }
           ]
         },
         {
-          "title": "",
+          "title": "Absolution de minuit",
           "id": "midnight-absolution"
         },
         {
@@ -603,51 +603,51 @@
       ]
     },
     {
-      "title": "",
+      "title": "Prières d'absolution pour les prêtres",
       "id": "absolutions"
     },
     {
-      "title": "",
+      "title": "Prières diverses",
       "id": "prayers",
       "children": [
         {
-          "title": "",
+          "title": "Prière pour le repentir",
           "id": "prayer-repentance"
         },
         {
-          "title": "",
+          "title": "Prière avant la confession",
           "id": "prayer-before-confession"
         },
         {
-          "title": "",
+          "title": "Prière après la confession",
           "id": "prayer-after-confession"
         },
         {
-          "title": "",
+          "title": "Prière avant la communion",
           "id": "prayer-before-communion"
         },
         {
-          "title": "",
+          "title": "Seconde prière avant la communion",
           "id": "prayer-before-communion-2"
         },
         {
-          "title": "",
+          "title": "Prière après la communion",
           "id": "prayer-after-communion"
         },
         {
-          "title": "",
+          "title": "Seconde prière après la communion",
           "id": "prayer-after-communion-2"
         },
         {
-          "title": "",
+          "title": "Prière pour demander à Dieu de nous guider",
           "id": "prayer-guidance"
         },
         {
-          "title": "",
+          "title": "Prière avant de manger",
           "id": "prayer-before-meal"
         },
         {
-          "title": "",
+          "title": "Prière / Remerciements",
           "id": "prayer-closing"
         }
       ]
@@ -1237,16 +1237,16 @@
     },
     {
       "id": "conclusion",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la conclusion de chaque heure -->"
         },
         {
           "type": "image",
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "third-hour-prayer",
-      "title": "",
+      "title": "Prière de la troisième heure",
       "blocks": [
         {
           "type": "separator"
@@ -1273,7 +1273,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête et la description de la troisième heure -->"
         },
         {
           "type": "instruction",
@@ -1284,238 +1284,238 @@
     },
     {
       "id": "third-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "third-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
     {
       "id": "third-hour",
-      "title": "",
+      "title": "Psaume 19",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 19"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 19 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm22",
-      "title": "",
+      "title": "Psaume 22",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 22"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 22 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm23",
-      "title": "",
+      "title": "Psaume 23",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 23"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 23 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm25",
-      "title": "",
+      "title": "Psaume 25",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 25"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 25 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm28",
-      "title": "",
+      "title": "Psaume 28",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 28"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 28 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm29",
-      "title": "",
+      "title": "Psaume 29",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 29"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 29 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm33",
-      "title": "",
+      "title": "Psaume 33",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 33"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 33 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm40",
-      "title": "",
+      "title": "Psaume 40",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 40"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 40 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm42",
-      "title": "",
+      "title": "Psaume 42",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 42"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 42 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm44",
-      "title": "",
+      "title": "Psaume 44",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 44"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 44 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm45",
-      "title": "",
+      "title": "Psaume 45",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 45"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 45 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "psalm46",
-      "title": "",
+      "title": "Psaume 46",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 46"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 46 -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "third-hour-gospel",
-      "title": "",
+      "title": "Évangile de la troisième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile de la troisième heure"
         },
         {
           "type": "verse",
@@ -1523,14 +1523,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile de la troisième heure -->"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "third-hour-oraisons",
-      "title": "",
+      "title": "Tropaires de la troisième heure",
       "blocks": [
         {
           "type": "instruction",
@@ -1539,7 +1539,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire les tropaires de la troisième heure -->"
         }
       ],
       "hourId": "third-hour"
@@ -1562,16 +1562,16 @@
     },
     {
       "id": "third-hour-absolution",
-      "title": "",
+      "title": "Absolution de la troisième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Absolution de la troisième heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'absolution de la troisième heure -->"
         },
         {
           "type": "instruction",
@@ -1606,7 +1606,7 @@
     },
     {
       "id": "sixth-hour-prayer",
-      "title": "",
+      "title": "Prière de la sixième heure",
       "blocks": [
         {
           "type": "separator"
@@ -1622,7 +1622,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête et la description de la sixième heure -->"
         },
         {
           "type": "instruction",
@@ -1633,238 +1633,238 @@
     },
     {
       "id": "sixth-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "sixth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
     {
       "id": "sixth-hour",
-      "title": "",
+      "title": "Psaume 53",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 53"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 53 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm56",
-      "title": "",
+      "title": "Psaume 56",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 56"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 56 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm60",
-      "title": "",
+      "title": "Psaume 60",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 60"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 60 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "sixth-hour-psalm62",
-      "title": "",
+      "title": "Psaume 62",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 62"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 62 (sixième heure) -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "sixth-hour-psalm66",
-      "title": "",
+      "title": "Psaume 66",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 66"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 66 (sixième heure) -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "sixth-hour-psalm69",
-      "title": "",
+      "title": "Psaume 69",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 69"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 69 (sixième heure) -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm83",
-      "title": "",
+      "title": "Psaume 83",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 83"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 83 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm84",
-      "title": "",
+      "title": "Psaume 84",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 84"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 84 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm85",
-      "title": "",
+      "title": "Psaume 85",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 85"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 85 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm86",
-      "title": "",
+      "title": "Psaume 86",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 86"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 86 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm90",
-      "title": "",
+      "title": "Psaume 90",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 90"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 90 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "psalm92",
-      "title": "",
+      "title": "Psaume 92",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 92"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 92 -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "sixth-hour-gospel",
-      "title": "",
+      "title": "Évangile de la sixième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile de la sixième heure"
         },
         {
           "type": "verse",
@@ -1872,14 +1872,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile de la sixième heure -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "sixth-hour-oraisons",
-      "title": "",
+      "title": "Tropaires de la sixième heure",
       "blocks": [
         {
           "type": "instruction",
@@ -1888,23 +1888,23 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire les tropaires de la sixième heure -->"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "sixth-hour-litany",
-      "title": "",
+      "title": "Litanie de la sixième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Litanie de la sixième heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la litanie de la sixième heure -->"
         }
       ],
       "hourId": "sixth-hour"
@@ -1927,16 +1927,16 @@
     },
     {
       "id": "sixth-hour-absolution",
-      "title": "",
+      "title": "Absolution de la sixième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Absolution de la sixième heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'absolution de la sixième heure -->"
         },
         {
           "type": "instruction",
@@ -1975,7 +1975,7 @@
     },
     {
       "id": "ninth-hour-prayer",
-      "title": "",
+      "title": "Prière de la neuvième heure",
       "blocks": [
         {
           "type": "separator"
@@ -1991,7 +1991,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête et la description de la neuvième heure -->"
         },
         {
           "type": "instruction",
@@ -2002,238 +2002,238 @@
     },
     {
       "id": "ninth-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "ninth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
     {
       "id": "ninth-hour",
-      "title": "",
+      "title": "Psaume 95",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 95"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 95 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm96",
-      "title": "",
+      "title": "Psaume 96",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 96"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 96 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm97",
-      "title": "",
+      "title": "Psaume 97",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 97"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 97 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm98",
-      "title": "",
+      "title": "Psaume 98",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 98"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 98 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm99",
-      "title": "",
+      "title": "Psaume 99",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 99"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 99 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm100",
-      "title": "",
+      "title": "Psaume 100",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 100"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 100 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm109",
-      "title": "",
+      "title": "Psaume 109",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 109"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 109 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm110",
-      "title": "",
+      "title": "Psaume 110",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 110"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 110 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm111",
-      "title": "",
+      "title": "Psaume 111",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 111"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 111 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "ninth-hour-psalm112",
-      "title": "",
+      "title": "Psaume 112",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 112"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 112 (neuvième heure) -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm114",
-      "title": "",
+      "title": "Psaume 114",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 114"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 114 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "psalm115",
-      "title": "",
+      "title": "Psaume 115",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 115"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 115 -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "ninth-hour-gospel",
-      "title": "",
+      "title": "Évangile de la neuvième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile de la neuvième heure"
         },
         {
           "type": "verse",
@@ -2241,14 +2241,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile de la neuvième heure -->"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "ninth-hour-oraisons",
-      "title": "",
+      "title": "Tropaires de la neuvième heure",
       "blocks": [
         {
           "type": "instruction",
@@ -2257,7 +2257,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire les tropaires de la neuvième heure -->"
         }
       ],
       "hourId": "ninth-hour"
@@ -2280,16 +2280,16 @@
     },
     {
       "id": "ninth-hour-absolution",
-      "title": "",
+      "title": "Absolution de la neuvième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Absolution de la neuvième heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'absolution de la neuvième heure -->"
         },
         {
           "type": "instruction",
@@ -2324,7 +2324,7 @@
     },
     {
       "id": "eleventh-hour-prayer",
-      "title": "",
+      "title": "Prière de la onzième heure",
       "blocks": [
         {
           "type": "separator"
@@ -2340,7 +2340,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête et la description de la onzième heure -->"
         },
         {
           "type": "instruction",
@@ -2351,238 +2351,238 @@
     },
     {
       "id": "eleventh-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "eleventh-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
     {
       "id": "eleventh-hour",
-      "title": "",
+      "title": "Psaume 116",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 116"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 116 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm117",
-      "title": "",
+      "title": "Psaume 117",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 117"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 117 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm119",
-      "title": "",
+      "title": "Psaume 119",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 119"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 119 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm120",
-      "title": "",
+      "title": "Psaume 120",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 120"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 120 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm121",
-      "title": "",
+      "title": "Psaume 121",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 121"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 121 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm122",
-      "title": "",
+      "title": "Psaume 122",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 122"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 122 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm123",
-      "title": "",
+      "title": "Psaume 123",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 123"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 123 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm124",
-      "title": "",
+      "title": "Psaume 124",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 124"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 124 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm125",
-      "title": "",
+      "title": "Psaume 125",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 125"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 125 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm126",
-      "title": "",
+      "title": "Psaume 126",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 126"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 126 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm127",
-      "title": "",
+      "title": "Psaume 127",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 127"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 127 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "psalm128",
-      "title": "",
+      "title": "Psaume 128",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 128"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 128 -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "eleventh-hour-gospel",
-      "title": "",
+      "title": "Évangile de la onzième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile de la onzième heure"
         },
         {
           "type": "verse",
@@ -2590,14 +2590,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile de la onzième heure -->"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "eleventh-hour-oraisons",
-      "title": "",
+      "title": "Tropaires de la onzième heure",
       "blocks": [
         {
           "type": "instruction",
@@ -2606,7 +2606,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire les tropaires de la onzième heure -->"
         },
         {
           "type": "instruction",
@@ -2621,16 +2621,16 @@
     },
     {
       "id": "eleventh-hour-absolution",
-      "title": "",
+      "title": "Absolution de la onzième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Absolution de la onzième heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'absolution de la onzième heure -->"
         },
         {
           "type": "instruction",
@@ -2665,7 +2665,7 @@
     },
     {
       "id": "twelfth-hour-header",
-      "title": "",
+      "title": "Prière de la douzième heure",
       "blocks": [
         {
           "type": "separator"
@@ -2681,261 +2681,261 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête de la douzième heure -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "twelfth-hour-prayer",
-      "title": "",
+      "title": "Prière de la douzième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la douzième heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière de la douzième heure -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "twelfth-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "twelfth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
     {
       "id": "twelfth-hour",
-      "title": "",
+      "title": "Psaume 129",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 129"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 129 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm130",
-      "title": "",
+      "title": "Psaume 130",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 130"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 130 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm131",
-      "title": "",
+      "title": "Psaume 131",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 131"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 131 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm132",
-      "title": "",
+      "title": "Psaume 132",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 132"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 132 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "twelfth-hour-psalm133",
-      "title": "",
+      "title": "Psaume 133",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 133"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 133 (douzième heure) -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm136",
-      "title": "",
+      "title": "Psaume 136",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 136"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 136 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm137",
-      "title": "",
+      "title": "Psaume 137",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 137"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 137 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm140",
-      "title": "",
+      "title": "Psaume 140",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 140"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 140 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm141",
-      "title": "",
+      "title": "Psaume 141",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 141"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 141 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm145",
-      "title": "",
+      "title": "Psaume 145",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 145"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 145 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm146",
-      "title": "",
+      "title": "Psaume 146",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 146"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 146 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "psalm147",
-      "title": "",
+      "title": "Psaume 147",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 147"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 147 -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "twelfth-hour-gospel",
-      "title": "",
+      "title": "Évangile de la douzième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile de la douzième heure"
         },
         {
           "type": "verse",
@@ -2943,14 +2943,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile de la douzième heure -->"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "twelfth-hour-oraisons",
-      "title": "",
+      "title": "Tropaires de la douzième heure",
       "blocks": [
         {
           "type": "instruction",
@@ -2959,7 +2959,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire les tropaires de la douzième heure -->"
         },
         {
           "type": "heading",
@@ -2991,16 +2991,16 @@
     },
     {
       "id": "twelfth-hour-absolution",
-      "title": "",
+      "title": "Absolution de la douzième heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Absolution de la douzième heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'absolution de la douzième heure -->"
         },
         {
           "type": "instruction",
@@ -3035,7 +3035,7 @@
     },
     {
       "id": "veil-header",
-      "title": "",
+      "title": "Prière de la fermeture du voile",
       "blocks": [
         {
           "type": "separator"
@@ -3051,7 +3051,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête de la fermeture du voile -->"
         },
         {
           "type": "image",
@@ -3062,62 +3062,62 @@
     },
     {
       "id": "veil-prayer",
-      "title": "",
+      "title": "Prière de la fermeture du voile",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la fermeture du voile"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière de la fermeture du voile -->"
         }
       ],
       "hourId": "veil"
     },
     {
       "id": "veil-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "veil",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
     {
       "id": "veil",
-      "title": "",
+      "title": "Évangile du voile",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile du voile"
         },
         {
           "type": "verse",
@@ -3125,14 +3125,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile du voile -->"
         }
       ],
       "hourId": "veil"
     },
     {
       "id": "veil-oraisons",
-      "title": "",
+      "title": "Tropaires du voile",
       "blocks": [
         {
           "type": "instruction",
@@ -3148,7 +3148,7 @@
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "<!-- TODO: Traduire les tropaires du voile -->"
             },
             {
               "type": "heading",
@@ -3193,16 +3193,16 @@
     },
     {
       "id": "veil-absolution",
-      "title": "",
+      "title": "Absolution du voile",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Absolution du voile"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'absolution du voile -->"
         },
         {
           "type": "instruction",
@@ -3242,98 +3242,98 @@
     },
     {
       "id": "midnight-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "midnight",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
     {
       "id": "midnight",
-      "title": "",
+      "title": "Prière de minuit",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de minuit"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'introduction de la prière de minuit -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-first-service",
-      "title": "",
+      "title": "Premier service",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Premier service"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête du premier service -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-psalm133",
-      "title": "",
+      "title": "Psaume 133",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 133"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 133 (minuit) -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "psalm118",
-      "title": "",
+      "title": "Psaume 118",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Psaume 118"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le Psaume 118 -->"
         },
         {
           "type": "heading",
@@ -3367,12 +3367,12 @@
     },
     {
       "id": "midnight-first-gospel",
-      "title": "",
+      "title": "Évangile du premier service",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile du premier service"
         },
         {
           "type": "verse",
@@ -3380,14 +3380,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile du premier service de minuit -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-first-oraisons",
-      "title": "",
+      "title": "Tropaires du premier service",
       "blocks": [
         {
           "type": "instruction",
@@ -3407,7 +3407,7 @@
             },
             {
               "type": "paragraph",
-              "text": ""
+              "text": "<!-- TODO: Traduire les tropaires du premier service de minuit -->"
             }
           ]
         },
@@ -3511,28 +3511,28 @@
     },
     {
       "id": "midnight-second-service",
-      "title": "",
+      "title": "Second service",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Second service"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête du second service -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-second-gospel",
-      "title": "",
+      "title": "Évangile du second service",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile du second service"
         },
         {
           "type": "verse",
@@ -3540,14 +3540,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile du second service de minuit -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-second-oraisons",
-      "title": "",
+      "title": "Tropaires du second service",
       "blocks": [
         {
           "type": "instruction",
@@ -3563,7 +3563,7 @@
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "<!-- TODO: Traduire les tropaires du second service de minuit -->"
             },
             {
               "type": "heading",
@@ -3659,28 +3659,28 @@
     },
     {
       "id": "midnight-third-service",
-      "title": "",
+      "title": "Troisième service",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Troisième service"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'en-tête du troisième service -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-third-gospel",
-      "title": "",
+      "title": "Évangile du troisième service",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Évangile du troisième service"
         },
         {
           "type": "verse",
@@ -3688,14 +3688,14 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'Évangile du troisième service de minuit -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-third-oraisons",
-      "title": "",
+      "title": "Tropaires du troisième service",
       "blocks": [
         {
           "type": "instruction",
@@ -3715,7 +3715,7 @@
             },
             {
               "type": "paragraph",
-              "text": ""
+              "text": "<!-- TODO: Traduire les tropaires du troisième service de minuit -->"
             }
           ]
         },
@@ -3810,12 +3810,12 @@
     },
     {
       "id": "midnight-canticle-simeon",
-      "title": "",
+      "title": "Cantique de Siméon",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Cantique de Siméon"
         },
         {
           "type": "verse",
@@ -3823,23 +3823,23 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire le cantique de Siméon -->"
         }
       ],
       "hourId": "midnight"
     },
     {
       "id": "midnight-absolution",
-      "title": "",
+      "title": "Absolution de minuit",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Absolution de minuit"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire l'absolution de minuit -->"
         },
         {
           "type": "instruction",
@@ -3874,12 +3874,12 @@
     },
     {
       "id": "absolutions",
-      "title": "",
+      "title": "Prières d'absolution pour les prêtres",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prières d'absolution pour les prêtres"
         },
         {
           "type": "image",
@@ -3887,23 +3887,23 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire les prières d'absolution pour les prêtres -->"
         }
       ],
       "hourId": "absolutions"
     },
     {
       "id": "priests-absolution",
-      "title": "",
+      "title": "Prière d'absolution pour les prêtres",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière d'absolution pour les prêtres"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière d'absolution pour les prêtres -->"
         },
         {
           "type": "image",
@@ -3914,12 +3914,12 @@
     },
     {
       "id": "prayers",
-      "title": "",
+      "title": "Prières diverses",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prières diverses"
         },
         {
           "type": "image",
@@ -3930,160 +3930,160 @@
     },
     {
       "id": "prayer-repentance",
-      "title": "",
+      "title": "Prière pour le repentir",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière pour le repentir"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière pour le repentir -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-before-confession",
-      "title": "",
+      "title": "Prière avant la confession",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière avant la confession"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière avant la confession -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-after-confession",
-      "title": "",
+      "title": "Prière après la confession",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière après la confession"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière après la confession -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-before-communion",
-      "title": "",
+      "title": "Prière avant la communion",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière avant la communion"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière avant la communion -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-before-communion-2",
-      "title": "",
+      "title": "Seconde prière avant la communion",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Seconde prière avant la communion"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la seconde prière avant la communion -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-after-communion",
-      "title": "",
+      "title": "Prière après la communion",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière après la communion"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière après la communion -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-after-communion-2",
-      "title": "",
+      "title": "Seconde prière après la communion",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Seconde prière après la communion"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la seconde prière après la communion -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-guidance",
-      "title": "",
+      "title": "Prière pour demander à Dieu de nous guider",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière pour demander à Dieu de nous guider"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière pour demander à Dieu de nous guider -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-before-meal",
-      "title": "",
+      "title": "Prière avant de manger",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière avant de manger"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière avant de manger -->"
         }
       ],
       "hourId": "prayers"
     },
     {
       "id": "prayer-closing",
-      "title": "",
+      "title": "Prière / Remerciements",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière / Remerciements"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "<!-- TODO: Traduire la prière de remerciements -->"
         },
         {
           "type": "image",
