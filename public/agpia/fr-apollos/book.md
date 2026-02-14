@@ -880,15 +880,40 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Prière de la troisième heure
 
-<!-- TODO: Traduire l'en-tête et la description de la troisième heure -->
+Allons, prosternons-nous, allons implorons le Christ notre Dieu !
+
+Allons, prosternons-nous, allons implorons le Christ notre Roi !
+
+Allons, prosternons-nous, allons implorons le Christ notre Sauveur !
+
+Ô notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.
+
+Hymne de la troisième heure du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
 
 ---
 
 <a id="third-hour"></a>
 
 ## Psaume 19
+_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
 
-<!-- TODO: Traduire le Psaume 19 -->
+Que le Seigneur t'écoute au jour de l'oppression ! Que le Nom du Dieu de Jacob te protège !
+
+Que du Sanctuaire Il t'envoie du secours, et que, de Sion, il te soutienne !
+
+Qu'Il se souvienne de tous tes sacrifices, et que tes holocaustes gras lui soient agréables !
+
+Qu'Il te donne selon ton cœur, et accomplisse tout ton dessein !
+
+Nous professerons en Ton Salut, et nous serons magnifiés dans le Nom de notre Dieu. Que le Seigneur accomplisse toutes tes demandes !
+
+Je sais maintenant que le Seigneur a sauvé son Christ. Il l'écoutera depuis son Ciel saint. Le salut de sa Droite est dans les puissances.
+
+Les uns se magnifient en leurs chars, les autres en leurs chevaux, mais quant à nous, c'est dans le Nom du Seigneur notre Dieu que nous nous magnifierons !
+
+Ceux-là ont été entravés, et ils sont tombés, mais nous, nous nous sommes relevés et redressés.
+
+Seigneur, sauve Ton roi, et exauce-nous le jour où nous t'invoquerons !
 
 ---
 
@@ -896,7 +921,15 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 22
 
-<!-- TODO: Traduire le Psaume 22 -->
+Le Seigneur est mon Pasteur, il ne me laissera manquer de rien. En un lieu verdoyant Il m'a fait habiter, il m'a nourri de l'eau du Repos.
+
+Il a fait revenir mon âme, il m'a conduit sur les chemins de la Justice pour la cause de son Nom.
+
+Lors même que je passerais au milieu des ombres de la mort, je ne craindrai aucun mal, car Tu es avec moi. Ta houlette et ton bâton m'ont conforté.
+
+Tu as préparé devant moi une table face à ceux qui m'oppriment. Tu as oint ma tête d'huile, et ton calice m'a enivré comme d'une puissance !
+
+Et Ta Miséricorde me poursuivra tous les jours de ma vie, et ma demeure sera dans la Maison du Seigneur pour la longueur des jours.
 
 ---
 
@@ -904,7 +937,25 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 23
 
-<!-- TODO: Traduire le Psaume 23 -->
+La terre est au Seigneur, et tout ce qui l'emplit, le monde habité et tous ceux qui l'habitent.
+
+Il l'a fondé sur les mers, et il l'a préparé sur les fleuves.
+
+Qui montera sur la Montagne du Seigneur ? Et qui se tiendra dans son Lieu saint ?
+
+Celui dont les mains sont saintes et qui est pur dans son cœur, qui n'a point reçu son âme en vain, qui n'a point prononcé de serment avec tromperie envers son prochain.
+
+Celui-là recevra la Bénédiction du Seigneur, et l'action miséricordieuse de Dieu son Sauveur.
+
+Telle est la génération de ceux qui Le cherchent, qui cherchent la Face du Dieu de Jacob.
+
+Princes, levez vos portes, et soulevez-vous, portes des siècles, et le Roi de la Gloire entrera.
+
+Quel est donc ce Roi de la Gloire ? C'est le Seigneur ayant pouvoir et puissance, le Seigneur puissant à la guerre !
+
+Princes, levez vos portes, et soulevez-vous, portes des siècles, et le Roi de la Gloire entrera.
+
+Quel est donc ce Roi de la Gloire ? C'est le Seigneur des Puissances, c'est lui qui est le Roi de la Gloire !
 
 ---
 
@@ -912,7 +963,25 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 25
 
-<!-- TODO: Traduire le Psaume 25 -->
+Juge-moi, Seigneur, car j'ai cheminé en mon innocence, et en espérant dans le Seigneur, je ne faiblirai point. Éprouve-moi, Seigneur, et tente-moi, purifie par le feu mon cœur et mes reins !
+
+Car Ta Miséricorde est devant mes yeux, et je me suis complu en ta Vérité.
+
+Je ne me suis point assis au conseil de vanité, et je n'entrerai point où sont les transgresseurs de la Loi.
+
+J'ai haï l'église des méchants, et je ne m'assiérai point avec les impies.
+
+Je me laverai les mains parmi les innocents, et je ferai le tour de ton autel sacrificiel, Seigneur,
+
+Afin d'entendre la voix de ta bénédiction, et de raconter toutes Tes merveilles.
+
+Seigneur, j'ai aimé la beauté de Ta Maison, et le Lieu où demeure ta Gloire.
+
+Ne fais pas périr mon âme avec les impies, ni ma vie avec les hommes de sang, dont les mains sont illégales, dont la droite est remplie de présents.
+
+Quant à moi, j'ai cheminé en mon innocence : délivre-moi et fais-moi miséricorde !
+
+Mon pied s'est tenu dans la droiture. Je Te bénirai, Seigneur, dans les Églises !
 
 ---
 
@@ -920,7 +989,25 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 28
 
-<!-- TODO: Traduire le Psaume 28 -->
+Offrez au Seigneur, enfants de Dieu, offrez au Seigneur les petits des béliers ! Offrez au Seigneur gloire et honneur, offrez la gloire au Nom du Seigneur, adorez le Seigneur en son Saint Parvis !
+
+La Voix du Seigneur est sur les eaux, le Dieu de Gloire a tonné, le Seigneur est sur les eaux nombreuses !
+
+La Voix du Seigneur est puissante, la voix du Seigneur est d'une grande splendeur.
+
+La Voix du Seigneur brise les cèdres, le Seigneur va broyer les cèdres du Liban !
+
+Il les réduira comme le veau du Liban, alors que le Bien-aimé sera comme le Fils de la licorne.
+
+C'est la Voix du Seigneur qui divise la flamme de feu.
+
+C'est la Voix du Seigneur qui fait trembler le désert. Le Seigneur ébranlera le désert de Kadès.
+
+C'est la Voix du Seigneur qui a préparé la naissance des cerfs, elle découvrira les forêts, et chacun dira sa Gloire dans le Temple du Seigneur.
+
+Le Seigneur réside dans le cataclysme. Le Seigneur siège comme Roi pour les siècles !
+
+Le Seigneur fortifiera son peuple, le Seigneur bénira son peuple en lui donnant la Paix.
 
 ---
 
@@ -928,7 +1015,29 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 29
 
-<!-- TODO: Traduire le Psaume 29 -->
+Je T'exalterai, Seigneur, car tu m'as accueilli, tu n'as point fait de moi la joie de mes ennemis.
+
+Seigneur mon Dieu, j'ai crié vers toi, et tu m'as guéri !
+
+Seigneur, Tu as ramené mon âme d'Hadès, tu m'as sauvé de ceux qui descendent dans la fosse.
+
+Psalmodiez au Seigneur, vous tous ses Saints, professez à la mémoire de sa Sainteté !
+
+Car la Colère naît de Sa Fureur, mais la Vie est en sa Volonté. Le soir, il y aura des pleurs, et à l'aurore, de l'allégresse.
+
+Pour moi, j'ai dit en ma prospérité : « Je serai inébranlable pour les siècles. »
+
+Seigneur, en Ta Volonté tu as donné de la puissance à ma beauté. Tu as détourné de moi ta Face, et j'ai été troublé.
+
+Je crierai vers toi, Seigneur, et j'adresserai mes suppliques à mon Dieu.
+
+De quelle utilité serait mon sang ? Si je tombais dans la corruption, la terre Te professerait-elle ? Annoncerait-elle ta Vérité ?
+
+Le Seigneur m'a entendu, et Il a eu pitié de moi, le Seigneur est devenu mon Secours !
+
+Tu as changé mes lamentations en réjouissance, Tu as déchiré mon vêtement de sac, tu m'as ceint d'allégresse,
+
+Afin que ma gloire T'adresse des psaumes, et que je ne sois pas affligé. Seigneur mon Dieu, je te professerai pour les siècles !
 
 ---
 
@@ -936,7 +1045,49 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 33
 
-<!-- TODO: Traduire le Psaume 33 -->
+En tout temps je bénirai le Seigneur, toujours sa louange sera dans ma bouche.
+
+Dans le Seigneur s'enorgueillira mon âme. Que les doux écoutent et se réjouissent !
+
+Magnifiez le Seigneur avec moi, et exaltons son Nom ensemble.
+
+J'ai recherché le Seigneur, et il m'a écouté, et de tous mes séjours il m'a délivré.
+
+Approchez-vous de Lui, et soyez illuminés, et votre face ne sera pas dans la honte.
+
+Le pauvre même a crié et le Seigneur l'a écouté, et il l'a sauvé de toutes ses afflictions.
+
+L'ange du Seigneur campera autour de ceux qui craignent Dieu, et il les sauvera.
+
+Goûtez et voyez combien le Seigneur est doux ; bienheureux l'homme qui espère en lui.
+
+Craignez le Seigneur, vous ses Saints ; car rien ne manque à ceux qui le craignent.
+
+Les riches sont devenus pauvres et ont été affamés, mais ceux qui recherchent le Seigneur ne manqueront d'aucun bien.
+
+Venez, mes enfants, écoutez-moi, je vous enseignerai la crainte du Seigneur.
+
+Quel est l'humain qui veut la Vie, qui aime voir des jours heureux ?
+
+Que ta langue cesse tout mal, et tes lèvres, de dire la tromperie.
+
+Détourne-toi du mal, et fais le bien, cherche la Paix et poursuis-la.
+
+Les yeux du Seigneur sont sur les justes, et ses oreilles tournées vers leur prière.
+
+Mais la Face du Seigneur est aussi sur ceux qui font le mal, pour effacer leur souvenir de la terre.
+
+Les justes ont crié, et le Seigneur les a écoutés, et de toutes leurs oppressions il les a délivrés.
+
+Le Seigneur est près de ceux dont le cœur est affligé, et il sauvera les humbles d'esprit.
+
+Nombreuses sont les afflictions des justes, et de toutes, Il les délivrera.
+
+Le Seigneur garde tous leurs os, pas un seul d'eux ne sera broyé.
+
+La mort des pécheurs est mauvaise, et ceux qui haïssent le juste défailliront.
+
+Le Seigneur délivrera les âmes de Ses serviteurs, et ceux qui espèrent en lui ne défailliront pas.
 
 ---
 
@@ -944,7 +1095,31 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 40
 
-<!-- TODO: Traduire le Psaume 40 -->
+Bienheureux celui qui comprendra le pauvre et le faible : au jour mauvais Dieu le sauvera.
+
+Le Seigneur le gardera et le vivifiera, il le rendra bienheureux sur la terre, et il ne le livrera pas aux mains de ses ennemis.
+
+Le Seigneur lui portera secours sur le lit de sa douleur : Tu as retourné toute sa couche en son infirmité.
+
+Quant à moi, j'ai déclaré : « Seigneur, fais-moi miséricorde, guéris mon âme, car j'ai péché contre toi. »
+
+Mes ennemis ont médit de moi : « Quand mourra-t-il ? Quand périra son nom ? »
+
+Il entrait pour voir, il ne disait que vanité. Son cœur amassait pour lui-même de l'illégalité : il sortait à l'extérieur, tout en parlant contre moi.
+
+Tous mes ennemis chuchotaient contre moi, ils tenaient conseil sur la manière de me faire du mal.
+
+Ils ont tenu un discours illégal contre moi. Celui qui est couché ne pourra-t-il pas se relever ?
+
+Car l'homme de ma paix, en qui j'avais espéré, celui qui mange mon pain, a levé le talon contre moi.
+
+Mais Toi, Seigneur, fais-moi miséricorde et relève-moi, et je leur rendrai leur rétribution !
+
+Par cela j'ai su que Tu m'as voulu, afin que mon ennemi ne se réjouisse point de moi.
+
+Mais moi, tu m'as accueilli à cause de mon innocence, et Tu m'as affermi devant toi pour les siècles.
+
+Béni soit le Seigneur, le Dieu d'Israël, depuis les siècles et pour les siècles ! Ainsi soit-il ! Ainsi soit-il !
 
 ---
 
@@ -952,7 +1127,15 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 42
 
-<!-- TODO: Traduire le Psaume 42 -->
+Juge-moi, ô Dieu, et rends justice à ma cause contre une nation non purifiée ! Et sauve-moi de l'humain injuste et trompeur.
+
+Car, tu es mon Dieu et mon affermissement : pourquoi m'as-tu repoussé ? Et d'où vient que je chemine tout abattu, quand mon ennemi m'opprime ?
+
+Envoie Ta Lumière et Ta Vérité : elles m'ont guidé sur la Voie, elles m'ont mené sur ta Montagne sainte et dans ta Demeure.
+
+Et j'entrerai vers l'autel de Dieu, vers la face du Dieu qui réjouit ma jeunesse. Je te professerai avec la cithare, ô Dieu, mon Dieu !
+
+Ô mon âme, pourquoi es-tu triste, et pourquoi me troubles-tu ? Espère en Dieu, car je le professerai, à lui le Salut de ma face, lui mon Dieu !
 
 ---
 
@@ -960,7 +1143,39 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 44
 
-<!-- TODO: Traduire le Psaume 44 -->
+Mon cœur a émis une bonne Parole : je dirai moi-même mes œuvres au Roi. Ma langue est le calame d'un scribe rapide.
+
+Il est beau dans sa jeunesse, plus que les fils des humains, la grâce est répandue sur tes lèvres. C'est pourquoi Dieu t'a béni pour les siècles.
+
+Ceins l'épée sur ta cuisse, ô Puissant, par ta jeunesse et ta beauté !
+
+Tends ton arc, avance avec succès, et règne pour la cause de la Vérité, de la Douceur et de la Justice, et ta droite te guidera sur la voie merveilleusement.
+
+Tes traits sont aiguisés, ô Puissant, les peuples tomberont sous tes pieds, au cœur des ennemis du Roi.
+
+Ton trône, Dieu, est pour les siècles des siècles ! Et ton sceptre de droiture est le sceptre de ta royauté.
+
+Tu as aimé la justice et tu as haï l'illégalité, c'est pourquoi Dieu, ton Dieu t'a oint de l'huile d'allégresse, plus que tes compagnons.
+
+La myrrhe, l'huile parfumée et la casse exhalent de tes vêtements et de tes palais d'ivoire, et par elles ils te réjouissent.
+
+Des filles de rois sont en ton honneur. La reine s'est tenue à ta droite, en manteau tissé d'or diversement orné.
+
+Écoute, ma fille, vois, et incline ton oreille, et oublie ton peuple et la maison de ton père.
+
+Car le roi a désiré ta beauté, lui qui est ton seigneur.
+
+Et les filles de Tyr se prosterneront devant lui avec des dons, devant sa face les riches du peuple feront des supplications.
+
+Toute la gloire de la fille du roi d'Esebôn est revêtue d'une parure de franges d'or, diversement ornée.
+
+Les vierges de sa suite seront introduites jusqu'au roi, toutes ses compagnes lui seront amenées.
+
+Elles seront introduites dans la joie et l'exultation, elles seront conduites à l'intérieur du temple du Roi.
+
+Au lieu de pères, te sont advenus des fils, tu les établiras princes sur toute la terre.
+
+Ils se remémoreront ton Nom de génération en génération, c'est pourquoi les peuples Te professeront, Dieu, pour les siècles, et pour les siècles des siècles.
 
 ---
 
@@ -968,7 +1183,27 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 45
 
-<!-- TODO: Traduire le Psaume 45 -->
+Ô Dieu, Tu es notre Refuge et notre Puissance, notre Secours dans les tribulations qui nous ont tant assaillis !
+
+C'est pourquoi nous ne craindrons pas, quand même la terre serait bouleversée, quand même les montagnes seraient transportées au cœur des mers.
+
+Leurs eaux ont retenti, et elles ont été troublées, les montagnes ont été ébranlées par Son Pouvoir.
+
+Les courants du fleuve réjouissent la Cité de Dieu, le Très-haut a sanctifié sa Demeure.
+
+Et Dieu ne bougera pas de son milieu, Dieu secourra sa face.
+
+Les nations ont été troublées, les royaumes ont chancelé : Il a élevé la voix, et la terre a vacillé.
+
+Le Seigneur, le Dieu des Puissances est avec nous, le Dieu de Jacob est notre Soutien.
+
+Venez, et voyez les œuvres du Seigneur, les merveilles qu'il a établies sur la terre !
+
+Abolissant les guerres jusqu'aux limites de la terre, Il brisera l'arc, il broiera l'armure, il brûlera les boucliers dans le feu.
+
+Tenez-vous sans rien faire, et sachez que JE SUIS Dieu ! Je serai exalté parmi les nations, je serai exalté sur la terre.
+
+Le Seigneur le Dieu des Puissances est avec nous, le Dieu de Jacob est notre Soutien.
 
 ---
 
@@ -976,7 +1211,23 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Psaume 46
 
-<!-- TODO: Traduire le Psaume 46 -->
+Toutes les nations, battez des mains, acclamez Dieu avec une voix d'allégresse !
+
+Car exalté est le Seigneur, il est redoutable, c'est le Grand Roi de toute la terre !
+
+Il nous a soumis les peuples, et mis les nations sous nos pieds.
+
+Il a choisi pour nous Son héritage, la beauté de Jacob, qu'Il aime.
+
+Dieu est monté dans les acclamations, le Seigneur est monté au son de la trompette !
+
+Psalmodiez pour notre Dieu, psalmodiez ! Psalmodiez à notre Roi, psalmodiez !
+
+Car Dieu est le Roi de toute la terre, psalmodiez avec intelligence !
+
+Car Dieu a pris son règne sur toutes les nations, Dieu est assis sur son saint Trône.
+
+Les princes des peuples se sont réunis avec le Dieu d'Abraham, car ceux qui ont du pouvoir de Dieu sur la terre ont été élevés très haut.
 
 ---
 
@@ -984,7 +1235,13 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Évangile de la troisième heure
 
-<!-- TODO: Traduire l'Évangile de la troisième heure -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Jean :_
+
+Mais quand viendra le Paraclet, l'Esprit-Saint qu'enverra le Père en mon Nom, c'est lui qui vous enseignera toute chose et vous remémorera tout ce que je vous ai dit. Je vous laisserai ma Paix, c'est ma Paix que je vous donne. Ce n'est pas comme le monde la donne, que moi je vous la donne. Que ne se trouble pas votre cœur et qu'il ne cède pas à la lâcheté ! Vous avez entendu que, moi, je vous ai déclaré : « Je m'en vais et je viens à vous ». Si vous m'aimiez, vous vous réjouiriez de ce que je vais vers le Père, car le Père est plus grand que moi. Maintenant je vous ai déclaré ces choses, avant qu'elles n'adviennent, pour que, lorsqu'elles adviendront, vous ayez foi. Je ne parlerai plus guère avec vous, car le prince de ce monde vient. Or en moi il n'a rien, mais c'est pour que le monde sache que j'aime mon Père, et que je fais comme le Père m'a commandé. Levez-vous, partons d'ici. Je suis la vigne véritable, et mon Père est le Vigneron. Tout sarment qui en moi ne donne pas de fruit, il l'arrache, et celui qui donne du fruit, il le purifie, afin qu'il donne plus de fruit. Vous êtes déjà purs, par la parole que je vous ai dite. Demeurez en moi, et moi je demeure en vous. Comme le sarment ne peut donner du fruit de lui-même, s'il ne demeure dans la vigne, de même vous non plus ne pouvez pas, si vous ne demeurez pas en moi.
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -992,7 +1249,41 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Tropaires de la troisième heure
 
-<!-- TODO: Traduire les tropaires de la troisième heure -->
+Ton Esprit-Saint, Seigneur, que tu as envoyé sur tes saints Disciples et Apôtres honorés à la troisième heure, ne nous l'enlève pas, ô Toi qui est Bon, mais renouvelle-le à l'intérieur de nous.
+
+Ô Dieu, crée en moi un cœur pur, renouvelle en moi un esprit droit. Ne me rejette pas loin de Ta Face et ne me retire pas Ton Esprit-Saint.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint-Esprit.
+
+Ô Seigneur, qui as envoyé Ton Esprit-Saint sur tes saints Disciples et Apôtres honorés à la troisième heure, ne nous l'enlève pas, ô Toi qui est Bon, mais nous t'implorons de le renouveler à l'intérieur de nous, ô notre Seigneur Jésus-Christ, Fils de Dieu, le Logos : un Esprit droit et vivifiant, un Esprit prophétique et vénérable, un Esprit de sainteté, de justice et de force directrice, Ô Toi qui as pouvoir sur tout, car Tu es celui qui illumine nos âmes. Ô Toi qui illumines tout homme venant au monde, aie pitié de nous !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Mère de Dieu, tu es la vraie vigne portant la grappe de la Vie, nous te supplions, ô toi qui es pleine de grâce, avec les Apôtres, pour la Délivrance de nos âmes.
+
+Béni soit le Seigneur notre Dieu. Béni soit le Seigneur jour après jour. Et Il nous préparera notre voie, car il est le Dieu de notre Salut.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 
 ---
 
@@ -1000,7 +1291,15 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Absolution de la troisième heure
 
-<!-- TODO: Traduire l'absolution de la troisième heure -->
+Ô Dieu de toute compassion et Seigneur de toute consolation, qui nous a consolés en tout temps par la consolation de Ton Esprit-Saint,
+
+Nous Te rendons grâce car Tu nous as relevés pour prier en cette heure sainte à laquelle Tu as répandu généreusement la grâce de Ton Esprit-Saint sur Tes saints disciples et apôtres honorés et bienheureux comme par des langues de feu.
+
+Nous T'implorons et Te supplions ô Ami du genre humain, de recevoir nos prières et d'envoyer sur nous la grâce de ton Esprit-Saint. Et purifie-nous de toutes les souillures du corps et de l'esprit, et transporte-nous dans un état spirituel afin que nous marchions par l'Esprit, et que nous n'accomplissions pas le désir de la chair.
+
+Et rends-nous dignes de Te servir avec pureté et justice tous les jours de notre vie.
+
+Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon et l'Esprit Saint, maintenant et toujours et pour les siècles des siècles. Amen !
 
 ---
 

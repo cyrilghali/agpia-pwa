@@ -1062,7 +1062,7 @@
     },
     {
       "id": "dawn-oraisons",
-      "title": "part026",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "third-hour-oraisons",
-      "title": "part049",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
@@ -1546,7 +1546,7 @@
     },
     {
       "id": "third-hour-kyrie",
-      "title": "part050",
+      "title": "Kyrie eleison",
       "blocks": [
         {
           "type": "instruction",
@@ -1879,7 +1879,7 @@
     },
     {
       "id": "sixth-hour-oraisons",
-      "title": "part066",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": "sixth-hour-kyrie",
-      "title": "part068",
+      "title": "Kyrie eleison",
       "blocks": [
         {
           "type": "instruction",
@@ -2248,7 +2248,7 @@
     },
     {
       "id": "ninth-hour-oraisons",
-      "title": "part085",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
@@ -2264,7 +2264,7 @@
     },
     {
       "id": "ninth-hour-kyrie",
-      "title": "part086",
+      "title": "Kyrie eleison",
       "blocks": [
         {
           "type": "instruction",
@@ -2597,7 +2597,7 @@
     },
     {
       "id": "eleventh-hour-oraisons",
-      "title": "part102",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
@@ -3387,7 +3387,7 @@
     },
     {
       "id": "midnight-first-oraisons",
-      "title": "part132",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
@@ -3491,7 +3491,7 @@
     },
     {
       "id": "midnight-first-kyrie",
-      "title": "part133",
+      "title": "Kyrie eleison",
       "blocks": [
         {
           "type": "instruction",
@@ -3547,7 +3547,7 @@
     },
     {
       "id": "midnight-second-oraisons",
-      "title": "part136",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
@@ -3695,7 +3695,7 @@
     },
     {
       "id": "midnight-third-oraisons",
-      "title": "part139",
+      "title": "Oraisons",
       "blocks": [
         {
           "type": "instruction",
