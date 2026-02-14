@@ -1,0 +1,35 @@
+---
+description: React/TypeScript app conventions — components, state, styling, data loading
+globs: src/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# React/TypeScript Conventions
+
+## Components
+
+- Functional components with TypeScript interfaces (`ComponentNameProps`).
+- Default exports for components, named exports for utilities.
+- Types centralized in `src/types.ts`. Book indexing in `src/bookIndex.ts`.
+
+## State
+
+- React hooks only — no external state library.
+- Settings persisted to `localStorage` (`agpia-settings`).
+- No routing library. Navigation is state-based via `currentChapterId`.
+
+## Styling
+
+- Single `index.css` with CSS custom properties (`--ds-*` design tokens).
+- Three themes via `[data-theme]`: `light`, `sepia`, `dark`.
+- BEM-like class naming: `.reader-*`, `.toc-drawer--open`.
+
+## Data
+
+- Book loaded from `/agpia/{locale}/book.json`.
+- Indexed via `buildBookIndex()` for O(1) lookups.
+- i18n via `useTranslation()` hook; translations in `src/locales/`.
+
+## When something looks wrong
+
+Check the data first. If `book.json` or `strings.json` is wrong, fix the source and rebuild. Don't add runtime workarounds for data problems.

@@ -1571,7 +1571,17 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Prière de la onzième heure
 
-<!-- TODO: Traduire l'en-tête et la description de la onzième heure -->
+Allons, prosternons-nous, allons implorons le Christ notre Dieu !
+
+Allons, prosternons-nous, allons implorons le Christ notre Roi !
+
+Allons, prosternons-nous, allons implorons le Christ notre Sauveur !
+
+Ô notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.
+
+Hymne des Vêpres du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
+
+_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
 
 ---
 
@@ -1579,7 +1589,9 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 116
 
-<!-- TODO: Traduire le Psaume 116 -->
+Alléluia ! Nations, louez toutes le Seigneur, peuples, louez-le tous !
+
+Car Sa Miséricorde s'est affermie sur nous, et la Vérité du Seigneur demeure pour les siècles.
 
 ---
 
@@ -1587,7 +1599,63 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 117
 
-<!-- TODO: Traduire le Psaume 117 -->
+Alléluia ! Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour les siècles !
+
+Que la maison d'Israël déclare qu'Il est bon, parce que sa Miséricorde est pour les siècles !
+
+Que la maison d'Aaron déclare qu'Il est bon, parce que sa Miséricorde est pour les siècles !
+
+Que tous ceux qui craignent le Seigneur déclarent qu'il est bon, parce que sa Miséricorde est pour les siècles !
+
+Dans la tribulation j'ai invoqué le Seigneur, et il m'a exaucé, il m'a mis au large.
+
+Le Seigneur est mon Secours, et je ne craindrai rien de ce que l'humain peut me faire.
+
+Le Seigneur est mon Secours, et moi je surveillerai mes ennemis.
+
+Mieux vaut se confier au Seigneur que se confier à l'humain.
+
+Mieux vaut espérer dans le Seigneur qu'espérer dans les princes.
+
+Toutes les nations m'avaient encerclé, mais au Nom du Seigneur, j'ai pris ma revanche sur elles.
+
+Elles m'avaient assiégé, encerclé, mais, au Nom du Seigneur, j'ai pris ma revanche sur elles.
+
+Elles m'avaient encerclé comme des abeilles autour du rayon de miel, et elles lançaient des flammes, comme du feu dans les chardons, mais au Nom du Seigneur, j'ai pris ma revanche sur elles.
+
+On me bousculait pour que je tombe, et le Seigneur m'a soutenu.
+
+Le Seigneur est ma Force et ma Louange, et Il est devenu pour moi le Salut.
+
+La voix de l'exultation et du salut est dans le séjour des justes. La Droite du Seigneur a fait une chose puissante.
+
+La Droite du Seigneur m'a exalté, la Droite du Seigneur a fait une chose puissante.
+
+Je ne mourrai point, mais je vivrai, et je raconterai les œuvres du Seigneur.
+
+Avec discipline le Seigneur m'a discipliné, mais il ne m'a point livré à la mort.
+
+Ouvrez-moi les portes de la Justice, j'entrerai par elles et je professerai au Seigneur.
+
+C'est la Porte du Seigneur, les justes entreront par elle.
+
+Je Te professerai, parce que Tu m'as exaucé, et que Tu es devenu pour moi le Salut.
+
+La Pierre que les constructeurs avaient rejetée, c'est elle qui est devenue la tête d'angle !
+
+C'est par le Seigneur qu'elle l'est devenue, et elle est merveilleuse à nos yeux.
+
+Voici le jour qu'a fait le Seigneur, exultons et réjouissons-nous en ce jour !
+
+Ô Seigneur, tu nous sauveras ! Ô Seigneur, tu rectifieras notre Voie !
+
+Béni soit Celui qui vient au Nom du Seigneur ! Nous vous avons bénis depuis la maison du Seigneur.
+
+Le Dieu et Seigneur nous a illuminés ! Célébrez la fête avec des rameaux de feuillages, jusqu'aux cornes de l'autel.
+
+Tu es mon Dieu, et je Te professerai ! Tu es mon Dieu, et je t'exalterai ! Je te professerai, parce que tu m'as exaucé, et que Tu es devenu pour moi le Salut.
+
+Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour les siècles !
 
 ---
 

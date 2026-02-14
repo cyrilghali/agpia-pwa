@@ -1,0 +1,38 @@
+---
+description: Agpia book data pipeline — file relationships, commands, and known gotchas
+alwaysApply: true
+---
+
+# Agpia Book Pipeline
+
+## Data flow
+
+```
+book.md  ──(import)──>  strings.json  ──(build + skeleton.json)──>  book.json
+```
+
+- `skeleton.json` — shared structure (all locales). Never edit unless changing structure for ALL locales.
+- `strings.json` — per-locale flat key-value translations.
+- `book.json` — generated output. **Never edit directly.**
+- `book.md` — human-readable source for a locale.
+
+## Commands
+
+After editing `book.md`:
+
+```bash
+node scripts/book-tool.mjs import public/agpia/<locale>/book.md
+node scripts/book-tool.mjs build
+```
+
+After editing `strings.json` directly:
+
+```bash
+node scripts/book-tool.mjs build
+```
+
+## Gotchas
+
+**Intro chapters** (`*-intro`): shared content duplicated across hours. Only `dawn-intro` has an anchor in `book.md`. Other intros need their strings filled by copying from `dawn-intro` in `strings.json`.
+
+**Conclusion chapters** (`conclusion`, `conclusion_*`): same sharing pattern as intros.

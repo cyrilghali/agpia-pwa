@@ -1,0 +1,36 @@
+---
+description: Core project philosophy — simplicity, build-time-first, anti-complexity guardrails
+alwaysApply: true
+---
+
+# Project Philosophy
+
+This is a small PWA. Fight complexity at every turn.
+
+## Do more with less
+
+Fewer files, fewer abstractions, fewer dependencies. Before adding anything, ask: can I remove something instead?
+
+## Build time over runtime
+
+If a problem is about data (content, structure, formatting), solve it in the build pipeline (`scripts/book-tool.mjs`), not with runtime code. The app should receive clean, ready-to-render data.
+
+## Fix the data, not the renderer
+
+If the UI shows something wrong, the first instinct should be: is `book.json` or `strings.json` wrong? Fix the source, rebuild. Don't add a special case in a React component.
+
+## No new dependencies without justification
+
+React, i18next, Vite, and CSS are enough. Don't add a state management library, a CSS framework, or a utility library unless there is a concrete, unavoidable need.
+
+## No new abstractions until the third time
+
+Don't extract a hook, utility, or component "just in case". Wait until you have three real use cases.
+
+## Keep the component tree flat
+
+The app is: `App` -> `Landing` / `Reader` -> a few panels. Don't nest deeper without a strong reason.
+
+## Prefer deleting code to adding code
+
+When fixing a bug or adding a feature, look for code that can be removed as part of the change.

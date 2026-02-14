@@ -1,0 +1,56 @@
+---
+description: Conventions for editing Agpia book.md content files
+globs: public/agpia/**/book.md
+alwaysApply: false
+---
+
+# Book Markdown Editing
+
+## Section format
+
+Every section follows this exact pattern:
+
+```markdown
+---
+
+<a id="chapter-id"></a>
+
+## Section Title
+
+Content goes here...
+```
+
+- Anchor IDs must match chapter IDs in `skeleton.json` exactly.
+- Sections are separated by `---`.
+
+## TOC format
+
+```markdown
+- [Hour Title](#hour-id)
+  - [Psalm 22](#psalm22)
+  - [Gospel](#hour-gospel)
+```
+
+- Nest with 2-space indent.
+- **Never** use the same `#id` for both a parent entry and a child entry.
+
+## Block type mapping
+
+| Markdown | Block type |
+|----------|-----------|
+| plain text | `paragraph` |
+| `## Heading` | `heading` |
+| `> *text*` | `instruction` |
+| `> text` | `doxology` |
+| `---` | `separator` |
+
+Content tokens must align with the skeleton's block structure (count and types).
+
+## After editing
+
+Always run:
+
+```bash
+node scripts/book-tool.mjs import public/agpia/<locale>/book.md
+node scripts/book-tool.mjs build
+```
