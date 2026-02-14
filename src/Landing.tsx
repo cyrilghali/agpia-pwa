@@ -67,7 +67,7 @@ export default function Landing({ book, bookIndex, onNavigate, settings, onSetti
           <button
             key={h.id}
             className={`hour-card ${currentHour?.id === h.id ? 'hour-card--current' : ''}`}
-            onClick={() => onNavigate(h.id)}
+            onClick={() => onNavigate(bookIndex.heroChapterIdBySectionId.get(h.id) ?? h.id)}
           >
             {currentHour?.id === h.id && <span className="hour-card-badge">{t('landing.nowBadge')}</span>}
             <span className="hour-icon">{h.icon}</span>
@@ -93,7 +93,7 @@ export default function Landing({ book, bookIndex, onNavigate, settings, onSetti
       {/* Action buttons */}
       <div className="landing-actions">
         {currentHour && (
-          <button className="landing-btn primary" onClick={() => onNavigate(currentHour.id)}>
+          <button className="landing-btn primary" onClick={() => onNavigate(bookIndex.heroChapterIdBySectionId.get(currentHour.id) ?? currentHour.id)}>
             {currentHour.icon} {t('landing.pray', { hour: t(currentHour.labelKey) })}
           </button>
         )}
