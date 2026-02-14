@@ -1307,7 +1307,17 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Prière de la sixième heure
 
-<!-- TODO: Traduire l'en-tête et la description de la sixième heure -->
+Allons, prosternons-nous, allons implorons le Christ notre Dieu !
+
+Allons, prosternons-nous, allons implorons le Christ notre Roi !
+
+Allons, prosternons-nous, allons implorons le Christ notre Sauveur !
+
+Ô notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.
+
+Hymne de la sixième heure du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
+
+_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
 
 ---
 
@@ -1315,7 +1325,19 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 53
 
-<!-- TODO: Traduire le Psaume 53 -->
+Ô Dieu, sauve-moi par Ton Nom, et juge-moi par ta Puissance !
+
+Ô Dieu, écoute ma prière, prête l'oreille aux paroles de ma bouche !
+
+Car des étrangers se sont élevés contre moi, et des hommes de pouvoir cherchent mon âme. Ils n'ont point mis Dieu devant eux.
+
+Et voilà que Dieu est venu à mon secours, et le Seigneur est le Soutien de mon âme.
+
+Il fera retourner les malheurs sur mes ennemis : efface-les dans Ta Vérité !
+
+Je Te ferai un sacrifice volontaire, je professerai à ton Nom, Seigneur, parce que cela est bon.
+
+Car c'est Toi qui m'as délivré de toutes mes tribulations, et mon œil a regardé dans mes ennemis.
 
 ---
 
@@ -1323,7 +1345,27 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 56
 
-<!-- TODO: Traduire le Psaume 56 -->
+Fais-moi miséricorde, ô Dieu, fais-moi miséricorde, car mon âme s'est confiée en toi ! Et j'espérerai à l'ombre de tes ailes, jusqu'à ce que l'illégalité soit passée.
+
+Je crierai vers le Dieu Très-Haut, vers Dieu mon Bienfaiteur.
+
+Il a envoyé du ciel, et il m'a sauvé, il a livré à la honte ceux qui me foulaient aux pieds ! Dieu a envoyé Sa Miséricorde et sa Vérité.
+
+Il a sauvé mon âme du milieu des lionceaux. J'ai dormi au milieu du trouble. Les fils des humains ont leurs dents pour armes et pour traits, et leur langue est un glaive aiguisé.
+
+Ô Dieu, sois exalté au-dessus des cieux, et que sur toute la terre soit Ta Gloire.
+
+Ils avaient préparé des pièges pour mes pieds, et ils avaient fait fléchir mon âme, ils avaient creusé devant ma face une fosse, et ils y sont tombés.
+
+Mon cœur est prêt, ô Dieu, mon cœur est prêt, je chanterai et je psalmodierai en ma gloire.
+
+Réveille-toi, ô ma gloire, réveillez-vous, harpe et cithare, je me lèverai dès l'aurore.
+
+Je Te professerai parmi les peuples, Seigneur, je te psalmodierai parmi les nations.
+
+Car Ta Miséricorde est magnifiée jusqu'aux cieux, et ta Vérité jusqu'aux nues.
+
+Ô Dieu, sois exalté au-dessus des cieux, et que Ta Gloire soit sur toute la terre !
 
 ---
 
@@ -1331,7 +1373,21 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 60
 
-<!-- TODO: Traduire le Psaume 60 -->
+Ô Dieu, écoute ma supplication, sois attentif à ma prière !
+
+Des confins de la terre j'ai crié vers Toi, lorsque mon cœur était lassé, Tu m'as élevé sur le roc,
+
+Tu m'as dirigé, tu es devenu mon Espérance, et comme une tour fortifiée en face de mon ennemi.
+
+Je demeurerai dans Ta Demeure pour les siècles, je m'abriterai sous l'ombre de tes ailes,
+
+Car, ô mon Dieu, Tu as écouté mes prières, tu as doté d'un héritage ceux qui craignent ton Nom.
+
+Tu ajouteras des jours aux jours du Roi, tu prolongeras ses années jusqu'au jour des générations et des générations.
+
+Il demeurera pour les siècles en face de Dieu. Qui recherchera sa Miséricorde et sa Vérité ?
+
+Ainsi je psalmodierai à ton Nom pour les siècles des siècles, pour te rendre mes vœux de jour en jour.
 
 ---
 
@@ -1339,7 +1395,27 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 62
 
-<!-- TODO: Traduire le Psaume 62 (sixième heure) -->
+Ô Dieu, tu es mon Dieu, je viens vers toi dès l'aurore : mon âme a soif de toi. Combien de fois ma chair a-t-elle eu soif de Toi, dans la terre déserte, interdite, et sans eau !
+
+Ainsi je serai vu de Toi dans le Sanctuaire, afin que je voie ta Puissance et ta Gloire.
+
+Ta Miséricorde vaut mieux que des vies. Mes lèvres Te loueront !
+
+Ainsi dans ma vie je Te bénirai, je lèverai les mains en ton Nom.
+
+Comme avec de la moelle et de la graisse mon âme sera comblée, et des lèvres d'exultation béniront ton nom.
+
+Je pensais à Toi sur mon lit, aux aurores je médite sur toi.
+
+Car Tu es devenu mon Secours, et j'exulterai à l'ombre de tes ailes.
+
+Mon âme s'attache à Toi, ta Droite me soutient.
+
+Mais ceux qui cherchent mon âme en vain, qu'ils entrent dans les profondeurs de la terre !
+
+Qu'on les livre au fil de l'épée, qu'ils deviennent la part des renards !
+
+Mais le roi se réjouira en Dieu. Qui jure par Lui sera loué, tandis que ceux qui disent des choses injustes auront la bouche close !
 
 ---
 
@@ -1347,7 +1423,19 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 66
 
-<!-- TODO: Traduire le Psaume 66 (sixième heure) -->
+Dieu, aie pitié de nous et bénis-nous ! Manifeste sur nous ta Face, et fais-nous miséricorde !
+
+Pour qu'en cette terre nous connaissions Ta voie, et que ton Salut soit parmi toutes les nations !
+
+Que les peuples Te confessent, ô Dieu ! Que tous les peuples te confessent !
+
+Que les nations se réjouissent et exultent, parce que Tu jugeras les peuples avec droiture, et que tu guideras la voie des nations sur la terre !
+
+Que les peuples te confessent, ô Dieu ! Que tous les peuples te confessent !
+
+La terre a donné son fruit, que Dieu, notre Dieu nous bénisse !
+
+Que Dieu nous bénisse, et que tous les confins de la terre le craignent !
 
 ---
 
@@ -1355,7 +1443,15 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 69
 
-<!-- TODO: Traduire le Psaume 69 (sixième heure) -->
+Ô Dieu, pour me secourir sois attentif ! Seigneur, viens vite à mon secours !
+
+Qu'ils soient honteux et humiliés, ceux qui cherchent mon âme ! Qu'ils soient contraints à retourner en arrière, couverts de honte, ceux qui veulent me faire du mal !
+
+Qu'ils tournent le dos couverts de honte, ceux qui me déclarent : « Bien ! Bien ! »
+
+Que tous ceux qui Te cherchent exultent et se réjouissent en Toi ! Que ceux qui aiment ton Salut déclarent toujours : « Que Dieu soit magnifié ! »
+
+Quant à moi, je suis pauvre et faible. Ô Dieu, secours-moi ! Tu es mon Secours et mon Sauveur, Seigneur, ne tarde pas !
 
 ---
 
@@ -1363,7 +1459,29 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 83
 
-<!-- TODO: Traduire le Psaume 83 -->
+Comme Tes Demeures sont aimées, ô Seigneur des Puissances !
+
+Mon âme désire à s'en épuiser aller aux parvis du Seigneur, mon cœur et ma chair ont exulté pour le Dieu vivant.
+
+Car le passereau a trouvé pour lui une maison, et la tourterelle un nid où elle dépose sa couvée : ce sont Tes autels sacrificiels, Seigneur Dieu des Puissances, ô mon Roi et mon Dieu !
+
+Bienheureux ceux qui demeurent en Ta Maison, ils te béniront pour les siècles des siècles.
+
+Bienheureux l'homme dont le Soutien vient de Toi, Seigneur. Il a disposé en son cœur des degrés d'ascension,
+
+En la vallée des pleurs, au Lieu qu'Il a établi, car le Législateur donnera des bénédictions,
+
+Ils iront de Puissance en Puissance, et le Dieu des dieux apparaîtra en Sion.
+
+Seigneur, Dieu des Puissances, écoute ma prière, prête l'oreille, ô Dieu de Jacob !
+
+Vois, ô Dieu notre Protecteur, et regarde la face de ton Christ !
+
+Car un seul jour dans Tes parvis est meilleur qu'un millier de jours. J'ai préféré être marginalisé dans la Maison de Dieu, que d'habiter dans les tentes des pécheurs.
+
+Parce que le Seigneur Dieu aime la Miséricorde et la Vérité. Il est donateur de la Gloire et de la Grâce. Le Seigneur ne fera pas manquer de biens ceux qui marchent dans l'innocence.
+
+Seigneur, Dieu des Puissances, bienheureux l'humain qui espère en toi !
 
 ---
 
@@ -1371,7 +1489,31 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 84
 
-<!-- TODO: Traduire le Psaume 84 -->
+Seigneur, Tu as favorisé ta terre, tu as fait retourner Jacob de la captivité.
+
+Tu as remis ses illégalités à Ton peuple, tu as couvert tous ses péchés.
+
+Tu as apaisé Ta Colère, tu as détourné la colère de ta Fureur.
+
+Convertis-nous, ô Dieu de notre salut, et détourne de nous ta Fureur.
+
+Seras-Tu pour les siècles irrité contre nous ? Étendras-tu ta Colère de générations en générations ?
+
+Ô Dieu, en te retournant Tu nous vivifieras, et ton peuple se réjouira en toi.
+
+Seigneur, montre-nous Ta Miséricorde, et donne-nous ton Salut !
+
+J'écouterai ce que dira le Seigneur Dieu en moi, car Il prononcera la Paix sur son peuple et sur ses Saints, et sur ceux qui convertissent leur cœur vers Lui.
+
+Or Son Salut est près de tous ceux qui le craignent, afin que la Gloire habite dans notre terre.
+
+Miséricorde et Vérité se sont rencontrées, Justice et Paix se sont embrassées.
+
+Vérité s'est élevée de la terre, et Justice s'est penchée depuis le ciel.
+
+Car le Seigneur nous donnera sa Bonté, et notre terre donnera son fruit.
+
+Justice devant Lui marchera, et mettra ses pas dans la Voie.
 
 ---
 
@@ -1379,7 +1521,39 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 85
 
-<!-- TODO: Traduire le Psaume 85 -->
+Incline Ton Oreille, Seigneur, et exauce-moi, car je suis pauvre et faible !
+
+Garde mon âme, car je suis purifié, mon Dieu, sauve ton serviteur qui espère en toi !
+
+Fais-moi miséricorde, Seigneur, car vers toi j'ai crié tout le jour !
+
+Réjouis l'âme de Ton serviteur, car j'ai élevé mon âme vers toi, Seigneur !
+
+Car Seigneur, Tu es bienveillant et indulgent, et abondant en miséricorde pour tous ceux qui t'invoquent.
+
+Seigneur, prête l'oreille à ma prière, et sois attentif à la voix de ma supplication !
+
+Au jour de mon affliction, j'ai crié vers Toi, parce que tu m'as écouté.
+
+Nul n'est semblable à Toi parmi les dieux, Seigneur, et il n'est nul être qui puisse faire tes œuvres.
+
+Toutes les nations que Tu as faites viendront, et se prosterneront devant toi, Seigneur, et elles glorifieront ton Nom,
+
+Parce que Tu es grand, et que tu fais des merveilles. Tu es le seul grand Dieu.
+
+Guide-moi, Seigneur, en ta Voie, et je cheminerai en ta Vérité ! Que mon cœur se réjouisse de craindre ton Nom !
+
+Je te professerai, Seigneur mon Dieu, de tout mon cœur, et je glorifierai ton Nom pour les siècles.
+
+Car Ta Miséricorde est grande envers moi, et Tu as sauvé mon âme du plus profond d'Hadès.
+
+Ô Dieu, les transgresseurs de la Loi se sont levés contre moi, et l'assemblée des gens de pouvoir a cherché mon âme, et ils n'ont pas commencé en te mettant à la première place devant eux.
+
+Et Toi, Seigneur Dieu, tu as été compatissant et miséricordieux, longanime, abondant en miséricorde et véridique.
+
+Jette un regard sur moi, et fais-moi miséricorde, et donne du pouvoir à ton serviteur, et sauve le fils de ta servante !
+
+Fais avec moi un signe qui annonce du Bien, et qu'ils le voient, ceux qui me haïssent, et qu'ils soient honteux, car Toi Seigneur, tu es venu à mon secours, et tu m'as consolé.
 
 ---
 
@@ -1387,7 +1561,19 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 86
 
-<!-- TODO: Traduire le Psaume 86 -->
+Ses fondements sont dans les Montagnes saintes.
+
+Le Seigneur aime les portes de Sion plus que toutes les demeures de Jacob.
+
+On a dit de toi des choses glorieuses, ô Cité de Dieu !
+
+Je remémorerai Raab et Babylone, ceux qui Me connaissent. Et voilà que les étrangers et Tyr, et le peuple des Éthiopiens y sont venus.
+
+« Sion, Mère » dira l'homme ! Et l'homme est venu en elle, et le Très-Haut lui-même l'a fondée pour les siècles.
+
+Le Seigneur racontera cela dans l'écrit des peuples et des princes qui sont advenus en Sion.
+
+Puisque ce sera l'habitation de tous ceux qui se réjouissent en toi !
 
 ---
 
@@ -1395,7 +1581,37 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 90
 
-<!-- TODO: Traduire le Psaume 90 -->
+Celui qui demeure dans le Secours du Très-Haut reposera à l'ombre du Dieu du ciel.
+
+Il dira au Seigneur : « Tu es mon Soutien et mon Refuge ! » Il est mon Dieu, j'espérerai en lui,
+
+Car Il te délivrera des filets des chasseurs et des paroles troublantes.
+
+Il t'abritera à l'ombre au milieu de Ses épaules, et sous ses ailes tu auras l'espérance. Sa Vérité t'entourera comme une armure.
+
+Tu n'auras pas à craindre de terreur nocturne, ni des traits qui volent en plein jour,
+
+Ni des choses qui vont dans les ténèbres, ni des accidents, ni du démon de midi.
+
+Mille tomberont à ta gauche, et dix mille à ta droite, mais ils n'approcheront point de toi.
+
+Cependant, tu considéreras de tes yeux, et tu verras la rétribution des pécheurs.
+
+Car Tu es, Seigneur, mon Espérance, et tu as fait du Très-haut ton Refuge.
+
+Les malheurs n'arriveront point jusqu'à toi, et les fléaux n'approcheront point de ta demeure.
+
+Car Il a donné des ordres à Ses anges te concernant, pour qu'ils te gardent en toutes tes voies :
+
+« Ils te soulèveront de leurs mains, de peur que tes pieds ne heurtent contre une pierre.
+
+Tu marcheras sur l'aspic et sur le basilic, et tu fouleras aux pieds le lion et le dragon.
+
+Parce qu'il a espéré en Moi, Je le délivrerai. Je le protégerai, parce qu'il a connu mon Nom.
+
+Il M'invoquera, et Moi je l'exaucerai, Je serai avec lui en ses tribulations, et Je le délivrerai, et Je le glorifierai.
+
+Je le remplirai de longs jours, et Je lui montrerai mon Salut. »
 
 ---
 
@@ -1403,7 +1619,15 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 92
 
-<!-- TODO: Traduire le Psaume 92 -->
+Le Seigneur a pris son règne, il s'est revêtu de splendeur ! Le Seigneur s'est revêtu de puissance, et il s'en est fait une ceinture, car il a affermi le monde habité, qui ne sera pas ébranlé.
+
+Ton Trône fut dès lors établi, et depuis les siècles Tu es !
+
+Les fleuves ont élevé, Seigneur, les fleuves ont élevé leur voix,
+
+Au-dessus de la voix des eaux nombreuses. Les élévations de la mer sont merveilleuses. Le Seigneur est merveilleux dans les hauteurs.
+
+Ses témoignages ont été dignes d'une grande foi. À ta Maison convient la Sanctification, Seigneur, dans la longueur des jours.
 
 ---
 
@@ -1411,7 +1635,19 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Évangile de la sixième heure
 
-<!-- TODO: Traduire l'Évangile de la sixième heure -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Matthieu :_
+
+Voyant les foules, il monta sur la montagne, il s'assit, et ses disciples vinrent à lui. Puis il prit la parole et se mit à les instruire :
+
+Heureux les pauvres quant à l'Esprit, car le Royaume des cieux est à eux ! Heureux les affligés, car ils seront consolés ! Heureux ceux qui sont doux, car ils hériteront la terre ! Heureux ceux qui ont faim et soif de justice, car ils seront rassasiés ! Heureux ceux qui sont compatissants, car ils obtiendront compassion ! Heureux ceux qui sont saints dans leur cœur, car ils verront Dieu ! Heureux les artisans de paix, car ils seront appelés fils de Dieu ! Heureux ceux qui sont persécutés à cause de la justice, car le royaume des cieux est à eux ! Heureux êtes-vous lorsqu'on vous insulte, qu'on vous persécute et qu'on répand faussement sur vous toutes sortes de méchancetés, à cause de moi. Réjouissez-vous et soyez transportés d'allégresse, parce que votre récompense est grande dans les cieux ; car c'est ainsi qu'on a persécuté les prophètes qui vous ont précédés.
+
+C'est vous qui êtes le sel de la terre. Mais si le sel devient fade, avec quoi le salera-t-on ? Il n'est plus bon qu'à être jeté dehors et foulé aux pieds par les gens.
+
+C'est vous qui êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. On n'allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le porte-lampe, et elle brille pour tous ceux qui sont dans la maison. Que votre lumière brille ainsi devant les hommes, afin qu'ils voient vos belles œuvres et glorifient votre Père qui est dans les cieux.
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -1419,7 +1655,45 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Tropaires de la sixième heure
 
-<!-- TODO: Traduire les tropaires de la sixième heure -->
+Ô Toi qui au sixième jour à la sixième heure a été cloué sur la Croix à cause du péché qu'avait osé commettre Adam au paradis, déchire la liste de nos péchés ô Christ notre Dieu et sauve-nous.
+
+J'ai invoqué Dieu et le Seigneur m'a écouté. Ô Dieu entends ma prière et ne rejette pas ma supplique.
+
+Tourne-toi vers moi et écoute-moi le soir, le matin ou à midi. Je dirai, je parlerai et Il entendra ma voix, et Il sauvera mon âme en paix.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Ô Jésus-Christ notre Dieu qui a été cloué sur la Croix à la sixième heure, Tu as détruit le péché par la Croix, et par Ta mort Tu as redonné vie à celui qui était mort, l'homme créé de tes mains, et qui est mort par le péché, Détruis nos passions par Tes souffrances salvatrices et vivifiantes, et par les clous transperçant Ton Corps. Délivre notre Intelligence des dommages causés par les choses matérielles, afin que nous fassions mémoire de Tes jugements célestes selon Ta miséricorde.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+N'ayant aucune circonstance atténuante pour nos nombreux péchés, c'est par toi, ô Théotokos, que nous nous adressons hardiment à Celui que tu as enfanté. Car tes intercessions sont nombreuses et agréées par Notre Sauveur. Ô Mère pure, ne refuse pas aux pécheurs tes intercessions auprès de Celui que tu as enfanté, parce qu'Il est miséricordieux et peut nous sauver. En effet il a souffert pour nous afin de nous sauver. Que tes compassion nous devancent vite car nous sommes dans une grande misère. Aide-nous ô Dieu notre Sauveur à cause de Ton Nom. Ô Seigneur tu nous sauveras, tu nous remettras nos péchés à cause de Ton Saint Nom.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Tu as opéré le Salut au milieu de la terre, ô Christ notre Dieu quand Tu as tendu Tes mains saintes sur la Croix. C'est pourquoi toutes les nations s'écrient : « Gloire à Toi Seigneur ».
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Nous nous prosternons devant Ta Forme incorruptible, ô Toi qui es bon, en demandant la rémission de nos péchés, ô Christ notre Dieu, parce qu'il t'a plu de monter sur la Croix pour sauver de l'esclavage de l'ennemi ceux que Tu as créés. Nous crions vers Toi et nous Te rendons grâce car Tu as rempli de joie le Tout, ô Sauveur, quand Tu es venu pour aider le monde. Ô Seigneur, gloire à Toi.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Tu es Celle qui est pleine de grâce, ô la Vierge Theotokos. Nous t'exaltons car c'est par la Croix de Ton Fils qu'Hadès a été anéanti, la mort vaincue.
+
+Nous étions morts, et nous avons été relevés et nous avons été rendus dignes de la Vie éternelle et avons eu part aux délices du Paradis originel.
+
+Pour cela nous glorifions avec action de grâce le Christ notre Dieu car Il est puissant.
 
 ---
 
@@ -1435,7 +1709,17 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Absolution de la sixième heure
 
-<!-- TODO: Traduire l'absolution de la sixième heure -->
+Nous Te rendons grâce, ô notre Maître Tout-Puissant, Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ, et nous te glorifions car tu as fait des moments de la Passion de Ton Fils Unique-Engendré des temps de prière et d'imploration.
+
+Reçois nos supplications, et efface la liste de nos péchés inscrite contre nous, comme Tu l'as annulée en cette heure sainte par la Croix de Ton Fils Unique-Engendré Jésus-Christ notre Seigneur et le Sauveur de nos âmes, Lui, par qui tu as dissous toute la puissance de l'ennemi.
+
+Et donne-nous des moments lumineux, une conduite irréprochable et une vie tranquille pour satisfaire Ton Nom saint et adorable
+
+et que nous puissions nous tenir devant le tribunal redoutable et juste de Ton Fils Unique-Engendré Jésus Christ, notre Seigneur. Fais que nous puissions Te glorifier avec tous Tes saints,
+
+Toi le Père qui es sans principe, et le Fils de même essence que Toi et le Saint-Esprit vivifiant,
+
+Maintenant et toujours et pour tous les siècles des siècles. Amen !
 
 ---
 
@@ -1443,7 +1727,17 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Prière de la neuvième heure
 
-<!-- TODO: Traduire l'en-tête et la description de la neuvième heure -->
+Allons, prosternons-nous, allons implorons le Christ notre Dieu !
+
+Allons, prosternons-nous, allons implorons le Christ notre Roi !
+
+Allons, prosternons-nous, allons implorons le Christ notre Sauveur !
+
+Ô notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.
+
+Hymne de la neuvième heure du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
+
+_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
 
 ---
 
@@ -1451,7 +1745,31 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 95
 
-<!-- TODO: Traduire le Psaume 95 -->
+Louez au Seigneur par un cantique nouveau, que toute la terre loue le Seigneur !
+
+Louez le Seigneur, bénissez son Nom, proclamez de jour en jour son Salut !
+
+Annoncez aux nations Sa Gloire, et à tous les peuples ses merveilles,
+
+Car le Seigneur est grand et très béni, il est redoutable au dessus de tous les dieux !
+
+Car tous les dieux des nations sont des démons, mais le Seigneur, c'est lui a fait les cieux.
+
+Profession et Beauté sont devant Lui, Sainteté et grande Splendeur sont en son Saint.
+
+Patries des nations, rendez au Seigneur, rendez au Seigneur gloire et honneur !
+
+Rendez gloire au Seigneur pour son Nom, apportez des sacrifices et entrez dans ses Parvis !
+
+Prosternez-vous devant le Seigneur en son saint Parvis, et que devant sa Face tremble toute la terre !
+
+Déclarez parmi les nations : « Le Seigneur a pris son règne par le Bois [de la Croix], car il a redressé le monde habité, et il ne sera plus ébranlé. Il jugera les peuples dans la droiture. »
+
+Que les cieux se réjouissent et que la terre exulte, que la mer et ce qui l'emplit soient ébranlés !
+
+Les champs et tout ce qu'ils contiennent seront joyeux, alors exulteront tous les arbres de la forêt,
+
+Devant la Face du Seigneur, car il vient, car il vient juger la terre. Il jugera le monde habité dans la Justice, et les peuples en sa Vérité.
 
 ---
 
@@ -1459,7 +1777,29 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 96
 
-<!-- TODO: Traduire le Psaume 96 -->
+Le Seigneur a pris son Règne, que la terre exulte, que les îles nombreuses se réjouissent !
+
+Les nuées et les ténèbres L'entourent, Justice et Jugement sont la rectitude de Son Trône.
+
+Le feu avance devant Lui, et enflamme Ses ennemis tout autour.
+
+Ses éclairs ont illuminé le monde habité, la terre les a vus et en a tremblé.
+
+Les montagnes ont fondu comme la cire, devant la Face du Seigneur, devant la Face du Seigneur de toute la terre !
+
+Les cieux ont annoncé Sa Justice, et tous les peuples ont vu sa Gloire.
+
+Ils seront honteux, tous ceux qui adorent des sculptures, et sont fiers de leurs idoles ! Adorez-Le, vous tous, Ses anges !
+
+Sion l'a écouté, et elle s'est réjouie, et les filles de Juda ont exulté à cause de Tes jugements, Seigneur !
+
+Car Tu es, Seigneur, le Très-Haut sur toute la terre, tu es si élevé, au dessus de tous les dieux !
+
+Vous qui aimez le Seigneur, haïssez le mal ! Le Seigneur gardera les âmes de ses Saints, il les délivrera de la main des pécheurs.
+
+La Lumière s'est levée pour les justes, et la joie pour ceux qui ont le cœur droit.
+
+Justes, réjouissez-vous dans le Seigneur, et professez à la mémoire de Sa Sainteté !
 
 ---
 
@@ -1467,7 +1807,23 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 97
 
-<!-- TODO: Traduire le Psaume 97 -->
+Chantez au Seigneur un cantique nouveau, car le Seigneur a fait des merveilles ! C'est pour Lui que sa Droite et son Bras saint ont apporté le Salut vivifiant.
+
+Le Seigneur a manifesté son Salut, devant les nations, il a révélé sa Justice.
+
+Il s'est souvenu de Sa Miséricorde pour Jacob, et de sa Vérité pour la maison d'Israël. Tous les confins de la terre ont vu le Salut de notre Dieu.
+
+Ô toute la terre, acclamez le Seigneur : chantez, exultez et entonnez des psaumes !
+
+Psalmodiez au Seigneur sur la cithare, avec la cithare et la voix de la psalmodie,
+
+Au son des cors métalliques et des trompettes, acclamez devant le Roi, le Seigneur !
+
+Que la mer en toute sa plénitude soit bouleversée, le monde et ceux qui l'habitent !
+
+Les fleuves applaudiront ensemble, et les montagnes exulteront !
+
+Car Il est venu juger la terre ! Il jugera le monde habité avec Justice, et les peuples avec Droiture.
 
 ---
 
@@ -1475,7 +1831,23 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 98
 
-<!-- TODO: Traduire le Psaume 98 -->
+Le Seigneur a pris son Règne, que les peuples soient en colère ! Il est assis sur les Chérubins, que la terre soit ébranlée !
+
+Le Seigneur est grand dans Sion, Il est élevé au-dessus de tous les peuples.
+
+Qu'ils professent à Ton grand Nom, car il est redoutable et saint !
+
+Or l'honneur du roi aime le Jugement. Tu as préparé ceux qui sont droits, tu as accompli le jugement et la justice en Jacob.
+
+Exaltez le Seigneur notre Dieu, et prosternez-vous sous le piédestal de ses pieds, car Il est Saint !
+
+Moïse et Aaron sont parmi Ses prêtres, et Samuel parmi ceux qui invoquent son Nom. Ils invoquaient le Seigneur, et Lui les exauçait.
+
+Dans une colonne de nuée Il leur parlait. Ils gardaient Ses témoignages, et les ordres qu'il leur donnait.
+
+Ô Seigneur notre Dieu, Tu les écoutais. Ô Dieu, tu es devenu Celui qui leur pardonne, et tu donnas la vengeance pour toutes leurs oeuvres.
+
+Exaltez le Seigneur notre Dieu, et adorez-le sur sa Montagne sainte, car Saint est le Seigneur notre Dieu !
 
 ---
 
@@ -1483,7 +1855,15 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 99
 
-<!-- TODO: Traduire le Psaume 99 -->
+Ô toute la terre, acclamez le Seigneur !
+
+Servez le Seigneur dans la réjouissance, venez devant Lui dans l'allégresse !
+
+Sachez que le Seigneur lui-même est Dieu ! C'est Lui qui nous a faits, ce n'est pas nous, nous son peuple et les brebis de son pâturage.
+
+Entrez dans Ses Portes en faisant profession, et dans ses parvis avec des bénédictions. Professez-le, bénissez son Nom !
+
+Car le Seigneur est doux, sa Miséricorde est pour les siècles, et sa Vérité est de génération en génération !
 
 ---
 
@@ -1491,7 +1871,19 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 100
 
-<!-- TODO: Traduire le Psaume 100 -->
+Seigneur, je chanterai ta Miséricorde et ton Jugement.
+
+Je psalmodierai, et je serai intelligent dans la voie sans tache. Quand viendras-Tu à moi ? J'ai marché au milieu de ma maison, dans l'innocence de mon cœur. Je n'ai mis aucune pratique illégale devant mes yeux,
+
+J'ai haï ceux qui font la transgression. Je ne me suis point attaché au cœur pervers, et le méchant se détournant de moi, je ne l'ai point connu.
+
+Celui qui dénigre en secret son prochain, je le chassais à l'extérieur. Je n'ai point mangé avec l'œil arrogant, au cœur insatiable.
+
+Mes yeux sont sur les fidèles de la terre, pour les faire asseoir avec moi, celui qui chemine dans la voie sans tache était à mon service.
+
+Celui qui agit avec arrogance n'a point habité au milieu de ma maison, le parleur d'injustices n'a point réussi devant mes yeux.
+
+Le matin, je mettais à mort tous les pécheurs de la terre, afin d'exterminer dans la Cité du Seigneur les ouvriers de l'illégalité.
 
 ---
 
@@ -1499,7 +1891,19 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 109
 
-<!-- TODO: Traduire le Psaume 109 -->
+Le Seigneur a déclaré à mon Seigneur : « Assieds-toi à ma droite, jusqu'à ce que j'aie placé tes ennemis dessous tes pieds. »
+
+Le Seigneur t'enverra depuis Sion un sceptre de puissance, et tu prendras ta domination au milieu de tes ennemis.
+
+« La principauté est avec toi au jour de ta puissance, dans les Lumière des Saints. Je t'ai engendré de Mes entrailles avant l'étoile de l'aurore. »
+
+Le Seigneur l'a juré, et il ne changera pas d'avis : « Tu es Prêtre pour les siècles, selon l'Ordre de Melchisédech ».
+
+Le Seigneur est à ta droite, il a écrasé les rois au jour de sa Colère.
+
+Il jugera au milieu des nations, il les remplira de ruines, il brisera sur la terre la tête d'une grande multitude.
+
+Il boira sur son chemin l'eau du torrent, et c'est pourquoi il relèvera sa tête.
 
 ---
 
@@ -1507,7 +1911,25 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 110
 
-<!-- TODO: Traduire le Psaume 110 -->
+Alléluia ! Je Te professerai, Seigneur, de tout mon cœur, dans le conseil et l'assemblée de ceux qui sont droits.
+
+Les œuvres du Seigneur sont grandes, recherchées pour toutes ses volontés.
+
+Son œuvre est Profession et Majesté, et sa Justice demeurera pour les siècles des siècles.
+
+Il a fait le mémorial de Ses merveilles, le Seigneur est compatissant et miséricordieux.
+
+Il a donné la nourriture à ceux qui Le craignent, il se souviendra de son Alliance pour les siècles.
+
+Il a divulgué à son peuple la force de Ses œuvres, pour leur donner l'héritage des nations.
+
+Les œuvres de Ses mains sont Vérité et Jugement. Tous ses commandements sont fidèles,
+
+Fermement établis pour les siècles des siècles, et créés en Vérité et Droiture.
+
+Il a envoyé la Rédemption à Son peuple, Il a commandé son Alliance pour les siècles. Son Nom est saint et redoutable.
+
+La crainte du Seigneur est le principe de Sagesse, c'est l'Intelligence bonne pour tous ceux qui la pratiquent. Sa louange demeure pour les siècles des siècles !
 
 ---
 
@@ -1515,7 +1937,25 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 111
 
-<!-- TODO: Traduire le Psaume 111 -->
+Alléluia ! Bienheureux l'homme qui craint le Seigneur, en Ses commandements il voudra rester.
+
+Sa semence sera puissante sur la terre, la génération de ceux qui sont droits sera bénie.
+
+La gloire et la richesse sont en sa maison, et sa justice demeure pour les siècles des siècles.
+
+La lumière s'est levée dans les ténèbres pour ceux qui sont droits. Le Seigneur Dieu est miséricordieux, compatissant et juste.
+
+C'est un homme bon que celui qui est compatissant, disposé à prêter, il ménagera ses paroles avec Jugement.
+
+Car pour les siècles il ne sera pas ébranlé. Le juste sera dans la mémoire pour les siècles.
+
+Et il n'aura nulle crainte face à des discours mauvais, son cœur est prêt à espérer dans le Seigneur,
+
+Son cœur est affermi et ne vacillera pas à la vue de ses ennemis.
+
+Il a distribué et donné aux miséreux, et sa justice demeure pour les siècles des siècles, sa corne sera exaltée en Gloire.
+
+Le pécheur le verra, et s'en irritera, il grincera des dents, et sera consumé. Le désir des pécheurs périra.
 
 ---
 
@@ -1523,7 +1963,23 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 112
 
-<!-- TODO: Traduire le Psaume 112 (neuvième heure) -->
+Alléluia ! Louez le Seigneur, jeunes gens, louez le Nom du Seigneur !
+
+Béni soit le Nom du Seigneur, dès maintenant et pour les siècles !
+
+De l'orient du soleil jusqu'à l'occident, louez le Nom du Seigneur !
+
+Le Seigneur est élevé sur toutes les nations, sa Gloire est sur les cieux.
+
+Qui est comme le Seigneur notre Dieu, qui habite en des lieux élevés,
+
+Et regarde les humbles dans le ciel et sur la terre ?
+
+Il redresse de la terre le pauvre, et Il relève le mendiant de son fumier,
+
+Pour le faire asseoir avec les princes, avec les princes de son peuple.
+
+Il fait résider celle qui est stérile dans sa maison, et c'est une mère se réjouissant en ses enfants.
 
 ---
 
@@ -1531,7 +1987,23 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 114
 
-<!-- TODO: Traduire le Psaume 114 -->
+Alléluia ! Je suis rempli d'amour, parce que le Seigneur écoutera la voix de ma supplication,
+
+Parce qu'Il a incliné vers moi son Oreille, et en tous mes jours je l'invoquerai.
+
+Les douleurs de la mort m'avaient saisi, les périls d'Hadès m'avaient atteint. J'avais trouvé l'oppression et la souffrance.
+
+Et j'ai invoqué le Nom du Seigneur. Ô Seigneur, délivre mon âme !
+
+Le Seigneur est miséricordieux et juste, et notre Dieu fait miséricorde.
+
+Le Seigneur garde les petits enfants. J'avais été humilié, et Il m'a sauvé !
+
+Ô mon âme, convertis-toi pour retourner à ton Repos, car le Seigneur t'a fait du bien.
+
+Car Il a délivré mon âme de la mort, mes yeux des larmes, et mes pieds du trébuchement.
+
+Je complairai au Seigneur devant lui, en la région des vivants.
 
 ---
 
@@ -1539,7 +2011,25 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Psaume 115
 
-<!-- TODO: Traduire le Psaume 115 -->
+J'ai eu foi, c'est pourquoi j'ai parlé, mais moi, j'avais été fort humilié !
+
+Moi, j'ai dit en mon extase : « Tout homme est menteur. »
+
+Que rendrai-je au Seigneur pour tout ce qu'il m'a donné ?
+
+Je prendrai le calice du Salut, et j'invoquerai le Nom du Seigneur.
+
+Je rendrai au Seigneur mes vœux devant tout son peuple.
+
+La mort de Ses Consacrés est précieuse aux yeux du Seigneur.
+
+Ô Seigneur, moi je suis Ton serviteur, je suis ton serviteur et le fils de ta servante. Tu as rompu mes liens,
+
+Je te ferai un sacrifice de louange, et j'implorerai le Nom du Seigneur.
+
+Je rendrai mes vœux au Seigneur dans les parvis de la Maison du Seigneur,
+
+Devant tout son peuple, au milieu de Jérusalem !
 
 ---
 
@@ -1547,7 +2037,13 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Évangile de la neuvième heure
 
-<!-- TODO: Traduire l'Évangile de la neuvième heure -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_
+
+Les apôtres, à leur retour, racontèrent à Jésus tout ce qu'ils avaient fait. Il les prit avec lui et se retira à l'écart, du côté d'une ville appelée Bethsaïda. Les foules s'en aperçurent et le suivirent. Il les accueillit ; il leur parlait du règne de Dieu ; il guérit aussi ceux qui avaient besoin de guérison. Le jour commençait à baisser. Les Douze vinrent donc lui dire : Renvoie la foule, pour qu'elle aille se loger et trouver du ravitaillement dans les villages et les hameaux des environs ; car nous sommes ici dans un lieu désert. Mais il leur dit : Donnez-leur vous-mêmes à manger. Ils dirent : Nous n'avons pas plus de cinq pains et deux poissons, à moins que nous n'allions nous-mêmes acheter des vivres pour tout ce peuple. En effet, il y avait environ cinq mille hommes. Il dit à ses disciples : Installez-les par rangées d'une cinquantaine. Ils firent ainsi ; ils les installèrent tous. Il prit les cinq pains et les deux poissons, leva les yeux vers le ciel et prononça la bénédiction sur eux. Puis il les rompit et se mit à les donner aux disciples pour qu'ils les distribuassent à la foule. Tous mangèrent et furent rassasiés, et on emporta douze paniers de morceaux qui étaient restés.
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -1555,7 +2051,39 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Tropaires de la neuvième heure
 
-<!-- TODO: Traduire les tropaires de la neuvième heure -->
+Ô Toi qui à la neuvième heure a pour nous goûté la mort dans la chair, fais mourir nos pensées corporelles, ô Christ notre Dieu, et sauve-nous !
+
+> Que ma supplication s'approche devant Toi, Seigneur. Donne-moi l'intelligence, selon Ta Parole. Que ma requête entre auprès de Toi. Vivifie-moi selon Ta Parole.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Ô Toi qui as rendu l'Esprit dans les mains du Père quand Tu as été crucifié à la neuvième heure, et qui as conduit le larron crucifié avec Toi au Paradis, ne me méprise pas ô Toi qui es Bon, et ne m'abomine pas, mais purifie mon âme, illumine mon intelligence, et tu me feras participant aux grâces de Tes Mystères immortels. Afin qu'ayant goûté à Ta Bonté, je t'adresse une louange incessante, désirant Ta Splendeur plus que toute chose, ô Christ notre Dieu : sauve-nous !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Toi qui es né pour nous de la Vierge et as supporté la Croix, ô Toi qui es Bon, Tu as tué la Mort par Ta mort, et tu nous as manifesté la Résurrection. N'abandonne pas, ô Dieu, ceux que tu as créés de Tes mains. Manifeste Ton amour du genre humain, Ô Toi qui est Bon, et reçois les suppliques de Ta Mère en notre faveur. Sauve, ô Sauveur, un peuple humilié. Ne nous abandonne pas pour toujours, et ne nous livre pas à jamais ; ne romps pas Ton Alliance, ne nous enlève pas ta miséricorde, aux noms d'Abraham, Ton bien-aimé, d'Isaac, Ton serviteur, et de Jacob, Ton saint.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Quand le larron a vu le Maître de la Vie sur la Croix, il a dit : « Si Celui qui est crucifié avec nous n'était pas un Dieu incarné, le soleil n'aurait pas caché ses rayons, et la terre n'aurait pas chancelé et tremblé, mais ô Toi qui as pouvoir en tout, et qui supportes tout, souviens-Toi de moi, Seigneur, quand Tu viendras dans ta Royauté ! »
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+O Toi qui as reçu la profession de foi du larron sur la Croix, reçois-nous ô Toi qui es Bon, nous qui méritons la sentence de mort à cause de nos péchés. Nous confessons nos péchés avec le larron et professons Ta Divinité, en clamant vers Toi en chœur avec lui : « Souviens-Toi de nous, Seigneur, quand Tu viendras dans ta Royauté ! »
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Quand la Mère a vu l'Agneau, le Pasteur, le Sauveur du monde accroché sur la Croix, elle a dit en pleurant : « Le monde certes se réjouit car il a reçu le Salut, mais mes entrailles brûlent en voyant Ta Crucifixion que Tu endures avec patience pour le Tout, mon Fils et mon Dieu ! »
 
 ---
 
@@ -1563,7 +2091,23 @@ Car à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon 
 
 ## Absolution de la neuvième heure
 
-<!-- TODO: Traduire l'absolution de la neuvième heure -->
+Ô Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ, par Sa manifestation Tu nous as sauvés et Tu nous as délivrés de l'esclavage de l'ennemi.
+
+Nous T'implorons par Son Nom grand et béni de détourner nos intelligences des soucis de cette vie et des désirs mondains, afin que nous fassions mémoire de Tes jugements célestes. Accomplis en nous Ton amour du genre humain, ô Toi qui es bon.
+
+Et qu'en tout temps soit accueillie auprès de Toi la prière de la neuvième heure.
+
+Et donne-nous de marcher en étant digne de l'Appel que nous avons reçu.
+
+Ainsi, quand nous aurons quitté ce corps, nous pourrons être comptés parmi les véritables adorateurs de Ton Fils Unique-Engendré Jésus Christ, notre Seigneur, et obtiendrons la miséricorde, la rémission de nos péchés et le Salut avec le chœur des Saints qui T'ont plu en vérité depuis les siècles et pour les siècles.
+
+Ô Dieu, anéantis le Satan et toutes ses puissances maléfiques, comme Ton Fils unique les a écrasés par la puissance de Sa Croix vivifiante.
+
+Reçois-nous, ô mon Seigneur Jésus-Christ, Toi qui as reçu la profession de foi du larron sur la Croix.
+
+Qu'Il nous illumine pour donner la lumière à ceux qui sont dans l'obscurité d'Hadès. Fais-nous retourner au Paradis de la Joie,
+
+car Tu es béni, mon Seigneur, et à Toi sont dus la gloire, l'honneur, la souveraineté, l'adoration, avec Ton Père qui est bon et l'Esprit-Saint, pour tous les siècles des siècles. Amen !
 
 ---
 
@@ -1663,7 +2207,19 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 119
 
-<!-- TODO: Traduire le Psaume 119 -->
+Dans ma tribulation, j'ai crié vers le Seigneur, et Tu m'as exaucé.
+
+Seigneur, délivre mon âme des lèvres injustes et des langues trompeuses !
+
+Que te revient-il, et quel profit as-tu retiré de ta langue trompeuse ?
+
+Les flèches du Puissant sont aiguës comme des charbons du désert.
+
+Hélas ! que mon exil est long ! J'ai séjourné avec les tentes de Cédar.
+
+Mon âme a été en exil en bien des lieux.
+
+J'étais pacifique avec ceux qui haïssent ma paix ; sitôt que je leur parlais, ils m'attaquaient pour rien.
 
 ---
 
@@ -1671,7 +2227,21 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 120
 
-<!-- TODO: Traduire le Psaume 120 -->
+J'ai levé les yeux vers les montagnes, d'où me viendra mon secours.
+
+Le secours me viendra du Seigneur, qui a fait le ciel et la terre.
+
+Il ne laissera point vaciller ton pied, et Celui qui te garde ne s'endormira pas.
+
+Il ne sommeillera pas, il ne s'endormira point, Celui qui garde Israël.
+
+Le Seigneur te gardera, le Seigneur est ton abri, sur ta main droite.
+
+Le soleil ne te brûlera point pendant le jour, ni la lune pendant la nuit.
+
+Le Seigneur te gardera de tout mal, le Seigneur gardera ton âme.
+
+Le Seigneur te gardera, quand tu entreras et quand tu sortiras, dès maintenant et pour les siècles.
 
 ---
 
@@ -1679,7 +2249,23 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 121
 
-<!-- TODO: Traduire le Psaume 121 -->
+Je me suis réjoui quand on m'a dit : « Nous irons à la Maison du Seigneur ! »
+
+Nos pieds se sont tenus droit dans les parvis de Jérusalem !
+
+Jérusalem est édifiée comme une cité dont la faveur est sur tous ensemble.
+
+Car c'est là que montaient les tribus, les tribus du Seigneur, en témoignage pour Israël, pour professer au Nom du Seigneur.
+
+Là étaient établis des trônes pour le jugement, des trônes sur la maison de David.
+
+Faites des demandes pour la Paix de Jérusalem, et la prospérité de ceux qui t'aiment !
+
+Que la Paix advienne dans ta puissance, et la prospérité dans tes tours fortes !
+
+À cause de mes frères et de mes proches, j'ai parlé de paix te concernant.
+
+À cause de la Maison du Seigneur notre Dieu, j'ai recherché ce qui est bon pour toi.
 
 ---
 
@@ -1687,7 +2273,13 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 122
 
-<!-- TODO: Traduire le Psaume 122 -->
+J'ai levé mes yeux vers Toi, qui habites dans le ciel.
+
+Comme les yeux des serviteurs sont vers les mains de leurs maîtres, et les yeux de la servante vers les mains de sa maîtresse, ainsi nos yeux seront vers le Seigneur notre Dieu, jusqu'à ce qu'il ait pitié de nous.
+
+Fais-nous miséricorde, Seigneur, fais-nous miséricorde, parce que nous sommes remplis de trop de mépris !
+
+Notre âme en est pleine, et déborde : que l'opprobre soit pour les gens prospères, et le mépris pour les orgueilleux !
 
 ---
 
@@ -1695,7 +2287,21 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 123
 
-<!-- TODO: Traduire le Psaume 123 -->
+Si le Seigneur n'avait été en nous, qu'Israël déclare :
+
+Si le Seigneur n'avait été en nous, lorsque des hommes se sont levés contre nous,
+
+Peut-être nous auraient-ils dévorés vivants. Quand leur fureur a éclaté contre nous,
+
+Peut-être l'eau nous aurait-elle submergé. Notre âme aurait traversé un torrent.
+
+Notre âme aurait traversé l'eau sans fond.
+
+Béni soit le Seigneur, qui ne nous a point livrés en proie à leurs dents !
+
+Notre âme s'est échappée comme un passereau du piège des chasseurs, le filet a été rompu, et nous avons été délivrés.
+
+Notre Secours est dans le Nom du Seigneur, qui a fait le ciel et la terre.
 
 ---
 
@@ -1703,7 +2309,15 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 124
 
-<!-- TODO: Traduire le Psaume 124 -->
+Ceux qui ont confiance dans le Seigneur sont comme la Montagne de Sion. Il ne sera point ébranlé pour les siècles, celui qui habite en Jérusalem.
+
+Des montagnes sont autour d'elle, et le Seigneur est autour de son peuple, maintenant et jusqu'aux siècles.
+
+Le Seigneur ne permettra pas que le bâton des pécheurs soit sur l'héritage des justes, afin que les justes n'étendent pas leurs mains vers l'illégalité.
+
+Seigneur, fais du bien à ceux qui sont bons, et à ceux qui sont droits dans leur cœur.
+
+Mais ceux qui tournent vers le scandale, le Seigneur les retranchera avec les ouvriers d'illégalité. Paix sur Israël !
 
 ---
 
@@ -1711,7 +2325,17 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 125
 
-<!-- TODO: Traduire le Psaume 125 -->
+Quand le Seigneur fit retourner les captifs de Sion, nous devînmes comme consolés.
+
+Alors notre bouche fut remplie de joie, et notre langue d'allégresse, alors les nations dirent entre elles : « Le Seigneur a fait de grandes choses pour eux ».
+
+Le Seigneur a fait de grandes choses pour nous, et nous en avons été réjouis.
+
+Seigneur, fais retourner nos captifs comme les torrents du midi !
+
+Ceux qui sèment dans les larmes récolteront dans l'allégresse.
+
+Ils allaient, ils allaient en pleurant, portant leurs semences : en revenant ils iront dans l'allégresse, portant leurs gerbes.
 
 ---
 
@@ -1719,7 +2343,15 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 126
 
-<!-- TODO: Traduire le Psaume 126 -->
+Si le Seigneur n'édifie la maison, c'est en vain que peinent ceux qui l'édifient. Si le Seigneur ne veille sur la cité, c'est en vain que veille celui qui la garde.
+
+En vain vous vous levez dès l'aurore : levez-vous après vous être couchés, vous qui mangez le pain de la peine, quand Il aura donné le sommeil à ses bien-aimés !
+
+Voilà l'héritage du Seigneur : des fils, récompense du fruit du ventre.
+
+Telles sont des flèches dans la main du puissant, tels sont des fils pour ceux qui ont été secoués.
+
+Bienheureux l'humain qui, par eux, comblera son désir : ils ne seront point honteux quand ils parleront à leurs ennemis aux portes de la cité.
 
 ---
 
@@ -1727,7 +2359,17 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 127
 
-<!-- TODO: Traduire le Psaume 127 -->
+Bienheureux tous ceux qui craignent le Seigneur, et qui cheminent en Ses voies.
+
+Tu mangeras les produits de tes peines, tu seras bienheureux, et ce sera bon pour toi.
+
+Ta femme sera comme une vigne prospère dans l'enceinte de ta maison, tes enfants comme de jeunes plants d'olivier seront autour de ta table.
+
+Voilà comment sera béni l'homme qui craint le Seigneur.
+
+Que le Seigneur te bénisse depuis Sion, et que tu voies les bonnes choses de Jérusalem, tous les jours de ta vie.
+
+Et que tu voies les fils de tes fils. Paix sur Israël !
 
 ---
 
@@ -1735,7 +2377,21 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Psaume 128
 
-<!-- TODO: Traduire le Psaume 128 -->
+Souvent ils m'ont fait la guerre dès ma jeunesse, que maintenant Israël déclare :
+
+Souvent ils m'ont fait la guerre dès ma jeunesse, mais ils n'ont rien pu envers moi.
+
+Sur mon dos ont frappé les pécheurs, ils ont prolongé leur illégalité.
+
+Le Seigneur est juste, Il brisera le cou des pécheurs.
+
+Qu'ils soient honteux et mis en fuite, tous ceux qui haïssent Sion.
+
+Qu'ils deviennent comme l'herbe des toits, qui sèche avant d'être arrachée,
+
+Et qui ne remplit ni la main du faucheur, ni le sein de celui qui rassemble les gerbes.
+
+Et sur eux les passants n'ont point dit : « Que la bénédiction du Seigneur soit sur vous ! Nous vous bénissons au Nom du Seigneur ! »
 
 ---
 
@@ -1743,7 +2399,13 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Évangile de la onzième heure
 
-<!-- TODO: Traduire l'Évangile de la onzième heure -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_
+
+Il partit de la synagogue et se rendit chez Simon. La belle-mère de Simon était en proie à une forte fièvre, et ils le sollicitèrent en sa faveur. Il se pencha sur elle, rabroua la fièvre, et la fièvre la quitta. A l'instant même elle se leva et se mit à les servir. Après le coucher du soleil, tous ceux qui avaient des malades atteints de divers maux les lui amenèrent. Il les guérissait en imposant les mains à chacun d'eux. Des démons aussi sortaient de beaucoup de personnes, en criant : « Toi, tu es le Fils de Dieu ». Et il les rabrouait et ne leur permettait pas de parler parce qu'ils savaient qu'il était le Christ.
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -1751,7 +2413,27 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Tropaires de la onzième heure
 
-<!-- TODO: Traduire les tropaires de la onzième heure -->
+Si le juste n'est sauvé qu'à grand peine, comment paraîtrais-je, moi, le pécheur ?
+
+Je n'ai pas pu supporter le poids du jour et sa chaleur à cause de la faiblesse de mon humanité. Mais Toi, Dieu miséricordieux, compte-moi parmi ceux de la onzième heure, car moi, c'est dans l'illégalité que j'ai été conçu, dans le péché ma mère m'a enfanté. C'est pourquoi je ne peux pas lever les yeux vers le ciel mais je me confierai en l'abondance de Ta Miséricorde et de Ton amour du genre humain en clamant et en disant : « Ô Dieu pardonne-moi car je suis pécheur et fais-moi miséricorde ! »
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩⲓⲱ ⲕⲉ ⲁⲅⲓⲱ Ⲡⲛⲉⲩⲙⲁⲧⲓ.
+
+### Gloire au Père, au Fils et au Saint Esprit !
+
+Hâte-Toi, ô Sauveur, de m'accueillir dans ton sein paternel car j'ai fini ma vie dans la prodigalité et les désirs, le jour est passé pour moi et s'envole. Maintenant je me confie en l'abondance de Ta compassion infinie. Ne Te détourne pas d'un cœur humble qui requiert Ta Miséricorde. Voici que je crie vers Toi, ô Seigneur, avec crainte en disant :
+
+« Père, j'ai péché contre le ciel et envers Toi, et je suis indigne d'être appelé Ton fils, mais fais de moi comme l'un de Tes ouvriers. »
+
+## Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁⲓ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉⲱⲛⲁⲥ ⲧⲱⲛ ⲉⲱⲛⲱⲛ. Ⲁⲙⲏⲛ.
+
+### Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Car j'ai péché résolument et avec diligence, et je me suis trouvé à pécher avec désir et énergie, et j'ai mérité le châtiment et le jugement.
+
+Prépare pour moi les causes du repentir ô notre Dame la Vierge. Je te supplie, j'implore ton intercession, et à toi seule je clame afin que je ne sois pas couvert de honte.
+
+Sois avec moi à l'heure où mon esprit s'envolera loin de moi. Et abats le complot des ennemis. Et ferme les portes d'Hadès afin qu'elles ne m'engloutissent pas, ô l'Épouse immaculée de la vraie circoncision.
 
 ---
 
@@ -1759,7 +2441,15 @@ Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour l
 
 ## Absolution de la onzième heure
 
-<!-- TODO: Traduire l'absolution de la onzième heure -->
+Nous Te rendons grâce ô notre Maître compatissant, car Tu nous as donné de passer ce jour en paix et d'atteindre ce soir dans l'action de grâce. Tu nous as rendus dignes de voir la lumière jusqu'au soir.
+
+Reçois notre doxologie que nous T'adressons maintenant, et sauve-nous des ruses de l'Adversaire, et détruis tous les pièges tendus contre nous.
+
+Puis fais-nous la grâce de ta paix, en cette nuit qui vient, une paix et sans peine, sans trouble ni fatigue ni imagination, afin que nous la traversions dans la paix et la piété, et que nous nous tenions debout pour Te louer et Te prier en tout temps et en tout lieu.
+
+Nous glorifions Ton Saint Nom en toute chose avec le Père inappréhendable et sans principe, et avec le Saint-Esprit vivifiant et de même essence que Toi,
+
+maintenant et toujours et pour les siècles des siècles. Amen !
 
 ---
 
