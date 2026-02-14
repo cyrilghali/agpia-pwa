@@ -182,7 +182,6 @@ export default function Reader({ book, bookIndex, currentChapterId, onNavigate, 
           <ChevronLeft />
           <span className="nav-label">{t('reader.prev')}</span>
         </button>
-        <span className="nav-position">{Math.round(progress * 100)}%</span>
         <button
           className="nav-btn"
           disabled={!nextChapter}

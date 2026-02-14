@@ -1701,7 +1701,9 @@ Pour cela nous glorifions avec action de grâce le Christ notre Dieu car Il est 
 
 ## Litanie de la sixième heure
 
-<!-- TODO: Traduire la litanie de la sixième heure -->
+> *Puis on dit :*
+
+Trisagion, Notre Père, Tropaire de la Vierge, Introduction du Credo, Credo, Kyrie eleison (×41), Tu es Saint, Saint, Saint..., Notre Père...
 
 ---
 
@@ -2457,7 +2459,13 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Prière de la douzième heure
 
-<!-- TODO: Traduire l'en-tête de la douzième heure -->
+Allons, prosternons-nous, allons implorons le Christ notre Dieu !
+
+Allons, prosternons-nous, allons implorons le Christ notre Roi !
+
+Allons, prosternons-nous, allons implorons le Christ notre Sauveur !
+
+Ô notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.
 
 ---
 
@@ -2465,7 +2473,9 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Prière de la douzième heure
 
-<!-- TODO: Traduire la prière de la douzième heure -->
+Hymne des Complies du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
+
+_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
 
 ---
 
@@ -2473,7 +2483,21 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 129
 
-<!-- TODO: Traduire le Psaume 129 -->
+Des profondeurs, j'ai crié vers Toi, Seigneur !
+
+Seigneur, écoute ma voix, que ton Oreille soit attentive à la voix de ma supplication !
+
+Si Tu observes l'illégalité, Seigneur, Seigneur, qui peut tenir ?
+
+Car la rémission ne vient que de Toi.
+
+À cause de Ton Nom, je t'ai attendu, Seigneur. Mon âme a mis son attente en ta Loi.
+
+Mon âme a espéré dans le Seigneur. Que depuis la garde du matin jusqu'à la nuit, depuis la garde du matin, qu'Israël espère dans le Seigneur !
+
+Car la Miséricorde est auprès du Seigneur, et abondante est Sa Rédemption.
+
+Et c'est Lui qui sauvera Israël de toutes ses illégalités.
 
 ---
 
@@ -2481,7 +2505,11 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 130
 
-<!-- TODO: Traduire le Psaume 130 -->
+Seigneur, mon cœur ne s'est point exalté, et mes yeux ne se sont point élevés, je n'ai point cheminé dans les grandeurs ni en des merveilles au-dessus de moi.
+
+Si je ne me suis point humilié, si j'ai trop élevé ma voix, pour rétribution fais de mon âme comme d'un enfant privé du lait de sa mère !
+
+Qu'Israël espère dans le Seigneur, maintenant et jusqu'aux siècles !
 
 ---
 
@@ -2489,7 +2517,41 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 131
 
-<!-- TODO: Traduire le Psaume 131 -->
+Ô Seigneur, remémore-toi David et toute sa douceur !
+
+Comment il a juré au Seigneur, et adjuré au Dieu de Jacob :
+
+« Je n'entrerai pas dans le séjour de ma demeure, je ne monterai pas sur le lit de mon repos,
+
+Je ne donnerai point de sommeil à mes yeux, ni à mes paupières le moindre assoupissement, ni de repos à mon front,
+
+Avant que j'aie trouvé un Lieu pour le Seigneur, une Demeure pour le Dieu de Jacob. »
+
+Voilà que nous avons entendu parler d'Elle en Éphrata, nous l'avons trouvée dans les plaines de la forêt !
+
+Nous entrerons dans Ses Demeures, nous nous prosternerons vers le Lieu où Il a arrêté ses pieds.
+
+Lève-toi, Seigneur, pour entrer en ton Repos, toi et l'Arche de ton Lieu Saint !
+
+Tes prêtres se revêtiront de Justice, et tes Saints exulteront !
+
+À cause de David Ton serviteur, ne détourne pas Ta Face loin de ton Christ !
+
+Le Seigneur a juré à David en vérité, et il ne s'en dédira pas : « Je mettrai sur ton trône le fruit de ton sein.
+
+Si tes fils gardent Mon Alliance et mes témoignages que Je leur enseignerai, leurs fils aussi siégeront pour les siècles sur ton trône.
+
+Parce que le Seigneur a élu Sion, il l'a choisie pour sa Demeure.
+
+C'est Mon Lieu de repos pour les siècles des siècles, J'y résiderai, parce que je l'ai choisie.
+
+Je bénirai de ma bénédiction sa chasse. Ses pauvres, Je les rassasierai de pain.
+
+Ses prêtres, Je les revêtirai du Salut, et ses Saints exulteront d'allégresse.
+
+C'est là que j'élèverai la corne de David, là que j'ai préparé une lampe pour mon Christ.
+
+Quant à ses ennemis, je les revêtirai de honte, mais sur sa tête fleurira Mon Saint. »
 
 ---
 
@@ -2497,7 +2559,11 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 132
 
-<!-- TODO: Traduire le Psaume 132 -->
+Voyez comme il est bon, et comme il est doux pour des frères d'habiter ensemble !
+
+C'est comme de la myrrhe sur la tête qui descend sur la barbe, la barbe d'Aaron, qui descend sur la frange de son vêtement.
+
+Comme la rosée de l'Hermon, qui descend sur les montagnes de Sion, parce que c'est là que le Seigneur a commandé que soient la bénédiction et la Vie jusqu'aux siècles.
 
 ---
 
@@ -2505,7 +2571,11 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 133
 
-<!-- TODO: Traduire le Psaume 133 (douzième heure) -->
+Voici maintenant, bénissez le Seigneur, vous tous qui êtes Ses serviteurs et qui vous tenez en la Maison du Seigneur, dans les parvis de la Maison de notre Dieu !
+
+Durant les nuits, levez vos mains vous les Saints, et bénissez le Seigneur !
+
+Le Seigneur te bénira depuis Sion, Lui qui a créé le Ciel et la terre !
 
 ---
 
@@ -2513,7 +2583,23 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 136
 
-<!-- TODO: Traduire le Psaume 136 -->
+Sur les fleuves de Babylone nous nous sommes assis, et nous avons pleuré, en nous souvenant de Sion.
+
+Aux saules, au milieu d'elle, nous avons suspendu nos harpes,
+
+Car ceux qui nous avaient faits captifs nous demandaient des paroles des odes, et ceux qui nous avaient emmenés ici nous demandaient : « Chantez-nous une louange d'entre les odes de Sion ! »
+
+Comment chanterons-nous l'ode du Seigneur sur une terre étrangère ?
+
+Si je t'oublie, Jérusalem, que j'oublie ma main droite !
+
+Que ma langue reste collée à mon larynx, si je ne me souviens point de toi, et si je ne mets pas d'abord Jérusalem au principe de ma joie !
+
+Souviens-toi, Seigneur, des fils d'Édom, qui, au jour de Jérusalem, déclaraient : « Faites le vide, faites le vide en elle jusqu'au fondement ! »
+
+Fille de Babylone, la misérable ! Bienheureux celui qui te rétribuera en te rendant en retour ce que tu nous as fait !
+
+Bienheureux celui qui saisira tes petits enfants et les écrasera contre la pierre !
 
 ---
 
@@ -2521,7 +2607,21 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 137
 
-<!-- TODO: Traduire le Psaume 137 -->
+Seigneur, je Te professerai de toute mon âme, parce que Tu as écouté les paroles de ma bouche, et je psalmodierai pour toi devant les anges !
+
+Je T'adorerai en ton saint Temple, et je ferai profession à ton Nom, à cause de ta Miséricorde et de ta Vérité, car tu as magnifié ton Saint Nom au-dessus de tout être.
+
+Au jour où je T'invoque, aussitôt exauce-moi, et tu prendras grand soin de mon âme avec Puissance !
+
+Seigneur, que tous les rois de la terre te professent, car ils ont entendu toutes les paroles de ta bouche !
+
+Et qu'ils chantent dans les voies du Seigneur, car la Gloire du Seigneur est grande !
+
+Car le Seigneur est élevé, et il regarde les humbles, et reconnaît de loin ceux qui sont élevés.
+
+Si je vais au milieu des tribulations, Tu me vivifieras, tu as étendu Ta Main contre la colère des ennemis, et ta Droite m'a sauvé !
+
+Le Seigneur rétribuera en ma faveur. Seigneur, ta Miséricorde est pour les siècles : n'abandonne pas les œuvres de tes mains !
 
 ---
 
@@ -2529,7 +2629,25 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 140
 
-<!-- TODO: Traduire le Psaume 140 -->
+Seigneur, j'ai crié vers Toi, écoute-moi ! Sois attentif à la voix de ma supplication, quand je crie vers toi !
+
+Que ma prière se dirige jusque devant Toi comme de l'encens, que l'élévation de mes mains vers Toi soit un sacrifice du soir.
+
+Mets, Seigneur, une garde à ma bouche, et une porte de sûreté autour de mes lèvres.
+
+N'incline pas mon cœur vers les paroles de méchanceté, pour trouver des prétextes aux péchés, en compagnie des hommes œuvrant contre la Loi, et que je ne me joigne pas avec leurs élus.
+
+Que le juste me discipline avec miséricorde, et me réprimande, mais que l'huile des pécheurs n'oigne point ma tête, car ma prière est encore en faveur.
+
+Leurs hommes forts ont été précipités vers le roc. Ils écouteront mes paroles, parce qu'elles sont adoucies.
+
+Comme les mottes de terre sont brisées sur la terre, leurs os ont été dispersés en Hadès.
+
+Car vers Toi Seigneur, Seigneur, nos yeux sont tournés, en toi j'ai espéré, ne tue point mon âme.
+
+Garde-moi des pièges qu'on a tendus contre moi, et des pierres de scandale des ouvriers de l'illégalité.
+
+Les pécheurs tomberont dans son filet ! Quant à moi, je suis en solitaire, jusqu'à ce que passe l'illégalité.
 
 ---
 
@@ -2537,7 +2655,19 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 141
 
-<!-- TODO: Traduire le Psaume 141 -->
+De ma voix j'ai crié au Seigneur, de ma voix j'ai supplié le Seigneur.
+
+J'épancherai devant Lui ma supplique, j'épancherai mon affliction devant Lui.
+
+Pendant que mon esprit s'épuisait en moi, Toi tu connaissais mes sentiers. Dans la voie où je cheminais, ils avaient caché pour moi des pièges.
+
+Je regardais à ma droite, je voyais qu'il n'y avait personne qui me connaisse. Tout refuge était perdu pour moi, et nul n'était là pour rechercher mon âme.
+
+J'ai crié vers Toi, Seigneur, et j'ai déclaré : « Tu es mon Espérance et mon Partage en la terre des vivants. »
+
+Sois attentif à ma supplication, car je suis humilié à l'excès ! Délivre-moi de ceux qui me poursuivent, car ils ont pris le pouvoir sur moi !
+
+Fais sortir mon âme hors de sa prison, pour qu'elle professe Ton Nom, Seigneur ! Les justes m'attendront jusqu'à ce que Tu m'aies récompensé.
 
 ---
 
@@ -2545,7 +2675,25 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 145
 
-<!-- TODO: Traduire le Psaume 145 -->
+Alléluia ! Ô mon âme, loue le Seigneur !
+
+Je louerai le Seigneur durant ma vie, je psalmodierai à mon Dieu tant que j'existerai.
+
+Ne mettez point votre confiance dans les princes, ni dans les fils des humains, car pour eux il n'est point de salut !
+
+Son esprit sortira, et il retournera en sa terre, en ce jour-là périront toutes ses pensées.
+
+Bienheureux celui qui a pour aide le Dieu de Jacob, son espérance dans le Seigneur son Dieu,
+
+Qui a fait le ciel et la terre, et la mer, et tout ce qui est en elle, qui garde la Vérité pour les siècles,
+
+Qui rend justice à ceux à qui on a fait injustice, qui donne la nourriture aux affamés. Le Seigneur déliera ceux qui sont enchaînés.
+
+Le Seigneur redresse ceux qui sont brisés, le Seigneur rend sages les aveugles, le Seigneur aime les justes.
+
+Le Seigneur gardera les étrangers, il secourra l'orphelin et la veuve, et il fera disparaître la voie des pécheurs.
+
+Le Seigneur régnera pour les siècles, c'est ton Dieu, ô Sion, de génération en génération.
 
 ---
 
@@ -2553,7 +2701,27 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 146
 
-<!-- TODO: Traduire le Psaume 146 -->
+Alléluia ! Louez le Seigneur, car il est bon de psalmodier ! Puisse la louange être agréable à notre Dieu !
+
+C'est le Seigneur qui a bâti Jérusalem, il rassemblera la diaspora d'Israël.
+
+Il guérit ceux qui sont affligés en leur cœur, et il bande leurs plaies.
+
+Il dénombre les multitudes d'étoiles, et toutes, Il les appelle par leur nom.
+
+Grand est notre Seigneur, et grande est sa Puissance, et son intelligence infinie.
+
+Le Seigneur accueille les doux, et humilie les pécheurs jusqu'à terre.
+
+Entonnez des chants de profession au Seigneur, psalmodiez à notre Dieu sur la cithare !
+
+C'est Lui qui revêt le ciel de nuages, lui qui prépare de la pluie pour la terre, lui qui fait pousser de l'herbe dans les montagnes, et du fourrage pour le service de l'homme.
+
+C'est Lui qui donne aux bétails leur nourriture, et aux petits des corbeaux qui l'invoquent.
+
+Il ne voudrait pas de la puissance du cheval, ni ne donne son approbation aux jarrets de l'homme.
+
+Le Seigneur approuvera ceux qui le craignent, et tous ceux qui espèrent en Sa Miséricorde.
 
 ---
 
@@ -2561,7 +2729,23 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Psaume 147
 
-<!-- TODO: Traduire le Psaume 147 -->
+Alléluia ! Jérusalem, loue le Seigneur ! Ô Sion, loue ton Dieu !
+
+Car Il a fortifié les verrous de tes portes, il a béni tes fils qui sont en toi.
+
+C'est Lui qui a établi la paix sur tes frontières, et qui t'emplit de fleur de froment !
+
+C'est Lui qui envoie sa Parole à la terre, et sa Parole court vite !
+
+C'est Lui qui couvre la terre de neige comme d'une toison, et verse des brouillards comme de la cendre.
+
+C'est Lui qui jette de la glace comme des morceaux de pain, qui alors peut supporter la face de la froidure ?
+
+Il enverra Sa Parole, et elle les fera fondre, Il soufflera son Esprit, et les eaux couleront.
+
+C'est Lui qui annonce sa Parole à Jacob, ses ordonnances et ses jugements à Israël.
+
+Il n'a point fait ainsi pour toutes les nations, et Il ne leur a pas révélé ses ordonnances.
 
 ---
 
@@ -2569,7 +2753,19 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Évangile de la douzième heure
 
-<!-- TODO: Traduire l'Évangile de la douzième heure -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_
+
+Et voici qu'il y avait à Jérusalem un homme du nom de Syméon. Cet homme était juste et pieux ; il attendait la consolation d'Israël et l'Esprit Saint reposait sur lui.
+
+Et il avait été divinement averti par l'Esprit Saint qu'il ne verrait pas la mort avant d'avoir vu le Christ du Seigneur.
+
+Il vint donc au Temple, poussé par l'Esprit, et quand les parents apportèrent le petit enfant Jésus pour accomplir les prescriptions de la Loi à son égard, il le reçut dans ses bras, bénit Dieu et dit :
+
+'Maintenant, Mon Maître, tu peux, selon ta parole, laisser ton serviteur par la paix ; car mes yeux ont vu ton salut, que tu as préparé à la face de tous les peuples, lumière pour éclairer les nations et gloire de ton peuple Israël.'
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -2577,7 +2773,35 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Tropaires de la douzième heure
 
-<!-- TODO: Traduire les tropaires de la douzième heure -->
+Me voici prêt à me tenir debout devant le Juge juste, effrayé et troublé par mes nombreux péchés car l'existence consumée dans les convoitises mérite le jugement.
+
+Mais fais ta métanoia, ô mon âme, tant que tu demeures sur terre, car le tas de poussière dans le tombeau ne fait aucune louange, et nul parmi les morts ne fait mémoire de rien, et nul en enfer ne Lui rend grâce.
+
+Alors réveille-toi du sommeil de la paresse et implore le Sauveur dans une métanoia, en disant : Ô Dieu fais-moi miséricorde et sauve-moi !
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit !
+
+Si l'existence était perpétuelle et si ce monde n'avait pas de fin, il y aurait longtemps qu'une excuse évidente se serait manifestée.
+
+Mais lorsque tes mauvaises œuvres et tes viles méchancetés seront dévoilées devant le Juge juste, comment te trouveras-tu, alors que tu es renversée sur le lit des péchés, négligente à mater le corps ?
+
+Ô Christ notre Dieu, je suis saisi de crainte devant le Siège de Ton Jugement redoutable, et je suis dans l'effroi devant le rayonnement de ta Divinité,
+
+Je suis un misérable plein de souillures, couché dans mon lit, et négligent dans ma vie.
+
+Cependant, comme le publicain, je me frappe la poitrine et je dis : Ô Dieu pardonne-moi, car je suis pêcheur !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Vierge immaculée envoie ton ombre, mon secours, vite à ton serviteur (viens-moi en aide, à moi qui suis ton serviteur !)
+
+Éloigne de moi les flots des pensées mauvaises, et éveille mon âme faiblarde pour prier et veiller, car elle est plongée dans un lourd sommeil.
+
+Car tu es une Mère puissante, miséricordieuse et secourable, Mère de la Source de la Vie, mon Roi et mon Dieu, Jésus Christ est mon espérance.
 
 ---
 
@@ -2585,7 +2809,23 @@ maintenant et toujours et pour les siècles des siècles. Amen !
 
 ## Absolution de la douzième heure
 
-<!-- TODO: Traduire l'absolution de la douzième heure -->
+Que tous les péchés que nous avons commis contre Toi en ce jour, Seigneur, en action, en parole, en pensée ou par tous nos sens,
+
+Pardonne, remets-les nous à cause Ton saint Nom, comme bon et Ami du genre humain.
+
+Et donne-nous par ta grâce, ô Dieu, une nuit paisible et un sommeil pur de tout trouble,
+
+Et envoie-nous l'ange de la paix, qu'il nous protège de tout mal, de tout fléau et de toute tentation de l'ennemi.
+
+Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré (notre Seigneur, Dieu et Sauveur
+
+Jésus-Christ,
+
+par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui) et le don du Saint-Esprit (vivifiant et de même essence que Toi),
+
+Maintenant et toujours et dans tous les siècles des siècles.
+
+Amen !
 
 ---
 

@@ -94,7 +94,7 @@ export const LOCALE_KEY = 'agpia-locale'
 
 export interface ReaderSettings {
   fontSize: number  // 0.8 – 1.5
-  theme: 'light' | 'sepia' | 'dark'
+  theme: 'light' | 'sepia' | 'dim' | 'dark'
   locale: SupportedLocale
 }
 

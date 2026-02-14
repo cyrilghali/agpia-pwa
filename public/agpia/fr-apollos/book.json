@@ -140,7 +140,7 @@
       "children": [
         {
           "id": "third-hour-intro",
-          "title": "Introduction de chaque heure"
+          "title": ""
         },
         {
           "title": "Prière de la troisième heure",
@@ -214,7 +214,7 @@
       "children": [
         {
           "id": "sixth-hour-intro",
-          "title": "Introduction de chaque heure"
+          "title": ""
         },
         {
           "title": "Prière de la sixième heure",
@@ -288,7 +288,7 @@
       "children": [
         {
           "id": "ninth-hour-intro",
-          "title": "Introduction de chaque heure"
+          "title": ""
         },
         {
           "title": "Prière de la neuvième heure",
@@ -362,7 +362,7 @@
       "children": [
         {
           "id": "eleventh-hour-intro",
-          "title": "Introduction de chaque heure"
+          "title": ""
         },
         {
           "title": "Prière de la onzième heure",
@@ -436,7 +436,7 @@
       "children": [
         {
           "id": "twelfth-hour-intro",
-          "title": "Introduction de chaque heure"
+          "title": ""
         },
         {
           "title": "Prière de la douzième heure",
@@ -510,7 +510,7 @@
       "children": [
         {
           "id": "veil-intro",
-          "title": "Introduction de chaque heure"
+          "title": ""
         },
         {
           "title": "Prière de la fermeture du voile",
@@ -536,7 +536,7 @@
       "children": [
         {
           "id": "midnight-intro",
-          "title": "Introduction de chaque heure"
+          "title": ""
         },
         {
           "title": "Premier service",
@@ -1273,7 +1273,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête et la description de la troisième heure -->"
+          "text": "Allons, prosternons-nous, allons implorons le Christ notre Dieu !\n\nAllons, prosternons-nous, allons implorons le Christ notre Roi !\n\nAllons, prosternons-nous, allons implorons le Christ notre Sauveur !\n\nÔ notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.\n\nHymne de la troisième heure du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés."
         },
         {
           "type": "instruction",
@@ -1284,35 +1284,35 @@
     },
     {
       "id": "third-hour-intro",
-      "title": "Introduction de chaque heure",
+      "title": "",
       "hourId": "third-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Introduction de chaque heure"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Prière d'action de grâce"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Psaume 50"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
+          "text": ""
         }
       ]
     },
@@ -1327,7 +1327,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 19 -->"
+          "text": "_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._\n\nQue le Seigneur t'écoute au jour de l'oppression ! Que le Nom du Dieu de Jacob te protège !\n\nQue du Sanctuaire Il t'envoie du secours, et que, de Sion, il te soutienne !\n\nQu'Il se souvienne de tous tes sacrifices, et que tes holocaustes gras lui soient agréables !\n\nQu'Il te donne selon ton cœur, et accomplisse tout ton dessein !\n\nNous professerons en Ton Salut, et nous serons magnifiés dans le Nom de notre Dieu. Que le Seigneur accomplisse toutes tes demandes !\n\nJe sais maintenant que le Seigneur a sauvé son Christ. Il l'écoutera depuis son Ciel saint. Le salut de sa Droite est dans les puissances.\n\nLes uns se magnifient en leurs chars, les autres en leurs chevaux, mais quant à nous, c'est dans le Nom du Seigneur notre Dieu que nous nous magnifierons !\n\nCeux-là ont été entravés, et ils sont tombés, mais nous, nous nous sommes relevés et redressés.\n\nSeigneur, sauve Ton roi, et exauce-nous le jour où nous t'invoquerons !"
         }
       ],
       "hourId": "third-hour"
@@ -1343,7 +1343,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 22 -->"
+          "text": "Le Seigneur est mon Pasteur, il ne me laissera manquer de rien. En un lieu verdoyant Il m'a fait habiter, il m'a nourri de l'eau du Repos.\n\nIl a fait revenir mon âme, il m'a conduit sur les chemins de la Justice pour la cause de son Nom.\n\nLors même que je passerais au milieu des ombres de la mort, je ne craindrai aucun mal, car Tu es avec moi. Ta houlette et ton bâton m'ont conforté.\n\nTu as préparé devant moi une table face à ceux qui m'oppriment. Tu as oint ma tête d'huile, et ton calice m'a enivré comme d'une puissance !\n\nEt Ta Miséricorde me poursuivra tous les jours de ma vie, et ma demeure sera dans la Maison du Seigneur pour la longueur des jours."
         }
       ],
       "hourId": "third-hour"
@@ -1359,7 +1359,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 23 -->"
+          "text": "La terre est au Seigneur, et tout ce qui l'emplit, le monde habité et tous ceux qui l'habitent.\n\nIl l'a fondé sur les mers, et il l'a préparé sur les fleuves.\n\nQui montera sur la Montagne du Seigneur ? Et qui se tiendra dans son Lieu saint ?\n\nCelui dont les mains sont saintes et qui est pur dans son cœur, qui n'a point reçu son âme en vain, qui n'a point prononcé de serment avec tromperie envers son prochain.\n\nCelui-là recevra la Bénédiction du Seigneur, et l'action miséricordieuse de Dieu son Sauveur.\n\nTelle est la génération de ceux qui Le cherchent, qui cherchent la Face du Dieu de Jacob.\n\nPrinces, levez vos portes, et soulevez-vous, portes des siècles, et le Roi de la Gloire entrera.\n\nQuel est donc ce Roi de la Gloire ? C'est le Seigneur ayant pouvoir et puissance, le Seigneur puissant à la guerre !\n\nPrinces, levez vos portes, et soulevez-vous, portes des siècles, et le Roi de la Gloire entrera.\n\nQuel est donc ce Roi de la Gloire ? C'est le Seigneur des Puissances, c'est lui qui est le Roi de la Gloire !"
         }
       ],
       "hourId": "third-hour"
@@ -1375,7 +1375,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 25 -->"
+          "text": "Juge-moi, Seigneur, car j'ai cheminé en mon innocence, et en espérant dans le Seigneur, je ne faiblirai point. Éprouve-moi, Seigneur, et tente-moi, purifie par le feu mon cœur et mes reins !\n\nCar Ta Miséricorde est devant mes yeux, et je me suis complu en ta Vérité.\n\nJe ne me suis point assis au conseil de vanité, et je n'entrerai point où sont les transgresseurs de la Loi.\n\nJ'ai haï l'église des méchants, et je ne m'assiérai point avec les impies.\n\nJe me laverai les mains parmi les innocents, et je ferai le tour de ton autel sacrificiel, Seigneur,\n\nAfin d'entendre la voix de ta bénédiction, et de raconter toutes Tes merveilles.\n\nSeigneur, j'ai aimé la beauté de Ta Maison, et le Lieu où demeure ta Gloire.\n\nNe fais pas périr mon âme avec les impies, ni ma vie avec les hommes de sang, dont les mains sont illégales, dont la droite est remplie de présents.\n\nQuant à moi, j'ai cheminé en mon innocence : délivre-moi et fais-moi miséricorde !\n\nMon pied s'est tenu dans la droiture. Je Te bénirai, Seigneur, dans les Églises !"
         }
       ],
       "hourId": "third-hour"
@@ -1391,7 +1391,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 28 -->"
+          "text": "Offrez au Seigneur, enfants de Dieu, offrez au Seigneur les petits des béliers ! Offrez au Seigneur gloire et honneur, offrez la gloire au Nom du Seigneur, adorez le Seigneur en son Saint Parvis !\n\nLa Voix du Seigneur est sur les eaux, le Dieu de Gloire a tonné, le Seigneur est sur les eaux nombreuses !\n\nLa Voix du Seigneur est puissante, la voix du Seigneur est d'une grande splendeur.\n\nLa Voix du Seigneur brise les cèdres, le Seigneur va broyer les cèdres du Liban !\n\nIl les réduira comme le veau du Liban, alors que le Bien-aimé sera comme le Fils de la licorne.\n\nC'est la Voix du Seigneur qui divise la flamme de feu.\n\nC'est la Voix du Seigneur qui fait trembler le désert. Le Seigneur ébranlera le désert de Kadès.\n\nC'est la Voix du Seigneur qui a préparé la naissance des cerfs, elle découvrira les forêts, et chacun dira sa Gloire dans le Temple du Seigneur.\n\nLe Seigneur réside dans le cataclysme. Le Seigneur siège comme Roi pour les siècles !\n\nLe Seigneur fortifiera son peuple, le Seigneur bénira son peuple en lui donnant la Paix."
         }
       ],
       "hourId": "third-hour"
@@ -1407,7 +1407,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 29 -->"
+          "text": "Je T'exalterai, Seigneur, car tu m'as accueilli, tu n'as point fait de moi la joie de mes ennemis.\n\nSeigneur mon Dieu, j'ai crié vers toi, et tu m'as guéri !\n\nSeigneur, Tu as ramené mon âme d'Hadès, tu m'as sauvé de ceux qui descendent dans la fosse.\n\nPsalmodiez au Seigneur, vous tous ses Saints, professez à la mémoire de sa Sainteté !\n\nCar la Colère naît de Sa Fureur, mais la Vie est en sa Volonté. Le soir, il y aura des pleurs, et à l'aurore, de l'allégresse.\n\nPour moi, j'ai dit en ma prospérité : « Je serai inébranlable pour les siècles. »\n\nSeigneur, en Ta Volonté tu as donné de la puissance à ma beauté. Tu as détourné de moi ta Face, et j'ai été troublé.\n\nJe crierai vers toi, Seigneur, et j'adresserai mes suppliques à mon Dieu.\n\nDe quelle utilité serait mon sang ? Si je tombais dans la corruption, la terre Te professerait-elle ? Annoncerait-elle ta Vérité ?\n\nLe Seigneur m'a entendu, et Il a eu pitié de moi, le Seigneur est devenu mon Secours !\n\nTu as changé mes lamentations en réjouissance, Tu as déchiré mon vêtement de sac, tu m'as ceint d'allégresse,\n\nAfin que ma gloire T'adresse des psaumes, et que je ne sois pas affligé. Seigneur mon Dieu, je te professerai pour les siècles !"
         }
       ],
       "hourId": "third-hour"
@@ -1423,7 +1423,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 33 -->"
+          "text": "En tout temps je bénirai le Seigneur, toujours sa louange sera dans ma bouche.\n\nDans le Seigneur s'enorgueillira mon âme. Que les doux écoutent et se réjouissent !\n\nMagnifiez le Seigneur avec moi, et exaltons son Nom ensemble.\n\nJ'ai recherché le Seigneur, et il m'a écouté, et de tous mes séjours il m'a délivré.\n\nApprochez-vous de Lui, et soyez illuminés, et votre face ne sera pas dans la honte.\n\nLe pauvre même a crié et le Seigneur l'a écouté, et il l'a sauvé de toutes ses afflictions.\n\nL'ange du Seigneur campera autour de ceux qui craignent Dieu, et il les sauvera.\n\nGoûtez et voyez combien le Seigneur est doux ; bienheureux l'homme qui espère en lui.\n\nCraignez le Seigneur, vous ses Saints ; car rien ne manque à ceux qui le craignent.\n\nLes riches sont devenus pauvres et ont été affamés, mais ceux qui recherchent le Seigneur ne manqueront d'aucun bien.\n\nVenez, mes enfants, écoutez-moi, je vous enseignerai la crainte du Seigneur.\n\nQuel est l'humain qui veut la Vie, qui aime voir des jours heureux ?\n\nQue ta langue cesse tout mal, et tes lèvres, de dire la tromperie.\n\nDétourne-toi du mal, et fais le bien, cherche la Paix et poursuis-la.\n\nLes yeux du Seigneur sont sur les justes, et ses oreilles tournées vers leur prière.\n\nMais la Face du Seigneur est aussi sur ceux qui font le mal, pour effacer leur souvenir de la terre.\n\nLes justes ont crié, et le Seigneur les a écoutés, et de toutes leurs oppressions il les a délivrés.\n\nLe Seigneur est près de ceux dont le cœur est affligé, et il sauvera les humbles d'esprit.\n\nNombreuses sont les afflictions des justes, et de toutes, Il les délivrera.\n\nLe Seigneur garde tous leurs os, pas un seul d'eux ne sera broyé.\n\nLa mort des pécheurs est mauvaise, et ceux qui haïssent le juste défailliront.\n\nLe Seigneur délivrera les âmes de Ses serviteurs, et ceux qui espèrent en lui ne défailliront pas."
         }
       ],
       "hourId": "third-hour"
@@ -1439,7 +1439,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 40 -->"
+          "text": "Bienheureux celui qui comprendra le pauvre et le faible : au jour mauvais Dieu le sauvera.\n\nLe Seigneur le gardera et le vivifiera, il le rendra bienheureux sur la terre, et il ne le livrera pas aux mains de ses ennemis.\n\nLe Seigneur lui portera secours sur le lit de sa douleur : Tu as retourné toute sa couche en son infirmité.\n\nQuant à moi, j'ai déclaré : « Seigneur, fais-moi miséricorde, guéris mon âme, car j'ai péché contre toi. »\n\nMes ennemis ont médit de moi : « Quand mourra-t-il ? Quand périra son nom ? »\n\nIl entrait pour voir, il ne disait que vanité. Son cœur amassait pour lui-même de l'illégalité : il sortait à l'extérieur, tout en parlant contre moi.\n\nTous mes ennemis chuchotaient contre moi, ils tenaient conseil sur la manière de me faire du mal.\n\nIls ont tenu un discours illégal contre moi. Celui qui est couché ne pourra-t-il pas se relever ?\n\nCar l'homme de ma paix, en qui j'avais espéré, celui qui mange mon pain, a levé le talon contre moi.\n\nMais Toi, Seigneur, fais-moi miséricorde et relève-moi, et je leur rendrai leur rétribution !\n\nPar cela j'ai su que Tu m'as voulu, afin que mon ennemi ne se réjouisse point de moi.\n\nMais moi, tu m'as accueilli à cause de mon innocence, et Tu m'as affermi devant toi pour les siècles.\n\nBéni soit le Seigneur, le Dieu d'Israël, depuis les siècles et pour les siècles ! Ainsi soit-il ! Ainsi soit-il !"
         }
       ],
       "hourId": "third-hour"
@@ -1455,7 +1455,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 42 -->"
+          "text": "Juge-moi, ô Dieu, et rends justice à ma cause contre une nation non purifiée ! Et sauve-moi de l'humain injuste et trompeur.\n\nCar, tu es mon Dieu et mon affermissement : pourquoi m'as-tu repoussé ? Et d'où vient que je chemine tout abattu, quand mon ennemi m'opprime ?\n\nEnvoie Ta Lumière et Ta Vérité : elles m'ont guidé sur la Voie, elles m'ont mené sur ta Montagne sainte et dans ta Demeure.\n\nEt j'entrerai vers l'autel de Dieu, vers la face du Dieu qui réjouit ma jeunesse. Je te professerai avec la cithare, ô Dieu, mon Dieu !\n\nÔ mon âme, pourquoi es-tu triste, et pourquoi me troubles-tu ? Espère en Dieu, car je le professerai, à lui le Salut de ma face, lui mon Dieu !"
         }
       ],
       "hourId": "third-hour"
@@ -1471,7 +1471,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 44 -->"
+          "text": "Mon cœur a émis une bonne Parole : je dirai moi-même mes œuvres au Roi. Ma langue est le calame d'un scribe rapide.\n\nIl est beau dans sa jeunesse, plus que les fils des humains, la grâce est répandue sur tes lèvres. C'est pourquoi Dieu t'a béni pour les siècles.\n\nCeins l'épée sur ta cuisse, ô Puissant, par ta jeunesse et ta beauté !\n\nTends ton arc, avance avec succès, et règne pour la cause de la Vérité, de la Douceur et de la Justice, et ta droite te guidera sur la voie merveilleusement.\n\nTes traits sont aiguisés, ô Puissant, les peuples tomberont sous tes pieds, au cœur des ennemis du Roi.\n\nTon trône, Dieu, est pour les siècles des siècles ! Et ton sceptre de droiture est le sceptre de ta royauté.\n\nTu as aimé la justice et tu as haï l'illégalité, c'est pourquoi Dieu, ton Dieu t'a oint de l'huile d'allégresse, plus que tes compagnons.\n\nLa myrrhe, l'huile parfumée et la casse exhalent de tes vêtements et de tes palais d'ivoire, et par elles ils te réjouissent.\n\nDes filles de rois sont en ton honneur. La reine s'est tenue à ta droite, en manteau tissé d'or diversement orné.\n\nÉcoute, ma fille, vois, et incline ton oreille, et oublie ton peuple et la maison de ton père.\n\nCar le roi a désiré ta beauté, lui qui est ton seigneur.\n\nEt les filles de Tyr se prosterneront devant lui avec des dons, devant sa face les riches du peuple feront des supplications.\n\nToute la gloire de la fille du roi d'Esebôn est revêtue d'une parure de franges d'or, diversement ornée.\n\nLes vierges de sa suite seront introduites jusqu'au roi, toutes ses compagnes lui seront amenées.\n\nElles seront introduites dans la joie et l'exultation, elles seront conduites à l'intérieur du temple du Roi.\n\nAu lieu de pères, te sont advenus des fils, tu les établiras princes sur toute la terre.\n\nIls se remémoreront ton Nom de génération en génération, c'est pourquoi les peuples Te professeront, Dieu, pour les siècles, et pour les siècles des siècles."
         }
       ],
       "hourId": "third-hour"
@@ -1487,7 +1487,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 45 -->"
+          "text": "Ô Dieu, Tu es notre Refuge et notre Puissance, notre Secours dans les tribulations qui nous ont tant assaillis !\n\nC'est pourquoi nous ne craindrons pas, quand même la terre serait bouleversée, quand même les montagnes seraient transportées au cœur des mers.\n\nLeurs eaux ont retenti, et elles ont été troublées, les montagnes ont été ébranlées par Son Pouvoir.\n\nLes courants du fleuve réjouissent la Cité de Dieu, le Très-haut a sanctifié sa Demeure.\n\nEt Dieu ne bougera pas de son milieu, Dieu secourra sa face.\n\nLes nations ont été troublées, les royaumes ont chancelé : Il a élevé la voix, et la terre a vacillé.\n\nLe Seigneur, le Dieu des Puissances est avec nous, le Dieu de Jacob est notre Soutien.\n\nVenez, et voyez les œuvres du Seigneur, les merveilles qu'il a établies sur la terre !\n\nAbolissant les guerres jusqu'aux limites de la terre, Il brisera l'arc, il broiera l'armure, il brûlera les boucliers dans le feu.\n\nTenez-vous sans rien faire, et sachez que JE SUIS Dieu ! Je serai exalté parmi les nations, je serai exalté sur la terre.\n\nLe Seigneur le Dieu des Puissances est avec nous, le Dieu de Jacob est notre Soutien."
         }
       ],
       "hourId": "third-hour"
@@ -1503,7 +1503,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 46 -->"
+          "text": "Toutes les nations, battez des mains, acclamez Dieu avec une voix d'allégresse !\n\nCar exalté est le Seigneur, il est redoutable, c'est le Grand Roi de toute la terre !\n\nIl nous a soumis les peuples, et mis les nations sous nos pieds.\n\nIl a choisi pour nous Son héritage, la beauté de Jacob, qu'Il aime.\n\nDieu est monté dans les acclamations, le Seigneur est monté au son de la trompette !\n\nPsalmodiez pour notre Dieu, psalmodiez ! Psalmodiez à notre Roi, psalmodiez !\n\nCar Dieu est le Roi de toute la terre, psalmodiez avec intelligence !\n\nCar Dieu a pris son règne sur toutes les nations, Dieu est assis sur son saint Trône.\n\nLes princes des peuples se sont réunis avec le Dieu d'Abraham, car ceux qui ont du pouvoir de Dieu sur la terre ont été élevés très haut."
         }
       ],
       "hourId": "third-hour"
@@ -1519,11 +1519,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Jean :_\n\nMais quand viendra le Paraclet, l'Esprit-Saint qu'enverra le Père en mon Nom, c'est lui qui vous enseignera toute chose et vous remémorera tout ce que je vous ai dit. Je vous laisserai ma Paix, c'est ma Paix que je vous donne. Ce n'est pas comme le monde la donne, que moi je vous la donne. Que ne se trouble pas votre cœur et qu'il ne cède pas à la lâcheté ! Vous avez entendu que, moi, je vous ai déclaré : « Je m'en vais et je viens à vous ». Si vous m'aimiez, vous vous réjouiriez de ce que je vais vers le Père, car le Père est plus grand que moi. Maintenant je vous ai déclaré ces choses, avant qu'elles n'adviennent, pour que, lorsqu'elles adviendront, vous ayez foi. Je ne parlerai plus guère avec vous, car le prince de ce monde vient. Or en moi il n'a rien, mais c'est pour que le monde sache que j'aime mon Père, et que je fais comme le Père m'a commandé. Levez-vous, partons d'ici. Je suis la vigne véritable, et mon Père est le Vigneron. Tout sarment qui en moi ne donne pas de fruit, il l'arrache, et celui qui donne du fruit, il le purifie, afin qu'il donne plus de fruit. Vous êtes déjà purs, par la parole que je vous ai dite. Demeurez en moi, et moi je demeure en vous. Comme le sarment ne peut donner du fruit de lui-même, s'il ne demeure dans la vigne, de même vous non plus ne pouvez pas, si vous ne demeurez pas en moi.\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile de la troisième heure -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "third-hour"
@@ -1539,7 +1539,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire les tropaires de la troisième heure -->"
+          "text": "Ton Esprit-Saint, Seigneur, que tu as envoyé sur tes saints Disciples et Apôtres honorés à la troisième heure, ne nous l'enlève pas, ô Toi qui est Bon, mais renouvelle-le à l'intérieur de nous.\n\nÔ Dieu, crée en moi un cœur pur, renouvelle en moi un esprit droit. Ne me rejette pas loin de Ta Face et ne me retire pas Ton Esprit-Saint."
         }
       ],
       "hourId": "third-hour"
@@ -1571,7 +1571,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'absolution de la troisième heure -->"
+          "text": "Ô Dieu de toute compassion et Seigneur de toute consolation, qui nous a consolés en tout temps par la consolation de Ton Esprit-Saint,\n\nNous Te rendons grâce car Tu nous as relevés pour prier en cette heure sainte à laquelle Tu as répandu généreusement la grâce de Ton Esprit-Saint sur Tes saints disciples et apôtres honorés et bienheureux comme par des langues de feu.\n\nNous T'implorons et Te supplions ô Ami du genre humain, de recevoir nos prières et d'envoyer sur nous la grâce de ton Esprit-Saint. Et purifie-nous de toutes les souillures du corps et de l'esprit, et transporte-nous dans un état spirituel afin que nous marchions par l'Esprit, et que nous n'accomplissions pas le désir de la chair.\n\nEt rends-nous dignes de Te servir avec pureté et justice tous les jours de notre vie.\n\nCar à toi sont dus la Gloire, l'Honneur et la Souveraineté avec Ton Père bon et l'Esprit Saint, maintenant et toujours et pour les siècles des siècles. Amen !"
         },
         {
           "type": "instruction",
@@ -1622,7 +1622,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête et la description de la sixième heure -->"
+          "text": "Allons, prosternons-nous, allons implorons le Christ notre Dieu !\n\nAllons, prosternons-nous, allons implorons le Christ notre Roi !\n\nAllons, prosternons-nous, allons implorons le Christ notre Sauveur !\n\nÔ notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.\n\nHymne de la sixième heure du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\n_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._"
         },
         {
           "type": "instruction",
@@ -1633,35 +1633,35 @@
     },
     {
       "id": "sixth-hour-intro",
-      "title": "Introduction de chaque heure",
+      "title": "",
       "hourId": "sixth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Introduction de chaque heure"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Prière d'action de grâce"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Psaume 50"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
+          "text": ""
         }
       ]
     },
@@ -1676,7 +1676,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 53 -->"
+          "text": "Ô Dieu, sauve-moi par Ton Nom, et juge-moi par ta Puissance !\n\nÔ Dieu, écoute ma prière, prête l'oreille aux paroles de ma bouche !\n\nCar des étrangers se sont élevés contre moi, et des hommes de pouvoir cherchent mon âme. Ils n'ont point mis Dieu devant eux.\n\nEt voilà que Dieu est venu à mon secours, et le Seigneur est le Soutien de mon âme.\n\nIl fera retourner les malheurs sur mes ennemis : efface-les dans Ta Vérité !\n\nJe Te ferai un sacrifice volontaire, je professerai à ton Nom, Seigneur, parce que cela est bon.\n\nCar c'est Toi qui m'as délivré de toutes mes tribulations, et mon œil a regardé dans mes ennemis."
         }
       ],
       "hourId": "sixth-hour"
@@ -1692,7 +1692,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 56 -->"
+          "text": "Fais-moi miséricorde, ô Dieu, fais-moi miséricorde, car mon âme s'est confiée en toi ! Et j'espérerai à l'ombre de tes ailes, jusqu'à ce que l'illégalité soit passée.\n\nJe crierai vers le Dieu Très-Haut, vers Dieu mon Bienfaiteur.\n\nIl a envoyé du ciel, et il m'a sauvé, il a livré à la honte ceux qui me foulaient aux pieds ! Dieu a envoyé Sa Miséricorde et sa Vérité.\n\nIl a sauvé mon âme du milieu des lionceaux. J'ai dormi au milieu du trouble. Les fils des humains ont leurs dents pour armes et pour traits, et leur langue est un glaive aiguisé.\n\nÔ Dieu, sois exalté au-dessus des cieux, et que sur toute la terre soit Ta Gloire.\n\nIls avaient préparé des pièges pour mes pieds, et ils avaient fait fléchir mon âme, ils avaient creusé devant ma face une fosse, et ils y sont tombés.\n\nMon cœur est prêt, ô Dieu, mon cœur est prêt, je chanterai et je psalmodierai en ma gloire.\n\nRéveille-toi, ô ma gloire, réveillez-vous, harpe et cithare, je me lèverai dès l'aurore.\n\nJe Te professerai parmi les peuples, Seigneur, je te psalmodierai parmi les nations.\n\nCar Ta Miséricorde est magnifiée jusqu'aux cieux, et ta Vérité jusqu'aux nues.\n\nÔ Dieu, sois exalté au-dessus des cieux, et que Ta Gloire soit sur toute la terre !"
         }
       ],
       "hourId": "sixth-hour"
@@ -1708,7 +1708,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 60 -->"
+          "text": "Ô Dieu, écoute ma supplication, sois attentif à ma prière !\n\nDes confins de la terre j'ai crié vers Toi, lorsque mon cœur était lassé, Tu m'as élevé sur le roc,\n\nTu m'as dirigé, tu es devenu mon Espérance, et comme une tour fortifiée en face de mon ennemi.\n\nJe demeurerai dans Ta Demeure pour les siècles, je m'abriterai sous l'ombre de tes ailes,\n\nCar, ô mon Dieu, Tu as écouté mes prières, tu as doté d'un héritage ceux qui craignent ton Nom.\n\nTu ajouteras des jours aux jours du Roi, tu prolongeras ses années jusqu'au jour des générations et des générations.\n\nIl demeurera pour les siècles en face de Dieu. Qui recherchera sa Miséricorde et sa Vérité ?\n\nAinsi je psalmodierai à ton Nom pour les siècles des siècles, pour te rendre mes vœux de jour en jour."
         }
       ],
       "hourId": "sixth-hour"
@@ -1724,7 +1724,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 62 (sixième heure) -->"
+          "text": "Ô Dieu, tu es mon Dieu, je viens vers toi dès l'aurore : mon âme a soif de toi. Combien de fois ma chair a-t-elle eu soif de Toi, dans la terre déserte, interdite, et sans eau !\n\nAinsi je serai vu de Toi dans le Sanctuaire, afin que je voie ta Puissance et ta Gloire.\n\nTa Miséricorde vaut mieux que des vies. Mes lèvres Te loueront !\n\nAinsi dans ma vie je Te bénirai, je lèverai les mains en ton Nom.\n\nComme avec de la moelle et de la graisse mon âme sera comblée, et des lèvres d'exultation béniront ton nom.\n\nJe pensais à Toi sur mon lit, aux aurores je médite sur toi.\n\nCar Tu es devenu mon Secours, et j'exulterai à l'ombre de tes ailes.\n\nMon âme s'attache à Toi, ta Droite me soutient.\n\nMais ceux qui cherchent mon âme en vain, qu'ils entrent dans les profondeurs de la terre !\n\nQu'on les livre au fil de l'épée, qu'ils deviennent la part des renards !\n\nMais le roi se réjouira en Dieu. Qui jure par Lui sera loué, tandis que ceux qui disent des choses injustes auront la bouche close !"
         }
       ],
       "hourId": "sixth-hour"
@@ -1740,7 +1740,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 66 (sixième heure) -->"
+          "text": "Dieu, aie pitié de nous et bénis-nous ! Manifeste sur nous ta Face, et fais-nous miséricorde !\n\nPour qu'en cette terre nous connaissions Ta voie, et que ton Salut soit parmi toutes les nations !\n\nQue les peuples Te confessent, ô Dieu ! Que tous les peuples te confessent !\n\nQue les nations se réjouissent et exultent, parce que Tu jugeras les peuples avec droiture, et que tu guideras la voie des nations sur la terre !\n\nQue les peuples te confessent, ô Dieu ! Que tous les peuples te confessent !\n\nLa terre a donné son fruit, que Dieu, notre Dieu nous bénisse !\n\nQue Dieu nous bénisse, et que tous les confins de la terre le craignent !"
         }
       ],
       "hourId": "sixth-hour"
@@ -1756,7 +1756,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 69 (sixième heure) -->"
+          "text": "Ô Dieu, pour me secourir sois attentif ! Seigneur, viens vite à mon secours !\n\nQu'ils soient honteux et humiliés, ceux qui cherchent mon âme ! Qu'ils soient contraints à retourner en arrière, couverts de honte, ceux qui veulent me faire du mal !\n\nQu'ils tournent le dos couverts de honte, ceux qui me déclarent : « Bien ! Bien ! »\n\nQue tous ceux qui Te cherchent exultent et se réjouissent en Toi ! Que ceux qui aiment ton Salut déclarent toujours : « Que Dieu soit magnifié ! »\n\nQuant à moi, je suis pauvre et faible. Ô Dieu, secours-moi ! Tu es mon Secours et mon Sauveur, Seigneur, ne tarde pas !"
         }
       ],
       "hourId": "sixth-hour"
@@ -1772,7 +1772,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 83 -->"
+          "text": "Comme Tes Demeures sont aimées, ô Seigneur des Puissances !\n\nMon âme désire à s'en épuiser aller aux parvis du Seigneur, mon cœur et ma chair ont exulté pour le Dieu vivant.\n\nCar le passereau a trouvé pour lui une maison, et la tourterelle un nid où elle dépose sa couvée : ce sont Tes autels sacrificiels, Seigneur Dieu des Puissances, ô mon Roi et mon Dieu !\n\nBienheureux ceux qui demeurent en Ta Maison, ils te béniront pour les siècles des siècles.\n\nBienheureux l'homme dont le Soutien vient de Toi, Seigneur. Il a disposé en son cœur des degrés d'ascension,\n\nEn la vallée des pleurs, au Lieu qu'Il a établi, car le Législateur donnera des bénédictions,\n\nIls iront de Puissance en Puissance, et le Dieu des dieux apparaîtra en Sion.\n\nSeigneur, Dieu des Puissances, écoute ma prière, prête l'oreille, ô Dieu de Jacob !\n\nVois, ô Dieu notre Protecteur, et regarde la face de ton Christ !\n\nCar un seul jour dans Tes parvis est meilleur qu'un millier de jours. J'ai préféré être marginalisé dans la Maison de Dieu, que d'habiter dans les tentes des pécheurs.\n\nParce que le Seigneur Dieu aime la Miséricorde et la Vérité. Il est donateur de la Gloire et de la Grâce. Le Seigneur ne fera pas manquer de biens ceux qui marchent dans l'innocence.\n\nSeigneur, Dieu des Puissances, bienheureux l'humain qui espère en toi !"
         }
       ],
       "hourId": "sixth-hour"
@@ -1788,7 +1788,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 84 -->"
+          "text": "Seigneur, Tu as favorisé ta terre, tu as fait retourner Jacob de la captivité.\n\nTu as remis ses illégalités à Ton peuple, tu as couvert tous ses péchés.\n\nTu as apaisé Ta Colère, tu as détourné la colère de ta Fureur.\n\nConvertis-nous, ô Dieu de notre salut, et détourne de nous ta Fureur.\n\nSeras-Tu pour les siècles irrité contre nous ? Étendras-tu ta Colère de générations en générations ?\n\nÔ Dieu, en te retournant Tu nous vivifieras, et ton peuple se réjouira en toi.\n\nSeigneur, montre-nous Ta Miséricorde, et donne-nous ton Salut !\n\nJ'écouterai ce que dira le Seigneur Dieu en moi, car Il prononcera la Paix sur son peuple et sur ses Saints, et sur ceux qui convertissent leur cœur vers Lui.\n\nOr Son Salut est près de tous ceux qui le craignent, afin que la Gloire habite dans notre terre.\n\nMiséricorde et Vérité se sont rencontrées, Justice et Paix se sont embrassées.\n\nVérité s'est élevée de la terre, et Justice s'est penchée depuis le ciel.\n\nCar le Seigneur nous donnera sa Bonté, et notre terre donnera son fruit.\n\nJustice devant Lui marchera, et mettra ses pas dans la Voie."
         }
       ],
       "hourId": "sixth-hour"
@@ -1804,7 +1804,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 85 -->"
+          "text": "Incline Ton Oreille, Seigneur, et exauce-moi, car je suis pauvre et faible !\n\nGarde mon âme, car je suis purifié, mon Dieu, sauve ton serviteur qui espère en toi !\n\nFais-moi miséricorde, Seigneur, car vers toi j'ai crié tout le jour !\n\nRéjouis l'âme de Ton serviteur, car j'ai élevé mon âme vers toi, Seigneur !\n\nCar Seigneur, Tu es bienveillant et indulgent, et abondant en miséricorde pour tous ceux qui t'invoquent.\n\nSeigneur, prête l'oreille à ma prière, et sois attentif à la voix de ma supplication !\n\nAu jour de mon affliction, j'ai crié vers Toi, parce que tu m'as écouté.\n\nNul n'est semblable à Toi parmi les dieux, Seigneur, et il n'est nul être qui puisse faire tes œuvres.\n\nToutes les nations que Tu as faites viendront, et se prosterneront devant toi, Seigneur, et elles glorifieront ton Nom,\n\nParce que Tu es grand, et que tu fais des merveilles. Tu es le seul grand Dieu.\n\nGuide-moi, Seigneur, en ta Voie, et je cheminerai en ta Vérité ! Que mon cœur se réjouisse de craindre ton Nom !\n\nJe te professerai, Seigneur mon Dieu, de tout mon cœur, et je glorifierai ton Nom pour les siècles.\n\nCar Ta Miséricorde est grande envers moi, et Tu as sauvé mon âme du plus profond d'Hadès.\n\nÔ Dieu, les transgresseurs de la Loi se sont levés contre moi, et l'assemblée des gens de pouvoir a cherché mon âme, et ils n'ont pas commencé en te mettant à la première place devant eux.\n\nEt Toi, Seigneur Dieu, tu as été compatissant et miséricordieux, longanime, abondant en miséricorde et véridique.\n\nJette un regard sur moi, et fais-moi miséricorde, et donne du pouvoir à ton serviteur, et sauve le fils de ta servante !\n\nFais avec moi un signe qui annonce du Bien, et qu'ils le voient, ceux qui me haïssent, et qu'ils soient honteux, car Toi Seigneur, tu es venu à mon secours, et tu m'as consolé."
         }
       ],
       "hourId": "sixth-hour"
@@ -1820,7 +1820,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 86 -->"
+          "text": "Ses fondements sont dans les Montagnes saintes.\n\nLe Seigneur aime les portes de Sion plus que toutes les demeures de Jacob.\n\nOn a dit de toi des choses glorieuses, ô Cité de Dieu !\n\nJe remémorerai Raab et Babylone, ceux qui Me connaissent. Et voilà que les étrangers et Tyr, et le peuple des Éthiopiens y sont venus.\n\n« Sion, Mère » dira l'homme ! Et l'homme est venu en elle, et le Très-Haut lui-même l'a fondée pour les siècles.\n\nLe Seigneur racontera cela dans l'écrit des peuples et des princes qui sont advenus en Sion.\n\nPuisque ce sera l'habitation de tous ceux qui se réjouissent en toi !"
         }
       ],
       "hourId": "sixth-hour"
@@ -1836,7 +1836,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 90 -->"
+          "text": "Celui qui demeure dans le Secours du Très-Haut reposera à l'ombre du Dieu du ciel.\n\nIl dira au Seigneur : « Tu es mon Soutien et mon Refuge ! » Il est mon Dieu, j'espérerai en lui,\n\nCar Il te délivrera des filets des chasseurs et des paroles troublantes.\n\nIl t'abritera à l'ombre au milieu de Ses épaules, et sous ses ailes tu auras l'espérance. Sa Vérité t'entourera comme une armure.\n\nTu n'auras pas à craindre de terreur nocturne, ni des traits qui volent en plein jour,\n\nNi des choses qui vont dans les ténèbres, ni des accidents, ni du démon de midi.\n\nMille tomberont à ta gauche, et dix mille à ta droite, mais ils n'approcheront point de toi.\n\nCependant, tu considéreras de tes yeux, et tu verras la rétribution des pécheurs.\n\nCar Tu es, Seigneur, mon Espérance, et tu as fait du Très-haut ton Refuge.\n\nLes malheurs n'arriveront point jusqu'à toi, et les fléaux n'approcheront point de ta demeure.\n\nCar Il a donné des ordres à Ses anges te concernant, pour qu'ils te gardent en toutes tes voies :\n\n« Ils te soulèveront de leurs mains, de peur que tes pieds ne heurtent contre une pierre.\n\nTu marcheras sur l'aspic et sur le basilic, et tu fouleras aux pieds le lion et le dragon.\n\nParce qu'il a espéré en Moi, Je le délivrerai. Je le protégerai, parce qu'il a connu mon Nom.\n\nIl M'invoquera, et Moi je l'exaucerai, Je serai avec lui en ses tribulations, et Je le délivrerai, et Je le glorifierai.\n\nJe le remplirai de longs jours, et Je lui montrerai mon Salut. »"
         }
       ],
       "hourId": "sixth-hour"
@@ -1852,7 +1852,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 92 -->"
+          "text": "Le Seigneur a pris son règne, il s'est revêtu de splendeur ! Le Seigneur s'est revêtu de puissance, et il s'en est fait une ceinture, car il a affermi le monde habité, qui ne sera pas ébranlé.\n\nTon Trône fut dès lors établi, et depuis les siècles Tu es !\n\nLes fleuves ont élevé, Seigneur, les fleuves ont élevé leur voix,\n\nAu-dessus de la voix des eaux nombreuses. Les élévations de la mer sont merveilleuses. Le Seigneur est merveilleux dans les hauteurs.\n\nSes témoignages ont été dignes d'une grande foi. À ta Maison convient la Sanctification, Seigneur, dans la longueur des jours."
         }
       ],
       "hourId": "sixth-hour"
@@ -1868,11 +1868,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Matthieu :_\n\nVoyant les foules, il monta sur la montagne, il s'assit, et ses disciples vinrent à lui. Puis il prit la parole et se mit à les instruire :\n\nHeureux les pauvres quant à l'Esprit, car le Royaume des cieux est à eux ! Heureux les affligés, car ils seront consolés ! Heureux ceux qui sont doux, car ils hériteront la terre ! Heureux ceux qui ont faim et soif de justice, car ils seront rassasiés ! Heureux ceux qui sont compatissants, car ils obtiendront compassion ! Heureux ceux qui sont saints dans leur cœur, car ils verront Dieu ! Heureux les artisans de paix, car ils seront appelés fils de Dieu ! Heureux ceux qui sont persécutés à cause de la justice, car le royaume des cieux est à eux ! Heureux êtes-vous lorsqu'on vous insulte, qu'on vous persécute et qu'on répand faussement sur vous toutes sortes de méchancetés, à cause de moi. Réjouissez-vous et soyez transportés d'allégresse, parce que votre récompense est grande dans les cieux ; car c'est ainsi qu'on a persécuté les prophètes qui vous ont précédés.\n\nC'est vous qui êtes le sel de la terre. Mais si le sel devient fade, avec quoi le salera-t-on ? Il n'est plus bon qu'à être jeté dehors et foulé aux pieds par les gens.\n\nC'est vous qui êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. On n'allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le porte-lampe, et elle brille pour tous ceux qui sont dans la maison. Que votre lumière brille ainsi devant les hommes, afin qu'ils voient vos belles œuvres et glorifient votre Père qui est dans les cieux.\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile de la sixième heure -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "sixth-hour"
@@ -1888,7 +1888,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire les tropaires de la sixième heure -->"
+          "text": "Ô Toi qui au sixième jour à la sixième heure a été cloué sur la Croix à cause du péché qu'avait osé commettre Adam au paradis, déchire la liste de nos péchés ô Christ notre Dieu et sauve-nous.\n\nJ'ai invoqué Dieu et le Seigneur m'a écouté. Ô Dieu entends ma prière et ne rejette pas ma supplique.\n\nTourne-toi vers moi et écoute-moi le soir, le matin ou à midi. Je dirai, je parlerai et Il entendra ma voix, et Il sauvera mon âme en paix."
         }
       ],
       "hourId": "sixth-hour"
@@ -1904,7 +1904,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la litanie de la sixième heure -->"
+          "text": ""
         }
       ],
       "hourId": "sixth-hour"
@@ -1936,7 +1936,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'absolution de la sixième heure -->"
+          "text": "Nous Te rendons grâce, ô notre Maître Tout-Puissant, Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ, et nous te glorifions car tu as fait des moments de la Passion de Ton Fils Unique-Engendré des temps de prière et d'imploration.\n\nReçois nos supplications, et efface la liste de nos péchés inscrite contre nous, comme Tu l'as annulée en cette heure sainte par la Croix de Ton Fils Unique-Engendré Jésus-Christ notre Seigneur et le Sauveur de nos âmes, Lui, par qui tu as dissous toute la puissance de l'ennemi.\n\nEt donne-nous des moments lumineux, une conduite irréprochable et une vie tranquille pour satisfaire Ton Nom saint et adorable\n\net que nous puissions nous tenir devant le tribunal redoutable et juste de Ton Fils Unique-Engendré Jésus Christ, notre Seigneur. Fais que nous puissions Te glorifier avec tous Tes saints,\n\nToi le Père qui es sans principe, et le Fils de même essence que Toi et le Saint-Esprit vivifiant,\n\nMaintenant et toujours et pour tous les siècles des siècles. Amen !"
         },
         {
           "type": "instruction",
@@ -1991,7 +1991,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête et la description de la neuvième heure -->"
+          "text": "Allons, prosternons-nous, allons implorons le Christ notre Dieu !\n\nAllons, prosternons-nous, allons implorons le Christ notre Roi !\n\nAllons, prosternons-nous, allons implorons le Christ notre Sauveur !\n\nÔ notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.\n\nHymne de la neuvième heure du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\n_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._"
         },
         {
           "type": "instruction",
@@ -2002,35 +2002,35 @@
     },
     {
       "id": "ninth-hour-intro",
-      "title": "Introduction de chaque heure",
+      "title": "",
       "hourId": "ninth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Introduction de chaque heure"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Prière d'action de grâce"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Psaume 50"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
+          "text": ""
         }
       ]
     },
@@ -2045,7 +2045,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 95 -->"
+          "text": "Louez au Seigneur par un cantique nouveau, que toute la terre loue le Seigneur !\n\nLouez le Seigneur, bénissez son Nom, proclamez de jour en jour son Salut !\n\nAnnoncez aux nations Sa Gloire, et à tous les peuples ses merveilles,\n\nCar le Seigneur est grand et très béni, il est redoutable au dessus de tous les dieux !\n\nCar tous les dieux des nations sont des démons, mais le Seigneur, c'est lui a fait les cieux.\n\nProfession et Beauté sont devant Lui, Sainteté et grande Splendeur sont en son Saint.\n\nPatries des nations, rendez au Seigneur, rendez au Seigneur gloire et honneur !\n\nRendez gloire au Seigneur pour son Nom, apportez des sacrifices et entrez dans ses Parvis !\n\nProsternez-vous devant le Seigneur en son saint Parvis, et que devant sa Face tremble toute la terre !\n\nDéclarez parmi les nations : « Le Seigneur a pris son règne par le Bois [de la Croix], car il a redressé le monde habité, et il ne sera plus ébranlé. Il jugera les peuples dans la droiture. »\n\nQue les cieux se réjouissent et que la terre exulte, que la mer et ce qui l'emplit soient ébranlés !\n\nLes champs et tout ce qu'ils contiennent seront joyeux, alors exulteront tous les arbres de la forêt,\n\nDevant la Face du Seigneur, car il vient, car il vient juger la terre. Il jugera le monde habité dans la Justice, et les peuples en sa Vérité."
         }
       ],
       "hourId": "ninth-hour"
@@ -2061,7 +2061,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 96 -->"
+          "text": "Le Seigneur a pris son Règne, que la terre exulte, que les îles nombreuses se réjouissent !\n\nLes nuées et les ténèbres L'entourent, Justice et Jugement sont la rectitude de Son Trône.\n\nLe feu avance devant Lui, et enflamme Ses ennemis tout autour.\n\nSes éclairs ont illuminé le monde habité, la terre les a vus et en a tremblé.\n\nLes montagnes ont fondu comme la cire, devant la Face du Seigneur, devant la Face du Seigneur de toute la terre !\n\nLes cieux ont annoncé Sa Justice, et tous les peuples ont vu sa Gloire.\n\nIls seront honteux, tous ceux qui adorent des sculptures, et sont fiers de leurs idoles ! Adorez-Le, vous tous, Ses anges !\n\nSion l'a écouté, et elle s'est réjouie, et les filles de Juda ont exulté à cause de Tes jugements, Seigneur !\n\nCar Tu es, Seigneur, le Très-Haut sur toute la terre, tu es si élevé, au dessus de tous les dieux !\n\nVous qui aimez le Seigneur, haïssez le mal ! Le Seigneur gardera les âmes de ses Saints, il les délivrera de la main des pécheurs.\n\nLa Lumière s'est levée pour les justes, et la joie pour ceux qui ont le cœur droit.\n\nJustes, réjouissez-vous dans le Seigneur, et professez à la mémoire de Sa Sainteté !"
         }
       ],
       "hourId": "ninth-hour"
@@ -2077,7 +2077,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 97 -->"
+          "text": "Chantez au Seigneur un cantique nouveau, car le Seigneur a fait des merveilles ! C'est pour Lui que sa Droite et son Bras saint ont apporté le Salut vivifiant.\n\nLe Seigneur a manifesté son Salut, devant les nations, il a révélé sa Justice.\n\nIl s'est souvenu de Sa Miséricorde pour Jacob, et de sa Vérité pour la maison d'Israël. Tous les confins de la terre ont vu le Salut de notre Dieu.\n\nÔ toute la terre, acclamez le Seigneur : chantez, exultez et entonnez des psaumes !\n\nPsalmodiez au Seigneur sur la cithare, avec la cithare et la voix de la psalmodie,\n\nAu son des cors métalliques et des trompettes, acclamez devant le Roi, le Seigneur !\n\nQue la mer en toute sa plénitude soit bouleversée, le monde et ceux qui l'habitent !\n\nLes fleuves applaudiront ensemble, et les montagnes exulteront !\n\nCar Il est venu juger la terre ! Il jugera le monde habité avec Justice, et les peuples avec Droiture."
         }
       ],
       "hourId": "ninth-hour"
@@ -2093,7 +2093,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 98 -->"
+          "text": "Le Seigneur a pris son Règne, que les peuples soient en colère ! Il est assis sur les Chérubins, que la terre soit ébranlée !\n\nLe Seigneur est grand dans Sion, Il est élevé au-dessus de tous les peuples.\n\nQu'ils professent à Ton grand Nom, car il est redoutable et saint !\n\nOr l'honneur du roi aime le Jugement. Tu as préparé ceux qui sont droits, tu as accompli le jugement et la justice en Jacob.\n\nExaltez le Seigneur notre Dieu, et prosternez-vous sous le piédestal de ses pieds, car Il est Saint !\n\nMoïse et Aaron sont parmi Ses prêtres, et Samuel parmi ceux qui invoquent son Nom. Ils invoquaient le Seigneur, et Lui les exauçait.\n\nDans une colonne de nuée Il leur parlait. Ils gardaient Ses témoignages, et les ordres qu'il leur donnait.\n\nÔ Seigneur notre Dieu, Tu les écoutais. Ô Dieu, tu es devenu Celui qui leur pardonne, et tu donnas la vengeance pour toutes leurs oeuvres.\n\nExaltez le Seigneur notre Dieu, et adorez-le sur sa Montagne sainte, car Saint est le Seigneur notre Dieu !"
         }
       ],
       "hourId": "ninth-hour"
@@ -2109,7 +2109,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 99 -->"
+          "text": "Ô toute la terre, acclamez le Seigneur !\n\nServez le Seigneur dans la réjouissance, venez devant Lui dans l'allégresse !\n\nSachez que le Seigneur lui-même est Dieu ! C'est Lui qui nous a faits, ce n'est pas nous, nous son peuple et les brebis de son pâturage.\n\nEntrez dans Ses Portes en faisant profession, et dans ses parvis avec des bénédictions. Professez-le, bénissez son Nom !\n\nCar le Seigneur est doux, sa Miséricorde est pour les siècles, et sa Vérité est de génération en génération !"
         }
       ],
       "hourId": "ninth-hour"
@@ -2125,7 +2125,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 100 -->"
+          "text": "Seigneur, je chanterai ta Miséricorde et ton Jugement.\n\nJe psalmodierai, et je serai intelligent dans la voie sans tache. Quand viendras-Tu à moi ? J'ai marché au milieu de ma maison, dans l'innocence de mon cœur. Je n'ai mis aucune pratique illégale devant mes yeux,\n\nJ'ai haï ceux qui font la transgression. Je ne me suis point attaché au cœur pervers, et le méchant se détournant de moi, je ne l'ai point connu.\n\nCelui qui dénigre en secret son prochain, je le chassais à l'extérieur. Je n'ai point mangé avec l'œil arrogant, au cœur insatiable.\n\nMes yeux sont sur les fidèles de la terre, pour les faire asseoir avec moi, celui qui chemine dans la voie sans tache était à mon service.\n\nCelui qui agit avec arrogance n'a point habité au milieu de ma maison, le parleur d'injustices n'a point réussi devant mes yeux.\n\nLe matin, je mettais à mort tous les pécheurs de la terre, afin d'exterminer dans la Cité du Seigneur les ouvriers de l'illégalité."
         }
       ],
       "hourId": "ninth-hour"
@@ -2141,7 +2141,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 109 -->"
+          "text": "Le Seigneur a déclaré à mon Seigneur : « Assieds-toi à ma droite, jusqu'à ce que j'aie placé tes ennemis dessous tes pieds. »\n\nLe Seigneur t'enverra depuis Sion un sceptre de puissance, et tu prendras ta domination au milieu de tes ennemis.\n\n« La principauté est avec toi au jour de ta puissance, dans les Lumière des Saints. Je t'ai engendré de Mes entrailles avant l'étoile de l'aurore. »\n\nLe Seigneur l'a juré, et il ne changera pas d'avis : « Tu es Prêtre pour les siècles, selon l'Ordre de Melchisédech ».\n\nLe Seigneur est à ta droite, il a écrasé les rois au jour de sa Colère.\n\nIl jugera au milieu des nations, il les remplira de ruines, il brisera sur la terre la tête d'une grande multitude.\n\nIl boira sur son chemin l'eau du torrent, et c'est pourquoi il relèvera sa tête."
         }
       ],
       "hourId": "ninth-hour"
@@ -2157,7 +2157,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 110 -->"
+          "text": "Alléluia ! Je Te professerai, Seigneur, de tout mon cœur, dans le conseil et l'assemblée de ceux qui sont droits.\n\nLes œuvres du Seigneur sont grandes, recherchées pour toutes ses volontés.\n\nSon œuvre est Profession et Majesté, et sa Justice demeurera pour les siècles des siècles.\n\nIl a fait le mémorial de Ses merveilles, le Seigneur est compatissant et miséricordieux.\n\nIl a donné la nourriture à ceux qui Le craignent, il se souviendra de son Alliance pour les siècles.\n\nIl a divulgué à son peuple la force de Ses œuvres, pour leur donner l'héritage des nations.\n\nLes œuvres de Ses mains sont Vérité et Jugement. Tous ses commandements sont fidèles,\n\nFermement établis pour les siècles des siècles, et créés en Vérité et Droiture.\n\nIl a envoyé la Rédemption à Son peuple, Il a commandé son Alliance pour les siècles. Son Nom est saint et redoutable.\n\nLa crainte du Seigneur est le principe de Sagesse, c'est l'Intelligence bonne pour tous ceux qui la pratiquent. Sa louange demeure pour les siècles des siècles !"
         }
       ],
       "hourId": "ninth-hour"
@@ -2173,7 +2173,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 111 -->"
+          "text": "Alléluia ! Bienheureux l'homme qui craint le Seigneur, en Ses commandements il voudra rester.\n\nSa semence sera puissante sur la terre, la génération de ceux qui sont droits sera bénie.\n\nLa gloire et la richesse sont en sa maison, et sa justice demeure pour les siècles des siècles.\n\nLa lumière s'est levée dans les ténèbres pour ceux qui sont droits. Le Seigneur Dieu est miséricordieux, compatissant et juste.\n\nC'est un homme bon que celui qui est compatissant, disposé à prêter, il ménagera ses paroles avec Jugement.\n\nCar pour les siècles il ne sera pas ébranlé. Le juste sera dans la mémoire pour les siècles.\n\nEt il n'aura nulle crainte face à des discours mauvais, son cœur est prêt à espérer dans le Seigneur,\n\nSon cœur est affermi et ne vacillera pas à la vue de ses ennemis.\n\nIl a distribué et donné aux miséreux, et sa justice demeure pour les siècles des siècles, sa corne sera exaltée en Gloire.\n\nLe pécheur le verra, et s'en irritera, il grincera des dents, et sera consumé. Le désir des pécheurs périra."
         }
       ],
       "hourId": "ninth-hour"
@@ -2189,7 +2189,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 112 (neuvième heure) -->"
+          "text": "Alléluia ! Louez le Seigneur, jeunes gens, louez le Nom du Seigneur !\n\nBéni soit le Nom du Seigneur, dès maintenant et pour les siècles !\n\nDe l'orient du soleil jusqu'à l'occident, louez le Nom du Seigneur !\n\nLe Seigneur est élevé sur toutes les nations, sa Gloire est sur les cieux.\n\nQui est comme le Seigneur notre Dieu, qui habite en des lieux élevés,\n\nEt regarde les humbles dans le ciel et sur la terre ?\n\nIl redresse de la terre le pauvre, et Il relève le mendiant de son fumier,\n\nPour le faire asseoir avec les princes, avec les princes de son peuple.\n\nIl fait résider celle qui est stérile dans sa maison, et c'est une mère se réjouissant en ses enfants."
         }
       ],
       "hourId": "ninth-hour"
@@ -2205,7 +2205,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 114 -->"
+          "text": "Alléluia ! Je suis rempli d'amour, parce que le Seigneur écoutera la voix de ma supplication,\n\nParce qu'Il a incliné vers moi son Oreille, et en tous mes jours je l'invoquerai.\n\nLes douleurs de la mort m'avaient saisi, les périls d'Hadès m'avaient atteint. J'avais trouvé l'oppression et la souffrance.\n\nEt j'ai invoqué le Nom du Seigneur. Ô Seigneur, délivre mon âme !\n\nLe Seigneur est miséricordieux et juste, et notre Dieu fait miséricorde.\n\nLe Seigneur garde les petits enfants. J'avais été humilié, et Il m'a sauvé !\n\nÔ mon âme, convertis-toi pour retourner à ton Repos, car le Seigneur t'a fait du bien.\n\nCar Il a délivré mon âme de la mort, mes yeux des larmes, et mes pieds du trébuchement.\n\nJe complairai au Seigneur devant lui, en la région des vivants."
         }
       ],
       "hourId": "ninth-hour"
@@ -2221,7 +2221,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 115 -->"
+          "text": "J'ai eu foi, c'est pourquoi j'ai parlé, mais moi, j'avais été fort humilié !\n\nMoi, j'ai dit en mon extase : « Tout homme est menteur. »\n\nQue rendrai-je au Seigneur pour tout ce qu'il m'a donné ?\n\nJe prendrai le calice du Salut, et j'invoquerai le Nom du Seigneur.\n\nJe rendrai au Seigneur mes vœux devant tout son peuple.\n\nLa mort de Ses Consacrés est précieuse aux yeux du Seigneur.\n\nÔ Seigneur, moi je suis Ton serviteur, je suis ton serviteur et le fils de ta servante. Tu as rompu mes liens,\n\nJe te ferai un sacrifice de louange, et j'implorerai le Nom du Seigneur.\n\nJe rendrai mes vœux au Seigneur dans les parvis de la Maison du Seigneur,\n\nDevant tout son peuple, au milieu de Jérusalem !"
         }
       ],
       "hourId": "ninth-hour"
@@ -2237,11 +2237,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_\n\nLes apôtres, à leur retour, racontèrent à Jésus tout ce qu'ils avaient fait. Il les prit avec lui et se retira à l'écart, du côté d'une ville appelée Bethsaïda. Les foules s'en aperçurent et le suivirent. Il les accueillit ; il leur parlait du règne de Dieu ; il guérit aussi ceux qui avaient besoin de guérison. Le jour commençait à baisser. Les Douze vinrent donc lui dire : Renvoie la foule, pour qu'elle aille se loger et trouver du ravitaillement dans les villages et les hameaux des environs ; car nous sommes ici dans un lieu désert. Mais il leur dit : Donnez-leur vous-mêmes à manger. Ils dirent : Nous n'avons pas plus de cinq pains et deux poissons, à moins que nous n'allions nous-mêmes acheter des vivres pour tout ce peuple. En effet, il y avait environ cinq mille hommes. Il dit à ses disciples : Installez-les par rangées d'une cinquantaine. Ils firent ainsi ; ils les installèrent tous. Il prit les cinq pains et les deux poissons, leva les yeux vers le ciel et prononça la bénédiction sur eux. Puis il les rompit et se mit à les donner aux disciples pour qu'ils les distribuassent à la foule. Tous mangèrent et furent rassasiés, et on emporta douze paniers de morceaux qui étaient restés.\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile de la neuvième heure -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "ninth-hour"
@@ -2257,7 +2257,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire les tropaires de la neuvième heure -->"
+          "text": "Ô Toi qui à la neuvième heure a pour nous goûté la mort dans la chair, fais mourir nos pensées corporelles, ô Christ notre Dieu, et sauve-nous !"
         }
       ],
       "hourId": "ninth-hour"
@@ -2289,7 +2289,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'absolution de la neuvième heure -->"
+          "text": "Ô Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ, par Sa manifestation Tu nous as sauvés et Tu nous as délivrés de l'esclavage de l'ennemi.\n\nNous T'implorons par Son Nom grand et béni de détourner nos intelligences des soucis de cette vie et des désirs mondains, afin que nous fassions mémoire de Tes jugements célestes. Accomplis en nous Ton amour du genre humain, ô Toi qui es bon.\n\nEt qu'en tout temps soit accueillie auprès de Toi la prière de la neuvième heure.\n\nEt donne-nous de marcher en étant digne de l'Appel que nous avons reçu.\n\nAinsi, quand nous aurons quitté ce corps, nous pourrons être comptés parmi les véritables adorateurs de Ton Fils Unique-Engendré Jésus Christ, notre Seigneur, et obtiendrons la miséricorde, la rémission de nos péchés et le Salut avec le chœur des Saints qui T'ont plu en vérité depuis les siècles et pour les siècles.\n\nÔ Dieu, anéantis le Satan et toutes ses puissances maléfiques, comme Ton Fils unique les a écrasés par la puissance de Sa Croix vivifiante.\n\nReçois-nous, ô mon Seigneur Jésus-Christ, Toi qui as reçu la profession de foi du larron sur la Croix.\n\nQu'Il nous illumine pour donner la lumière à ceux qui sont dans l'obscurité d'Hadès. Fais-nous retourner au Paradis de la Joie,\n\ncar Tu es béni, mon Seigneur, et à Toi sont dus la gloire, l'honneur, la souveraineté, l'adoration, avec Ton Père qui est bon et l'Esprit-Saint, pour tous les siècles des siècles. Amen !"
         },
         {
           "type": "instruction",
@@ -2340,7 +2340,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête et la description de la onzième heure -->"
+          "text": "Allons, prosternons-nous, allons implorons le Christ notre Dieu !\n\nAllons, prosternons-nous, allons implorons le Christ notre Roi !\n\nAllons, prosternons-nous, allons implorons le Christ notre Sauveur !\n\nÔ notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.\n\nHymne des Vêpres du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\n_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._"
         },
         {
           "type": "instruction",
@@ -2351,35 +2351,35 @@
     },
     {
       "id": "eleventh-hour-intro",
-      "title": "Introduction de chaque heure",
+      "title": "",
       "hourId": "eleventh-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Introduction de chaque heure"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Prière d'action de grâce"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Psaume 50"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
+          "text": ""
         }
       ]
     },
@@ -2394,7 +2394,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 116 -->"
+          "text": "Alléluia ! Nations, louez toutes le Seigneur, peuples, louez-le tous !\n\nCar Sa Miséricorde s'est affermie sur nous, et la Vérité du Seigneur demeure pour les siècles."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2410,7 +2410,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 117 -->"
+          "text": "Alléluia ! Professez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour les siècles !\n\nQue la maison d'Israël déclare qu'Il est bon, parce que sa Miséricorde est pour les siècles !\n\nQue la maison d'Aaron déclare qu'Il est bon, parce que sa Miséricorde est pour les siècles !\n\nQue tous ceux qui craignent le Seigneur déclarent qu'il est bon, parce que sa Miséricorde est pour les siècles !\n\nDans la tribulation j'ai invoqué le Seigneur, et il m'a exaucé, il m'a mis au large.\n\nLe Seigneur est mon Secours, et je ne craindrai rien de ce que l'humain peut me faire.\n\nLe Seigneur est mon Secours, et moi je surveillerai mes ennemis.\n\nMieux vaut se confier au Seigneur que se confier à l'humain.\n\nMieux vaut espérer dans le Seigneur qu'espérer dans les princes.\n\nToutes les nations m'avaient encerclé, mais au Nom du Seigneur, j'ai pris ma revanche sur elles.\n\nElles m'avaient assiégé, encerclé, mais, au Nom du Seigneur, j'ai pris ma revanche sur elles.\n\nElles m'avaient encerclé comme des abeilles autour du rayon de miel, et elles lançaient des flammes, comme du feu dans les chardons, mais au Nom du Seigneur, j'ai pris ma revanche sur elles.\n\nOn me bousculait pour que je tombe, et le Seigneur m'a soutenu.\n\nLe Seigneur est ma Force et ma Louange, et Il est devenu pour moi le Salut.\n\nLa voix de l'exultation et du salut est dans le séjour des justes. La Droite du Seigneur a fait une chose puissante.\n\nLa Droite du Seigneur m'a exalté, la Droite du Seigneur a fait une chose puissante.\n\nJe ne mourrai point, mais je vivrai, et je raconterai les œuvres du Seigneur.\n\nAvec discipline le Seigneur m'a discipliné, mais il ne m'a point livré à la mort.\n\nOuvrez-moi les portes de la Justice, j'entrerai par elles et je professerai au Seigneur.\n\nC'est la Porte du Seigneur, les justes entreront par elle.\n\nJe Te professerai, parce que Tu m'as exaucé, et que Tu es devenu pour moi le Salut.\n\nLa Pierre que les constructeurs avaient rejetée, c'est elle qui est devenue la tête d'angle !\n\nC'est par le Seigneur qu'elle l'est devenue, et elle est merveilleuse à nos yeux.\n\nVoici le jour qu'a fait le Seigneur, exultons et réjouissons-nous en ce jour !\n\nÔ Seigneur, tu nous sauveras ! Ô Seigneur, tu rectifieras notre Voie !\n\nBéni soit Celui qui vient au Nom du Seigneur ! Nous vous avons bénis depuis la maison du Seigneur.\n\nLe Dieu et Seigneur nous a illuminés ! Célébrez la fête avec des rameaux de feuillages, jusqu'aux cornes de l'autel.\n\nTu es mon Dieu, et je Te professerai ! Tu es mon Dieu, et je t'exalterai ! Je te professerai, parce que tu m'as exaucé, et que Tu es devenu pour moi le Salut.\n\nProfessez au Seigneur, parce qu'Il est bon, parce que sa Miséricorde est pour les siècles !"
         }
       ],
       "hourId": "eleventh-hour"
@@ -2426,7 +2426,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 119 -->"
+          "text": "Dans ma tribulation, j'ai crié vers le Seigneur, et Tu m'as exaucé.\n\nSeigneur, délivre mon âme des lèvres injustes et des langues trompeuses !\n\nQue te revient-il, et quel profit as-tu retiré de ta langue trompeuse ?\n\nLes flèches du Puissant sont aiguës comme des charbons du désert.\n\nHélas ! que mon exil est long ! J'ai séjourné avec les tentes de Cédar.\n\nMon âme a été en exil en bien des lieux.\n\nJ'étais pacifique avec ceux qui haïssent ma paix ; sitôt que je leur parlais, ils m'attaquaient pour rien."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2442,7 +2442,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 120 -->"
+          "text": "J'ai levé les yeux vers les montagnes, d'où me viendra mon secours.\n\nLe secours me viendra du Seigneur, qui a fait le ciel et la terre.\n\nIl ne laissera point vaciller ton pied, et Celui qui te garde ne s'endormira pas.\n\nIl ne sommeillera pas, il ne s'endormira point, Celui qui garde Israël.\n\nLe Seigneur te gardera, le Seigneur est ton abri, sur ta main droite.\n\nLe soleil ne te brûlera point pendant le jour, ni la lune pendant la nuit.\n\nLe Seigneur te gardera de tout mal, le Seigneur gardera ton âme.\n\nLe Seigneur te gardera, quand tu entreras et quand tu sortiras, dès maintenant et pour les siècles."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2458,7 +2458,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 121 -->"
+          "text": "Je me suis réjoui quand on m'a dit : « Nous irons à la Maison du Seigneur ! »\n\nNos pieds se sont tenus droit dans les parvis de Jérusalem !\n\nJérusalem est édifiée comme une cité dont la faveur est sur tous ensemble.\n\nCar c'est là que montaient les tribus, les tribus du Seigneur, en témoignage pour Israël, pour professer au Nom du Seigneur.\n\nLà étaient établis des trônes pour le jugement, des trônes sur la maison de David.\n\nFaites des demandes pour la Paix de Jérusalem, et la prospérité de ceux qui t'aiment !\n\nQue la Paix advienne dans ta puissance, et la prospérité dans tes tours fortes !\n\nÀ cause de mes frères et de mes proches, j'ai parlé de paix te concernant.\n\nÀ cause de la Maison du Seigneur notre Dieu, j'ai recherché ce qui est bon pour toi."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2474,7 +2474,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 122 -->"
+          "text": "J'ai levé mes yeux vers Toi, qui habites dans le ciel.\n\nComme les yeux des serviteurs sont vers les mains de leurs maîtres, et les yeux de la servante vers les mains de sa maîtresse, ainsi nos yeux seront vers le Seigneur notre Dieu, jusqu'à ce qu'il ait pitié de nous.\n\nFais-nous miséricorde, Seigneur, fais-nous miséricorde, parce que nous sommes remplis de trop de mépris !\n\nNotre âme en est pleine, et déborde : que l'opprobre soit pour les gens prospères, et le mépris pour les orgueilleux !"
         }
       ],
       "hourId": "eleventh-hour"
@@ -2490,7 +2490,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 123 -->"
+          "text": "Si le Seigneur n'avait été en nous, qu'Israël déclare :\n\nSi le Seigneur n'avait été en nous, lorsque des hommes se sont levés contre nous,\n\nPeut-être nous auraient-ils dévorés vivants. Quand leur fureur a éclaté contre nous,\n\nPeut-être l'eau nous aurait-elle submergé. Notre âme aurait traversé un torrent.\n\nNotre âme aurait traversé l'eau sans fond.\n\nBéni soit le Seigneur, qui ne nous a point livrés en proie à leurs dents !\n\nNotre âme s'est échappée comme un passereau du piège des chasseurs, le filet a été rompu, et nous avons été délivrés.\n\nNotre Secours est dans le Nom du Seigneur, qui a fait le ciel et la terre."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2506,7 +2506,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 124 -->"
+          "text": "Ceux qui ont confiance dans le Seigneur sont comme la Montagne de Sion. Il ne sera point ébranlé pour les siècles, celui qui habite en Jérusalem.\n\nDes montagnes sont autour d'elle, et le Seigneur est autour de son peuple, maintenant et jusqu'aux siècles.\n\nLe Seigneur ne permettra pas que le bâton des pécheurs soit sur l'héritage des justes, afin que les justes n'étendent pas leurs mains vers l'illégalité.\n\nSeigneur, fais du bien à ceux qui sont bons, et à ceux qui sont droits dans leur cœur.\n\nMais ceux qui tournent vers le scandale, le Seigneur les retranchera avec les ouvriers d'illégalité. Paix sur Israël !"
         }
       ],
       "hourId": "eleventh-hour"
@@ -2522,7 +2522,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 125 -->"
+          "text": "Quand le Seigneur fit retourner les captifs de Sion, nous devînmes comme consolés.\n\nAlors notre bouche fut remplie de joie, et notre langue d'allégresse, alors les nations dirent entre elles : « Le Seigneur a fait de grandes choses pour eux ».\n\nLe Seigneur a fait de grandes choses pour nous, et nous en avons été réjouis.\n\nSeigneur, fais retourner nos captifs comme les torrents du midi !\n\nCeux qui sèment dans les larmes récolteront dans l'allégresse.\n\nIls allaient, ils allaient en pleurant, portant leurs semences : en revenant ils iront dans l'allégresse, portant leurs gerbes."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2538,7 +2538,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 126 -->"
+          "text": "Si le Seigneur n'édifie la maison, c'est en vain que peinent ceux qui l'édifient. Si le Seigneur ne veille sur la cité, c'est en vain que veille celui qui la garde.\n\nEn vain vous vous levez dès l'aurore : levez-vous après vous être couchés, vous qui mangez le pain de la peine, quand Il aura donné le sommeil à ses bien-aimés !\n\nVoilà l'héritage du Seigneur : des fils, récompense du fruit du ventre.\n\nTelles sont des flèches dans la main du puissant, tels sont des fils pour ceux qui ont été secoués.\n\nBienheureux l'humain qui, par eux, comblera son désir : ils ne seront point honteux quand ils parleront à leurs ennemis aux portes de la cité."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2554,7 +2554,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 127 -->"
+          "text": "Bienheureux tous ceux qui craignent le Seigneur, et qui cheminent en Ses voies.\n\nTu mangeras les produits de tes peines, tu seras bienheureux, et ce sera bon pour toi.\n\nTa femme sera comme une vigne prospère dans l'enceinte de ta maison, tes enfants comme de jeunes plants d'olivier seront autour de ta table.\n\nVoilà comment sera béni l'homme qui craint le Seigneur.\n\nQue le Seigneur te bénisse depuis Sion, et que tu voies les bonnes choses de Jérusalem, tous les jours de ta vie.\n\nEt que tu voies les fils de tes fils. Paix sur Israël !"
         }
       ],
       "hourId": "eleventh-hour"
@@ -2570,7 +2570,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 128 -->"
+          "text": "Souvent ils m'ont fait la guerre dès ma jeunesse, que maintenant Israël déclare :\n\nSouvent ils m'ont fait la guerre dès ma jeunesse, mais ils n'ont rien pu envers moi.\n\nSur mon dos ont frappé les pécheurs, ils ont prolongé leur illégalité.\n\nLe Seigneur est juste, Il brisera le cou des pécheurs.\n\nQu'ils soient honteux et mis en fuite, tous ceux qui haïssent Sion.\n\nQu'ils deviennent comme l'herbe des toits, qui sèche avant d'être arrachée,\n\nEt qui ne remplit ni la main du faucheur, ni le sein de celui qui rassemble les gerbes.\n\nEt sur eux les passants n'ont point dit : « Que la bénédiction du Seigneur soit sur vous ! Nous vous bénissons au Nom du Seigneur ! »"
         }
       ],
       "hourId": "eleventh-hour"
@@ -2586,11 +2586,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_\n\nIl partit de la synagogue et se rendit chez Simon. La belle-mère de Simon était en proie à une forte fièvre, et ils le sollicitèrent en sa faveur. Il se pencha sur elle, rabroua la fièvre, et la fièvre la quitta. A l'instant même elle se leva et se mit à les servir. Après le coucher du soleil, tous ceux qui avaient des malades atteints de divers maux les lui amenèrent. Il les guérissait en imposant les mains à chacun d'eux. Des démons aussi sortaient de beaucoup de personnes, en criant : « Toi, tu es le Fils de Dieu ». Et il les rabrouait et ne leur permettait pas de parler parce qu'ils savaient qu'il était le Christ.\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile de la onzième heure -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "eleventh-hour"
@@ -2606,7 +2606,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire les tropaires de la onzième heure -->"
+          "text": "Si le juste n'est sauvé qu'à grand peine, comment paraîtrais-je, moi, le pécheur ?\n\nJe n'ai pas pu supporter le poids du jour et sa chaleur à cause de la faiblesse de mon humanité. Mais Toi, Dieu miséricordieux, compte-moi parmi ceux de la onzième heure, car moi, c'est dans l'illégalité que j'ai été conçu, dans le péché ma mère m'a enfanté. C'est pourquoi je ne peux pas lever les yeux vers le ciel mais je me confierai en l'abondance de Ta Miséricorde et de Ton amour du genre humain en clamant et en disant : « Ô Dieu pardonne-moi car je suis pécheur et fais-moi miséricorde ! »"
         },
         {
           "type": "instruction",
@@ -2630,7 +2630,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'absolution de la onzième heure -->"
+          "text": "Nous Te rendons grâce ô notre Maître compatissant, car Tu nous as donné de passer ce jour en paix et d'atteindre ce soir dans l'action de grâce. Tu nous as rendus dignes de voir la lumière jusqu'au soir.\n\nReçois notre doxologie que nous T'adressons maintenant, et sauve-nous des ruses de l'Adversaire, et détruis tous les pièges tendus contre nous.\n\nPuis fais-nous la grâce de ta paix, en cette nuit qui vient, une paix et sans peine, sans trouble ni fatigue ni imagination, afin que nous la traversions dans la paix et la piété, et que nous nous tenions debout pour Te louer et Te prier en tout temps et en tout lieu.\n\nNous glorifions Ton Saint Nom en toute chose avec le Père inappréhendable et sans principe, et avec le Saint-Esprit vivifiant et de même essence que Toi,\n\nmaintenant et toujours et pour les siècles des siècles. Amen !"
         },
         {
           "type": "instruction",
@@ -2681,7 +2681,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête de la douzième heure -->"
+          "text": "Allons, prosternons-nous, allons implorons le Christ notre Dieu !\n\nAllons, prosternons-nous, allons implorons le Christ notre Roi !\n\nAllons, prosternons-nous, allons implorons le Christ notre Sauveur !\n\nÔ notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2697,42 +2697,42 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière de la douzième heure -->"
+          "text": "Hymne des Complies du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\n_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._"
         }
       ],
       "hourId": "twelfth-hour"
     },
     {
       "id": "twelfth-hour-intro",
-      "title": "Introduction de chaque heure",
+      "title": "",
       "hourId": "twelfth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Introduction de chaque heure"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Prière d'action de grâce"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Psaume 50"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
+          "text": ""
         }
       ]
     },
@@ -2747,7 +2747,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 129 -->"
+          "text": "Des profondeurs, j'ai crié vers Toi, Seigneur !\n\nSeigneur, écoute ma voix, que ton Oreille soit attentive à la voix de ma supplication !\n\nSi Tu observes l'illégalité, Seigneur, Seigneur, qui peut tenir ?\n\nCar la rémission ne vient que de Toi.\n\nÀ cause de Ton Nom, je t'ai attendu, Seigneur. Mon âme a mis son attente en ta Loi.\n\nMon âme a espéré dans le Seigneur. Que depuis la garde du matin jusqu'à la nuit, depuis la garde du matin, qu'Israël espère dans le Seigneur !\n\nCar la Miséricorde est auprès du Seigneur, et abondante est Sa Rédemption.\n\nEt c'est Lui qui sauvera Israël de toutes ses illégalités."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2763,7 +2763,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 130 -->"
+          "text": "Seigneur, mon cœur ne s'est point exalté, et mes yeux ne se sont point élevés, je n'ai point cheminé dans les grandeurs ni en des merveilles au-dessus de moi.\n\nSi je ne me suis point humilié, si j'ai trop élevé ma voix, pour rétribution fais de mon âme comme d'un enfant privé du lait de sa mère !\n\nQu'Israël espère dans le Seigneur, maintenant et jusqu'aux siècles !"
         }
       ],
       "hourId": "twelfth-hour"
@@ -2779,7 +2779,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 131 -->"
+          "text": "Ô Seigneur, remémore-toi David et toute sa douceur !\n\nComment il a juré au Seigneur, et adjuré au Dieu de Jacob :\n\n« Je n'entrerai pas dans le séjour de ma demeure, je ne monterai pas sur le lit de mon repos,\n\nJe ne donnerai point de sommeil à mes yeux, ni à mes paupières le moindre assoupissement, ni de repos à mon front,\n\nAvant que j'aie trouvé un Lieu pour le Seigneur, une Demeure pour le Dieu de Jacob. »\n\nVoilà que nous avons entendu parler d'Elle en Éphrata, nous l'avons trouvée dans les plaines de la forêt !\n\nNous entrerons dans Ses Demeures, nous nous prosternerons vers le Lieu où Il a arrêté ses pieds.\n\nLève-toi, Seigneur, pour entrer en ton Repos, toi et l'Arche de ton Lieu Saint !\n\nTes prêtres se revêtiront de Justice, et tes Saints exulteront !\n\nÀ cause de David Ton serviteur, ne détourne pas Ta Face loin de ton Christ !\n\nLe Seigneur a juré à David en vérité, et il ne s'en dédira pas : « Je mettrai sur ton trône le fruit de ton sein.\n\nSi tes fils gardent Mon Alliance et mes témoignages que Je leur enseignerai, leurs fils aussi siégeront pour les siècles sur ton trône.\n\nParce que le Seigneur a élu Sion, il l'a choisie pour sa Demeure.\n\nC'est Mon Lieu de repos pour les siècles des siècles, J'y résiderai, parce que je l'ai choisie.\n\nJe bénirai de ma bénédiction sa chasse. Ses pauvres, Je les rassasierai de pain.\n\nSes prêtres, Je les revêtirai du Salut, et ses Saints exulteront d'allégresse.\n\nC'est là que j'élèverai la corne de David, là que j'ai préparé une lampe pour mon Christ.\n\nQuant à ses ennemis, je les revêtirai de honte, mais sur sa tête fleurira Mon Saint. »"
         }
       ],
       "hourId": "twelfth-hour"
@@ -2795,7 +2795,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 132 -->"
+          "text": "Voyez comme il est bon, et comme il est doux pour des frères d'habiter ensemble !\n\nC'est comme de la myrrhe sur la tête qui descend sur la barbe, la barbe d'Aaron, qui descend sur la frange de son vêtement.\n\nComme la rosée de l'Hermon, qui descend sur les montagnes de Sion, parce que c'est là que le Seigneur a commandé que soient la bénédiction et la Vie jusqu'aux siècles."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2811,7 +2811,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 133 (douzième heure) -->"
+          "text": "Voici maintenant, bénissez le Seigneur, vous tous qui êtes Ses serviteurs et qui vous tenez en la Maison du Seigneur, dans les parvis de la Maison de notre Dieu !\n\nDurant les nuits, levez vos mains vous les Saints, et bénissez le Seigneur !\n\nLe Seigneur te bénira depuis Sion, Lui qui a créé le Ciel et la terre !"
         }
       ],
       "hourId": "twelfth-hour"
@@ -2827,7 +2827,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 136 -->"
+          "text": "Sur les fleuves de Babylone nous nous sommes assis, et nous avons pleuré, en nous souvenant de Sion.\n\nAux saules, au milieu d'elle, nous avons suspendu nos harpes,\n\nCar ceux qui nous avaient faits captifs nous demandaient des paroles des odes, et ceux qui nous avaient emmenés ici nous demandaient : « Chantez-nous une louange d'entre les odes de Sion ! »\n\nComment chanterons-nous l'ode du Seigneur sur une terre étrangère ?\n\nSi je t'oublie, Jérusalem, que j'oublie ma main droite !\n\nQue ma langue reste collée à mon larynx, si je ne me souviens point de toi, et si je ne mets pas d'abord Jérusalem au principe de ma joie !\n\nSouviens-toi, Seigneur, des fils d'Édom, qui, au jour de Jérusalem, déclaraient : « Faites le vide, faites le vide en elle jusqu'au fondement ! »\n\nFille de Babylone, la misérable ! Bienheureux celui qui te rétribuera en te rendant en retour ce que tu nous as fait !\n\nBienheureux celui qui saisira tes petits enfants et les écrasera contre la pierre !"
         }
       ],
       "hourId": "twelfth-hour"
@@ -2843,7 +2843,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 137 -->"
+          "text": "Seigneur, je Te professerai de toute mon âme, parce que Tu as écouté les paroles de ma bouche, et je psalmodierai pour toi devant les anges !\n\nJe T'adorerai en ton saint Temple, et je ferai profession à ton Nom, à cause de ta Miséricorde et de ta Vérité, car tu as magnifié ton Saint Nom au-dessus de tout être.\n\nAu jour où je T'invoque, aussitôt exauce-moi, et tu prendras grand soin de mon âme avec Puissance !\n\nSeigneur, que tous les rois de la terre te professent, car ils ont entendu toutes les paroles de ta bouche !\n\nEt qu'ils chantent dans les voies du Seigneur, car la Gloire du Seigneur est grande !\n\nCar le Seigneur est élevé, et il regarde les humbles, et reconnaît de loin ceux qui sont élevés.\n\nSi je vais au milieu des tribulations, Tu me vivifieras, tu as étendu Ta Main contre la colère des ennemis, et ta Droite m'a sauvé !\n\nLe Seigneur rétribuera en ma faveur. Seigneur, ta Miséricorde est pour les siècles : n'abandonne pas les œuvres de tes mains !"
         }
       ],
       "hourId": "twelfth-hour"
@@ -2859,7 +2859,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 140 -->"
+          "text": "Seigneur, j'ai crié vers Toi, écoute-moi ! Sois attentif à la voix de ma supplication, quand je crie vers toi !\n\nQue ma prière se dirige jusque devant Toi comme de l'encens, que l'élévation de mes mains vers Toi soit un sacrifice du soir.\n\nMets, Seigneur, une garde à ma bouche, et une porte de sûreté autour de mes lèvres.\n\nN'incline pas mon cœur vers les paroles de méchanceté, pour trouver des prétextes aux péchés, en compagnie des hommes œuvrant contre la Loi, et que je ne me joigne pas avec leurs élus.\n\nQue le juste me discipline avec miséricorde, et me réprimande, mais que l'huile des pécheurs n'oigne point ma tête, car ma prière est encore en faveur.\n\nLeurs hommes forts ont été précipités vers le roc. Ils écouteront mes paroles, parce qu'elles sont adoucies.\n\nComme les mottes de terre sont brisées sur la terre, leurs os ont été dispersés en Hadès.\n\nCar vers Toi Seigneur, Seigneur, nos yeux sont tournés, en toi j'ai espéré, ne tue point mon âme.\n\nGarde-moi des pièges qu'on a tendus contre moi, et des pierres de scandale des ouvriers de l'illégalité.\n\nLes pécheurs tomberont dans son filet ! Quant à moi, je suis en solitaire, jusqu'à ce que passe l'illégalité."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2875,7 +2875,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 141 -->"
+          "text": "De ma voix j'ai crié au Seigneur, de ma voix j'ai supplié le Seigneur.\n\nJ'épancherai devant Lui ma supplique, j'épancherai mon affliction devant Lui.\n\nPendant que mon esprit s'épuisait en moi, Toi tu connaissais mes sentiers. Dans la voie où je cheminais, ils avaient caché pour moi des pièges.\n\nJe regardais à ma droite, je voyais qu'il n'y avait personne qui me connaisse. Tout refuge était perdu pour moi, et nul n'était là pour rechercher mon âme.\n\nJ'ai crié vers Toi, Seigneur, et j'ai déclaré : « Tu es mon Espérance et mon Partage en la terre des vivants. »\n\nSois attentif à ma supplication, car je suis humilié à l'excès ! Délivre-moi de ceux qui me poursuivent, car ils ont pris le pouvoir sur moi !\n\nFais sortir mon âme hors de sa prison, pour qu'elle professe Ton Nom, Seigneur ! Les justes m'attendront jusqu'à ce que Tu m'aies récompensé."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2891,7 +2891,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 145 -->"
+          "text": "Alléluia ! Ô mon âme, loue le Seigneur !\n\nJe louerai le Seigneur durant ma vie, je psalmodierai à mon Dieu tant que j'existerai.\n\nNe mettez point votre confiance dans les princes, ni dans les fils des humains, car pour eux il n'est point de salut !\n\nSon esprit sortira, et il retournera en sa terre, en ce jour-là périront toutes ses pensées.\n\nBienheureux celui qui a pour aide le Dieu de Jacob, son espérance dans le Seigneur son Dieu,\n\nQui a fait le ciel et la terre, et la mer, et tout ce qui est en elle, qui garde la Vérité pour les siècles,\n\nQui rend justice à ceux à qui on a fait injustice, qui donne la nourriture aux affamés. Le Seigneur déliera ceux qui sont enchaînés.\n\nLe Seigneur redresse ceux qui sont brisés, le Seigneur rend sages les aveugles, le Seigneur aime les justes.\n\nLe Seigneur gardera les étrangers, il secourra l'orphelin et la veuve, et il fera disparaître la voie des pécheurs.\n\nLe Seigneur régnera pour les siècles, c'est ton Dieu, ô Sion, de génération en génération."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2907,7 +2907,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 146 -->"
+          "text": "Alléluia ! Louez le Seigneur, car il est bon de psalmodier ! Puisse la louange être agréable à notre Dieu !\n\nC'est le Seigneur qui a bâti Jérusalem, il rassemblera la diaspora d'Israël.\n\nIl guérit ceux qui sont affligés en leur cœur, et il bande leurs plaies.\n\nIl dénombre les multitudes d'étoiles, et toutes, Il les appelle par leur nom.\n\nGrand est notre Seigneur, et grande est sa Puissance, et son intelligence infinie.\n\nLe Seigneur accueille les doux, et humilie les pécheurs jusqu'à terre.\n\nEntonnez des chants de profession au Seigneur, psalmodiez à notre Dieu sur la cithare !\n\nC'est Lui qui revêt le ciel de nuages, lui qui prépare de la pluie pour la terre, lui qui fait pousser de l'herbe dans les montagnes, et du fourrage pour le service de l'homme.\n\nC'est Lui qui donne aux bétails leur nourriture, et aux petits des corbeaux qui l'invoquent.\n\nIl ne voudrait pas de la puissance du cheval, ni ne donne son approbation aux jarrets de l'homme.\n\nLe Seigneur approuvera ceux qui le craignent, et tous ceux qui espèrent en Sa Miséricorde."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2923,7 +2923,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 147 -->"
+          "text": "Alléluia ! Jérusalem, loue le Seigneur ! Ô Sion, loue ton Dieu !\n\nCar Il a fortifié les verrous de tes portes, il a béni tes fils qui sont en toi.\n\nC'est Lui qui a établi la paix sur tes frontières, et qui t'emplit de fleur de froment !\n\nC'est Lui qui envoie sa Parole à la terre, et sa Parole court vite !\n\nC'est Lui qui couvre la terre de neige comme d'une toison, et verse des brouillards comme de la cendre.\n\nC'est Lui qui jette de la glace comme des morceaux de pain, qui alors peut supporter la face de la froidure ?\n\nIl enverra Sa Parole, et elle les fera fondre, Il soufflera son Esprit, et les eaux couleront.\n\nC'est Lui qui annonce sa Parole à Jacob, ses ordonnances et ses jugements à Israël.\n\nIl n'a point fait ainsi pour toutes les nations, et Il ne leur a pas révélé ses ordonnances."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2939,11 +2939,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_\n\nEt voici qu'il y avait à Jérusalem un homme du nom de Syméon. Cet homme était juste et pieux ; il attendait la consolation d'Israël et l'Esprit Saint reposait sur lui.\n\nEt il avait été divinement averti par l'Esprit Saint qu'il ne verrait pas la mort avant d'avoir vu le Christ du Seigneur.\n\nIl vint donc au Temple, poussé par l'Esprit, et quand les parents apportèrent le petit enfant Jésus pour accomplir les prescriptions de la Loi à son égard, il le reçut dans ses bras, bénit Dieu et dit :\n\n'Maintenant, Mon Maître, tu peux, selon ta parole, laisser ton serviteur par la paix ; car mes yeux ont vu ton salut, que tu as préparé à la face de tous les peuples, lumière pour éclairer les nations et gloire de ton peuple Israël.'\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile de la douzième heure -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "twelfth-hour"
@@ -2959,12 +2959,12 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire les tropaires de la douzième heure -->"
+          "text": "Me voici prêt à me tenir debout devant le Juge juste, effrayé et troublé par mes nombreux péchés car l'existence consumée dans les convoitises mérite le jugement.\n\nMais fais ta métanoia, ô mon âme, tant que tu demeures sur terre, car le tas de poussière dans le tombeau ne fait aucune louange, et nul parmi les morts ne fait mémoire de rien, et nul en enfer ne Lui rend grâce.\n\nAlors réveille-toi du sommeil de la paresse et implore le Sauveur dans une métanoia, en disant : Ô Dieu fais-moi miséricorde et sauve-moi !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
         },
         {
           "type": "paragraph",
@@ -3000,7 +3000,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'absolution de la douzième heure -->"
+          "text": "Que tous les péchés que nous avons commis contre Toi en ce jour, Seigneur, en action, en parole, en pensée ou par tous nos sens,\n\nPardonne, remets-les nous à cause Ton saint Nom, comme bon et Ami du genre humain.\n\nEt donne-nous par ta grâce, ô Dieu, une nuit paisible et un sommeil pur de tout trouble,\n\nEt envoie-nous l'ange de la paix, qu'il nous protège de tout mal, de tout fléau et de toute tentation de l'ennemi.\n\nPar la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré (notre Seigneur, Dieu et Sauveur\n\nJésus-Christ,\n\npar Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui) et le don du Saint-Esprit (vivifiant et de même essence que Toi),\n\nMaintenant et toujours et dans tous les siècles des siècles.\n\nAmen !"
         },
         {
           "type": "instruction",
@@ -3078,35 +3078,35 @@
     },
     {
       "id": "veil-intro",
-      "title": "Introduction de chaque heure",
+      "title": "",
       "hourId": "veil",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Introduction de chaque heure"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Prière d'action de grâce"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Psaume 50"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
+          "text": ""
         }
       ]
     },
@@ -3242,35 +3242,35 @@
     },
     {
       "id": "midnight-intro",
-      "title": "Introduction de chaque heure",
+      "title": "",
       "hourId": "midnight",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": "Introduction de chaque heure"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Prière d'action de grâce"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
+          "text": ""
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Psaume 50"
+          "text": ""
         },
         {
           "type": "paragraph",
-          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
+          "text": ""
         }
       ]
     },

@@ -104,6 +104,11 @@ export default function SettingsPanel({ open, onClose, settings, onChange, onGoH
               aria-label={t('settings.sepia')}
             />
             <button
+              className={`theme-btn theme-btn-dim ${settings.theme === 'dim' ? 'theme-btn--active' : ''}`}
+              onClick={() => onChange({ theme: 'dim' })}
+              aria-label={t('settings.dim')}
+            />
+            <button
               className={`theme-btn theme-btn-dark ${settings.theme === 'dark' ? 'theme-btn--active' : ''}`}
               onClick={() => onChange({ theme: 'dark' })}
               aria-label={t('settings.dark')}

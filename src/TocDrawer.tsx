@@ -88,22 +88,26 @@ function TocSection({ entry, currentChapterId, currentSectionId, onSelect }: {
   }, [isCurrentSection])
 
   const hourIcon = getHourIcon(entry.id)
+  const firstChildId = hasChildren ? entry.children![0].id : entry.id
 
   return (
     <div className="toc-section">
-      <button
-        className={`toc-section-header ${isDirectlyActive || isCurrentSection ? 'toc-section-header--active' : ''}`}
-        onClick={() => {
-          if (hasChildren) setExpanded(!expanded)
-          else onSelect(entry.id)
-        }}
-      >
-        <span className="toc-section-icon">{hourIcon ?? '·'}</span>
-        <span>{entry.title}</span>
+      <div className={`toc-section-header ${isDirectlyActive || isCurrentSection ? 'toc-section-header--active' : ''}`}>
+        <button className="toc-section-nav" onClick={() => onSelect(firstChildId)}>
+          <span className="toc-section-icon">{hourIcon ?? '·'}</span>
+          <span>{entry.title}</span>
+        </button>
         {hasChildren && (
-          <span className={`toc-section-chevron ${expanded ? 'toc-section-chevron--open' : ''}`}>▸</span>
+          <button
+            className="toc-section-toggle"
+            onClick={() => setExpanded(!expanded)}
+            aria-expanded={expanded}
+            aria-label={expanded ? 'Collapse' : 'Expand'}
+          >
+            <span className={`toc-section-chevron ${expanded ? 'toc-section-chevron--open' : ''}`}>▸</span>
+          </button>
         )}
-      </button>
+      </div>
 
       {hasChildren && expanded && (
         <div className="toc-children">
