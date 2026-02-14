@@ -14,11 +14,11 @@
         },
         {
           "title": "Epître aux Éphésiens 4 : 1 - 5",
-          "id": "s004"
+          "id": "dawn-epistle"
         },
         {
           "title": "De la Foi de l'Église",
-          "id": "s005"
+          "id": "dawn-faith"
         },
         {
           "title": "Psaume 1",
@@ -98,39 +98,39 @@
         },
         {
           "title": "Évangile selon saint Jean (1 : 1 - 17)",
-          "id": "s025"
+          "id": "dawn-gospel"
         },
         {
           "title": "Oraisons",
-          "id": "s026"
+          "id": "dawn-oraisons"
         },
         {
           "title": "Louange des anges",
-          "id": "s027"
+          "id": "dawn-angels-praise"
         },
         {
           "title": "Le Trisagion",
-          "id": "s028"
+          "id": "dawn-trisagion"
         },
         {
           "title": "Introduction de l'Acte de Foi",
-          "id": "s029"
+          "id": "dawn-creed-intro"
         },
         {
           "title": "Acte de Foi",
-          "id": "s030"
+          "id": "dawn-creed"
         },
         {
           "title": "Prière d'absolution",
-          "id": "s031"
+          "id": "dawn-absolution"
         },
         {
           "title": "Seconde prière d'absolution",
-          "id": "s032"
+          "id": "dawn-absolution-2"
         },
         {
           "title": "Conclusion de chaque heure",
-          "id": "s033"
+          "id": "conclusion"
         }
       ]
     },
@@ -192,15 +192,15 @@
         },
         {
           "title": "Évangile selon saint Jean (14 : 26 - 15 : 4)",
-          "id": "s048"
+          "id": "third-hour-gospel"
         },
         {
           "title": "Oraisons",
-          "id": "s049"
+          "id": "third-hour-oraisons"
         },
         {
           "title": "Absolution",
-          "id": "s051"
+          "id": "third-hour-absolution"
         },
         {
           "title": "Conclusion de chaque heure",
@@ -266,15 +266,15 @@
         },
         {
           "title": "Évangile selon saint Matthieu (5 : 1 - 16)",
-          "id": "s065"
+          "id": "sixth-hour-gospel"
         },
         {
           "title": "Oraisons",
-          "id": "s066"
+          "id": "sixth-hour-oraisons"
         },
         {
           "title": "Absolution",
-          "id": "s069"
+          "id": "sixth-hour-absolution"
         },
         {
           "title": "Conclusion de chaque heure",
@@ -340,15 +340,15 @@
         },
         {
           "title": "Évangile selon saint Luc (9 : 10 - 17)",
-          "id": "s084"
+          "id": "ninth-hour-gospel"
         },
         {
           "title": "Oraisons",
-          "id": "s085"
+          "id": "ninth-hour-oraisons"
         },
         {
           "title": "Absolution",
-          "id": "s087"
+          "id": "ninth-hour-absolution"
         },
         {
           "title": "Conclusion de chaque heure",
@@ -414,15 +414,15 @@
         },
         {
           "title": "Évangile selon saint Luc (4 : 38 - 41)",
-          "id": "s101"
+          "id": "eleventh-hour-gospel"
         },
         {
           "title": "Oraisons",
-          "id": "s102"
+          "id": "eleventh-hour-oraisons"
         },
         {
           "title": "Absolution",
-          "id": "s103"
+          "id": "eleventh-hour-absolution"
         },
         {
           "title": "Conclusion de chaque heure",
@@ -488,15 +488,15 @@
         },
         {
           "title": "Évangile selon saint Luc (2 : 25 - 32)",
-          "id": "s118"
+          "id": "twelfth-hour-gospel"
         },
         {
           "title": "Oraisons",
-          "id": "s119"
+          "id": "twelfth-hour-oraisons"
         },
         {
           "title": "Absolution",
-          "id": "s121"
+          "id": "twelfth-hour-absolution"
         },
         {
           "title": "Conclusion de chaque heure",
@@ -518,11 +518,11 @@
         },
         {
           "title": "Oraisons",
-          "id": "s125"
+          "id": "veil-oraisons"
         },
         {
           "title": "Absolution",
-          "id": "s126"
+          "id": "veil-absolution"
         },
         {
           "title": "Conclusion de chaque heure",
@@ -540,7 +540,7 @@
         },
         {
           "title": "Premier service",
-          "id": "s128",
+          "id": "midnight-first-service",
           "children": [
             {
               "title": "Psaume 133",
@@ -552,49 +552,49 @@
             },
             {
               "title": "Évangile selon saint Matthieu (25 : 1 - 13)",
-              "id": "s131"
+              "id": "midnight-first-gospel"
             },
             {
               "title": "Oraisons",
-              "id": "s132"
+              "id": "midnight-first-oraisons"
             }
           ]
         },
         {
           "title": "Second service",
-          "id": "s134",
+          "id": "midnight-second-service",
           "children": [
             {
               "title": "Évangile selon saint Luc (7 : 36 - 50)",
-              "id": "s135"
+              "id": "midnight-second-gospel"
             },
             {
               "title": "Oraisons",
-              "id": "s136"
+              "id": "midnight-second-oraisons"
             }
           ]
         },
         {
           "title": "Troisième service",
-          "id": "s137",
+          "id": "midnight-third-service",
           "children": [
             {
               "title": "Évangile selon saint Luc (12 : 32 - 46)",
-              "id": "s138"
+              "id": "midnight-third-gospel"
             },
             {
               "title": "Oraisons",
-              "id": "s139"
+              "id": "midnight-third-oraisons"
             },
             {
               "title": "Évangile selon saint Luc (2 : 29 - 32)",
-              "id": "s140"
+              "id": "midnight-canticle-simeon"
             }
           ]
         },
         {
           "title": "Absolution",
-          "id": "s141"
+          "id": "midnight-absolution"
         },
         {
           "title": "Conclusion de chaque heure",
@@ -612,43 +612,43 @@
       "children": [
         {
           "title": "Prière pour le repentir",
-          "id": "s145"
+          "id": "prayer-repentance"
         },
         {
           "title": "Prière avant la confession",
-          "id": "s146"
+          "id": "prayer-before-confession"
         },
         {
           "title": "Prière après la confession",
-          "id": "s147"
+          "id": "prayer-after-confession"
         },
         {
           "title": "Prière avant la communion",
-          "id": "s148"
+          "id": "prayer-before-communion"
         },
         {
           "title": "Seconde prière avant la communion",
-          "id": "s150"
+          "id": "prayer-before-communion-2"
         },
         {
           "title": "Prière après la communion",
-          "id": "s151"
+          "id": "prayer-after-communion"
         },
         {
           "title": "Seconde prière après la communion",
-          "id": "s153"
+          "id": "prayer-after-communion-2"
         },
         {
           "title": "Prière pour demander à Dieu de nous guider",
-          "id": "s154"
+          "id": "prayer-guidance"
         },
         {
           "title": "Prière avant de manger",
-          "id": "s155"
+          "id": "prayer-before-meal"
         },
         {
           "title": "Prière / Remerciements",
-          "id": "s156"
+          "id": "prayer-closing"
         }
       ]
     }
@@ -705,7 +705,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s004",
+      "id": "dawn-epistle",
       "title": "Epître de saint Paul aux Éphésiens 4 : 1 - 5",
       "blocks": [
         {
@@ -721,7 +721,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s005",
+      "id": "dawn-faith",
       "title": "De la Foi de l'Église",
       "blocks": [
         {
@@ -1041,7 +1041,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s025",
+      "id": "dawn-gospel",
       "title": "Évangile selon saint Jean (1 : 1 - 17)",
       "blocks": [
         {
@@ -1061,7 +1061,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s026",
+      "id": "dawn-oraisons",
       "title": "part026",
       "blocks": [
         {
@@ -1114,7 +1114,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s027",
+      "id": "dawn-angels-praise",
       "title": "Louange des anges.",
       "blocks": [
         {
@@ -1130,7 +1130,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s028",
+      "id": "dawn-trisagion",
       "title": "Le Trisagion",
       "blocks": [
         {
@@ -1164,7 +1164,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s029",
+      "id": "dawn-creed-intro",
       "title": "Introduction de l'Acte de Foi",
       "blocks": [
         {
@@ -1180,7 +1180,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s030",
+      "id": "dawn-creed",
       "title": "Acte de Foi",
       "blocks": [
         {
@@ -1204,7 +1204,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s031",
+      "id": "dawn-absolution",
       "title": "Prière d'absolution",
       "blocks": [
         {
@@ -1220,7 +1220,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s032",
+      "id": "dawn-absolution-2",
       "title": "Seconde prière d'absolution",
       "blocks": [
         {
@@ -1236,7 +1236,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s033",
+      "id": "conclusion",
       "title": "Conclusion de chaque heure",
       "blocks": [
         {
@@ -1256,7 +1256,7 @@
       "hourId": "dawn"
     },
     {
-      "id": "s034",
+      "id": "third-hour-prayer",
       "title": "Prière de la troisième heure",
       "blocks": [
         {
@@ -1514,7 +1514,7 @@
       "hourId": "third-hour"
     },
     {
-      "id": "s048",
+      "id": "third-hour-gospel",
       "title": "Évangile selon saint Jean ( 14 : 26 - 15 : 4 )",
       "blocks": [
         {
@@ -1534,7 +1534,7 @@
       "hourId": "third-hour"
     },
     {
-      "id": "s049",
+      "id": "third-hour-oraisons",
       "title": "part049",
       "blocks": [
         {
@@ -1550,7 +1550,7 @@
       "hourId": "third-hour"
     },
     {
-      "id": "s050",
+      "id": "third-hour-kyrie",
       "title": "part050",
       "blocks": [
         {
@@ -1566,7 +1566,7 @@
       "hourId": "third-hour"
     },
     {
-      "id": "s051",
+      "id": "third-hour-absolution",
       "title": "Absolution de la prière de la 3 ème heure",
       "blocks": [
         {
@@ -1610,7 +1610,7 @@
       "hourId": "third-hour"
     },
     {
-      "id": "s052",
+      "id": "sixth-hour-prayer",
       "title": "Prière de la sixième heure",
       "blocks": [
         {
@@ -1868,7 +1868,7 @@
       "hourId": "sixth-hour"
     },
     {
-      "id": "s065",
+      "id": "sixth-hour-gospel",
       "title": "Évangile selon saint Matthieu (5 : 1 - 16)",
       "blocks": [
         {
@@ -1888,7 +1888,7 @@
       "hourId": "sixth-hour"
     },
     {
-      "id": "s066",
+      "id": "sixth-hour-oraisons",
       "title": "part066",
       "blocks": [
         {
@@ -1904,7 +1904,7 @@
       "hourId": "sixth-hour"
     },
     {
-      "id": "s067",
+      "id": "sixth-hour-litany",
       "title": "Prière de la sixième heure",
       "blocks": [
         {
@@ -1920,7 +1920,7 @@
       "hourId": "sixth-hour"
     },
     {
-      "id": "s068",
+      "id": "sixth-hour-kyrie",
       "title": "part068",
       "blocks": [
         {
@@ -1936,7 +1936,7 @@
       "hourId": "sixth-hour"
     },
     {
-      "id": "s069",
+      "id": "sixth-hour-absolution",
       "title": "Absolution de la prière de la 6ème heure",
       "blocks": [
         {
@@ -1984,7 +1984,7 @@
       "hourId": "sixth-hour"
     },
     {
-      "id": "s070",
+      "id": "ninth-hour-prayer",
       "title": "Prière de la neuvième heure",
       "blocks": [
         {
@@ -2242,7 +2242,7 @@
       "hourId": "ninth-hour"
     },
     {
-      "id": "s084",
+      "id": "ninth-hour-gospel",
       "title": "Évangile selon saint Luc (9 : 10 - 17)",
       "blocks": [
         {
@@ -2262,7 +2262,7 @@
       "hourId": "ninth-hour"
     },
     {
-      "id": "s085",
+      "id": "ninth-hour-oraisons",
       "title": "part085",
       "blocks": [
         {
@@ -2278,7 +2278,7 @@
       "hourId": "ninth-hour"
     },
     {
-      "id": "s086",
+      "id": "ninth-hour-kyrie",
       "title": "part086",
       "blocks": [
         {
@@ -2294,7 +2294,7 @@
       "hourId": "ninth-hour"
     },
     {
-      "id": "s087",
+      "id": "ninth-hour-absolution",
       "title": "Absolution de la prière de la 9 ème heure",
       "blocks": [
         {
@@ -2338,7 +2338,7 @@
       "hourId": "ninth-hour"
     },
     {
-      "id": "s088",
+      "id": "eleventh-hour-prayer",
       "title": "Prière de la onzième heure",
       "blocks": [
         {
@@ -2596,7 +2596,7 @@
       "hourId": "eleventh-hour"
     },
     {
-      "id": "s101",
+      "id": "eleventh-hour-gospel",
       "title": "Évangile selon saint Luc ( 4 : 38 - 41 )",
       "blocks": [
         {
@@ -2616,7 +2616,7 @@
       "hourId": "eleventh-hour"
     },
     {
-      "id": "s102",
+      "id": "eleventh-hour-oraisons",
       "title": "part102",
       "blocks": [
         {
@@ -2640,7 +2640,7 @@
       "hourId": "eleventh-hour"
     },
     {
-      "id": "s103",
+      "id": "eleventh-hour-absolution",
       "title": "Absolution de la prière de la onzième heure",
       "blocks": [
         {
@@ -2684,7 +2684,7 @@
       "hourId": "eleventh-hour"
     },
     {
-      "id": "s104",
+      "id": "twelfth-hour-header",
       "title": "Prière de la douzième heure",
       "blocks": [
         {
@@ -2707,7 +2707,7 @@
       "hourId": "twelfth-hour"
     },
     {
-      "id": "s105",
+      "id": "twelfth-hour-prayer",
       "title": "Prière de la douzième heure",
       "blocks": [
         {
@@ -2958,7 +2958,7 @@
       "hourId": "twelfth-hour"
     },
     {
-      "id": "s118",
+      "id": "twelfth-hour-gospel",
       "title": "Évangile selon saint Luc (2 : 25 - 32 )",
       "blocks": [
         {
@@ -2978,7 +2978,7 @@
       "hourId": "twelfth-hour"
     },
     {
-      "id": "s119",
+      "id": "twelfth-hour-oraisons",
       "title": "Puis on récite :",
       "blocks": [
         {
@@ -3003,7 +3003,7 @@
       "hourId": "twelfth-hour"
     },
     {
-      "id": "s120",
+      "id": "twelfth-hour-kyrie",
       "title": "Puis on récite :",
       "blocks": [
         {
@@ -3019,7 +3019,7 @@
       "hourId": "twelfth-hour"
     },
     {
-      "id": "s121",
+      "id": "twelfth-hour-absolution",
       "title": "Absolution de la prière de la douzième heure",
       "blocks": [
         {
@@ -3063,7 +3063,7 @@
       "hourId": "twelfth-hour"
     },
     {
-      "id": "s122",
+      "id": "veil-header",
       "title": "Prière de la fermeture du voile",
       "blocks": [
         {
@@ -3090,7 +3090,7 @@
       "hourId": "veil"
     },
     {
-      "id": "s123",
+      "id": "veil-prayer",
       "title": "Prière de la fermeture du voile",
       "blocks": [
         {
@@ -3169,7 +3169,7 @@
       "hourId": "veil"
     },
     {
-      "id": "s125",
+      "id": "veil-oraisons",
       "title": "Puis on récite :",
       "blocks": [
         {
@@ -3230,7 +3230,7 @@
       "hourId": "veil"
     },
     {
-      "id": "s126",
+      "id": "veil-absolution",
       "title": "Absolution de la prière de la fermeture du voile",
       "blocks": [
         {
@@ -3329,7 +3329,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s128",
+      "id": "midnight-first-service",
       "title": "Premier service",
       "blocks": [
         {
@@ -3404,7 +3404,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s131",
+      "id": "midnight-first-gospel",
       "title": "Évangile selon saint Matthieu (25 : 1 - 13)",
       "blocks": [
         {
@@ -3424,7 +3424,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s132",
+      "id": "midnight-first-oraisons",
       "title": "part132",
       "blocks": [
         {
@@ -3528,7 +3528,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s133",
+      "id": "midnight-first-kyrie",
       "title": "part133",
       "blocks": [
         {
@@ -3548,7 +3548,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s134",
+      "id": "midnight-second-service",
       "title": "Second service",
       "blocks": [
         {
@@ -3564,7 +3564,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s135",
+      "id": "midnight-second-gospel",
       "title": "Évangile selon saint Luc (7 : 36 - 50)",
       "blocks": [
         {
@@ -3584,7 +3584,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s136",
+      "id": "midnight-second-oraisons",
       "title": "part136",
       "blocks": [
         {
@@ -3696,7 +3696,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s137",
+      "id": "midnight-third-service",
       "title": "Troisième service",
       "blocks": [
         {
@@ -3712,7 +3712,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s138",
+      "id": "midnight-third-gospel",
       "title": "Évangile selon saint Luc (12 : 32 - 46)",
       "blocks": [
         {
@@ -3732,7 +3732,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s139",
+      "id": "midnight-third-oraisons",
       "title": "part139",
       "blocks": [
         {
@@ -3847,7 +3847,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s140",
+      "id": "midnight-canticle-simeon",
       "title": "Évangile selon saint Luc (2 : 29 - 32)",
       "blocks": [
         {
@@ -3867,7 +3867,7 @@
       "hourId": "midnight"
     },
     {
-      "id": "s141",
+      "id": "midnight-absolution",
       "title": "Absolution de la prière de minuit",
       "blocks": [
         {
@@ -3931,7 +3931,7 @@
       "hourId": "absolutions"
     },
     {
-      "id": "s143",
+      "id": "priests-absolution",
       "title": "Prière d'absolution pour les prêtres",
       "blocks": [
         {
@@ -3967,7 +3967,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s145",
+      "id": "prayer-repentance",
       "title": "Prière pour le repentir",
       "blocks": [
         {
@@ -3983,7 +3983,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s146",
+      "id": "prayer-before-confession",
       "title": "Prière avant la confession",
       "blocks": [
         {
@@ -3999,7 +3999,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s147",
+      "id": "prayer-after-confession",
       "title": "Prière après la confession",
       "blocks": [
         {
@@ -4015,7 +4015,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s148",
+      "id": "prayer-before-communion",
       "title": "Prière avant la communion",
       "blocks": [
         {
@@ -4031,7 +4031,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s150",
+      "id": "prayer-before-communion-2",
       "title": "Seconde prière avant la communion",
       "blocks": [
         {
@@ -4047,7 +4047,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s151",
+      "id": "prayer-after-communion",
       "title": "Prière après la communion",
       "blocks": [
         {
@@ -4063,7 +4063,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s153",
+      "id": "prayer-after-communion-2",
       "title": "Seconde prière après la communion",
       "blocks": [
         {
@@ -4079,7 +4079,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s154",
+      "id": "prayer-guidance",
       "title": "Prière pour demander à Dieu de nous guider avant d'entreprendre une action.",
       "blocks": [
         {
@@ -4095,7 +4095,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s155",
+      "id": "prayer-before-meal",
       "title": "Prière avant de manger.",
       "blocks": [
         {
@@ -4111,7 +4111,7 @@
       "hourId": "prayers"
     },
     {
-      "id": "s156",
+      "id": "prayer-closing",
       "title": "Prière",
       "blocks": [
         {

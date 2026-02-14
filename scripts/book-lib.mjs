@@ -242,7 +242,7 @@ function tocToMarkdown(entries, depth = 0, opts = {}) {
   for (const entry of entries) {
     // Skip repeated intro / conclusion entries from per-hour TOC
     if (opts.skipIntros && entry.id.endsWith('-intro')) continue
-    if (opts.skipConclusions && (entry.id.startsWith('conclusion_') || entry.id === 's033')) continue
+    if (opts.skipConclusions && entry.id.startsWith('conclusion')) continue
 
     const indent = '  '.repeat(depth)
     lines.push(`${indent}- [${entry.title}](#${entry.id})`)
@@ -302,7 +302,7 @@ export function bookToMarkdown(book) {
   // Add shared Introduction / Conclusion as top-level TOC entries
   const tocLines = []
   const firstIntroId = book.chapters.find(ch => ch.id.endsWith('-intro'))?.id
-  const firstConclusionId = book.chapters.find(ch => ch.id.startsWith('conclusion_') || ch.id === 's033')?.id
+  const firstConclusionId = book.chapters.find(ch => ch.id.startsWith('conclusion'))?.id
   if (firstIntroId) tocLines.push(`- [Introduction de chaque heure](#${firstIntroId})`)
   if (firstConclusionId) tocLines.push(`- [Conclusion de chaque heure](#${firstConclusionId})`)
   tocLines.push(tocToMarkdown(book.toc, 0, { skipIntros: true, skipConclusions: true }))
@@ -311,7 +311,7 @@ export function bookToMarkdown(book) {
 
   // ---- Find the first Introduction and Conclusion chapters ----
   const firstIntro = book.chapters.find(ch => ch.id.endsWith('-intro'))
-  const firstConclusion = book.chapters.find(ch => ch.id.startsWith('conclusion_') || ch.id === 's033')
+  const firstConclusion = book.chapters.find(ch => ch.id.startsWith('conclusion'))
 
   // Output them once as shared sections
   if (firstIntro) {
@@ -327,7 +327,7 @@ export function bookToMarkdown(book) {
   const skipIds = new Set()
   for (const ch of book.chapters) {
     if (ch.id.endsWith('-intro')) skipIds.add(ch.id)
-    if (ch.id.startsWith('conclusion_') || ch.id === 's033') skipIds.add(ch.id)
+    if (ch.id.startsWith('conclusion')) skipIds.add(ch.id)
   }
 
   // ---- Build set of all chapter IDs that appear in the TOC ----

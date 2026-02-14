@@ -36,7 +36,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
   const currentChapter = book.chapters[currentIndex]
   const hourLabelKey = getHourLabelKey(currentChapter?.hourId)
 
-  // When chapter title is a raw section id (e.g. "s085"), use TOC title or "Oraisons"
+  // When chapter title is a raw section id (e.g. "ninth-hour-oraisons"), use TOC title or "Oraisons"
   const readerBarTitle = useMemo(() => {
     const title = currentChapter?.title ?? ''
     if (/^part\d+$/i.test(title)) {

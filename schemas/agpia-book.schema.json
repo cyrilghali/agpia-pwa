@@ -35,7 +35,7 @@
       "properties": {
         "id": {
           "type": "string",
-          "description": "Identifiant stable (identique dans toutes les langues). Ex: dawn, dawn-intro, psalm1, dawn-psalm62, s004"
+          "description": "Identifiant stable (identique dans toutes les langues). Ex: dawn, dawn-intro, psalm1, dawn-psalm62, dawn-epistle"
         },
         "title": {
           "type": "string",

@@ -1,201 +1,202 @@
 #!/usr/bin/env node
-// ---- One-time migration: replace epub-derived partXXX IDs with semantic names ----
-// Run: node scripts/migrate-ids.mjs
-//
-// This script:
-//   1. Reads FR book.json (has real titles) to build the old→new ID mapping
-//   2. Hours → semantic (dawn, third-hour, …); intros → dawn-intro, …
-//   3. Psalm chapters → psalmN (unique) or hourSlug-psalmN (when same psalm in multiple hours)
-//   4. Other chapters → sNNN
-//   5. Applies mapping to book.json, skeleton.json, and strings.json for all locales
+/**
+ * migrate-ids.mjs
+ * One-shot script to rename all sXXX IDs to descriptive names across the Agpia book files.
+ *
+ * Usage:  node scripts/migrate-ids.mjs
+ */
 
-import { readFile, writeFile, readdir } from 'node:fs/promises'
+import { readFileSync, writeFileSync } from 'node:fs'
 import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const ROOT = resolve(__dirname, '..')
-const AGPIA = resolve(ROOT, 'public/agpia')
+const root = resolve(__dirname, '..')
 
-// ---- Hour mapping (hardcoded) ----
-const HOUR_MAP = {
-  part001: 'intro',
-  part003: 'dawn',
-  part036: 'third-hour',
-  part053: 'sixth-hour',
-  part072: 'ninth-hour',
-  part089: 'eleventh-hour',
-  part106: 'twelfth-hour',
-  part124: 'veil',
-  part127: 'midnight',
-  part142: 'absolutions',
-  part144: 'prayers',
+// ── Complete old → new ID mapping ──────────────────────────────────────────
+
+const ID_MAP = {
+  // Dawn
+  s004: 'dawn-epistle',
+  s005: 'dawn-faith',
+  s025: 'dawn-gospel',
+  s026: 'dawn-oraisons',
+  s027: 'dawn-angels-praise',
+  s028: 'dawn-trisagion',
+  s029: 'dawn-creed-intro',
+  s030: 'dawn-creed',
+  s031: 'dawn-absolution',
+  s032: 'dawn-absolution-2',
+  s033: 'conclusion',
+
+  // Third Hour
+  s034: 'third-hour-prayer',
+  s048: 'third-hour-gospel',
+  s049: 'third-hour-oraisons',
+  s050: 'third-hour-kyrie',
+  s051: 'third-hour-absolution',
+
+  // Sixth Hour
+  s052: 'sixth-hour-prayer',
+  s065: 'sixth-hour-gospel',
+  s066: 'sixth-hour-oraisons',
+  s067: 'sixth-hour-litany',
+  s068: 'sixth-hour-kyrie',
+  s069: 'sixth-hour-absolution',
+
+  // Ninth Hour
+  s070: 'ninth-hour-prayer',
+  s084: 'ninth-hour-gospel',
+  s085: 'ninth-hour-oraisons',
+  s086: 'ninth-hour-kyrie',
+  s087: 'ninth-hour-absolution',
+
+  // Eleventh Hour
+  s088: 'eleventh-hour-prayer',
+  s101: 'eleventh-hour-gospel',
+  s102: 'eleventh-hour-oraisons',
+  s103: 'eleventh-hour-absolution',
+
+  // Twelfth Hour
+  s104: 'twelfth-hour-header',
+  s105: 'twelfth-hour-prayer',
+  s118: 'twelfth-hour-gospel',
+  s119: 'twelfth-hour-oraisons',
+  s120: 'twelfth-hour-kyrie',
+  s121: 'twelfth-hour-absolution',
+
+  // Veil
+  s122: 'veil-header',
+  s123: 'veil-prayer',
+  s125: 'veil-oraisons',
+  s126: 'veil-absolution',
+
+  // Midnight
+  s128: 'midnight-first-service',
+  s131: 'midnight-first-gospel',
+  s132: 'midnight-first-oraisons',
+  s133: 'midnight-first-kyrie',
+  s134: 'midnight-second-service',
+  s135: 'midnight-second-gospel',
+  s136: 'midnight-second-oraisons',
+  s137: 'midnight-third-service',
+  s138: 'midnight-third-gospel',
+  s139: 'midnight-third-oraisons',
+  s140: 'midnight-canticle-simeon',
+  s141: 'midnight-absolution',
+
+  // Absolutions
+  s143: 'priests-absolution',
+
+  // Prayers
+  s145: 'prayer-repentance',
+  s146: 'prayer-before-confession',
+  s147: 'prayer-after-confession',
+  s148: 'prayer-before-communion',
+  s150: 'prayer-before-communion-2',
+  s151: 'prayer-after-communion',
+  s153: 'prayer-after-communion-2',
+  s154: 'prayer-guidance',
+  s155: 'prayer-before-meal',
+  s156: 'prayer-closing',
 }
 
-// ---------------------------------------------------------------------------
-// Helpers
-// ---------------------------------------------------------------------------
+// Build a regex that matches any old ID as a whole word (surrounded by non-alphanumeric chars)
+// Sort by length descending so longer IDs match first (e.g. s131 before s13)
+const sortedOldIds = Object.keys(ID_MAP).sort((a, b) => b.length - a.length)
+const idPattern = new RegExp(`\\b(${sortedOldIds.join('|')})\\b`, 'g')
 
-async function readJSON(p) { return JSON.parse(await readFile(p, 'utf-8')) }
-async function writeJSON(p, d) {
-  await writeFile(p, JSON.stringify(d, null, 2) + '\n', 'utf-8')
-  console.log(`  wrote ${p}`)
+// ── Helpers ─────────────────────────────────────────────────────────────────
+
+function readFile(relPath) {
+  return readFileSync(resolve(root, relPath), 'utf-8')
 }
 
-// ---------------------------------------------------------------------------
-// Build the complete old-id → new-id mapping from a book with real titles
-// ---------------------------------------------------------------------------
+function writeFile(relPath, content) {
+  writeFileSync(resolve(root, relPath), content, 'utf-8')
+  console.log(`  ✓ ${relPath}`)
+}
 
-function buildIdMap(book) {
-  /** @type {Record<string, string>} */
-  const map = {}
-
-  // 1. Hours + intros
-  for (const [oldId, slug] of Object.entries(HOUR_MAP)) {
-    map[oldId] = slug
-    map[`${oldId}-intro`] = `${slug}-intro`
-  }
-
-  // 2. Collect psalm chapters and count per psalm number
-  const psalmRe = /^Psa(?:ume|lm)\s+(\d+)$/i
-  /** @type {Record<string, Array<{id: string, hourId: string|null}>>} */
-  const psalmOccs = {}
-
-  for (const ch of book.chapters) {
-    if (map[ch.id]) continue                 // already mapped (hour / intro)
-    if (!ch.id.startsWith('part')) continue   // already semantic (conclusion_*)
-    const m = ch.title?.match(psalmRe)
-    if (m) {
-      const num = m[1]
-      ;(psalmOccs[num] ??= []).push({ id: ch.id, hourId: ch.hourId })
+/** Walk a JSON structure and replace all "id" field values that match old IDs. */
+function walkAndReplaceIds(obj) {
+  if (Array.isArray(obj)) {
+    for (const item of obj) walkAndReplaceIds(item)
+  } else if (obj && typeof obj === 'object') {
+    if (typeof obj.id === 'string' && ID_MAP[obj.id]) {
+      obj.id = ID_MAP[obj.id]
+    }
+    for (const val of Object.values(obj)) {
+      if (typeof val === 'object' && val !== null) walkAndReplaceIds(val)
     }
   }
-
-  // 3. Assign psalm IDs (unique → psalmN, duplicate → hourSlug-psalmN)
-  for (const [num, occs] of Object.entries(psalmOccs)) {
-    if (occs.length === 1) {
-      map[occs[0].id] = `psalm${num}`
-    } else {
-      for (const o of occs) {
-        const hourSlug = HOUR_MAP[o.hourId] ?? o.hourId
-        map[o.id] = `${hourSlug}-psalm${num}`
-      }
-    }
-  }
-
-  // 4. Remaining partNNN chapters → sNNN
-  for (const ch of book.chapters) {
-    if (map[ch.id]) continue
-    const m = ch.id.match(/^part(\d+)$/)
-    if (m) map[ch.id] = `s${m[1]}`
-  }
-
-  // 5. TOC may reference ids not present in chapters array (safety net)
-  function scanToc(entries) {
-    for (const e of entries) {
-      if (!map[e.id] && e.id.startsWith('part')) {
-        const introMatch = e.id.match(/^(part\d+)-intro$/)
-        if (introMatch && HOUR_MAP[introMatch[1]]) {
-          map[e.id] = `${HOUR_MAP[introMatch[1]]}-intro`
-        } else {
-          const m = e.id.match(/^part(\d+)$/)
-          if (m) map[e.id] = `s${m[1]}`
-        }
-      }
-      if (e.children) scanToc(e.children)
-    }
-  }
-  scanToc(book.toc)
-
-  return map
 }
 
-// ---------------------------------------------------------------------------
-// Apply mapping to a book object (toc ids, chapter ids, hourIds)
-// ---------------------------------------------------------------------------
-
-function migrateBook(book, map) {
-  const out = JSON.parse(JSON.stringify(book)) // deep clone
-
-  function migToc(entries) {
-    for (const e of entries) {
-      if (map[e.id]) e.id = map[e.id]
-      if (e.children) migToc(e.children)
-    }
+/** Replace sXXX IDs inside JSON object keys (for strings.json). */
+function replaceIdsInKeys(obj) {
+  const result = {}
+  for (const [key, value] of Object.entries(obj)) {
+    const newKey = key.replace(idPattern, (match) => ID_MAP[match] || match)
+    result[newKey] = value
   }
-  migToc(out.toc)
-
-  for (const ch of out.chapters) {
-    if (map[ch.id]) ch.id = map[ch.id]
-    if (ch.hourId && map[ch.hourId]) ch.hourId = map[ch.hourId]
-  }
-
-  return out
+  return result
 }
 
-// ---------------------------------------------------------------------------
-// Apply mapping to strings keys (dot-separated segments)
-// ---------------------------------------------------------------------------
+// ── 1. skeleton.json ────────────────────────────────────────────────────────
 
-function migrateStrings(strings, map) {
-  const out = {}
-  for (const [key, val] of Object.entries(strings)) {
-    const newKey = key.split('.').map(seg => map[seg] ?? seg).join('.')
-    out[newKey] = val
-  }
-  return out
-}
+console.log('Migrating IDs...')
 
-// ---------------------------------------------------------------------------
-// Main
-// ---------------------------------------------------------------------------
+const skeletonPath = 'public/agpia/skeleton.json'
+const skeleton = JSON.parse(readFile(skeletonPath))
+walkAndReplaceIds(skeleton)
+writeFile(skeletonPath, JSON.stringify(skeleton, null, 2) + '\n')
 
-async function main() {
-  // Build mapping from FR book (it has real translated titles for psalm detection)
-  const frBook = await readJSON(resolve(AGPIA, 'fr/book.json'))
-  const map = buildIdMap(frBook)
+// ── 2. fr/book.json ─────────────────────────────────────────────────────────
 
-  // Print mapping summary
-  const entries = Object.entries(map).filter(([o, n]) => o !== n).sort(([a], [b]) => a.localeCompare(b))
-  console.log(`\nID mapping (${entries.length} renames):\n`)
-  for (const [o, n] of entries) {
-    console.log(`  ${o.padEnd(20)} → ${n}`)
-  }
-  console.log()
+const bookPath = 'public/agpia/fr/book.json'
+const book = JSON.parse(readFile(bookPath))
+walkAndReplaceIds(book)
+writeFile(bookPath, JSON.stringify(book, null, 2) + '\n')
 
-  // ---- FR ----
-  console.log('Migrating FR...')
-  await writeJSON(resolve(AGPIA, 'fr/book.json'), migrateBook(frBook, map))
-  try {
-    const frStr = await readJSON(resolve(AGPIA, 'fr/strings.json'))
-    await writeJSON(resolve(AGPIA, 'fr/strings.json'), migrateStrings(frStr, map))
-  } catch { console.log('  fr/strings.json not found, skipping') }
+// ── 3. fr/book.md ───────────────────────────────────────────────────────────
 
-  // ---- Skeleton ----
-  console.log('Migrating skeleton...')
-  const skel = await readJSON(resolve(AGPIA, 'skeleton.json'))
-  await writeJSON(resolve(AGPIA, 'skeleton.json'), migrateBook(skel, map))
+const mdPath = 'public/agpia/fr/book.md'
+let md = readFile(mdPath)
+// Replace anchors: id="sXXX"
+md = md.replace(/id="(s\d{3})"/g, (match, id) => {
+  return ID_MAP[id] ? `id="${ID_MAP[id]}"` : match
+})
+// Replace links: (#sXXX)
+md = md.replace(/\(#(s\d{3})\)/g, (match, id) => {
+  return ID_MAP[id] ? `(#${ID_MAP[id]})` : match
+})
+writeFile(mdPath, md)
 
-  // ---- Other locales (en, ar, de, it, cop) ----
-  let dirs
-  try { dirs = await readdir(AGPIA, { withFileTypes: true }) } catch { dirs = [] }
-  for (const d of dirs) {
-    if (!d.isDirectory() || d.name === 'fr' || d.name === 'assets') continue
-    const locale = d.name
-    console.log(`Migrating ${locale}...`)
+// ── 4. fr/strings.json ──────────────────────────────────────────────────────
 
-    try {
-      const book = await readJSON(resolve(AGPIA, locale, 'book.json'))
-      await writeJSON(resolve(AGPIA, locale, 'book.json'), migrateBook(book, map))
-    } catch { console.log(`  ${locale}/book.json not found`) }
+const stringsPath = 'public/agpia/fr/strings.json'
+const strings = JSON.parse(readFile(stringsPath))
+const newStrings = replaceIdsInKeys(strings)
+writeFile(stringsPath, JSON.stringify(newStrings, null, 2) + '\n')
 
-    try {
-      const str = await readJSON(resolve(AGPIA, locale, 'strings.json'))
-      await writeJSON(resolve(AGPIA, locale, 'strings.json'), migrateStrings(str, map))
-    } catch { console.log(`  ${locale}/strings.json not found`) }
-  }
+// ── 5. scripts/book-lib.mjs ────────────────────────────────────────────────
 
-  console.log('\nDone! Review with: git diff --stat')
-}
+const libPath = 'scripts/book-lib.mjs'
+let lib = readFile(libPath)
+// Replace the 4 hardcoded 's033' references with 'conclusion'
+lib = lib.replace(/=== 's033'/g, "=== 'conclusion'")
+writeFile(libPath, lib)
 
-main().catch(e => { console.error(e); process.exit(1) })
+// ── 6. schemas/agpia-book.schema.json ───────────────────────────────────────
+
+const schemaPath = 'schemas/agpia-book.schema.json'
+let schema = readFile(schemaPath)
+// Update the example in the description
+schema = schema.replace(
+  'Ex: dawn, dawn-intro, psalm1, dawn-psalm62, s004',
+  'Ex: dawn, dawn-intro, psalm1, dawn-psalm62, dawn-epistle'
+)
+writeFile(schemaPath, schema)
+
+// ── Summary ─────────────────────────────────────────────────────────────────
+
+console.log(`\nDone! Renamed ${Object.keys(ID_MAP).length} IDs across 6 files.`)
