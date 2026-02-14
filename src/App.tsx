@@ -1,7 +1,8 @@
-import { useEffect, useState, useCallback } from 'react'
+import { useEffect, useState, useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings } from './types'
 import { DEFAULT_SETTINGS, LAST_CHAPTER_KEY, SETTINGS_KEY, getLocaleConfig, LOCALE_KEY, LOCALES } from './types'
+import { buildBookIndex } from './bookIndex'
 import Landing from './Landing'
 import Reader from './Reader'
 
@@ -97,6 +98,9 @@ export default function App() {
     )
   }
 
+  // Build lookup indices once when book changes — all downstream lookups become O(1)
+  const bookIndex = useMemo(() => book ? buildBookIndex(book) : null, [book])
+
   if (!book) {
     return (
       <div className="app-loading">
@@ -112,6 +116,7 @@ export default function App() {
     return (
       <Landing
         book={book}
+        bookIndex={bookIndex!}
         onNavigate={navigateTo}
         settings={settings}
         onSettingsChange={updateSettings}
@@ -122,6 +127,7 @@ export default function App() {
   return (
     <Reader
       book={book}
+      bookIndex={bookIndex!}
       currentChapterId={currentChapterId}
       onNavigate={navigateTo}
       settings={settings}

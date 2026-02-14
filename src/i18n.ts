@@ -6,15 +6,11 @@ import type { Translations } from './locales/schema'
 
 import frJson from './locales/fr.json'
 import arJson from './locales/ar.json'
-import deJson from './locales/de.json'
-import itJson from './locales/it.json'
 import copJson from './locales/cop.json'
 
 // Compile-time check: each locale must satisfy the shared schema
 const fr: Translations = frJson
 const ar: Translations = arJson
-const de: Translations = deJson
-const it: Translations = itJson
 const cop: Translations = copJson
 
 i18n
@@ -24,8 +20,6 @@ i18n
     resources: {
       fr: { translation: fr },
       ar: { translation: ar },
-      de: { translation: de },
-      it: { translation: it },
       cop: { translation: cop },
     },
     fallbackLng: 'fr',

@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings, Chapter } from './types'
-import { getHourLabelKey, getTocTitle } from './types'
+import { getHourLabelKey } from './types'
+import type { BookIndex } from './bookIndex'
 import ContentBlock, { SeparatorHero } from './ContentBlock'
 import TocDrawer from './TocDrawer'
 import SettingsPanel from './SettingsPanel'
@@ -10,13 +11,14 @@ import { useThrottledCallback } from './hooks'
 
 interface ReaderProps {
   book: AgpiaBook
+  bookIndex: BookIndex
   currentChapterId: string
   onNavigate: (id: string) => void
   settings: ReaderSettings
   onSettingsChange: (s: Partial<ReaderSettings>) => void
 }
 
-export default function Reader({ book, currentChapterId, onNavigate, settings, onSettingsChange }: ReaderProps) {
+export default function Reader({ book, bookIndex, currentChapterId, onNavigate, settings, onSettingsChange }: ReaderProps) {
   const { t } = useTranslation()
   const [tocOpen, setTocOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
@@ -25,14 +27,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
   const contentRef = useRef<HTMLDivElement>(null)
   const prevChapterRef = useRef<string | null>(null)
 
-  // Build a flat chapter index
-  const chapterIndex = useMemo(() => {
-    const map = new Map<string, number>()
-    book.chapters.forEach((ch, i) => map.set(ch.id, i))
-    return map
-  }, [book.chapters])
-
-  const currentIndex = chapterIndex.get(currentChapterId) ?? 0
+  const currentIndex = bookIndex.chapterIndexById.get(currentChapterId) ?? 0
   const currentChapter = book.chapters[currentIndex]
   const hourLabelKey = getHourLabelKey(currentChapter?.hourId)
 
@@ -40,23 +35,23 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
   const readerBarTitle = useMemo(() => {
     const title = currentChapter?.title ?? ''
     if (/^part\d+$/i.test(title)) {
-      const tocTitle = getTocTitle(book.toc, currentChapter!.id)
+      const tocTitle = bookIndex.tocTitleById.get(currentChapter!.id) ?? null
       return tocTitle || null // null => will use t('hours.oraisons') in JSX
     }
     return title || null
-  }, [book.toc, currentChapter?.id, currentChapter?.title])
+  }, [bookIndex.tocTitleById, currentChapter?.id, currentChapter?.title])
 
   const prevChapter = currentIndex > 0 ? book.chapters[currentIndex - 1] : null
   const nextChapter = currentIndex < book.chapters.length - 1 ? book.chapters[currentIndex + 1] : null
 
   const [scrollFraction, setScrollFraction] = useState(0)
 
-  // Progress relative to current hour only (chapters with same hourId)
+  // Progress relative to current hour only (chapters with same hourId) — O(1) lookup
   const hourChapters = useMemo(() => {
     const hourId = currentChapter?.hourId ?? null
     if (!hourId) return [currentChapter].filter(Boolean) as Chapter[]
-    return book.chapters.filter((ch) => ch.hourId === hourId)
-  }, [book.chapters, currentChapter])
+    return bookIndex.chaptersByHour.get(hourId) ?? [currentChapter].filter(Boolean) as Chapter[]
+  }, [bookIndex.chaptersByHour, currentChapter])
 
   const indexWithinHour = hourChapters.findIndex((ch) => ch.id === currentChapterId)
   const progress =
@@ -74,7 +69,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
     // Determine direction
     const prevId = prevChapterRef.current
     if (prevId) {
-      const prevIdx = chapterIndex.get(prevId) ?? 0
+      const prevIdx = bookIndex.chapterIndexById.get(prevId) ?? 0
       setDirection(currentIndex >= prevIdx ? 'forward' : 'back')
     }
     prevChapterRef.current = currentChapterId
@@ -82,7 +77,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
     // Always scroll to top on chapter change
     el.scrollTo({ top: 0, behavior: 'instant' as ScrollBehavior })
     setScrollFraction(0)
-  }, [currentChapterId, chapterIndex, currentIndex])
+  }, [currentChapterId, bookIndex.chapterIndexById, currentIndex])
 
   // Throttled scroll handler: update scroll fraction for progress bar
   const handleContentScroll = useThrottledCallback(() => {
@@ -205,6 +200,7 @@ export default function Reader({ book, currentChapterId, onNavigate, settings, o
         onClose={() => setTocOpen(false)}
         toc={book.toc}
         currentChapterId={currentChapterId}
+        currentSectionId={bookIndex.sectionIdByChapterId.get(currentChapterId) ?? null}
         onSelect={(id) => { navigateTo(id); setTocOpen(false) }}
       />
       <SettingsPanel

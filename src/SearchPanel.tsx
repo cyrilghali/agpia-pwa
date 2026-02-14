@@ -39,8 +39,9 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
     }
   }, [open])
 
-  // Build a flat search index once
+  // Build a flat search index once — normalize text at build time so search is just indexOf
   const searchIndex = useMemo(() => {
+    const strip = (s: string) => s.replace(/\*\*/g, '').replace(/_/g, '').replace(/⟨\d+⟩/g, '')
     return book.chapters.map((ch) => {
       const textParts: string[] = [ch.title]
       for (const b of ch.blocks) {
@@ -51,11 +52,14 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
           }
         }
       }
+      const fullText = textParts.join(' ')
+      const stripped = strip(fullText)
       return {
         id: ch.id,
         title: ch.title,
         hourId: ch.hourId,
-        fullText: textParts.join(' '),
+        fullText: stripped,
+        normalized: stripped.toLowerCase(),
       }
     })
   }, [book.chapters])
@@ -67,21 +71,16 @@ export default function SearchPanel({ open, onClose, book, onSelect }: SearchPan
     }
 
     const lower = q.toLowerCase()
-    // Remove markdown-like formatting for matching
-    const normalize = (s: string) => s.replace(/\*\*/g, '').replace(/_/g, '').replace(/⟨\d+⟩/g, '').toLowerCase()
-
     const found: SearchResult[] = []
 
     for (const entry of searchIndex) {
-      const normalized = normalize(entry.fullText)
-      const idx = normalized.indexOf(lower)
+      const idx = entry.normalized.indexOf(lower)
       if (idx === -1) continue
 
-      // Extract a snippet around the match
-      const rawText = entry.fullText.replace(/\*\*/g, '').replace(/_/g, '').replace(/⟨\d+⟩/g, '')
+      // Extract a snippet around the match (fullText is already stripped)
       const start = Math.max(0, idx - 40)
-      const end = Math.min(rawText.length, idx + q.length + 40)
-      const snippet = (start > 0 ? '…' : '') + rawText.slice(start, end).trim() + (end < rawText.length ? '…' : '')
+      const end = Math.min(entry.fullText.length, idx + q.length + 40)
+      const snippet = (start > 0 ? '…' : '') + entry.fullText.slice(start, end).trim() + (end < entry.fullText.length ? '…' : '')
 
       const hourKey = getHourLabelKey(entry.hourId)
       found.push({

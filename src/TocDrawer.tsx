@@ -9,19 +9,18 @@ interface TocDrawerProps {
   onClose: () => void
   toc: TocEntry[]
   currentChapterId: string
+  /** Pre-computed top-level section id for the current chapter (from BookIndex) */
+  currentSectionId: string | null
   onSelect: (id: string) => void
 }
 
-export default function TocDrawer({ open, onClose, toc, currentChapterId, onSelect }: TocDrawerProps) {
+export default function TocDrawer({ open, onClose, toc, currentChapterId, currentSectionId, onSelect }: TocDrawerProps) {
   const { t } = useTranslation()
   const bodyRef = useRef<HTMLDivElement>(null)
   const drawerRef = useRef<HTMLElement>(null)
 
   // Focus trap + body scroll lock
   useFocusTrap(open, drawerRef)
-
-  // Find which section contains the current chapter
-  const currentSectionId = findSectionForChapter(toc, currentChapterId)
 
   // Auto-scroll to active item when drawer opens
   useEffect(() => {
@@ -165,20 +164,3 @@ function TocChild({ entry, currentChapterId, onSelect }: {
   )
 }
 
-/** Find which top-level TOC section contains a given chapter ID */
-function findSectionForChapter(toc: TocEntry[], chapterId: string): string | null {
-  for (const section of toc) {
-    if (section.id === chapterId) return section.id
-    if (section.children) {
-      for (const child of section.children) {
-        if (child.id === chapterId) return section.id
-        if (child.children) {
-          for (const sub of child.children) {
-            if (sub.id === chapterId) return section.id
-          }
-        }
-      }
-    }
-  }
-  return null
-}

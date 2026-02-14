@@ -2,18 +2,20 @@ import { useState, useMemo, useEffect, useCallback } from 'react'
 import { useTranslation } from 'react-i18next'
 import type { AgpiaBook, ReaderSettings } from './types'
 import { HOURS, EXTRA_SECTIONS, getCurrentHour, getGreetingKey, getHourLabelKey, LAST_CHAPTER_KEY } from './types'
+import type { BookIndex } from './bookIndex'
 import SettingsPanel from './SettingsPanel'
 import SearchPanel from './SearchPanel'
 
 
 interface LandingProps {
   book: AgpiaBook
+  bookIndex: BookIndex
   onNavigate: (id: string) => void
   settings: ReaderSettings
   onSettingsChange: (s: Partial<ReaderSettings>) => void
 }
 
-export default function Landing({ book, onNavigate, settings, onSettingsChange }: LandingProps) {
+export default function Landing({ book, bookIndex, onNavigate, settings, onSettingsChange }: LandingProps) {
   const { t } = useTranslation()
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
@@ -38,11 +40,11 @@ export default function Landing({ book, onNavigate, settings, onSettingsChange }
   const lastId = useMemo(() => {
     try {
       const id = localStorage.getItem(LAST_CHAPTER_KEY)
-      return id && book.chapters.some((c) => c.id === id) ? id : null
+      return id && bookIndex.chapterById.has(id) ? id : null
     } catch { return null }
-  }, [book.chapters])
+  }, [bookIndex.chapterById])
 
-  const lastChapter = lastId ? book.chapters.find(c => c.id === lastId) : null
+  const lastChapter = lastId ? (bookIndex.chapterById.get(lastId) ?? null) : null
   const lastHourLabelKey = lastChapter ? getHourLabelKey(lastChapter.hourId) : null
 
   return (
