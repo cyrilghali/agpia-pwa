@@ -872,7 +872,15 @@ Par le Christ Jésus notre Seigneur avec qui Tu es béni ainsi que le Saint Espr
 
 ## Conclusion de chaque heure
 
-<!-- TODO: Traduire la conclusion de chaque heure -->
+Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.
+
+Ô Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.
+
+Ô Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.
+
+Sanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,
+
+Et délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !
 
 ---
 
@@ -2833,7 +2841,15 @@ Amen !
 
 ## Prière de la fermeture du voile
 
-<!-- TODO: Traduire l'en-tête de la fermeture du voile -->
+Allons, prosternons-nous, allons implorons le Christ notre Dieu !
+
+Allons, prosternons-nous, allons implorons le Christ notre Roi !
+
+Allons, prosternons-nous, allons implorons le Christ notre Sauveur !
+
+Ô notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.
+
+Hymne de la fermeture du Voile du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
 
 ---
 
@@ -2841,7 +2857,7 @@ Amen !
 
 ## Prière de la fermeture du voile
 
-<!-- TODO: Traduire la prière de la fermeture du voile -->
+_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._
 
 ---
 
@@ -2849,7 +2865,25 @@ Amen !
 
 ## Évangile du voile
 
-<!-- TODO: Traduire l'Évangile du voile -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Jean :_
+
+Mais Jésus, sachant qu'on allait venir l'enlever pour le faire roi, se retira à nouveau, seul, dans la montagne.
+
+Quand le soir fut venu, ses disciples descendirent à la mer, et, montant en bateau, ils se rendaient de l'autre côté de la mer, à Capharnaüm. Il faisait déjà nuit ; Jésus n'était pas encore venu les rejoindre ; et la mer, comme soufflait un grand vent, se soulevait.
+
+Ils avaient ramé environ vingt-cinq ou trente stades, quand ils voient Jésus marcher sur la mer et s'approcher du bateau. Ils eurent peur.
+
+Mais il leur dit : 'C'est moi. N'ayez pas peur.'
+
+Ils étaient disposés à le prendre dans le bateau, mais aussitôt le bateau toucha terre là où ils se rendaient.
+
+Le lendemain, la foule qui se tenait de l'autre côté de la mer vit qu'il n'y avait eu là qu'une barque et que Jésus n'était pas monté dans le bateau avec ses disciples, mais que seuls ses disciples s'en étaient allés.
+
+Cependant, de Tibériade des bateaux vinrent près du lieu où l'on avait mangé le pain après que le Seigneur eut rendu grâce.
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -2857,7 +2891,31 @@ Amen !
 
 ## Tropaires du voile
 
-<!-- TODO: Traduire les tropaires du voile -->
+Tu connais, Seigneur, la vigilance de mes ennemis, et tu sais, Toi mon Créateur, la faiblesse de ma nature.
+
+Voici que je remets mon esprit entre Tes mains ; mets-moi à l'ombre des ailes de Ta bonté pour que je ne m'endorme pas dans la mort.
+
+Illumine mes yeux à la grandeur de Tes paroles.
+
+Fais-moi tenir debout en tout temps pour Te glorifier, car Toi seul es bon et Ami du genre humain.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit !
+
+Seigneur, Ton Tribunal est redoutable.
+
+Les humains sont rassemblés, les anges se tiennent debout, les livres sont ouverts, les œuvres sont dévoilées, les pensées vont plaider.
+
+Quel sera le jugement pour moi au jugement, moi qui suis enchaîné dans le péché ? Qui éteindra et repoussera loin de moi la flamme de feu ? Qui fera illuminer mon obscurité, si Tu ne me fais pas miséricorde, Seigneur, parce que Tu es compatissant envers les humains.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Mère de Dieu, nous sommes remplis de courage face à toi. Nous ne serons pas couverts de honte, mais sauvés. Et ayant acquis ton aide et ta médiation, ô Sainte, Pure et Parfaite, nous n'aurons aucune crainte, mais nous pourchasserons nos ennemis et nous les disperserons. Car nous recevons la protection de ta puissante aide en toute chose comme d'un bouclier. Nous t'implorons et nous te supplions, ô Théotokos, en élevant vers toi notre clameur afin que tu nous sauves par tes supplications.
+
+Et relève-nous du sommeil qui est obscur afin que nous fassions des doxologies, par la Puissance du Dieu qui s'est incarné en toi.
 
 ---
 
@@ -2865,7 +2923,17 @@ Amen !
 
 ## Absolution du voile
 
-<!-- TODO: Traduire l'absolution du voile -->
+Ô Maître Seigneur Jésus Christ notre Dieu, donne-nous le repos dans notre sommeil, le repos de nos corps et la pureté de nos âmes.
+
+Et garde-nous des ténèbres obscures du péché.
+
+Que les mouvements des passions se calment et que les ardeurs du corps s'éteignent.
+
+Abats les soulèvements de la chair.
+
+Donne-nous une intelligence éveillée, une pensée humble, une conduite pleine de vertu, une couche sans souillure et un lit pur.
+
+Alors Tu nous feras lever pour Te louer la nuit et à l'aube en tenant ferme Tes commandements, affermis sans cesse par la remémoration de Tes Jugements. Accorde-nous la grâce de Te glorifier toute la nuit en bénissant Ton Nom Saint plein de gloire et de toute splendeur, avec Ton Père qui est Bon et l'Esprit Saint vivifiant, maintenant et toujours et pour tous les siècles des siècles. Amen !
 
 ---
 
@@ -2873,7 +2941,11 @@ Amen !
 
 ## Prière de minuit
 
-<!-- TODO: Traduire l'introduction de la prière de minuit -->
+Levez-vous, Fils de la lumière, pour louer le Seigneur des puissances,
+
+afin qu'Il nous accorde par sa Grâce le Salut de nos âmes. Lorsque nous nous levons corporellement devant Toi, ôte de notre intelligence le sommeil de l'Oubli. Donne-nous, Seigneur, la sobriété, afin de savoir nous tenir devant Toi à l'heure de la prière, et d'élever vers Toi la doxologie qui T'est due, et pour obtenir la rémission de nos nombreux péchés.
+
+Gloire à Toi, ô Ami du genre humain !
 
 ---
 
@@ -2881,7 +2953,9 @@ Amen !
 
 ## Premier service
 
-<!-- TODO: Traduire l'en-tête du premier service -->
+Hymne du premier service béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
+
+Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen.
 
 ---
 
@@ -2889,7 +2963,13 @@ Amen !
 
 ## Psaume 133
 
-<!-- TODO: Traduire le Psaume 133 (minuit) -->
+Allons, bénissez le Seigneur, Serviteurs du Seigneur,
+
+Qui vous tenez dans la maison du Seigneur, dans les parvis de la maison de notre Dieu !
+
+Élevez vos mains au milieu des nuits, vous les saints, bénissez le Seigneur !
+
+Le Seigneur Te bénira depuis Sion, Lui qui créa le ciel et la terre !
 
 ---
 
@@ -2897,7 +2977,405 @@ Amen !
 
 ## Psaume 118
 
-<!-- TODO: Traduire le Psaume 118 -->
+Alléluia ! Bienheureux ceux qui sont sans tache sur la voie, et cheminent dans la Loi du Seigneur.
+
+Bienheureux ceux qui méditent Ses témoignages, et qui Le recherchent de tout leur cœur.
+
+Car les ouvriers de l'illégalité n'ont point voulu marcher dans Ses voies.
+
+Tu as commandé Tes commandements, pour qu'ils soient bien gardés.
+
+Puissent mes voies être dirigées afin de garder Tes ordonnances !
+
+Alors je ne serai point honteux, puisque j'aurai fixé ma vue sur tous Tes commandements.
+
+Je te professerai, Seigneur, avec droiture de cœur, parce que j'aurai appris les jugements de ta Justice.
+
+Je garderai Tes ordonnances, ne me délaisse pas autant jusqu'à la fin !
+
+> Gloire à Toi, Seigneur !
+
+Comment le jeune homme rectifiera-t-il sa voie ? En gardant Tes Paroles.
+
+Je T'ai recherché de tout mon cœur, ne me repousse pas loin de tes commandements !
+
+J'ai caché dans mon cœur Tes Paroles pour ne point pécher contre toi.
+
+Tu es béni, Seigneur, enseigne-moi Tes ordonnances !
+
+J'ai divulgué par mes lèvres tous les jugements de Ta Bouche.
+
+Je me suis complu dans la voie de Tes témoignages, comme dans toute richesse.
+
+Je méditerai sur Tes commandements, et je comprendrai tes voies.
+
+J'étudierai Tes ordonnances, et je n'oublierai point Tes Paroles.
+
+> Gloire à Toi, Seigneur !
+
+Récompense ton Serviteur : je vivrai, et je garderai Tes Paroles.
+
+Ôte le voile de mes yeux, et je considérerai les merveilles de Ta Loi !
+
+Moi, je suis un exilé sur la terre, ne me cache pas Tes commandements !
+
+Mon âme a désiré d'un si grand désir Tes jugements, en tout temps !
+
+Tu as blâmé les orgueilleux : maudits soient ceux qui s'écartent de Tes commandements !
+
+Tire-moi loin de l'opprobre et du mépris, car j'ai recherché Tes témoignages !
+
+Car des princes se sont assis et ils ont parlé contre moi, mais Ton serviteur méditait sur tes ordonnances.
+
+Car tes témoignages sont mon étude, et mes résolutions sont tes ordonnances.
+
+> Gloire à Toi, Seigneur !
+
+Mon âme est collée au sol : vivifie-moi selon Ta Parole.
+
+J'ai annoncé Tes voies, et Tu m'as écouté, enseigne-moi tes ordonnances.
+
+Fais-moi comprendre la voie de tes ordonnances, et je méditerai sur tes merveilles.
+
+Mon âme s'endormait à cause de la peine du cœur : fortifie-moi par Tes Paroles.
+
+Rejette loin de moi la voie de l'injustice, et fais-moi miséricorde par Ta Loi.
+
+J'ai choisi pour moi la voie de la Vérité, et je n'ai point oublié Tes jugements.
+
+Je me suis attaché à Tes témoignages, Seigneur, ne me voue pas à la honte !
+
+J'ai couru dans la voie de Tes commandements, lorsque j'ai élargi mon cœur.
+
+> Gloire à Toi, Seigneur !
+
+Fais, Seigneur, que la voie de tes ordonnances soit ma loi, et je la chercherai toujours !
+
+Donne-moi l'intelligence, et j'approfondirai Ta Loi, et je la garderai dans le fond de mon cœur !
+
+Guide-moi dans le sentier de Tes commandements, car c'est celui-là que j'ai désiré !
+
+Incline mon cœur vers Tes témoignages, et non vers l'injustice !
+
+Détourne mes yeux, pour qu'ils ne voient point les vanités, vivifie-moi en Ta Loi.
+
+Établis Ta Parole avec ton serviteur, pour qu'il Te craigne !
+
+Ôte de moi l'opprobre qui m'a plongé dans le doute, car Tes jugements me sont délectables !
+
+Voilà que j'ai désiré Tes commandements : que je vive en ta Justice !
+
+> Gloire à Toi, Seigneur !
+
+Seigneur, que Ta Miséricorde vienne sur moi, et ton Salut, selon ta Parole !
+
+Et je pourrai répondre à ceux qui m'outragent, car j'ai espéré en Tes Paroles.
+
+Ne retire pas à jamais de ma bouche la parole de Ta Vérité, car j'ai espéré en Tes jugements.
+
+Et je garderai Ta Loi toujours, pour les siècles et pour les siècles des siècles.
+
+Et je marchais au large, parce que j'avais recherché Tes commandements.
+
+Et je parlais de Tes témoignages devant les rois, et je n'avais aucune honte.
+
+Et je méditais Tes commandements, que j'ai tant aimés.
+
+Et j'ai porté les bras vers Tes commandements, que j'aime tant, et j'ai médité sur Tes ordonnances.
+
+> Gloire à Toi, Seigneur !
+
+Souviens-Toi pour ton serviteur de ta Parole, par laquelle tu m'as donné de l'espoir.
+
+Celle-ci m'a consolé dans mon humiliation, car Ta Parole m'a vivifié.
+
+Les orgueilleux ont transgressé la Loi si fortement, mais moi, je n'ai point dévié de Ta Loi.
+
+Je me suis souvenu, Seigneur, de Tes jugements depuis les siècles, et j'ai été consolé.
+
+Le découragement m'a saisi, à la vue des pécheurs qui abandonnaient Ta Loi.
+
+Mais je psalmodiais tes ordonnances, dans le lieu de mon séjour.
+
+J'ai fait mémoire de ton Nom, Seigneur, pendant la nuit, et j'ai gardé ta Loi.
+
+Cela est advenu pour moi parce que j'avais recherché Tes ordonnances.
+
+> Gloire à Toi, Seigneur !
+
+Tu es mon partage, Seigneur, j'ai déclaré que je garderais tes commandements.
+
+J'ai prié Ta Face de tout mon cœur, fais-moi miséricorde selon ta Parole !
+
+J'ai réfléchi à Tes voies, et j'ai converti mes pas à tes témoignages.
+
+Je me suis préparé sans trouble à garder Tes commandements.
+
+Les liens des pécheurs m'ont enlacé, mais je n'ai point oublié Ta Loi.
+
+Au milieu de la nuit, je me réveillais afin de Te professer, pour les sentences de ta Justice.
+
+Je suis compagnon de tous ceux qui Te craignent et qui gardent tes commandements.
+
+La terre, Seigneur, est pleine de Ta Miséricorde, enseigne-moi tes ordonnances !
+
+> Gloire à Toi, Seigneur !
+
+Tu as agi avec bonté avec ton serviteur, Seigneur, selon ta Parole.
+
+Enseigne-moi la douceur, la discipline et la science, parce que j'ai eu foi en Tes commandements !
+
+Avant d'être humilié, j'ai défailli, aussi ai-je gardé Ta Parole.
+
+Tu es doux, Seigneur, et en ta Bonté enseigne-moi tes ordonnances !
+
+L'injustice des orgueilleux s'est accrue contre moi, mais quant à moi, de tout mon cœur je rechercherai tes commandements.
+
+Leur cœur s'est caillé comme du laitage, mais moi j'ai médité Ta Loi.
+
+Il est bon pour moi que Tu m'aies humilié, afin que j'apprenne tes ordonnances.
+
+La Loi qui sort de Ta Bouche est bonne pour moi, supérieure aux milliers d'or et d'argent.
+
+> Gloire à Toi, Seigneur !
+
+Ce sont Tes Mains qui m'ont fait et formé, donne-moi l'intelligence, et j'apprendrai tes commandements.
+
+Ceux qui Te craignent me verront, et ils se réjouiront, parce que j'ai espéré en tes Paroles.
+
+Seigneur, je sais que Tes jugements sont Justice, et que c'est par la Vérité que tu m'as humilié.
+
+Que Ta Miséricorde vienne sur moi et me console, comme tu l'as dit à ton serviteur.
+
+Que Tes compassions me viennent, et je vivrai, parce que ta Loi est ma méditation.
+
+Qu'ils soient honteux, les orgueilleux, parce qu'ils ont été injustement illégaux envers moi. Mais quant à moi, je demeurerai dans Tes commandements.
+
+Que ceux qui Te craignent reviennent vers moi, avec ceux qui connaissent tes merveilles.
+
+Qu'en Tes ordonnances mon cœur soit trouvé pur, pour que je ne sois point honteux.
+
+> Gloire à Toi, Seigneur !
+
+Mon âme s'épuise après Ton Salut, et en ta Parole j'ai espéré !
+
+Mes yeux se sont épuisés sur Ta Parole, déclarant : « Quand me consoleras-tu ? »
+
+Car je suis devenu comme une outre dans le gel. Je n'ai point oublié Tes ordonnances.
+
+Combien seront les jours de Ton serviteur ? Quand feras-tu Jugement pour moi contre ceux qui me persécutent ?
+
+Les transgresseurs de la Loi m'ont raconté des bavardages, mais ce n'était point comme Ta Loi, Seigneur.
+
+Tous Tes commandements sont vérité. Ils m'ont poursuivi injustement, secours-moi !
+
+Pour peu ils en auraient fini avec moi sur la terre, mais moi je n'ai point abandonné Tes commandements.
+
+Vivifie-moi selon Ta Miséricorde, et je garderai les témoignages de ta Bouche !
+
+> Gloire à Toi, Seigneur !
+
+Seigneur, Ta Parole demeure pour les siècles dans les cieux.
+
+Et Ta Vérité est de génération en génération. Tu as fondé la terre, et elle demeure.
+
+Comme Tu l'as ordonné, le jour demeure, car toutes choses sont tes servantes.
+
+Si Ta Loi n'était point ma méditation, alors je périrais dans mon humiliation.
+
+Pour les siècles je n'oublierai pas Tes ordonnances, car en elles Tu m'as vivifié, Seigneur !
+
+Tu me sauveras, car je suis à Toi, car j'ai recherché tes ordonnances !
+
+Les pécheurs m'ont attendu pour me faire périr. J'avais compris Tes témoignages.
+
+J'ai vu l'accomplissement de toute perfection. Ton commandement est si large !
+
+> Gloire à Toi, Seigneur !
+
+Comme j'aime Ton Nom, Seigneur ! Toute la journée il est ma méditation.
+
+Plus qu'à mes ennemis Tu m'as donné la sagesse de tes commandements, car ils sont miens pour les siècles.
+
+J'ai eu plus d'intelligence que tous ceux qui m'ont enseigné, car Tes témoignages sont ma méditation.
+
+J'ai eu plus d'intelligence que les anciens, car j'ai recherché Tes commandements.
+
+J'ai empêché mes pieds d'aller en toute voie mauvaise, afin de garder Tes Paroles.
+
+Je n'ai point dévié de Tes jugements, parce que Tu m'as donné la Loi.
+
+Que Tes Paroles sont douces à mon palais ! Plus que le miel et les rayons, dans ma bouche.
+
+Je tiens mon intelligence de Tes commandements, aussi ai-je en haine toute voie d'injustice, parce que Tu m'as donné la Loi.
+
+> Gloire à Toi, Seigneur !
+
+Ta Loi est une lampe pour mes pieds, et une Lumière pour mes sentiers.
+
+J'ai juré et résolu de garder les jugements de Ta Justice.
+
+J'ai été tant humilié, Seigneur, vivifie-moi selon ta Parole !
+
+Seigneur, bénis ce que profère ma bouche, et enseigne-moi Tes jugements !
+
+Mon âme est toujours en Tes Mains, et je n'ai point oublié ta Loi.
+
+Les pécheurs m'ont tendu des pièges, et je n'ai pas erré loin de Tes commandements.
+
+J'ai hérité de Tes témoignages pour les siècles, car ils sont l'exultation de mon cœur.
+
+J'ai incliné mon cœur à agir selon Tes ordonnances, pour les siècles, à cause de ma rétribution.
+
+> Gloire à Toi, Seigneur !
+
+J'ai haï les transgresseurs de la Loi, et j'ai aimé ta Loi.
+
+Tu es mon Secours et mon Soutien, j'ai espéré en Ta Parole.
+
+Détournez-vous de moi, méchants, et je sonderai les commandements de mon Dieu.
+
+Soutiens-moi selon ta Parole, et je vivrai, et que je ne sois point déçu et honteux dans mon attente.
+
+Secours-moi, et je serai sauvé, et je méditerai sur Tes ordonnances toujours.
+
+Tu as réduit à néant tous ceux qui se sont éloignés de Tes ordonnances, parce que leur pensée est injuste.
+
+J'ai compté comme transgresseurs tous les pécheurs de la terre, c'est pourquoi j'ai aimé Tes témoignages toujours.
+
+Transperce mes chairs de Ta crainte, car j'ai toujours craint tes jugements.
+
+> Gloire à Toi, Seigneur !
+
+J'ai fait le jugement et la justice, ne me livre pas à ceux qui sont injustes envers moi !
+
+Accueille Ton serviteur dans ce qui est bon, que les arrogants ne me calomnient pas !
+
+Mes yeux ont défailli en vue de Ton Salut, et de la parole de ta Justice.
+
+Fais à Ton serviteur selon ta Miséricorde, et enseigne-moi tes ordonnances !
+
+Moi, je suis ton serviteur, donne-moi l'intelligence, et je connaîtrai Tes témoignages.
+
+Le moment est venu d'agir pour le Seigneur, car ils ont démantelé ta Loi !
+
+C'est pourquoi j'ai aimé Tes commandements plus que l'or et la topaze.
+
+C'est pourquoi je me suis dirigé selon Tes commandements, j'ai pris en haine toute voie d'injustice.
+
+> Gloire à Toi, Seigneur !
+
+Tes témoignages sont merveilleux, à cause de cela mon âme les a sondés.
+
+La révélation de Tes Paroles m'illuminera et rendra intelligents les jeunes enfants.
+
+J'ai ouvert la bouche, et j'ai soufflé l'esprit, parce que j'ai désiré Tes commandements.
+
+Regarde-moi, et fais-moi miséricorde, selon le jugement de ceux qui aiment Ton Nom !
+
+Dirige mes pas selon Ta Parole, et que nulle illégalité ne me domine !
+
+Délivre-moi des mensonges des humains, et je garderai Tes commandements !
+
+Fais illuminer Ta Face sur ton serviteur, et enseigne-moi tes ordonnances !
+
+Mes yeux ont fait couler des ruisseaux d'eaux, parce qu'ils n'ont pas gardé Ta Loi.
+
+> Gloire à Toi, Seigneur !
+
+Tu es juste, Seigneur, et ton Jugement est droit.
+
+Tu nous as commandé tes témoignages, comme étant la Justice et la Vérité mêmes !
+
+Le zèle de Ta Maison m'a consumé, parce que mes ennemis avaient oublié Tes Paroles.
+
+Ta Parole est tant éprouvée par le feu, que ton serviteur l'aime.
+
+Et moi, quoique jeune et tenu pour rien, je n'ai point oublié Tes ordonnances.
+
+Ta Justice est la Justice pour les siècles, et ta Parole est Vérité.
+
+L'oppression et la détresse m'ont trouvé. Tes commandements sont ma méditation.
+
+Tes témoignages sont la Justice pour les siècles, donne-moi l'intelligence, et je vivrai !
+
+> Gloire à Toi, Seigneur !
+
+J'ai crié de toute mon âme : « Exauce-moi, Seigneur, et je rechercherai Tes ordonnances ! »
+
+J'ai crié vers Toi : « Sauve-moi, et je garderai Tes témoignages ! »
+
+Je me suis levé avant l'aurore, et j'ai crié, tant j'espérais en Tes Paroles.
+
+Mes yeux se sont ouverts avant l'aurore, pour méditer Tes Paroles.
+
+Écoute ma voix, Seigneur, selon Ta Miséricorde, selon ton jugement vivifie-moi !
+
+Mes persécuteurs se sont approchés dans l'illégalité, et ils se sont éloignés de Ta Loi.
+
+Toi, tu es proche, Seigneur, et tous Tes commandements sont Vérité.
+
+J'ai reconnu dès le principe, à partir de Tes témoignages, que Tu les as fondés pour les siècles.
+
+> Gloire à Toi, Seigneur !
+
+Vois mon humiliation, et délivre-moi, car je n'ai point oublié Ta Loi.
+
+Juge mon jugement, et rachète-moi, que je vive à cause de Ta Parole.
+
+Le Salut est loin des pécheurs, parce qu'ils n'ont point recherché tes ordonnances.
+
+Tes compassions sont abondantes, Seigneur, vivifie-moi selon tes jugements !
+
+Nombreux sont ceux qui me persécutent et m'oppriment ! Je ne me suis point écarté de Tes témoignages.
+
+J'ai vu les gens sans intelligence, et j'étais affligé, parce qu'ils n'avaient point gardé Tes Paroles.
+
+Vois, Seigneur, combien j'aime Tes commandements ! Vivifie-moi par ta Miséricorde !
+
+La Vérité est le principe de Tes Paroles, et pour les siècles sont tous les jugements de ta Justice.
+
+> Gloire à Toi, Seigneur !
+
+Des princes m'ont persécuté en vain, mais mon cœur n'a redouté que Tes Paroles.
+
+Moi, j'exulterai à cause de Tes Paroles, comme celui qui trouve un riche butin.
+
+J'ai haï l'injustice, je l'ai eu en abomination, mais j'ai aimé Ta Loi.
+
+Sept fois le jour je T'ai loué, pour les jugements de ta Justice.
+
+Il y a une grande Paix pour ceux qui aiment Ton Nom, et il n'est point pour eux de scandale.
+
+J'ai attendu Ton Salut, Seigneur, et j'ai gardé tes commandements.
+
+Mon âme a gardé Tes témoignages, et elle les a vivement aimés.
+
+J'ai gardé Tes commandements et Tes témoignages, parce que toutes mes voies sont devant toi, Seigneur.
+
+> Gloire à Toi, Seigneur !
+
+Que ma supplication, Seigneur, s'approche devant Toi, selon ta Parole donne-moi l'intelligence !
+
+Que ma requête arrive devant Toi, selon ta Parole vivifie-moi !
+
+Que mes lèvres profèrent une louange, quand Tu m'auras enseigné tes ordonnances.
+
+Que ma langue énonce Ta Parole, parce que tous tes commandements sont Justice.
+
+Que Ta Main advienne pour me sauver, parce que j'ai choisi tes commandements !
+
+J'ai désiré Ton Salut, Seigneur, et ta Loi est ma méditation.
+
+Mon âme vivra et Te louera, et tes jugements seront mon secours.
+
+J'ai été errant comme une brebis perdue, cherche Ton serviteur, parce que je n'ai point oublié Tes commandements !
+
+> Gloire à Toi, Seigneur !
+
+Gloire au Père, au Fils et au Saint-Esprit ! Maintenant et pour toujours, et pour les siècles des siècles, Amen.
+
+Gloire à Toi, qui es Bon et Ami du genre humain. Gloire à la Vierge, Ta Mère, et aussi à tous tes saints ! Gloire à Toi l'Unique-engendré ! Sainte Trinité, aie pitié de nous ! Que Dieu se lève, que se dispersent tous Ses ennemis ! Que fuient de devant Sa face ceux qui haïssent Son Saint Nom ! Que ton peuple soit dans la bénédiction, par milliers de milliers et par myriades de myriades, pour faire Ta volonté. Ô Seigneur, tu ouvriras mes lèvres, et ma bouche dira Ta louange !
 
 ---
 
@@ -2905,7 +3383,15 @@ Amen !
 
 ## Évangile du premier service
 
-<!-- TODO: Traduire l'Évangile du premier service de minuit -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Matthieu :_
+
+Alors le Royaume des cieux est semblable à dix vierges qui prirent leurs lampes et sortirent à la rencontre de l'époux. Cinq d'entre elles étaient sottes et cinq étaient sages. En prenant leurs lampes, les vierges sottes n'avaient pas emporté d'huile; les vierges sages, elles, avaient pris, avec leurs lampes, de l'huile dans des fioles. Comme l'époux tardait, elles s'assoupirent toutes et s'endormirent. Au milieu de la nuit, un cri retentit : « Voici l'époux ! Sortez à sa rencontre. » Alors toutes ces vierges se réveillèrent et apprêtèrent leurs lampes. Les sottes dirent aux sages : « Donnez-nous de votre huile, car nos lampes vont s'éteindre. » Les sages répondirent : « Certes pas, il n'y en aurait pas assez pour nous et pour vous ! Allez plutôt chez les marchands et achetez-en pour vous. » Pendant qu'elles allaient en acheter, l'époux arriva ; et celles qui étaient prêtes entrèrent avec lui dans la salle des noces, et l'on ferma la porte.
+
+Finalement, arrivèrent à leur tour les autres vierges, en disant : « Notre Seigneur, Notre Seigneur, ouvre-nous ! » Mais il répondit : « Amen, je vous le déclare, je ne vous connais pas. » Veillez donc, car vous ne savez ni le jour ni l'heure.
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -2913,7 +3399,43 @@ Amen !
 
 ## Tropaires du premier service
 
-<!-- TODO: Traduire les tropaires du premier service de minuit -->
+Voici qu'arrive l'Époux au milieu de la nuit. Heureux le serviteur qu'il trouvera éveillé. Mais celui qu'il trouvera endormi ne sera pas digne d'aller avec Lui.
+
+Prends garde, ô mon âme, que tu ne dormes d'un lourd sommeil, et que tu ne sois laissée hors du Royaume. Mais veille et proclame en clamant : Saint, Saint, Saint es-Tu ô Dieu. À cause de la Mère de Dieu, aie pitié de nous !
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Aie l'intelligence, ô mon âme, que ce jour sera terrifiant. Sois vigilant et allume ta lampe avec l'huile de la joie, car tu ne sais pas quand t'arrivera la voix qui dit : « Voici l'Époux ! »
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Prends garde ô mon âme de ne pas t'assoupir pour ne pas te retrouver dehors à frapper à la porte comme les cinq jeunes filles sottes, mais veille en implorant afin que tu puisses rencontrer le Christ le Seigneur, avec de l'huile grasse, et qu'Il te fasse grâce du véritable Mariage de Sa Divinité.
+
+Ô Rempart de notre Salut, ô Mère de Dieu, Vierge, Rempart invincible, anéantis le conseil de ceux qui s'opposent à nous.
+
+Convertis le chagrin de tes serviteurs en joie. Protège notre cité. Combats pour nos rois. Et intercède pour la paix du monde. Tu es notre espérance ô Mère de Dieu.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 
 ---
 
@@ -2921,7 +3443,9 @@ Amen !
 
 ## Second service
 
-<!-- TODO: Traduire l'en-tête du second service -->
+Hymne du deuxième service béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
+
+Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen.
 
 ---
 
@@ -2929,7 +3453,13 @@ Amen !
 
 ## Évangile du second service
 
-<!-- TODO: Traduire l'Évangile du second service de minuit -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_
+
+Un Pharisien l'invita à manger avec lui ; il entra dans la maison du Pharisien et se mit à table. Survint une femme de la ville qui était pécheresse ; elle avait appris qu'il était à table dans la maison du Pharisien. Apportant un flacon de parfum en albâtre et se plaçant par-derrière, tout en pleurs, aux pieds de Jésus, elle se mit à baigner ses pieds de larmes ; elle les essuyait avec ses cheveux, les couvrait de baisers et répandait sur eux du parfum. Voyant cela, le Pharisien qui l'avait invité se dit en lui-même : « Si cet homme était un prophète, il saurait qui est cette femme qui le touche, et ce qu'elle est : une pécheresse. » Jésus prit la parole et lui dit : « Simon, j'ai quelque chose à te dire. » — « Parle, Maître », dit-il. — « Un créancier avait deux débiteurs ; l'un lui devait cinq cents pièces d'argent, l'autre cinquante. Comme ils n'avaient pas de quoi rembourser, il fit grâce de leur dette à tous les deux. Lequel des deux l'aimera le plus ? » Simon répondit : « Je pense que c'est celui auquel il a fait grâce de la plus grande dette. » Jésus lui dit : « Tu as bien jugé. » Et se tournant vers la femme, il dit à Simon : « Tu vois cette femme ? Je suis entré dans ta maison : tu ne m'as pas versé d'eau sur les pieds, mais elle, elle a baigné mes pieds de ses larmes et les a essuyés avec ses cheveux. Tu ne m'as pas donné de baiser, mais elle, depuis qu'elle est entrée, elle n'a pas cessé de me couvrir les pieds de baisers. Tu n'as pas répandu d'huile odorante sur ma tête, mais elle, elle a répandu du parfum sur mes pieds. Si je te déclare que ses péchés si nombreux ont été pardonnés, c'est parce qu'elle a montré beaucoup d'amour. Mais celui à qui on pardonne peu montre peu d'amour. » Il dit à la femme : « Tes péchés ont été pardonnés. » Les convives se mirent à dire en eux-mêmes : « Qui est celui-ci qui va jusqu'à pardonner les péchés ? » Jésus dit à la femme : « Ta foi t'a sauvée. Va en paix. »
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -2937,7 +3467,49 @@ Amen !
 
 ## Tropaires du second service
 
-<!-- TODO: Traduire les tropaires du second service de minuit -->
+Donne-moi, Seigneur, des sources jaillissantes de larmes comme tu les as données en premier lieu à la femme pécheresse.
+
+Rends-moi digne de mouiller Tes pieds qui m'ont libéré du chemin de l'égarement.
+
+Ainsi je t'offrirai un parfum précieux et je pourrai bénéficier d'une vie purifiée par la metanoia, afin que je puisse entendre la voix pleine de joie me dire : « Ta foi t'a sauvé ».
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Quand je me rends compte de toutes mes œuvres mauvaises et que survient en mon cœur la pensée ce jugement redoutable, je suis pris de tremblement.
+
+Je me réfugierai auprès de Toi, ô Dieu Ami du genre humain : ne Te détourne pas de moi.
+
+Je t'en supplie, Toi qui seul es sans péchés, fais la grâce à mon âme misérable de la componction avant que n'arrive la fin, et sauve-moi !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Les cieux te louent, ô pleine de grâce, l'épouse non mariée.
+
+Nous aussi, nous glorifions ton enfantement ineffable.
+
+Ô Mère de Dieu, Mère de la Miséricorde et du Salut, intercède pour le Salut de nos âmes !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes.
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 
 ---
 
@@ -2945,7 +3517,9 @@ Amen !
 
 ## Troisième service
 
-<!-- TODO: Traduire l'en-tête du troisième service -->
+Hymne du troisième service béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.
+
+Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen.
 
 ---
 
@@ -2953,7 +3527,13 @@ Amen !
 
 ## Évangile du troisième service
 
-<!-- TODO: Traduire l'Évangile du troisième service de minuit -->
+_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_
+
+« Sois sans crainte, petit troupeau, car votre Père a trouvé bon de vous donner le Royaume. Vendez ce que vous possédez et donnez-le en aumône. Faites-vous des bourses qui ne vieillissent pas, un trésor impérissable dans les cieux ; là ni voleur n'approche, ni mite ne détruit. Car, où est votre trésor, là aussi sera votre cœur. Gardez vos reins ceints et vos lampes allumées. Et soyez comme des hommes qui attendent leur seigneur à son retour des noces, afin de lui ouvrir dès qu'il arrivera et frappera. Bienheureux ces serviteurs que le seigneur à son arrivée trouvera en train de veiller. Amen, je vous le déclare, il se ceindra, les fera s'étendre à table et se tiendra à leur service. Et si c'est à la deuxième veille qu'il arrive, ou à la troisième, et qu'il les trouve ainsi, bienheureux sont ces serviteurs ! Sachez-le : si le maître de maison savait l'heure à laquelle le voleur devait venir, il veillerait et il ne laisserait pas percer le mur de sa maison. Alors vous aussi, tenez-vous prêts, car c'est à l'heure que vous ignorez que le Fils de l'homme va venir. » Pierre dit alors : « Seigneur, est-ce pour nous que tu as dit cette parabole, ou bien pour tous ? » Le Seigneur lui dit : « Quel est donc l'intendant fidèle, avisé, que son seigneur établira sur sa domesticité pour distribuer en temps voulu leur nourriture ? Bienheureux ce serviteur, que son seigneur en arrivant trouvera en train de faire ainsi ! Vraiment, je vous le déclare, il l'établira sur tous ses biens. Mais si ce serviteur se dit en son cœur : 'Mon seigneur tarde à venir' et qu'il se mette à battre les garçons et les filles de service, à manger, à boire et à s'enivrer, le seigneur de ce serviteur arrivera au jour qu'il n'attend pas et à l'heure qu'il ne sait pas : il le retranchera du milieu des siens, et mettra sa part avec les sans-foi. »
+
+_Gloire à toi Seigneur !_
+
+_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_
 
 ---
 
@@ -2961,7 +3541,37 @@ Amen !
 
 ## Tropaires du troisième service
 
-<!-- TODO: Traduire les tropaires du troisième service de minuit -->
+Avec un œil miséricordieux Seigneur, regarde ma faiblesse, car sous peu ma vie mourra et dans mes œuvres je n'ai aucun Salut. C'est pourquoi je supplie : Seigneur, avec un œil miséricordieux regarde ma misère et sauve moi !
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit !
+
+Comme si le juge était présent, sois soucieuse ô mon âme, éveille-toi et aie l'intelligence de cette heure redoutable, car il n'y a pas de miséricorde dans le jugement pour ceux qui n'ont pas été miséricordieux. C'est pourquoi sois compatissant envers moi, ô Sauveur, car Toi seul es Ami du genre humain !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Tu es la Porte de la Vie intellective, honorée Mère de Dieu, sauve des nécessités ceux qui se sont réfugiés auprès de toi avec foi, afin que nous glorifiions ton saint enfantement en toute chose pour le salut de nos âmes !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Ô Roi céleste, Paraclet, l'Esprit de la Vérité, qui te trouves en tout lieu et qui remplis le Tout, Trésor des bonnes choses et Donateur de vie, daigne venir en nous, et purifie-nous de toute souillure, ô Toi qui est Bon, et tu sauveras nos âmes.
+
+## Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+
+### Gloire au Père, au Fils et au Saint Esprit.
+
+Comme Tu fus avec tes Disciples, ô Sauveur, comme Tu leur donnas la Paix, viens, sois avec nous, sauve-nous et délivre nos âmes !
+
+ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.
+
+> Et maintenant et toujours et pour les siècles des siècles. Amen !
+
+Lorsque nous nous tenons debout dans Ton Saint Temple, nous nous considérons comme ceux qui se tiennent dans le Ciel. Ô Théotokos, tu es la Porte du Ciel, ouvre-nous la porte de la Miséricorde !
 
 ---
 
@@ -2969,7 +3579,13 @@ Amen !
 
 ## Cantique de Siméon
 
-<!-- TODO: Traduire le cantique de Siméon -->
+Maintenant ô Maître, tu peux laisser ton serviteur par la paix, selon ta parole.
+
+Car mes yeux ont vu ton salut, que tu as préparé à la face de tous les peuples :
+
+Lumière de révélation des nations, et gloire de ton peuple Israël.
+
+Gloire à Dieu pour les siècles des siècles ! Amen !
 
 ---
 
@@ -2977,7 +3593,13 @@ Amen !
 
 ## Absolution de minuit
 
-<!-- TODO: Traduire l'absolution de minuit -->
+Ô Maître Seigneur Jésus Christ, Fils du Dieu vivant qui est pour les siècles, illumine notre Intelligence afin que nous comprenions Tes paroles vivifiantes. Et Tu nous relèveras des ténèbres du péché qui tue l'âme. Rends-nous dignes de faire le bien avec droiture.
+
+Et quand Tu viendras pour juger le monde, que nous soyons dignes d'entendre cette voix pleine de joie qui dit : « Venez à moi les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. »
+
+Oui Seigneur, rectifie-nous pour qu'en cette heure-là nous soyons sans crainte, immuables et inébranlables. Ne nous punis pas à cause de la multiplication de nos illégalités.
+
+Car Toi seul es compatissant, longanime, et plein de miséricorde. Par les intercessions de notre Dame Seigneuresse à tous, la Theotokos sainte Marie, et tout le chœur de Tes saints. Amen !
 
 ---
 
@@ -2985,7 +3607,7 @@ Amen !
 
 ## Prières d'absolution pour les prêtres
 
-<!-- TODO: Traduire les prières d'absolution pour les prêtres -->
+Absolution des prêtres
 
 ---
 
@@ -2993,7 +3615,105 @@ Amen !
 
 ## Prière d'absolution pour les prêtres
 
-<!-- TODO: Traduire la prière d'absolution pour les prêtres -->
+Nous T'implorons et nous Te rendons grâce ô Maître et Seigneur Jésus-Christ, Fils du Dieu vivant, l’Éternel.
+
+Tu demeures dans la lumière avant tous les siècles : Lumière née de la Lumière.
+
+Illumine nos intellects et nos cœurs. Illumine nos intelligences afin que nous comprenions Tes paroles vivifiantes.
+
+Et relève-nous des ténèbres du péché qui tue l'âme, et rends-nous dignes de faire le bien avec droiture et bonté, jusqu'à ta seconde Présence redoutable pour juger le monde, rends-nous dignes d'entendre cette voix pleine de joie, d'allégresse, de consolation, de faveur et de bonheur de ta bouche divine nous disant : « Venez à moi les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. »
+
+Oui, Seigneur notre Dieu rends-nous aptes d'être en ce jour-là sans crainte, sans souillure, sans trouble, sans chute et sans blâme. Ne nous saisis pas, Seigneur, selon la multitude de nos illégalités, remets-nous tous nos péchés, nos transgressions, nos erreurs et nos trébuchements.
+
+Et éloigne de nous et du monde entier la mort, la disette, la chute, la corruption et l'exil, l'épée des ennemis, la conspiration des Satans, le mal de l'incendie et de la noyade, les intrigues des impies, l'injustice des autorités, la puissance de ceux qui s'opposent à nous : puisses-tu les réduire à rien.
+
+Ô Dieu, Tu es notre Seigneur et notre Dieu. Sois compatissant envers nous.
+
+Ne nous jette pas dans les mers de la maladie, ni au malheur dans les voyages, mais rends droits nos chemins, protège-nous, relève-nous des soupirs, du chagrin, de la négligence et l'inattention.
+
+Ne laisse pas l'ennemi et Satan devenir des géants au dessus de nous dans l'espérance, mais élève notre intellect, et éveille nos cœurs du sommeil de la distraction, et de la corruption d'une existence vaine.
+
+Ô Dieu, remets nos illégalités, remets-nous nos transgressions, ne Te souviens pas de nos péchés ni de nos erreurs. Ne t'irrite pas contre nous. Retiens Ta colère jusqu'à la fin.
+
+Fais-nous miséricorde Seigneur, fais-nous miséricorde, car nous sommes impuissants et misérables, noyés dans les mers des péchés.
+
+Voici que nous crions vers Toi, nous nous prosternons devant Toi, nous Te confessons et Te désirons.
+
+Ne nous fais pas défaut dans notre espoir, ô mon Maître, pour Ta miséricorde, ne ferme pas la porte de Ta miséricorde envers nous, mais sauve-nous, dirige-nous selon Ta miséricorde, et fais-nous entendre Ta voix joyeuse.
+
+Ô Dieu purifie-nous et purifie nos cœurs des mauvais conseils maléfiques et souillés. Seigneur, réduis à rien en nous les rêves, les fantômes et les pensées démoniaques.
+
+Ô Dieu, relève-nous de tout trébuchement et de toute calamité. Affermis en nous ô Dieu la patience, l'espoir, l'amour-agapê, et la Foi orthodoxe. Compte-nous parmi les brebis placées à Ta droite.
+
+Fais-nous asseoir parmi ceux qui sont étendus à Ton festin céleste. Remets-nous toute illégalité, tout péché et toute erreur.
+
+Entoure-nous par les rangs armés de Tes anges brillants, car nous n'avons pas de salut sinon dans Ta miséricorde, car nous mettons notre confiance en toi, notre foi en toi, et notre espérance en toi.
+
+Reçois, Seigneur, la supplication que nous T'adressons maintenant et en tous temps. Et tous ceux qui nous ont demandé de nous souvenir d'eux dans les prières, les liturgies, les oraisons et les commémorations (qu'ils soient vivants ou morts), souviens-Toi de nous, Seigneur avec eux, dans les bienfaits de la Jérusalem céleste, dans le Royaume des cieux.
+
+Efface, ô Dieu, nos péchés. À ceux qui ont péché contre nous, remets-le leur aussi comme à nous, selon ton commandement. Seigneur, sauve toutes nos âmes. Seigneur, sauve Ton peuple, bénis Ton héritage, conduis-les et sois avec eux jusqu'à la fin.
+
+Sauve ceux qui sont dans les détresses, les tribulations, ou les nécessités. Délie les captifs des liens des démons. Rassasie les affamés de Tes bienfaits. Réconforte ceux qui sont découragés dans leur cœur et leur âme.
+
+Relève ceux qui sont tombés. Affermis ceux qui sont debout. Ramène les égarés. Pourvois aux besoins des veuves et des orphelins. Daigne secourir ceux qui sont dans le besoin.
+
+Donne ta bénédiction pour les fruits de la terre, pour les vents favorables, et pour la croissance des arbres. Fais monter les eaux des fleuves. Bénis les rosées et les pluies. Donne suffisance à ceux qui sont dans le besoin. Permets aux débiteurs de payer leurs dettes.
+
+Rassemble la dispersion de ceux qui sont séparés. Accepte la métanoia de ceux qui font métanoia, et la confession de ceux qui se confessent. Donne la compréhension aux réconfortés.
+
+Rends un jugement Seigneur à ceux qui commettent l'injustice. Remplis nos cœurs de joie, d'allégresse, de réconfort et d'exultation afin que pourvus du nécessaire en toute chose, nous abondions en toutes œuvres bonnes qui te sont agréables.
+
+Bénis Seigneur, les céréales par des grâces célestes. Par Ta bonté bénis la couronne de cette année. Bénis, Seigneur, le semeur, le cultivateur, le planteur et le moissonneur comme Tu as béni les céréales de la sixième année pour les fils d'Israël.
+
+Bénis, Seigneur, notre assemblée que voici et toutes les assemblées des peuples orthodoxes. Préserve pour nous la vie et le maintien de notre père le patriarche Abba (---) notre grand prêtre actuel. Sauve-le, Seigneur, et sauve son peuple de tout mal, de toute tentation et de toute peine. Garde aussi ses compagnons dans le ministère apostolique nos Pères les métropolites, nos Pères les évêques, nos Pères les higoumènes et nos Pères les prêtres, nos Frères les diacres, nos Pères les moines et nos Frères du peuple laïc, ainsi que tous ceux qui se sont déplacés jusqu'ici, pour participer à cette prière et à toutes les prières orthodoxes implorant la rémission de leurs péchés et la miséricorde pour leurs âmes.
+
+Bénis-nous et bénis-les, absous-nous et absous-les, remets nos péchés ainsi que les leurs, ceux qui sont passés ou à venir, commis de nous-mêmes ou non, pendant la nuit ou pendant le jour, manifestes ou cachés.
+
+Permets de demeurer, Seigneur, aux édifices de rassemblement, aux églises saintes, aux monastères orthodoxes, aux anciens qui y demeurent, à leurs diacres, à leurs directeurs et ceux qui y demeurent. Que l'espérance, la paix, l'amour-agapê et l'obéissance confiante réside avec eux. Humilie l'ennemi mauvais à nos pieds et aux leurs. Ne lui laisse pas une seule part en nous ou en eux, pour qu'il frappe par la droite ou par la gauche. Protège-les par Ta main élevée et ton bras puissant. Sauve-nous, mon Maître, des mauvaises tentations et des pièges dressés, visibles ou invisibles.
+
+Souviens-Toi, Seigneur, de nos pères et de nos mères, de nos frères et de nos sœurs, de nos familles et de nos proches, de ceux qui nous enseignent, de nos enfants spirituels et charnels et de tous les enfants du baptême.
+
+Souviens-Toi, Seigneur, de ceux qui ont peiné avec nous dans la communion. Souviens-Toi, Seigneur, de ceux qui nous ont donné à manger et à boire du fruit de leurs peines et leurs labeurs, ceux qui nous ont logés dans leurs résidences et aidés. Rétribue-les, Seigneur, par des choses qui durent au lieu de choses éphémères, des célestes au lieu des terrestres. Remplis leurs maisons et leurs dépôts de toutes les grâces. Rends-leur, Seigneur, rends-leur trente, soixante ou cent pour un, avec la rémission de leurs péchés, dans le Royaume des cieux.
+
+Souviens-Toi, Seigneur, de ceux qui nous ont fait du bien, à nous ainsi qu'à nos frères les pauvres, par toute bénédiction de bienfaisance, à cause de Ton saint Nom. Bénis-les.
+
+Souviens-Toi Seigneur de ceux qui s'occupent des sacrifices, des offrandes, du vin, de l'huile, des prémices, de l'encens, des voiles, des dons, des livres de lecture, et de tous les vases de l'autel. Rétribue-les, Seigneur, pour leurs dons, par la rémission de leurs péchés. Établis-les dans ce siècle avec une vie joyeuse, et le siècle à venir avec la vie éternelle.
+
+Souviens-Toi, Seigneur, de nos pères et frères qui nous ont précédés dans le sommeil, et sont partis pour le Repos dans la Foi orthodoxe en Christ. Seigneur, accorde le repos à leurs âmes dans le sein de nos saints pères Abraham, Isaac et Jacob, dans le pays des vivants, le Paradis de la joie.
+
+À nous, qui sommes encore en vie, aide-nous à obtenir le salut de nos âmes et dirige notre vie selon Ta bonne volonté.
+
+Daigne, Seigneur, Te souvenir de ma faiblesse, de mon humilité, et de ma petitesse, moi pécheur laborieux, qui suis indigne de me tenir entre Tes mains. Ne me rejette pas à cause de mes nombreux péchés et de mes souillure.
+
+Élève, ô Seigneur, la corne du Salut de Ton peuple par le signe de Ta croix vivifiante.
+
+Donne, Seigneur, Ta délivrance dans la détresse, Ton aide dans l'affliction et l'humiliation. Sauve-nous, Seigneur, et sauve tous ceux qui sont dans la détresse, et guéris les malades de Ton peuple.
+
+Et fais que ton peuple chrétien, Seigneur, ceux qui sont présents avec nous et ceux qui sont absents, soient bénis et absous par Ta bouche divine, du levant jusqu’au couchant, et de la gauche à la droite.
+
+Accepte-nous comme Tu as accepté le larron à Ta droite sur le bois de la Croix, et lui as fait grâce du Paradis de la joie.
+
+Souviens-Toi, Seigneur, des orphelins et des veuves, des anathématisés, des malades et de ceux qui n'ont personne pour se souvenir d'eux. Souviens-Toi d'eux et de nous dans la Jérusalem céleste.
+
+Souviens-Toi, Seigneur, de ceux qui se lèvent, et de ceux qui sont handicapés, de ceux qui sont dans la souffrance, de ceux qui sont accidentés alors qu'ils sont partis en voyage sur terre, en mer, dans les lieux escarpés, les vallées, les routes, sur les cimes des montagnes, sur les collines ou dans les grottes.
+
+Souviens-Toi aussi de ceux qui sont dans les cachots ou les prisons, les exilés, les expatriés, ceux qui sont liés ou enchaînés à cause des chaînes des autorités et des démons. Ramène-les et conduis-les tous vers le port sains et saufs, victorieux, en un seul morceau, et avec profit, pour leur âme, leur corps et leur esprit.
+
+Mon Seigneur Jésus Christ, fait que cette prière soit acceptée devant Toi et qu'elle soit sans hypocrisie, sans orgueil, sans arrogance, sans outrecuidance et sans honte.
+
+Aide-nous, ô Dieu, à faire ce qui Te plaît. Aide-nous à agir selon Tes commandements. Aide-nous envers les ivresses de la mort, de ce qui la précède et de ce qui la suit, car tu es un Dieu bon, patient, plein de miséricorde et de compassion.
+
+Ô Dieu, garde la porte de Ton Église ouverte pour nous comme dans les siècles et les temps passés, et jusqu'à la fin de tous les temps.
+
+Fais-nous miséricorde, ô Dieu, selon Ta grande miséricorde, par les intercessions de celle qui a les intercessions de la Perle de la pureté et des bénédictions, comblée d'honneur, notre Dame à tous, la fierté de notre race, la Vierge de la virginité pure, Marie,
+
+et du martyr honoré Marc l'évangéliste, l'apôtre qui a prêché le pays d’Égypte,
+
+de tous les anges, de nos pères les prophètes, les apôtres, les martyrs, les saints, les ascètes, les champions et les athlètes, et de tous ceux qui ont plu au Seigneur dans leurs bonnes oeuvres depuis Adam et jusqu'à la fin des siècles.
+
+Nous nous prosternons devant Toi, ô la Trinité Sainte : le Père, le Fils et le Saint Esprit, maintenant et en tous temps, et pour les siècles des siècles.
+
+Amen
 
 ---
 
@@ -3001,7 +3721,7 @@ Amen !
 
 ## Prières diverses
 
-<!-- TODO: Traduire l'en-tête des prières diverses -->
+Prières diverses
 
 ---
 
@@ -3009,7 +3729,7 @@ Amen !
 
 ## Prière pour le repentir
 
-<!-- TODO: Traduire la prière pour le repentir -->
+Mon Seigneur, Dieu et Sauveur Jésus Christ, trésor de miséricorde et source du salut, je viens vers Toi en avouant mes péchés. Je confesse qu'avec arrogance j'ai osé souiller de mes péchés Ton saint autel. Maintenant j'ai recours à Ta pitié et Ta tendresse car Ta miséricorde est infinie et Tu ne rejettes aucun pécheur qui vient à Toi. Me voici, Seigneur, je confesse que mes péchés sont nombreux et pèsent lourdement sur moi. Ma force m'a abandonné. Ne détourne pas Ta Face de moi, Seigneur, afin que je ne demeure pas dans la frayeur. Garde-moi de Ta colère. Ne me châtie pas selon Ton courroux. Ne me juge pas selon mes actions. Aie pitié de moi, Seigneur, car je suis faible. Souviens-Toi, Seigneur, que je suis l'œuvre de Tes mains et sois compatissant envers moi. Ne mets pas Ton serviteur en jugement car aucun être vivant ne sera justifié devant Toi. Revêts-moi d'un manteau neuf digne de Ta gloire. Remets mes péchés et pardonne-moi afin que je puisse chanter : Bienheureux ceux dont les iniquités ont été remises, et dont les péchés ont été couverts. Je Te confesse mes péchés, Seigneur, et je ne cache pas mes fautes : Tu as ôté mes péchés. Amen !
 
 ---
 
@@ -3017,7 +3737,7 @@ Amen !
 
 ## Prière avant la confession
 
-<!-- TODO: Traduire la prière avant la confession -->
+Ô Père saint, Tu aimes le repentir des pécheurs et Tu as promis de les recevoir. Regarde, Seigneur, une âme pécheresse qui fut longtemps égarée dans les dédales de la désobéissance. Elle y a ressenti l'amertume et le malheur à cause de son éloignement de la source de son salut. Maintenant elle se présente à Toi T'implorant de la purifier des souillures et des impuretés dans lesquelles elle s'est vautrée. Reçois-la et ne la rejette pas. Si Tu la regardes avec tendresse et si Tu la traites avec miséricorde elle sera purifiée et sauvée ; mais si Tu l'abandonnes elle périra et mourra. Accorde-moi, Seigneur, la grâce qui me permettra de m'approcher de Toi avec une Foi ferme et une espérance parfaite pour confesser mes péchés et haïr de les commettre à nouveau. Que Ton Esprit me reproche mes péchés. Illumine mon cœur afin que je ressente l'étendue de mes péchés, de mes mauvaises actions, de mes abandons et de ma négligence. Donne-moi la ferme volonté de ne pas succomber à nouveau. Que je sois ancré dans Tes commandements et que je vive pour la gloire de Ton saint Nom. Amen !
 
 ---
 
@@ -3025,7 +3745,7 @@ Amen !
 
 ## Prière après la confession
 
-<!-- TODO: Traduire la prière après la confession -->
+Je Te rends grâce ô Père ami du genre humain car, par Ta bonté, Tu n'as pas voulu que je périsse. Tu m'as réveillé de ma torpeur et Tu m'as montré Ton chemin. Tu m'as retiré de la vallée de la perdition pour m'abriter dans Ta forteresse sûre. Remplis-moi de l'espérance et de la Foi. Je suis venu à Toi, Seigneur, comme le malade vers le médecin qui guérit ; comme l'affamé à la recherche de la nourriture qui rassasie ; comme l'assoiffé vers les sources de l'eau vive ; le pauvre vers la source de la richesse ; le pécheur vers son sauveur et le mourant vers la source de vie. Tu es en effet mon salut, mon médecin, ma vie, ma force, ma consolation et ma joie. En Toi je trouve mon repos. Aide-moi et protège-moi. Apprends-moi à mettre ma volonté entre Tes mains pour que j'agisse comme Tu le veux. Soutiens-moi dans ma faiblesse afin que je puisse être ferme et honnête avec Toi jusqu'à la fin. Amen !
 
 ---
 
@@ -3033,7 +3753,7 @@ Amen !
 
 ## Prière avant la communion
 
-<!-- TODO: Traduire la prière avant la communion -->
+Seigneur, je ne suis pas digne de Te recevoir car je suis pécheur mais dis seulement une parole et mon âme sera guérie. Dis à mon âme : tes péchés te sont remis. Je suis stérile et sans aucune bonté. Mon seul secours est Ta tendresse, Ta compassion et Ton amour pour le genre humain. Tu as daigné descendre du ciel de Ta gloire inaccessible, t'abaisser jusqu'à nous et Tu as accepté de naître dans une étable. Ne refuse pas, Toi le Saint, mon sauveur, de T'approcher de mon âme humiliée et méprisable qui attend Ta présence resplendissante. Tu n'as pas dédaigné d'entrer dans la maison du lépreux pour le guérir ; accepte, mon Dieu, d'entrer dans mon âme pour la purifier. Tu n'as pas interdit à la pécheresse d'embrasser Tes pieds ; ne m'empêche pas, de m'approcher de Toi pour communier à Ton Corps sacré et à Ton Sang précieux. Que ma communion m’unisse à Toi et qu’elle me purifie de toutes mes souillures. Que mes mauvais penchants soient anéantis et que j'agisse selon Tes commandements vivifiants. Que mon âme et mon corps guérissent de tout péché et reçoivent Tes dons. Que Ta grâce habite en moi. Que Ton Esprit séjourne en moi. Que mon union à Toi soit ferme. Ainsi, je vivrai pour la gloire de Ton Saint Nom. Amen !
 
 ---
 
@@ -3041,7 +3761,7 @@ Amen !
 
 ## Seconde prière avant la communion
 
-<!-- TODO: Traduire la seconde prière avant la communion -->
+Ô Dieu, source de vie et Roi des siècles, notre Seigneur Jésus Christ, le vrai Pain vivifiant descendu du ciel, Tu as accordé la vie à qui communie à Ton saint Corps et à Ton Sang précieux. Accorde à Ton serviteur Tes bénédictions célestes afin que je sois digne d'avancer vers le mystère de Ton Corps et Ton Sang sacrés avec ferveur. Eveille mon cœur à Ta grâce. Accorde-moi Ton salut afin que je goûte la douceur de Ta grâce céleste dissimulée dans ce saint sacrement. Accorde-moi une Foi ferme dépourvue de tout doute ou incertitude afin que je m'approche de Toi maintenant croyant que ceci est Ton Corps sacré et Ton Sang précieux, ô Emmanuel notre Dieu. Rends-moi digne de communier sans être condamné afin que je demeure en Toi spirituellement, que mes péchés soient remis et que je sois admis devant Ton trône redoutable. A Toi est due la gloire, avec Ton Père très bon et Ton Saint Esprit, maintenant et pour toujours. Amen !
 
 ---
 
@@ -3049,7 +3769,7 @@ Amen !
 
 ## Prière après la communion
 
-<!-- TODO: Traduire la prière après la communion -->
+Mon cœur s'est rempli de joie et ma bouche d'allégresse. Que mon âme exalte le Seigneur et que mon esprit exulte en Dieu, mon sauveur !Seigneur, je me suis présenté devant Toi pour que Tu me revêtes d'un vêtement propre qui me rende digne d'accéder à Ta noce. Que mon union avec Toi demeure pour toujours. Grâce à elle je prospérerai en vertu et en fermeté. Ma Foi sera plus forte et mon espérance plus ferme. Que ma communion soit un signe de mon salut, un vêtement de grâce pour une nouvelle naissance, pureté et sainteté pour l'âme et le corps et l’esprit. Qu'elle soit signe d'amour, de joie, de réjouissance éternelle et que je sois admis devant Ton trône redoutable. Je remets mon âme à Ta tendresse, fais que je sois un avec Toi et conduis-moi selon Ta volonté. Attire vers Toi mes pensées, mes sens, ma volonté pour les bénir et qu'ils se soumettent à Ton désir. Vivifie mon cœur, éveille ma conscience et dissipe les pensées provoquées par l'ennemi. Ordonne aux tempêtes de se calmer. Marche avec moi et calme mes tourments. Abreuve-moi et que le feu de Ton amour brûle mon cœur. Avec tendresse et douceur ne regarde pas mes lacunes. Demeure avec moi car le jour touche à sa fin. Accompagne-moi jusqu'à ce que le jour pointe car Toi seul es mon but et mon bonheur éternellement, ô Seigneur. Amen !
 
 ---
 
@@ -3057,7 +3777,7 @@ Amen !
 
 ## Seconde prière après la communion
 
-<!-- TODO: Traduire la seconde prière après la communion -->
+Qu'elle est grande la générosité que Tu as réservée à ceux qui te craignent ! Qu'ils sont doux Ta grâce et ton amour pour ceux qui T'aiment ! Je Te rends grâce, ô Dieu, qui prend soin de moi. Tu m'as accordé cette nourriture sainte, mystérieuse et impérissable et Tu nous as ouvert le chemin pour accéder à la Vie éternelle. Mets en moi le feu de Ton amour et préserve en moi le don de Ta grâce ; pas pour le jugement mais pour acquérir la gloire et la pureté de l'âme et du corps. Afin que je vive par Toi et pour Toi et que j'atteigne la perfection par Ta justice. Guide-moi vers Ta justice, emplis-moi de Ta grâce et sanctifie-moi par Ton Esprit. A Toi la gloire avec Ton Père très bon et Ton Esprit Saint, maintenant et pour toujours. Amen !
 
 ---
 
@@ -3065,7 +3785,15 @@ Amen !
 
 ## Prière pour demander à Dieu de nous guider
 
-<!-- TODO: Traduire la prière pour demander à Dieu de nous guider -->
+Tu sais mon Dieu que je ne sais pas ce qui est bon pour moi. Voici que je vais entreprendre de ......... . Comment puis-je savoir ce qui est utile pour moi sans être guidé par Ta grâce ?
+
+Je T'implore, Seigneur, guide-moi et ne me laisse pas seul, abandonné à mes pensées, ni attiré par mes mauvais penchants, afin que je ne m'engage pas dans une affaire malsaine et que je ne tombe pas dans l'embarras, mais garde Ton serviteur de tous faux pas. Soit mon appui et mon aide. Gouverne cette affaire selon Ta volonté et comme il convient à Ta bonté.
+
+Si Tu la trouves bénéfique, qu'il en soit comme Tu le désires. Accorde-moi la grâce de l'accomplir. Si Tu la trouves nuisible, ôte de moi, Seigneur, ce désir car Tu sais toute chose et rien ne t'est caché.
+
+Je suis Ton serviteur, traite-moi comme il Te convient car il n'est pas de réussite complète ni de paix parfaite sans que je me remette à Ta volonté.
+
+Apprends-moi à dire toujours "Père, non selon ma volonté, mais selon Ta volonté". A Toi le règne, la puissance et la gloire dès maintenant et éternellement. Amen !
 
 ---
 
@@ -3073,7 +3801,7 @@ Amen !
 
 ## Prière avant de manger
 
-<!-- TODO: Traduire la prière avant de manger -->
+Tu es béni, Seigneur, Toi qui t’occupes de nous depuis notre naissance, nous accordes Tes bienfaits et prépares la nourriture pour tous. Car les yeux de tous T'espèrent et c'est Toi qui leur donnes leur nourriture en temps opportun. Par Ta générosité Tu rassasies tout être vivant. A Toi la gloire, la louange, la bénédiction et l'action de grâce pour toute la nourriture que Tu nous as préparée. Daigne Seigneur étendre Ta main droite et bénir le repas préparé pour nos corps et déposé sur cette table. Fais qu'il soit source de santé et de force pour notre vie sur terre. Accorde le salut, la grâce, la bénédiction et la pureté à tous ceux qui vont s'en nourrir. Fais que nos pensées s'élèvent vers Toi en tout temps pour demander notre nourriture spirituelle impérissable, que nous recherchions la nourriture qui reste pour la vie éternelle et fais-nous participer à Ton festin céleste. Accorde-nous le pain de la bénédiction et la coupe du salut et remplis nos cœurs d'allégresse et de joie. Donne-nous une vie paisible et calme, la joie intérieure et la santé du corps. Apprends-nous d'implorer ton consentement en toute chose. Ainsi lorsque nous mangeons, nous buvons ou nous agissons de quelque manière que ce soit, nous le fassions pour la gloire de Ton saint Nom. A toi est due la gloire dès maintenant et à jamais. Amen !
 
 ---
 
@@ -3081,4 +3809,4 @@ Amen !
 
 ## Prière / Remerciements
 
-<!-- TODO: Traduire la prière de remerciements -->
+Nous Te rendons grâce, Seigneur notre Dieu, Tout Puissant, car Tu as apprêté pour nous cette table, qui prouve Ton amour pour tes serviteurs en leur procurant les bienfaits de la terre. Nous T’implorons, notre Maître, qu'il en reste autant que lorsque Tu as bénis les cinq pains et les deux poissons dans le désert et que tu as nourris la foule. Sois un secours et une force pour nous qui participons à ce repas ainsi que pour ceux qui l'ont préparé avec amour et aussi pour tes serviteurs qui se sont joints à nous. Accorde leur ta récompense salutaire et compense leur peine car ton saint Nom est béni et plein de grâce ô Père, Fils et Saint Esprit maintenant et pour les siècles des siècles. Amen !

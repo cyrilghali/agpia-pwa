@@ -140,7 +140,7 @@
       "children": [
         {
           "id": "third-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
           "title": "Prière de la troisième heure",
@@ -203,7 +203,7 @@
           "id": "third-hour-absolution"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion_3h"
         }
       ]
@@ -214,7 +214,7 @@
       "children": [
         {
           "id": "sixth-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
           "title": "Prière de la sixième heure",
@@ -277,7 +277,7 @@
           "id": "sixth-hour-absolution"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion_6h"
         }
       ]
@@ -288,7 +288,7 @@
       "children": [
         {
           "id": "ninth-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
           "title": "Prière de la neuvième heure",
@@ -351,7 +351,7 @@
           "id": "ninth-hour-absolution"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion_9h"
         }
       ]
@@ -362,7 +362,7 @@
       "children": [
         {
           "id": "eleventh-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
           "title": "Prière de la onzième heure",
@@ -425,7 +425,7 @@
           "id": "eleventh-hour-absolution"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion_11h"
         }
       ]
@@ -436,7 +436,7 @@
       "children": [
         {
           "id": "twelfth-hour-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
           "title": "Prière de la douzième heure",
@@ -499,7 +499,7 @@
           "id": "twelfth-hour-absolution"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion_12h"
         }
       ]
@@ -510,7 +510,7 @@
       "children": [
         {
           "id": "veil-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
           "title": "Prière de la fermeture du voile",
@@ -525,7 +525,7 @@
           "id": "veil-absolution"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion_voile"
         }
       ]
@@ -536,7 +536,7 @@
       "children": [
         {
           "id": "midnight-intro",
-          "title": ""
+          "title": "Introduction de chaque heure"
         },
         {
           "title": "Premier service",
@@ -597,7 +597,7 @@
           "id": "midnight-absolution"
         },
         {
-          "title": "",
+          "title": "Conclusion de chaque heure",
           "id": "conclusion_minuit"
         }
       ]
@@ -654,6 +654,33 @@
     }
   ],
   "chapters": [
+    {
+      "id": "dawn-prayer",
+      "title": "Prière de l'aube",
+      "blocks": [
+        {
+          "type": "separator"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Prière de l'aube"
+        },
+        {
+          "type": "image",
+          "src": "/agpia/assets/dawn.jpg"
+        },
+        {
+          "type": "paragraph",
+          "text": "Allons, prosternons-nous, allons implorons le Christ notre Dieu !\n\nAllons, prosternons-nous, allons implorons le Christ notre Roi !\n\nAllons, prosternons-nous, allons implorons le Christ notre Sauveur !\n\nÔ notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.\n\nLa nuit est passée. Nous Te rendons grâce, Seigneur, et nous T'implorons de nous préserver en ce jour afin que nous soyons sans péché, et sauve-nous."
+        },
+        {
+          "type": "instruction",
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la prière de l'aube du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
+        }
+      ],
+      "hourId": "dawn"
+    },
     {
       "id": "dawn-intro",
       "title": "Introduction de chaque heure",
@@ -1067,7 +1094,7 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
@@ -1154,11 +1181,11 @@
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Nous te saluons ..."
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Nous te saluons et nous te supplions, toi la sainte, pleine de gloire, toujours vierge, Mère de Dieu et Mère du Christ : Fais monter notre prière vers Ton Fils bien-aimé pour qu'Il nous pardonne nos péchés.\n\nNous saluons la sainte vierge qui a enfanté pour nous la Lumière véritable, le Christ, notre Dieu :\n\nSupplie le Seigneur pour nous afin qu'il accorde la miséricorde à nos âmes et nous pardonne nos péchés.\n\nÔ vierge Marie, sainte Mère de Dieu, médiatrice, fidèle au genre humain, intercède pour nous devant le Christ que tu as enfanté afin qu'll nous accorde la rémission de nos péchés.\n\nNous te saluons ô Vierge, Reine véritable. Nous saluons la fierté du genre humain. Tu as enfanté pour nous Emmanuel.\n\nNous te supplions, souviens-toi de nous, ô médiatrice fidèle, devant notre Seigneur Jésus Christ, afin qu'll nous pardonne nos péchés"
         }
       ],
       "hourId": "dawn"
@@ -1246,7 +1273,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la conclusion de chaque heure -->"
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -1265,11 +1292,11 @@
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la troisième heure"
         },
         {
           "type": "image",
-          "src": "/agpia/assets/210b3293bb62fd9eaac22b7e7692f56cd3c51e499725f0d0b083fe45c42eb751.png"
+          "src": "/agpia/assets/third-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -1277,42 +1304,42 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la troisième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "third-hour"
     },
     {
       "id": "third-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "third-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
@@ -1535,7 +1562,7 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
@@ -1551,11 +1578,11 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (41 fois) Saint, saint, saint .... Notre Père ..."
         }
       ],
       "hourId": "third-hour"
@@ -1575,7 +1602,7 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** la conclusion de chaque heure"
         },
         {
           "type": "image",
@@ -1586,16 +1613,16 @@
     },
     {
       "id": "conclusion_3h",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -1614,11 +1641,11 @@
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la sixième heure"
         },
         {
           "type": "image",
-          "src": "/agpia/assets/coptic_cross.svg"
+          "src": "/agpia/assets/sixth-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -1626,42 +1653,42 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la sixième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "sixth-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "sixth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
@@ -1884,7 +1911,7 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
@@ -1904,7 +1931,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ.\n**Maintenant et toujours et pour les siècles des siècles. Amen !**\n\nTu es pleine de grâce, ô Mère de Dieu, toujours vierge. Nous te louons car c'est par la Croix de Ton fils que l'enfer a été anéanti, la mort vaincue. Nous étions morts, nous avons été relevés et il nous a été accordé les mérites de la Vie éternelle et les délices du paradis. Pour cela nous glorifions le Christ notre Dieu car Il est puissant."
         }
       ],
       "hourId": "sixth-hour"
@@ -1916,11 +1943,11 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (41 fois) Saint, saint, saint .... Notre Père ..."
         }
       ],
       "hourId": "sixth-hour"
@@ -1940,7 +1967,7 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** la conclusion de chaque heure"
         },
         {
           "type": "image",
@@ -1948,23 +1975,23 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "- 92 -"
         }
       ],
       "hourId": "sixth-hour"
     },
     {
       "id": "conclusion_6h",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -1983,11 +2010,11 @@
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la neuvième heure"
         },
         {
           "type": "image",
-          "src": "/agpia/assets/7f97508aaaa4df27f4c0cffff0c33950d5cd652b983fdd960dd1d40e9f120167.jpg"
+          "src": "/agpia/assets/ninth-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -1995,42 +2022,42 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la neuvième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "ninth-hour"
     },
     {
       "id": "ninth-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "ninth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
@@ -2253,7 +2280,7 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
@@ -2269,11 +2296,11 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "_Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ_ (41 fois) Saint, saint, saint .... Notre Père ..."
         }
       ],
       "hourId": "ninth-hour"
@@ -2293,7 +2320,7 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** la conclusion de chaque heure"
         },
         {
           "type": "image",
@@ -2304,16 +2331,16 @@
     },
     {
       "id": "conclusion_9h",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -2332,11 +2359,11 @@
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la onzième heure"
         },
         {
           "type": "image",
-          "src": "/agpia/assets/coptic_cross.svg"
+          "src": "/agpia/assets/eleventh-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -2344,42 +2371,42 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "On commence par réciter le Notre Père, la prière d'action de grâce et le psaume 50\n\n_Louange de la onzième heure du jour béni, je l'offre au Christ, mon Roi et mon Dieu, et je le supplie de me remettre mes péchés._"
         }
       ],
       "hourId": "eleventh-hour"
     },
     {
       "id": "eleventh-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "eleventh-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
@@ -2602,7 +2629,7 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
@@ -2610,11 +2637,11 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "_Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ_ (41 fois) Saint, saint, saint .... Notre Père ..."
         }
       ],
       "hourId": "eleventh-hour"
@@ -2634,7 +2661,7 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** la conclusion de chaque heure"
         },
         {
           "type": "image",
@@ -2645,16 +2672,16 @@
     },
     {
       "id": "conclusion_11h",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -2673,11 +2700,11 @@
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la douzième heure"
         },
         {
           "type": "image",
-          "src": "/agpia/assets/3e6adc322354433cbc9fe4e7aa47d01cef2ec8c88738a155a731da74d2acad3a.jpg"
+          "src": "/agpia/assets/twelfth-hour.jpg"
         },
         {
           "type": "paragraph",
@@ -2704,35 +2731,35 @@
     },
     {
       "id": "twelfth-hour-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "twelfth-hour",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
@@ -2955,7 +2982,7 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
@@ -2968,7 +2995,7 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Daigne, Seigneur, nous garder sans péché durant ce jour. Tu es béni et exalté Seigneur, Dieu de nos pères. Ton saint Nom est rempli de gloire éternellement. Amen !\n\nQue Ta miséricorde, Seigneur, soit sur nous autant que notre espérance est en Toi. Car les yeux de tous T'espèrent car c'est Toi qui leur donne leur nourriture en temps opportun. Ecoute-nous, Dieu notre Sauveur, Espérance de tous les peuples de la terre. Toi, Seigneur, Tu nous gardes, nous sauves et nous délivres de cette génération et à jamais. Amen !\n\nTu es béni, Seigneur, enseigne-moi Ta justice. Tu es béni, Seigneur, fais-moi comprendre Tes droits. Tu es béni, Seigneur, éclaire-moi de Ta justice.\n\nSeigneur, Ta miséricorde demeure à jamais. Les œuvres de Tes mains, Seigneur, ne les rejette pas. Tu es notre refuge de génération en génération. J'ai dit : Seigneur aie pitié de moi et sauve mon âme car j'ai péché contre Toi. Seigneur, je me suis réfugié auprès de Toi. Sauve-moi et apprends-moi à agir selon Ta volonté car Tu es mon Dieu. Tu as la source de la vie et par Ta lumière, Seigneur, nous voyons la lumière. Que Ta miséricorde parvienne à ceux qui Te connaissent et Ta justice aux cœurs droits.\n\nA Toi est due la bénédiction. A Toi est due la louange. A Toi est due la gloire : Père, Fils et Saint-Esprit qui es dès le commencement, maintenant et pour les siècles des siècles. Amen !\n\nIl est bon de confesser le Seigneur, de chanter Ton Nom ô Très-Haut et de publier Ta miséricorde chaque matin et Ta vérité chaque nuit."
         }
       ],
       "hourId": "twelfth-hour"
@@ -2980,11 +3007,11 @@
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Puis on récite :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Le Trisagion Introduction de l'Acte de Foi L'Acte de Foi Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (41 fois) Saint, Saint, Saint ... Notre Père ..."
         }
       ],
       "hourId": "twelfth-hour"
@@ -3004,7 +3031,7 @@
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** la conclusion de chaque heure"
         },
         {
           "type": "image",
@@ -3015,16 +3042,16 @@
     },
     {
       "id": "conclusion_12h",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -3043,15 +3070,15 @@
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Prière de la fermeture du voile"
         },
         {
           "type": "image",
-          "src": "/agpia/assets/d3c9248ef4e0a5283fd14f927e23164fd07773a4732508c62e470ca3587734f2.jpg"
+          "src": "/agpia/assets/veil.jpg"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête de la fermeture du voile -->"
+          "text": "Allons, prosternons-nous, allons implorons le Christ notre Dieu !\n\nAllons, prosternons-nous, allons implorons le Christ notre Roi !\n\nAllons, prosternons-nous, allons implorons le Christ notre Sauveur !\n\nÔ notre Seigneur Jésus-Christ, le Logos de Dieu, par les intercessions de sainte Marie et de tous Tes saints, garde-nous et que nous glorifiions dignement. Et fais-nous miséricorde selon Ta volonté, pour toujours.\n\nHymne de la fermeture du Voile du jour béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés."
         },
         {
           "type": "image",
@@ -3071,42 +3098,42 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière de la fermeture du voile -->"
+          "text": "_Psaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen._"
         }
       ],
       "hourId": "veil"
     },
     {
       "id": "veil-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "veil",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
@@ -3121,11 +3148,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Jean :_\n\nMais Jésus, sachant qu'on allait venir l'enlever pour le faire roi, se retira à nouveau, seul, dans la montagne.\n\nQuand le soir fut venu, ses disciples descendirent à la mer, et, montant en bateau, ils se rendaient de l'autre côté de la mer, à Capharnaüm. Il faisait déjà nuit ; Jésus n'était pas encore venu les rejoindre ; et la mer, comme soufflait un grand vent, se soulevait.\n\nIls avaient ramé environ vingt-cinq ou trente stades, quand ils voient Jésus marcher sur la mer et s'approcher du bateau. Ils eurent peur.\n\nMais il leur dit : 'C'est moi. N'ayez pas peur.'\n\nIls étaient disposés à le prendre dans le bateau, mais aussitôt le bateau toucha terre là où ils se rendaient.\n\nLe lendemain, la foule qui se tenait de l'autre côté de la mer vit qu'il n'y avait eu là qu'une barque et que Jésus n'était pas monté dans le bateau avec ses disciples, mais que seuls ses disciples s'en étaient allés.\n\nCependant, de Tibériade des bateaux vinrent près du lieu où l'on avait mangé le pain après que le Seigneur eut rendu grâce.\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile du voile -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "veil"
@@ -3137,56 +3164,56 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Tu connais, Seigneur, la vigilance de mes ennemis, et tu sais, Toi mon Créateur, la faiblesse de ma nature.\n\nVoici que je remets mon esprit entre Tes mains ; mets-moi à l'ombre des ailes de Ta bonté pour que je ne m'endorme pas dans la mort.\n\nIllumine mes yeux à la grandeur de Tes paroles."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": "<!-- TODO: Traduire les tropaires du voile -->"
+              "text": "Fais-moi tenir debout en tout temps pour Te glorifier, car Toi seul es bon et Ami du genre humain."
             },
             {
               "type": "heading",
               "level": 3,
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Seigneur, Ton jugement est redoutable. Les êtres humains sont rassemblés, les anges se dressent, les livres sont ouverts, les actions sont dévoilées, les\n\npensées sont scrutées. Combien terrible sera mon jugement à moi qui suis saisi dans le péché ?! Qui éteindra le feu qui me brûle ?! Qui éclairera mes ténèbres, si Toi, Seigneur, Tu n'as pas pitié de moi alors que Tu es compatissant envers le genre humain."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "doxology",
               "level": 2,
-              "text": ""
+              "text": "Maintenant et toujours et pour les siècles des siècles. Amen !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Mère de Dieu, nous sommes remplis de confiance en toi. Pour cela nous ne serons pas confondus mais sauvés. Ayant acquis ton aide et ton intercession, ô Toute pure, nous n'aurons aucune peur, nous aurons la force de chasser nos ennemis et nous les disperserons. Nous nous protégeons derrière le bouclier de ta puissante aide en toute chose. Nous t'invoquons et nous te supplions, ô Mère de Dieu, en élevant vers toi notre clameur afin que nous soyons sauvés par ton intercession. Réveille-nous du sommeil obscur afin que nous glorifions la force de Dieu qui s'est incarné de toi."
         },
         {
           "type": "heading",
           "level": 3,
-          "text": ""
+          "text": "Gloire au Père, au Fils et au Saint Esprit !"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Seigneur, Ton Tribunal est redoutable.\n\nLes humains sont rassemblés, les anges se tiennent debout, les livres sont ouverts, les œuvres sont dévoilées, les pensées vont plaider.\n\nQuel sera le jugement pour moi au jugement, moi qui suis enchaîné dans le péché ? Qui éteindra et repoussera loin de moi la flamme de feu ? Qui fera illuminer mon obscurité, si Tu ne me fais pas miséricorde, Seigneur, parce que Tu es compatissant envers les humains.\n\nⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
         }
       ],
       "hourId": "veil"
@@ -3202,12 +3229,12 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'absolution du voile -->"
+          "text": "Ô Maître Seigneur Jésus Christ notre Dieu, donne-nous le repos dans notre sommeil, le repos de nos corps et la pureté de nos âmes.\n\nEt garde-nous des ténèbres obscures du péché.\n\nQue les mouvements des passions se calment et que les ardeurs du corps s'éteignent.\n\nAbats les soulèvements de la chair.\n\nDonne-nous une intelligence éveillée, une pensée humble, une conduite pleine de vertu, une couche sans souillure et un lit pur.\n\nAlors Tu nous feras lever pour Te louer la nuit et à l'aube en tenant ferme Tes commandements, affermis sans cesse par la remémoration de Tes Jugements. Accorde-nous la grâce de Te glorifier toute la nuit en bénissant Ton Nom Saint plein de gloire et de toute splendeur, avec Ton Père qui est Bon et l'Esprit Saint vivifiant, maintenant et toujours et pour tous les siècles des siècles. Amen !"
         },
         {
           "type": "instruction",
           "level": 2,
-          "text": ""
+          "text": "Puis on dit la conclusion de chaque heure"
         },
         {
           "type": "image",
@@ -3215,23 +3242,23 @@
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "- 158 -"
         }
       ],
       "hourId": "veil"
     },
     {
       "id": "conclusion_voile",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -3242,35 +3269,35 @@
     },
     {
       "id": "midnight-intro",
-      "title": "",
+      "title": "Introduction de chaque heure",
       "hourId": "midnight",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Introduction de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Au nom du Père et du Fils et du Saint-Esprit, Un Dieu Unique ! Amen.\n\nSeigneur aie pitié, Seigneur aie pitié, Seigneur, bénis ! Amen.\n\nGloire au Père et au Fils et au Saint-Esprit, maintenant et toujours et pour les siècles des siècles ! Amen.\n\nRends-nous dignes de dire en action de grâce :\n\nNotre Père qui es aux cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite, comme au ciel, aussi sur la terre. Notre pain de demain, donne-le-nous aujourd'hui, et remets-nous nos dettes comme nous les remettons à nos débiteurs, et ne nous induis pas en tentation, mais délivre-nous du Mal. Par le Christ Jésus, notre Seigneur, car à Toi sont le Règne, la Puissance et la Gloire, pour les siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Prière d'action de grâce"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Rendons grâce au Bienfaiteur et Miséricordieux, Dieu le Père de notre Seigneur, notre Dieu et notre Sauveur Jésus-Christ parce qu'Il nous a protégés, secourus, préservés, reçus auprès de Lui, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nSupplions-Le encore de nous garder en ce saint jour et tous les jours de notre vie en toute paix, Lui le Tout-Puissant, le Seigneur notre Dieu.\n\nÔ Maître, Seigneur, Dieu Tout-Puissant, Père de notre Seigneur, Dieu et Sauveur Jésus-Christ, Nous Te rendons grâce, de toute chose, pour toute chose et en toute chose, parce que c'est Toi qui nous as protégés, secourus, préservés, reçus auprès de Toi, pris en pitié, aidés et amenés jusqu'à cette heure.\n\nC'est pourquoi nous supplions et implorons Ta bonté, ô Ami du genre humain, donne-nous de parfaire ce saint jour et tous les jours de notre vie en toute paix dans Ta crainte.\n\nToute envie, toute tentation, toute œuvre de Satan, tout conseil des hommes mauvais, tout assaut des ennemis cachés et manifestes :\n\n+ enlève-les de nous\n+ et de tout ton peuple\n+ et de cette église\n+ et de ce lieu saint qui est à Toi\n\nLes choses bonnes et profitables, fournis-les-nous, car c'est Toi qui nous as donné l'autorité pour fouler aux pieds les serpents, les scorpions et toute la puissance de l'ennemi.\n\nEt ne nous induis pas en tentation, mais délivre-nous du Mal, Par la grâce, la miséricorde et l'amour du genre humain de Ton Fils Unique-Engendré notre Seigneur, Dieu et Sauveur Jésus-Christ, par Qui la gloire, l'honneur, la souveraineté et l'adoration Te sont dus avec Lui et le Saint Esprit vivifiant et de même essence que Toi, Maintenant et toujours et dans les siècles des siècles. Amen !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "Psaume 50"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Fais-moi miséricorde, Seigneur, selon Ta grande Miséricorde, et selon la multitude de tes compassions, efface mon illégalité !\n\nLave-moi encore de mon illégalité, et purifie-moi de mon péché !\n\nCar moi, je connais mon illégalité, et mon péché est toujours devant mes yeux.\n\nC'est contre Toi seul que j'ai péché, et devant tes Yeux que j'ai fait le mal, afin que tu sois justifiée dans tes Paroles, et que tu triomphes dans tes Jugements.\n\nCar voilà que j'ai été conçu dans les illégalités, et ma mère m'a enfanté dans les péchés.\n\nCar voici que Toi, tu aimes la Vérité, et tu m'as révélé les choses non manifestes et cachées de ta Sagesse.\n\nTu m'aspergeras avec l'hysope, et je serai purifié, Tu me laveras, et je serai plus blanc que la neige.\n\nTu me feras entendre la joie et l'allégresse, et les os humiliés exulteront.\n\nDétourne ta Face de mes péchés, et efface toutes mes illégalités !\n\nCrée en moi un cœur pur, ô Dieu, et renouvelle un esprit droit en mes entrailles !\n\nNe me rejette pas loin de Ta Face, et ne retire pas de moi Ton Esprit-Saint.\n\nRends-moi la joie de Ton Salut, et raffermis-moi par l'Esprit directeur.\n\nJ'enseignerai Tes voies aux illégaux, et les impies se convertiront à Toi.\n\nSauve-moi des choses sanglantes, ô Dieu, Dieu de mon salut, et ma langue se réjouira de ta Justice ! Seigneur, Tu ouvriras mes lèvres, et ma bouche proclamera ta louange.\n\nCar si tu avais voulu un sacrifice, je te l'aurais donné ; mais tu n'approuveras point les holocaustes.\n\nLe sacrifice à Dieu c'est un esprit contrit, Dieu ne réduira pas à rien un cœur contrit et humilié. Seigneur, fais du bien en ta faveur, pour Sion, et que les remparts de Jérusalem soient édifiés ! Alors Tu approuveras le sacrifice de justice, une offrande avec des holocaustes, alors on offrira des veaux sur Ton autel.\n\n_Allélouia !_"
         }
       ]
     },
@@ -3285,7 +3312,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'introduction de la prière de minuit -->"
+          "text": "Levez-vous, Fils de la lumière, pour louer le Seigneur des puissances,\n\nafin qu'Il nous accorde par sa Grâce le Salut de nos âmes. Lorsque nous nous levons corporellement devant Toi, ôte de notre intelligence le sommeil de l'Oubli. Donne-nous, Seigneur, la sobriété, afin de savoir nous tenir devant Toi à l'heure de la prière, et d'élever vers Toi la doxologie qui T'est due, et pour obtenir la rémission de nos nombreux péchés.\n\nGloire à Toi, ô Ami du genre humain !"
         }
       ],
       "hourId": "midnight"
@@ -3301,7 +3328,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête du premier service -->"
+          "text": "Hymne du premier service béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\nPsaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen."
         }
       ],
       "hourId": "midnight"
@@ -3317,7 +3344,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 133 (minuit) -->"
+          "text": "Allons, bénissez le Seigneur, Serviteurs du Seigneur,\n\nQui vous tenez dans la maison du Seigneur, dans les parvis de la maison de notre Dieu !\n\nÉlevez vos mains au milieu des nuits, vous les saints, bénissez le Seigneur !\n\nLe Seigneur Te bénira depuis Sion, Lui qui créa le ciel et la terre !"
         }
       ],
       "hourId": "midnight"
@@ -3333,34 +3360,34 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le Psaume 118 -->"
+          "text": "Alléluia ! Bienheureux ceux qui sont sans tache sur la voie, et cheminent dans la Loi du Seigneur.\n\nBienheureux ceux qui méditent Ses témoignages, et qui Le recherchent de tout leur cœur.\n\nCar les ouvriers de l'illégalité n'ont point voulu marcher dans Ses voies.\n\nTu as commandé Tes commandements, pour qu'ils soient bien gardés.\n\nPuissent mes voies être dirigées afin de garder Tes ordonnances !\n\nAlors je ne serai point honteux, puisque j'aurai fixé ma vue sur tous Tes commandements.\n\nJe te professerai, Seigneur, avec droiture de cœur, parce que j'aurai appris les jugements de ta Justice.\n\nJe garderai Tes ordonnances, ne me délaisse pas autant jusqu'à la fin !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "- XIX -"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "J'appelle de tout mon cœur : réponds-moi :je garderai Tes commandements.\n\nJe t'appelle, Seigneur, sauve-moi ;\n\nj'observerai Tes exigences.\n\nJe devance l'aurore et j'implore :j'espère en Ta parole.\n\nMes yeux devancent la fin de la nuit\n\npour méditer sur Ta promesse.\n\nDans Ton amour, Seigneur, écoute ma voix :selon Tes décisions fais-moi vivre !\n\nCeux qui poursuivent le mal s'approchent, ils s'éloignent de Toi.\n\nToi, Seigneur, Tu es proche,\n\ntout dans Tes ordres est vérité.\n\nDepuis longtemps je le sais :\n\nTu as fondé pour toujours Tes exigences.\n\nGloire à Toi Ami du genre humain !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "- XX -"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Vois ma misère : délivre-moi ;\n\nje n'oublie pas Ta Loi.\n\nSoutiens ma cause : défends-moi,\n\nen Ta promesse fais moi vivre !\n\nLe salut s'éloigne des impies\n\nqui ne cherchent pas Tes commandements.\n\nSeigneur, Ta tendresse est sans mesure :selon Ta décision fais-moi vivre !\n\nIls sont nombreux mes persécuteurs, mes oppresseurs ;\n\nje ne dévie de Tes exigences. J'ai vu les renégats : ils me répugnent, car ils ignorent Ta promesse. Vois combien j'aime Tes préceptes, Seigneur, fais-moi vivre selon Ton amour ! Le fondement de Ta parole est vérité ; éternelles sont Tes justes décisions. Gloire à Toi Ami du genre humain !\n\n- XXI - Des grands me persécutent sans raison ; mon cœur ne craint pas Ta parole. Tel celui qui trouve un grand butin, je me réjouis de Tes promesses. Je hais, je déteste le mensonge : Ta Loi, je l'aime. Sept fois chaque jour, je Te loue pour Tes justes décisions. Grande est la paix de qui aime Ta Loi ;\n\njamais il ne trébuche. Seigneur, j'attends de Toi le salut : j'accomplis Tes volontés. Tes exigences, mon âme les observe : oui, vraiment, je les aime. J'observe Tes exigences et Tes préceptes : toutes mes voies sont devant moi. Gloire à Toi Ami du genre humain !"
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "- XXII -"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Que mon cri parvienne devant Toi, éclaire-moi selon Ta parole, Seigneur. Que ma prière arrive jusqu'à Toi ; délivre-moi selon Ta promesse. Que chante sur mes lèvres Ta louange, car Tu m'apprends Tes commandements. Que ma langue redise Tes promesses, car tout est justice en Tes volontés. Que Ta main vienne à mon aide, car j'ai choisi Tes préceptes. J'ai le désir de Ton salut, Seigneur : Ta Loi fait mon plaisir. Que je vive et que mon âme Te loue ! Tes décisions me soient en aide ! Je m'égare, brebis perdue :viens chercher Ton serviteur.\n\nJe n'oublie pas Tes volontés.\n\n_Alléluia !_"
         }
       ],
       "hourId": "midnight"
@@ -3376,11 +3403,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Matthieu :_\n\nAlors le Royaume des cieux est semblable à dix vierges qui prirent leurs lampes et sortirent à la rencontre de l'époux. Cinq d'entre elles étaient sottes et cinq étaient sages. En prenant leurs lampes, les vierges sottes n'avaient pas emporté d'huile; les vierges sages, elles, avaient pris, avec leurs lampes, de l'huile dans des fioles. Comme l'époux tardait, elles s'assoupirent toutes et s'endormirent. Au milieu de la nuit, un cri retentit : « Voici l'époux ! Sortez à sa rencontre. » Alors toutes ces vierges se réveillèrent et apprêtèrent leurs lampes. Les sottes dirent aux sages : « Donnez-nous de votre huile, car nos lampes vont s'éteindre. » Les sages répondirent : « Certes pas, il n'y en aurait pas assez pour nous et pour vous ! Allez plutôt chez les marchands et achetez-en pour vous. » Pendant qu'elles allaient en acheter, l'époux arriva ; et celles qui étaient prêtes entrèrent avec lui dans la salle des noces, et l'on ferma la porte.\n\nFinalement, arrivèrent à leur tour les autres vierges, en disant : « Notre Seigneur, Notre Seigneur, ouvre-nous ! » Mais il répondit : « Amen, je vous le déclare, je ne vous connais pas. » Veillez donc, car vous ne savez ni le jour ni l'heure.\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile du premier service de minuit -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "midnight"
@@ -3392,99 +3419,99 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Voici qu'arrive l'Époux au milieu de la nuit. Heureux le serviteur qu'il trouvera éveillé. Mais celui qu'il trouvera endormi ne sera pas digne d'aller avec Lui."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             },
             {
               "type": "paragraph",
-              "text": "<!-- TODO: Traduire les tropaires du premier service de minuit -->"
+              "text": "Prends garde, ô mon âme, que tu ne dormes d'un lourd sommeil, et que tu ne sois laissée hors du Royaume. Mais veille et proclame en clamant : Saint, Saint, Saint es-Tu ô Dieu. À cause de la Mère de Dieu, aie pitié de nous !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Prends conscience, ô mon âme, que ce jour sera terrifiant. Eveille-toi, allume ta lampe avec l'huile de la joie car tu ne sais pas quand t'arrivera la voix qui dit : Voici l'époux.\n\nPrends garde ô mon âme de ne pas t'assoupir pour ne pas te retrouver dehors à frapper à la porte comme les cinq jeunes filles insensées ; mais veille en implorant afin que tu puisses rencontrer le Christ, le Seigneur avec de l'huile en abondance et qu'Il te fasse bénéficier de la vraie noce de Sa gloire divine."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "paragraph",
-              "text": ""
+              "text": "**Maintenant et toujours et pour les siècles des siècles. Amen !**"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Mère de Dieu, la Vierge, le rempart invincible, anéantis le complot de ceux qui s'opposent à nous. Convertis le chagrin de tes serviteurs en joie. Protège notre ville. Combats pour nos dirigeants.\n\nIntercède pour la paix du monde. Tu es notre espérance ô Mère de Dieu."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "doxology",
               "level": 2,
-              "text": ""
+              "text": "Maintenant et toujours et pour les siècles des siècles. Amen !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Roi céleste, Consolateur, Esprit de vérité, qui existes en tout lieu et qui remplis tout, Trésor de bonté et Donateur de vie, daigne venir en nous. Purifie-nous de toute souillure ô très Bon et sauve nos âmes."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             },
             {
               "type": "heading",
               "level": 3,
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Comme Tu étais avec tes disciples, ô Sauveur, en leur accordant la paix ; viens, sois avec nous, accorde-nous Ta paix, sauve-nous et délivre nos âmes."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "doxology",
               "level": 2,
-              "text": ""
+              "text": "Maintenant et toujours et pour les siècles des siècles. Amen !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Lorsque nous nous tenons debout dans Ton sanctuaire, nous sommes comptés parmi ceux qui\n\nse tiennent dans le ciel. Ô Mère de Dieu, tu es la Porte du ciel, ouvre-nous la porte de la miséricorde."
         }
       ],
       "hourId": "midnight"
@@ -3496,15 +3523,15 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "_Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ_ (41 fois) Saint, saint, saint .... Notre Père ..."
         },
         {
           "type": "image",
-          "src": "/agpia/assets/b879f445a4519eee521d744599cfdea3dcca02444feca205adc8e4cb1f8ccffe.png"
+          "src": "/agpia/assets/midnight.jpg"
         }
       ],
       "hourId": "midnight"
@@ -3520,7 +3547,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête du second service -->"
+          "text": "Hymne du deuxième service béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\nPsaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen."
         }
       ],
       "hourId": "midnight"
@@ -3536,11 +3563,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_\n\nUn Pharisien l'invita à manger avec lui ; il entra dans la maison du Pharisien et se mit à table. Survint une femme de la ville qui était pécheresse ; elle avait appris qu'il était à table dans la maison du Pharisien. Apportant un flacon de parfum en albâtre et se plaçant par-derrière, tout en pleurs, aux pieds de Jésus, elle se mit à baigner ses pieds de larmes ; elle les essuyait avec ses cheveux, les couvrait de baisers et répandait sur eux du parfum. Voyant cela, le Pharisien qui l'avait invité se dit en lui-même : « Si cet homme était un prophète, il saurait qui est cette femme qui le touche, et ce qu'elle est : une pécheresse. » Jésus prit la parole et lui dit : « Simon, j'ai quelque chose à te dire. » — « Parle, Maître », dit-il. — « Un créancier avait deux débiteurs ; l'un lui devait cinq cents pièces d'argent, l'autre cinquante. Comme ils n'avaient pas de quoi rembourser, il fit grâce de leur dette à tous les deux. Lequel des deux l'aimera le plus ? » Simon répondit : « Je pense que c'est celui auquel il a fait grâce de la plus grande dette. » Jésus lui dit : « Tu as bien jugé. » Et se tournant vers la femme, il dit à Simon : « Tu vois cette femme ? Je suis entré dans ta maison : tu ne m'as pas versé d'eau sur les pieds, mais elle, elle a baigné mes pieds de ses larmes et les a essuyés avec ses cheveux. Tu ne m'as pas donné de baiser, mais elle, depuis qu'elle est entrée, elle n'a pas cessé de me couvrir les pieds de baisers. Tu n'as pas répandu d'huile odorante sur ma tête, mais elle, elle a répandu du parfum sur mes pieds. Si je te déclare que ses péchés si nombreux ont été pardonnés, c'est parce qu'elle a montré beaucoup d'amour. Mais celui à qui on pardonne peu montre peu d'amour. » Il dit à la femme : « Tes péchés ont été pardonnés. » Les convives se mirent à dire en eux-mêmes : « Qui est celui-ci qui va jusqu'à pardonner les péchés ? » Jésus dit à la femme : « Ta foi t'a sauvée. Va en paix. »\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile du second service de minuit -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "midnight"
@@ -3552,107 +3579,107 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Donne-moi, Seigneur, des sources jaillissantes de larmes comme tu les as données en premier lieu à la femme pécheresse.\n\nRends-moi digne de mouiller Tes pieds qui m'ont libéré du chemin de l'égarement."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": "<!-- TODO: Traduire les tropaires du second service de minuit -->"
+              "text": "Ainsi je t'offrirai un parfum précieux et je pourrai bénéficier d'une vie purifiée par la metanoia, afin que je puisse entendre la voix pleine de joie me dire : « Ta foi t'a sauvé »."
             },
             {
               "type": "heading",
               "level": 3,
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Quand je me rends compte de toutes mes mauvaises actions et que je me remémore ce jugement terrifiant je suis pris de panique. Aussitôt je cours me réfugier auprès de Toi, ô Dieu, ami du genre humain ; ne Te détourne pas de moi. Je t'en supplie, Toi qui, seul, es sans péchés, accorde à mon âme misérable une humilité avant que n'arrive la fin. Sauve-moi."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "doxology",
               "level": 2,
-              "text": ""
+              "text": "Maintenant et toujours et pour les siècles des siècles. Amen !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Les cieux te louent, ô pleine de grâce, l'épouse, toujours vierge. Nous aussi, nous glorifions ton enfantement ineffable. Ô Mère de Dieu intercède pour le Salut de nos âmes."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "doxology",
               "level": 2,
-              "text": ""
+              "text": "Maintenant et toujours et pour les siècles des siècles. Amen !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Roi céleste, Consolateur, Esprit de vérité, qui existes en tout lieu et qui remplis tout, Trésor de bonté et Donateur de vie, daigne venir en nous. Purifie-nous de toute souillure ô très Bon et sauve nos âmes."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             },
             {
               "type": "paragraph",
-              "text": ""
+              "text": "**Gloire au Père, au Fils et au Saint Esprit.**"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Comme Tu étais avec tes disciples, ô Sauveur, en leur accordant la paix ; viens, sois avec nous, accorde-nous Ta paix, sauve-nous et délivre nos âmes."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "paragraph",
-              "text": ""
+              "text": "**Maintenant et toujours et pour les siècles des siècles. Amen !**"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Lorsque nous nous tenons debout dans Ton sanctuaire, nous sommes comptés parmi ceux qui se tiennent dans le ciel. Ô Mère de Dieu, tu es la Porte du ciel, ouvre-nous la porte de la miséricorde."
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "_Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ_ (41 fois) Saint, saint, saint .... Notre Père ..."
         }
       ],
       "hourId": "midnight"
@@ -3668,7 +3695,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'en-tête du troisième service -->"
+          "text": "Hymne du troisième service béni, je l'offre au Christ mon Roi et mon Dieu, j'espérerai en Lui afin qu'il me remette mes péchés.\n\nPsaume de David le Prophète, que sa sainte bénédiction soit avec nous, Amen."
         }
       ],
       "hourId": "midnight"
@@ -3684,11 +3711,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "_Gloire à Toi ô notre Dieu ! Seigneur, bénis la lecture du Saint Évangile selon Luc :_\n\n« Sois sans crainte, petit troupeau, car votre Père a trouvé bon de vous donner le Royaume. Vendez ce que vous possédez et donnez-le en aumône. Faites-vous des bourses qui ne vieillissent pas, un trésor impérissable dans les cieux ; là ni voleur n'approche, ni mite ne détruit. Car, où est votre trésor, là aussi sera votre cœur. Gardez vos reins ceints et vos lampes allumées. Et soyez comme des hommes qui attendent leur seigneur à son retour des noces, afin de lui ouvrir dès qu'il arrivera et frappera. Bienheureux ces serviteurs que le seigneur à son arrivée trouvera en train de veiller. Amen, je vous le déclare, il se ceindra, les fera s'étendre à table et se tiendra à leur service. Et si c'est à la deuxième veille qu'il arrive, ou à la troisième, et qu'il les trouve ainsi, bienheureux sont ces serviteurs ! Sachez-le : si le maître de maison savait l'heure à laquelle le voleur devait venir, il veillerait et il ne laisserait pas percer le mur de sa maison. Alors vous aussi, tenez-vous prêts, car c'est à l'heure que vous ignorez que le Fils de l'homme va venir. » Pierre dit alors : « Seigneur, est-ce pour nous que tu as dit cette parabole, ou bien pour tous ? » Le Seigneur lui dit : « Quel est donc l'intendant fidèle, avisé, que son seigneur établira sur sa domesticité pour distribuer en temps voulu leur nourriture ? Bienheureux ce serviteur, que son seigneur en arrivant trouvera en train de faire ainsi ! Vraiment, je vous le déclare, il l'établira sur tous ses biens. Mais si ce serviteur se dit en son cœur : 'Mon seigneur tarde à venir' et qu'il se mette à battre les garçons et les filles de service, à manger, à boire et à s'enivrer, le seigneur de ce serviteur arrivera au jour qu'il n'attend pas et à l'heure qu'il ne sait pas : il le retranchera du milieu des siens, et mettra sa part avec les sans-foi. »\n\n_Gloire à toi Seigneur !_"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'Évangile du troisième service de minuit -->"
+          "text": "_La Gloire soit à notre Dieu ! Nous t'adorons ô Christ avec ton Père qui est bon et le Saint-Esprit, car tu es venu et tu nous as sauvés. Fais-nous miséricorde !_"
         }
       ],
       "hourId": "midnight"
@@ -3700,64 +3727,64 @@
         {
           "type": "instruction",
           "level": 1,
-          "text": ""
+          "text": "Puis on dit les oraisons suivantes :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Regarde ma faiblesse, Seigneur, avec miséricorde car bientôt ma vie s'épuisera et mes actes ne méritent pas le Salut. Pour cela je lève mes yeux vers Toi Seigneur et je Te demande : regarde Seigneur ma faiblesse, mon humilité, ma misère et mon éloignement et sauve moi."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             },
             {
               "type": "paragraph",
-              "text": "<!-- TODO: Traduire les tropaires du troisième service de minuit -->"
+              "text": "Avec un œil miséricordieux Seigneur, regarde ma faiblesse, car sous peu ma vie mourra et dans mes œuvres je n'ai aucun Salut. C'est pourquoi je supplie : Seigneur, avec un œil miséricordieux regarde ma misère et sauve moi !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Comme le juge est présent, sois préoccupée ô mon âme. Eveille-toi et prends conscience de cette heure redoutable car il n'y a pas de miséricorde dans le jugement pour ceux qui n'ont pas été miséricordieux.\n\nPour cela soit compatissant envers moi, mon Sauveur, car Toi seul es ami des hommes."
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
-            },
-            {
-              "type": "doxology",
-              "level": 2,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": ""
-        },
-        {
-          "type": "doxology_block",
-          "children": [
-            {
-              "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "doxology",
               "level": 2,
-              "text": ""
+              "text": "Maintenant et toujours et pour les siècles des siècles. Amen !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Tu es la Porte de la vie, ô vénérable Mère de Dieu, sauve des épreuves ceux qui ont recours à toi avec foi, afin que nous glorifiions ton enfantement pur pour le salut de nos âmes"
+        },
+        {
+          "type": "doxology_block",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
+            },
+            {
+              "type": "doxology",
+              "level": 2,
+              "text": "Maintenant et toujours et pour les siècles des siècles. Amen !"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ô Roi céleste, Consolateur, Esprit de vérité, qui existes en tout lieu et qui remplis tout, Trésor de bonté et Donateur de vie, daigne venir en nous. Purifie-nous de toute souillure ô très Bon et sauve nos âmes."
         },
         {
           "type": "doxology_block",
@@ -3765,45 +3792,45 @@
             {
               "type": "heading",
               "level": 2,
-              "text": ""
+              "text": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
             },
             {
               "type": "heading",
               "level": 3,
-              "text": ""
+              "text": "Gloire au Père, au Fils et au Saint Esprit !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Comme si le juge était présent, sois soucieuse ô mon âme, éveille-toi et aie l'intelligence de cette heure redoutable, car il n'y a pas de miséricorde dans le jugement pour ceux qui n'ont pas été miséricordieux. C'est pourquoi sois compatissant envers moi, ô Sauveur, car Toi seul es Ami du genre humain !"
         },
         {
           "type": "doxology_block",
           "children": [
             {
               "type": "paragraph",
-              "text": ""
+              "text": "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
             },
             {
               "type": "doxology",
               "level": 2,
-              "text": ""
+              "text": "Et maintenant et toujours et pour les siècles des siècles. Amen !"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Tu es la Porte de la Vie intellective, honorée Mère de Dieu, sauve des nécessités ceux qui se sont réfugiés auprès de toi avec foi, afin que nous glorifiions ton saint enfantement en toute chose pour le salut de nos âmes !\n\nⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁ̀ⲙⲏⲛ."
         },
         {
           "type": "instruction",
           "level": 3,
-          "text": ""
+          "text": "Puis on dit :"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Pitié Seigneur Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ (41 fois) Saint, saint, saint .... Notre Père ..."
         }
       ],
       "hourId": "midnight"
@@ -3819,11 +3846,11 @@
         },
         {
           "type": "verse",
-          "text": ""
+          "text": "Maintenant ô Maître, tu peux laisser ton serviteur par la paix, selon ta parole.\n\nCar mes yeux ont vu ton salut, que tu as préparé à la face de tous les peuples :\n\nLumière de révélation des nations, et gloire de ton peuple Israël."
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire le cantique de Siméon -->"
+          "text": "Gloire à Dieu pour les siècles des siècles ! Amen !"
         }
       ],
       "hourId": "midnight"
@@ -3839,11 +3866,11 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire l'absolution de minuit -->"
+          "text": "Ô Maître Seigneur Jésus Christ, Fils du Dieu vivant qui est pour les siècles, illumine notre Intelligence afin que nous comprenions Tes paroles vivifiantes. Et Tu nous relèveras des ténèbres du péché qui tue l'âme. Rends-nous dignes de faire le bien avec droiture.\n\nEt quand Tu viendras pour juger le monde, que nous soyons dignes d'entendre cette voix pleine de joie qui dit : « Venez à moi les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. »\n\nOui Seigneur, rectifie-nous pour qu'en cette heure-là nous soyons sans crainte, immuables et inébranlables. Ne nous punis pas à cause de la multiplication de nos illégalités.\n\nCar Toi seul es compatissant, longanime, et plein de miséricorde. Par les intercessions de notre Dame Seigneuresse à tous, la Theotokos sainte Marie, et tout le chœur de Tes saints. Amen !"
         },
         {
           "type": "instruction",
-          "text": ""
+          "text": "**Puis on dit** la conclusion de chaque heure"
         },
         {
           "type": "image",
@@ -3854,16 +3881,16 @@
     },
     {
       "id": "conclusion_minuit",
-      "title": "",
+      "title": "Conclusion de chaque heure",
       "blocks": [
         {
           "type": "heading",
           "level": 1,
-          "text": ""
+          "text": "Conclusion de chaque heure"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Ô Dieu, aie pitié de nous, Toi qui es adoré et glorifié, en tout temps et à toute heure, dans le ciel et sur la terre.\n\nÔ Christ notre Dieu bon, longanime, plein de miséricorde et abondant en compassion, Toi qui aimes les justes et qui fais miséricorde aux pécheurs (dont je suis le premier, toi qui ne veut pas la mort du pécheur mais qu'il se repente et vive). Tu appelles tout un chacun au Salut à cause de la promesse des bienfaits attendus.\n\nÔ Seigneur, reçois nos supplications en cette heure, dirige nos vies pour que nous accomplissions Tes commandements.\n\nSanctifie nos esprits, purifie nos corps, rectifie nos pensées, purifie nos consciences,\n\nEt délivre-nous de toute douleur et de toute peine. Entoure-nous de Tes saints anges, afin qu'ils nous préservent et nous guident comme par une escorte armée. Ainsi nous atteindrons l'Unité de la Foi et la connaissance de Ta Gloire intouchable (et incommensurable), car Tu es béni éternellement. Amen !"
         },
         {
           "type": "image",
@@ -3883,11 +3910,11 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/8525359704d9bf9f35e7656fa9d9023c3d815a2c0d7ca4db5d6f0475ef74cefc.png"
+          "src": "/agpia/assets/absolutions.jpg"
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire les prières d'absolution pour les prêtres -->"
+          "text": "Absolution des prêtres"
         }
       ],
       "hourId": "absolutions"
@@ -3903,7 +3930,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière d'absolution pour les prêtres -->"
+          "text": "Nous T'implorons et nous Te rendons grâce ô Maître et Seigneur Jésus-Christ, Fils du Dieu vivant, l’Éternel.\n\nTu demeures dans la lumière avant tous les siècles : Lumière née de la Lumière.\n\nIllumine nos intellects et nos cœurs. Illumine nos intelligences afin que nous comprenions Tes paroles vivifiantes.\n\nEt relève-nous des ténèbres du péché qui tue l'âme, et rends-nous dignes de faire le bien avec droiture et bonté, jusqu'à ta seconde Présence redoutable pour juger le monde, rends-nous dignes d'entendre cette voix pleine de joie, d'allégresse, de consolation, de faveur et de bonheur de ta bouche divine nous disant : « Venez à moi les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. »\n\nOui, Seigneur notre Dieu rends-nous aptes d'être en ce jour-là sans crainte, sans souillure, sans trouble, sans chute et sans blâme. Ne nous saisis pas, Seigneur, selon la multitude de nos illégalités, remets-nous tous nos péchés, nos transgressions, nos erreurs et nos trébuchements.\n\nEt éloigne de nous et du monde entier la mort, la disette, la chute, la corruption et l'exil, l'épée des ennemis, la conspiration des Satans, le mal de l'incendie et de la noyade, les intrigues des impies, l'injustice des autorités, la puissance de ceux qui s'opposent à nous : puisses-tu les réduire à rien.\n\nÔ Dieu, Tu es notre Seigneur et notre Dieu. Sois compatissant envers nous.\n\nNe nous jette pas dans les mers de la maladie, ni au malheur dans les voyages, mais rends droits nos chemins, protège-nous, relève-nous des soupirs, du chagrin, de la négligence et l'inattention.\n\nNe laisse pas l'ennemi et Satan devenir des géants au dessus de nous dans l'espérance, mais élève notre intellect, et éveille nos cœurs du sommeil de la distraction, et de la corruption d'une existence vaine.\n\nÔ Dieu, remets nos illégalités, remets-nous nos transgressions, ne Te souviens pas de nos péchés ni de nos erreurs. Ne t'irrite pas contre nous. Retiens Ta colère jusqu'à la fin.\n\nFais-nous miséricorde Seigneur, fais-nous miséricorde, car nous sommes impuissants et misérables, noyés dans les mers des péchés.\n\nVoici que nous crions vers Toi, nous nous prosternons devant Toi, nous Te confessons et Te désirons.\n\nNe nous fais pas défaut dans notre espoir, ô mon Maître, pour Ta miséricorde, ne ferme pas la porte de Ta miséricorde envers nous, mais sauve-nous, dirige-nous selon Ta miséricorde, et fais-nous entendre Ta voix joyeuse.\n\nÔ Dieu purifie-nous et purifie nos cœurs des mauvais conseils maléfiques et souillés. Seigneur, réduis à rien en nous les rêves, les fantômes et les pensées démoniaques.\n\nÔ Dieu, relève-nous de tout trébuchement et de toute calamité. Affermis en nous ô Dieu la patience, l'espoir, l'amour-agapê, et la Foi orthodoxe. Compte-nous parmi les brebis placées à Ta droite.\n\nFais-nous asseoir parmi ceux qui sont étendus à Ton festin céleste. Remets-nous toute illégalité, tout péché et toute erreur.\n\nEntoure-nous par les rangs armés de Tes anges brillants, car nous n'avons pas de salut sinon dans Ta miséricorde, car nous mettons notre confiance en toi, notre foi en toi, et notre espérance en toi.\n\nReçois, Seigneur, la supplication que nous T'adressons maintenant et en tous temps. Et tous ceux qui nous ont demandé de nous souvenir d'eux dans les prières, les liturgies, les oraisons et les commémorations (qu'ils soient vivants ou morts), souviens-Toi de nous, Seigneur avec eux, dans les bienfaits de la Jérusalem céleste, dans le Royaume des cieux.\n\nEfface, ô Dieu, nos péchés. À ceux qui ont péché contre nous, remets-le leur aussi comme à nous, selon ton commandement. Seigneur, sauve toutes nos âmes. Seigneur, sauve Ton peuple, bénis Ton héritage, conduis-les et sois avec eux jusqu'à la fin.\n\nSauve ceux qui sont dans les détresses, les tribulations, ou les nécessités. Délie les captifs des liens des démons. Rassasie les affamés de Tes bienfaits. Réconforte ceux qui sont découragés dans leur cœur et leur âme.\n\nRelève ceux qui sont tombés. Affermis ceux qui sont debout. Ramène les égarés. Pourvois aux besoins des veuves et des orphelins. Daigne secourir ceux qui sont dans le besoin.\n\nDonne ta bénédiction pour les fruits de la terre, pour les vents favorables, et pour la croissance des arbres. Fais monter les eaux des fleuves. Bénis les rosées et les pluies. Donne suffisance à ceux qui sont dans le besoin. Permets aux débiteurs de payer leurs dettes.\n\nRassemble la dispersion de ceux qui sont séparés. Accepte la métanoia de ceux qui font métanoia, et la confession de ceux qui se confessent. Donne la compréhension aux réconfortés.\n\nRends un jugement Seigneur à ceux qui commettent l'injustice. Remplis nos cœurs de joie, d'allégresse, de réconfort et d'exultation afin que pourvus du nécessaire en toute chose, nous abondions en toutes œuvres bonnes qui te sont agréables.\n\nBénis Seigneur, les céréales par des grâces célestes. Par Ta bonté bénis la couronne de cette année. Bénis, Seigneur, le semeur, le cultivateur, le planteur et le moissonneur comme Tu as béni les céréales de la sixième année pour les fils d'Israël.\n\nBénis, Seigneur, notre assemblée que voici et toutes les assemblées des peuples orthodoxes. Préserve pour nous la vie et le maintien de notre père le patriarche Abba (---) notre grand prêtre actuel. Sauve-le, Seigneur, et sauve son peuple de tout mal, de toute tentation et de toute peine. Garde aussi ses compagnons dans le ministère apostolique nos Pères les métropolites, nos Pères les évêques, nos Pères les higoumènes et nos Pères les prêtres, nos Frères les diacres, nos Pères les moines et nos Frères du peuple laïc, ainsi que tous ceux qui se sont déplacés jusqu'ici, pour participer à cette prière et à toutes les prières orthodoxes implorant la rémission de leurs péchés et la miséricorde pour leurs âmes.\n\nBénis-nous et bénis-les, absous-nous et absous-les, remets nos péchés ainsi que les leurs, ceux qui sont passés ou à venir, commis de nous-mêmes ou non, pendant la nuit ou pendant le jour, manifestes ou cachés.\n\nPermets de demeurer, Seigneur, aux édifices de rassemblement, aux églises saintes, aux monastères orthodoxes, aux anciens qui y demeurent, à leurs diacres, à leurs directeurs et ceux qui y demeurent. Que l'espérance, la paix, l'amour-agapê et l'obéissance confiante réside avec eux. Humilie l'ennemi mauvais à nos pieds et aux leurs. Ne lui laisse pas une seule part en nous ou en eux, pour qu'il frappe par la droite ou par la gauche. Protège-les par Ta main élevée et ton bras puissant. Sauve-nous, mon Maître, des mauvaises tentations et des pièges dressés, visibles ou invisibles.\n\nSouviens-Toi, Seigneur, de nos pères et de nos mères, de nos frères et de nos sœurs, de nos familles et de nos proches, de ceux qui nous enseignent, de nos enfants spirituels et charnels et de tous les enfants du baptême.\n\nSouviens-Toi, Seigneur, de ceux qui ont peiné avec nous dans la communion. Souviens-Toi, Seigneur, de ceux qui nous ont donné à manger et à boire du fruit de leurs peines et leurs labeurs, ceux qui nous ont logés dans leurs résidences et aidés. Rétribue-les, Seigneur, par des choses qui durent au lieu de choses éphémères, des célestes au lieu des terrestres. Remplis leurs maisons et leurs dépôts de toutes les grâces. Rends-leur, Seigneur, rends-leur trente, soixante ou cent pour un, avec la rémission de leurs péchés, dans le Royaume des cieux.\n\nSouviens-Toi, Seigneur, de ceux qui nous ont fait du bien, à nous ainsi qu'à nos frères les pauvres, par toute bénédiction de bienfaisance, à cause de Ton saint Nom. Bénis-les.\n\nSouviens-Toi Seigneur de ceux qui s'occupent des sacrifices, des offrandes, du vin, de l'huile, des prémices, de l'encens, des voiles, des dons, des livres de lecture, et de tous les vases de l'autel. Rétribue-les, Seigneur, pour leurs dons, par la rémission de leurs péchés. Établis-les dans ce siècle avec une vie joyeuse, et le siècle à venir avec la vie éternelle.\n\nSouviens-Toi, Seigneur, de nos pères et frères qui nous ont précédés dans le sommeil, et sont partis pour le Repos dans la Foi orthodoxe en Christ. Seigneur, accorde le repos à leurs âmes dans le sein de nos saints pères Abraham, Isaac et Jacob, dans le pays des vivants, le Paradis de la joie.\n\nÀ nous, qui sommes encore en vie, aide-nous à obtenir le salut de nos âmes et dirige notre vie selon Ta bonne volonté.\n\nDaigne, Seigneur, Te souvenir de ma faiblesse, de mon humilité, et de ma petitesse, moi pécheur laborieux, qui suis indigne de me tenir entre Tes mains. Ne me rejette pas à cause de mes nombreux péchés et de mes souillure.\n\nÉlève, ô Seigneur, la corne du Salut de Ton peuple par le signe de Ta croix vivifiante.\n\nDonne, Seigneur, Ta délivrance dans la détresse, Ton aide dans l'affliction et l'humiliation. Sauve-nous, Seigneur, et sauve tous ceux qui sont dans la détresse, et guéris les malades de Ton peuple.\n\nEt fais que ton peuple chrétien, Seigneur, ceux qui sont présents avec nous et ceux qui sont absents, soient bénis et absous par Ta bouche divine, du levant jusqu’au couchant, et de la gauche à la droite.\n\nAccepte-nous comme Tu as accepté le larron à Ta droite sur le bois de la Croix, et lui as fait grâce du Paradis de la joie.\n\nSouviens-Toi, Seigneur, des orphelins et des veuves, des anathématisés, des malades et de ceux qui n'ont personne pour se souvenir d'eux. Souviens-Toi d'eux et de nous dans la Jérusalem céleste.\n\nSouviens-Toi, Seigneur, de ceux qui se lèvent, et de ceux qui sont handicapés, de ceux qui sont dans la souffrance, de ceux qui sont accidentés alors qu'ils sont partis en voyage sur terre, en mer, dans les lieux escarpés, les vallées, les routes, sur les cimes des montagnes, sur les collines ou dans les grottes.\n\nSouviens-Toi aussi de ceux qui sont dans les cachots ou les prisons, les exilés, les expatriés, ceux qui sont liés ou enchaînés à cause des chaînes des autorités et des démons. Ramène-les et conduis-les tous vers le port sains et saufs, victorieux, en un seul morceau, et avec profit, pour leur âme, leur corps et leur esprit.\n\nMon Seigneur Jésus Christ, fait que cette prière soit acceptée devant Toi et qu'elle soit sans hypocrisie, sans orgueil, sans arrogance, sans outrecuidance et sans honte.\n\nAide-nous, ô Dieu, à faire ce qui Te plaît. Aide-nous à agir selon Tes commandements. Aide-nous envers les ivresses de la mort, de ce qui la précède et de ce qui la suit, car tu es un Dieu bon, patient, plein de miséricorde et de compassion.\n\nÔ Dieu, garde la porte de Ton Église ouverte pour nous comme dans les siècles et les temps passés, et jusqu'à la fin de tous les temps.\n\nFais-nous miséricorde, ô Dieu, selon Ta grande miséricorde, par les intercessions de celle qui a les intercessions de la Perle de la pureté et des bénédictions, comblée d'honneur, notre Dame à tous, la fierté de notre race, la Vierge de la virginité pure, Marie,\n\net du martyr honoré Marc l'évangéliste, l'apôtre qui a prêché le pays d’Égypte,\n\nde tous les anges, de nos pères les prophètes, les apôtres, les martyrs, les saints, les ascètes, les champions et les athlètes, et de tous ceux qui ont plu au Seigneur dans leurs bonnes oeuvres depuis Adam et jusqu'à la fin des siècles.\n\nNous nous prosternons devant Toi, ô la Trinité Sainte : le Père, le Fils et le Saint Esprit, maintenant et en tous temps, et pour les siècles des siècles.\n\nAmen"
         },
         {
           "type": "image",
@@ -3923,7 +3950,7 @@
         },
         {
           "type": "image",
-          "src": "/agpia/assets/c41a9d09b977ea36d810d2d262f54203729798a7a29bfaf5edbac8aee7799cfb.png"
+          "src": "/agpia/assets/prayers.jpg"
         }
       ],
       "hourId": "prayers"
@@ -3939,7 +3966,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière pour le repentir -->"
+          "text": "Mon Seigneur, Dieu et Sauveur Jésus Christ, trésor de miséricorde et source du salut, je viens vers Toi en avouant mes péchés. Je confesse qu'avec arrogance j'ai osé souiller de mes péchés Ton saint autel. Maintenant j'ai recours à Ta pitié et Ta tendresse car Ta miséricorde est infinie et Tu ne rejettes aucun pécheur qui vient à Toi. Me voici, Seigneur, je confesse que mes péchés sont nombreux et pèsent lourdement sur moi. Ma force m'a abandonné. Ne détourne pas Ta Face de moi, Seigneur, afin que je ne demeure pas dans la frayeur. Garde-moi de Ta colère. Ne me châtie pas selon Ton courroux. Ne me juge pas selon mes actions. Aie pitié de moi, Seigneur, car je suis faible. Souviens-Toi, Seigneur, que je suis l'œuvre de Tes mains et sois compatissant envers moi. Ne mets pas Ton serviteur en jugement car aucun être vivant ne sera justifié devant Toi. Revêts-moi d'un manteau neuf digne de Ta gloire. Remets mes péchés et pardonne-moi afin que je puisse chanter : Bienheureux ceux dont les iniquités ont été remises, et dont les péchés ont été couverts. Je Te confesse mes péchés, Seigneur, et je ne cache pas mes fautes : Tu as ôté mes péchés. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -3955,7 +3982,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière avant la confession -->"
+          "text": "Ô Père saint, Tu aimes le repentir des pécheurs et Tu as promis de les recevoir. Regarde, Seigneur, une âme pécheresse qui fut longtemps égarée dans les dédales de la désobéissance. Elle y a ressenti l'amertume et le malheur à cause de son éloignement de la source de son salut. Maintenant elle se présente à Toi T'implorant de la purifier des souillures et des impuretés dans lesquelles elle s'est vautrée. Reçois-la et ne la rejette pas. Si Tu la regardes avec tendresse et si Tu la traites avec miséricorde elle sera purifiée et sauvée ; mais si Tu l'abandonnes elle périra et mourra. Accorde-moi, Seigneur, la grâce qui me permettra de m'approcher de Toi avec une Foi ferme et une espérance parfaite pour confesser mes péchés et haïr de les commettre à nouveau. Que Ton Esprit me reproche mes péchés. Illumine mon cœur afin que je ressente l'étendue de mes péchés, de mes mauvaises actions, de mes abandons et de ma négligence. Donne-moi la ferme volonté de ne pas succomber à nouveau. Que je sois ancré dans Tes commandements et que je vive pour la gloire de Ton saint Nom. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -3971,7 +3998,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière après la confession -->"
+          "text": "Je Te rends grâce ô Père ami du genre humain car, par Ta bonté, Tu n'as pas voulu que je périsse. Tu m'as réveillé de ma torpeur et Tu m'as montré Ton chemin. Tu m'as retiré de la vallée de la perdition pour m'abriter dans Ta forteresse sûre. Remplis-moi de l'espérance et de la Foi. Je suis venu à Toi, Seigneur, comme le malade vers le médecin qui guérit ; comme l'affamé à la recherche de la nourriture qui rassasie ; comme l'assoiffé vers les sources de l'eau vive ; le pauvre vers la source de la richesse ; le pécheur vers son sauveur et le mourant vers la source de vie. Tu es en effet mon salut, mon médecin, ma vie, ma force, ma consolation et ma joie. En Toi je trouve mon repos. Aide-moi et protège-moi. Apprends-moi à mettre ma volonté entre Tes mains pour que j'agisse comme Tu le veux. Soutiens-moi dans ma faiblesse afin que je puisse être ferme et honnête avec Toi jusqu'à la fin. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -3987,7 +4014,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière avant la communion -->"
+          "text": "Seigneur, je ne suis pas digne de Te recevoir car je suis pécheur mais dis seulement une parole et mon âme sera guérie. Dis à mon âme : tes péchés te sont remis. Je suis stérile et sans aucune bonté. Mon seul secours est Ta tendresse, Ta compassion et Ton amour pour le genre humain. Tu as daigné descendre du ciel de Ta gloire inaccessible, t'abaisser jusqu'à nous et Tu as accepté de naître dans une étable. Ne refuse pas, Toi le Saint, mon sauveur, de T'approcher de mon âme humiliée et méprisable qui attend Ta présence resplendissante. Tu n'as pas dédaigné d'entrer dans la maison du lépreux pour le guérir ; accepte, mon Dieu, d'entrer dans mon âme pour la purifier. Tu n'as pas interdit à la pécheresse d'embrasser Tes pieds ; ne m'empêche pas, de m'approcher de Toi pour communier à Ton Corps sacré et à Ton Sang précieux. Que ma communion m’unisse à Toi et qu’elle me purifie de toutes mes souillures. Que mes mauvais penchants soient anéantis et que j'agisse selon Tes commandements vivifiants. Que mon âme et mon corps guérissent de tout péché et reçoivent Tes dons. Que Ta grâce habite en moi. Que Ton Esprit séjourne en moi. Que mon union à Toi soit ferme. Ainsi, je vivrai pour la gloire de Ton Saint Nom. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -4003,7 +4030,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la seconde prière avant la communion -->"
+          "text": "Ô Dieu, source de vie et Roi des siècles, notre Seigneur Jésus Christ, le vrai Pain vivifiant descendu du ciel, Tu as accordé la vie à qui communie à Ton saint Corps et à Ton Sang précieux. Accorde à Ton serviteur Tes bénédictions célestes afin que je sois digne d'avancer vers le mystère de Ton Corps et Ton Sang sacrés avec ferveur. Eveille mon cœur à Ta grâce. Accorde-moi Ton salut afin que je goûte la douceur de Ta grâce céleste dissimulée dans ce saint sacrement. Accorde-moi une Foi ferme dépourvue de tout doute ou incertitude afin que je m'approche de Toi maintenant croyant que ceci est Ton Corps sacré et Ton Sang précieux, ô Emmanuel notre Dieu. Rends-moi digne de communier sans être condamné afin que je demeure en Toi spirituellement, que mes péchés soient remis et que je sois admis devant Ton trône redoutable. A Toi est due la gloire, avec Ton Père très bon et Ton Saint Esprit, maintenant et pour toujours. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -4019,7 +4046,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière après la communion -->"
+          "text": "Mon cœur s'est rempli de joie et ma bouche d'allégresse. Que mon âme exalte le Seigneur et que mon esprit exulte en Dieu, mon sauveur !Seigneur, je me suis présenté devant Toi pour que Tu me revêtes d'un vêtement propre qui me rende digne d'accéder à Ta noce. Que mon union avec Toi demeure pour toujours. Grâce à elle je prospérerai en vertu et en fermeté. Ma Foi sera plus forte et mon espérance plus ferme. Que ma communion soit un signe de mon salut, un vêtement de grâce pour une nouvelle naissance, pureté et sainteté pour l'âme et le corps et l’esprit. Qu'elle soit signe d'amour, de joie, de réjouissance éternelle et que je sois admis devant Ton trône redoutable. Je remets mon âme à Ta tendresse, fais que je sois un avec Toi et conduis-moi selon Ta volonté. Attire vers Toi mes pensées, mes sens, ma volonté pour les bénir et qu'ils se soumettent à Ton désir. Vivifie mon cœur, éveille ma conscience et dissipe les pensées provoquées par l'ennemi. Ordonne aux tempêtes de se calmer. Marche avec moi et calme mes tourments. Abreuve-moi et que le feu de Ton amour brûle mon cœur. Avec tendresse et douceur ne regarde pas mes lacunes. Demeure avec moi car le jour touche à sa fin. Accompagne-moi jusqu'à ce que le jour pointe car Toi seul es mon but et mon bonheur éternellement, ô Seigneur. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -4035,7 +4062,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la seconde prière après la communion -->"
+          "text": "Qu'elle est grande la générosité que Tu as réservée à ceux qui te craignent ! Qu'ils sont doux Ta grâce et ton amour pour ceux qui T'aiment ! Je Te rends grâce, ô Dieu, qui prend soin de moi. Tu m'as accordé cette nourriture sainte, mystérieuse et impérissable et Tu nous as ouvert le chemin pour accéder à la Vie éternelle. Mets en moi le feu de Ton amour et préserve en moi le don de Ta grâce ; pas pour le jugement mais pour acquérir la gloire et la pureté de l'âme et du corps. Afin que je vive par Toi et pour Toi et que j'atteigne la perfection par Ta justice. Guide-moi vers Ta justice, emplis-moi de Ta grâce et sanctifie-moi par Ton Esprit. A Toi la gloire avec Ton Père très bon et Ton Esprit Saint, maintenant et pour toujours. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -4051,7 +4078,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière pour demander à Dieu de nous guider -->"
+          "text": "Tu sais mon Dieu que je ne sais pas ce qui est bon pour moi. Voici que je vais entreprendre de ......... . Comment puis-je savoir ce qui est utile pour moi sans être guidé par Ta grâce ?\n\nJe T'implore, Seigneur, guide-moi et ne me laisse pas seul, abandonné à mes pensées, ni attiré par mes mauvais penchants, afin que je ne m'engage pas dans une affaire malsaine et que je ne tombe pas dans l'embarras, mais garde Ton serviteur de tous faux pas. Soit mon appui et mon aide. Gouverne cette affaire selon Ta volonté et comme il convient à Ta bonté.\n\nSi Tu la trouves bénéfique, qu'il en soit comme Tu le désires. Accorde-moi la grâce de l'accomplir. Si Tu la trouves nuisible, ôte de moi, Seigneur, ce désir car Tu sais toute chose et rien ne t'est caché.\n\nJe suis Ton serviteur, traite-moi comme il Te convient car il n'est pas de réussite complète ni de paix parfaite sans que je me remette à Ta volonté.\n\nApprends-moi à dire toujours \"Père, non selon ma volonté, mais selon Ta volonté\". A Toi le règne, la puissance et la gloire dès maintenant et éternellement. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -4067,7 +4094,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière avant de manger -->"
+          "text": "Tu es béni, Seigneur, Toi qui t’occupes de nous depuis notre naissance, nous accordes Tes bienfaits et prépares la nourriture pour tous. Car les yeux de tous T'espèrent et c'est Toi qui leur donnes leur nourriture en temps opportun. Par Ta générosité Tu rassasies tout être vivant. A Toi la gloire, la louange, la bénédiction et l'action de grâce pour toute la nourriture que Tu nous as préparée. Daigne Seigneur étendre Ta main droite et bénir le repas préparé pour nos corps et déposé sur cette table. Fais qu'il soit source de santé et de force pour notre vie sur terre. Accorde le salut, la grâce, la bénédiction et la pureté à tous ceux qui vont s'en nourrir. Fais que nos pensées s'élèvent vers Toi en tout temps pour demander notre nourriture spirituelle impérissable, que nous recherchions la nourriture qui reste pour la vie éternelle et fais-nous participer à Ton festin céleste. Accorde-nous le pain de la bénédiction et la coupe du salut et remplis nos cœurs d'allégresse et de joie. Donne-nous une vie paisible et calme, la joie intérieure et la santé du corps. Apprends-nous d'implorer ton consentement en toute chose. Ainsi lorsque nous mangeons, nous buvons ou nous agissons de quelque manière que ce soit, nous le fassions pour la gloire de Ton saint Nom. A toi est due la gloire dès maintenant et à jamais. Amen !"
         }
       ],
       "hourId": "prayers"
@@ -4083,7 +4110,7 @@
         },
         {
           "type": "paragraph",
-          "text": "<!-- TODO: Traduire la prière de remerciements -->"
+          "text": "Nous Te rendons grâce, Seigneur notre Dieu, Tout Puissant, car Tu as apprêté pour nous cette table, qui prouve Ton amour pour tes serviteurs en leur procurant les bienfaits de la terre. Nous T’implorons, notre Maître, qu'il en reste autant que lorsque Tu as bénis les cinq pains et les deux poissons dans le désert et que tu as nourris la foule. Sois un secours et une force pour nous qui participons à ce repas ainsi que pour ceux qui l'ont préparé avec amour et aussi pour tes serviteurs qui se sont joints à nous. Accorde leur ta récompense salutaire et compense leur peine car ton saint Nom est béni et plein de grâce ô Père, Fils et Saint Esprit maintenant et pour les siècles des siècles. Amen !"
         },
         {
           "type": "image",
@@ -4092,29 +4119,29 @@
         {
           "type": "heading",
           "level": 3,
-          "text": ""
+          "text": "Traduction non officielle"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "Quoique cette traduction ait été effectuée avec le soin qui se doit, nous devons préciser qu'elle n'est pas définitive. Cette impression a été faite pour les besoins de la prière en langue française."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "REMERCIEMENTS"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "+ L'église tient à remercier tous ceux qui ont contribué à l'édition de cet ouvrage pour leurs efforts et leur travail de TRADUCTION, de REVISION ou DE MISE EN PAGE.\n\n+ Que DIEU les récompense pour leur peine au Royaume des Cieux."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": ""
+          "text": "كلمة شكر"
         },
         {
           "type": "paragraph",
-          "text": ""
+          "text": "+ تشكر الكنيسة كل من تعب وشارك في إصدار هذا العمل :\n\nسواء كان في الترجمة أو في المراجعة أو الإخراج .\n\n+ الله يعوض تعب الكل في ملكوته السماوي ."
         }
       ],
       "hourId": "prayers"
